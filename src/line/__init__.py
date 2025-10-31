@@ -1,0 +1,12 @@
+from dataclasses import dataclass
+from word import Word
+from typing import Iterable
+
+@dataclass
+class Line(frozen=True):
+  text_id: str
+  line_id: str
+  words: list[Word]
+
+  def __iter__(self) -> Iterable[Word]:
+    return word.__iter__()
