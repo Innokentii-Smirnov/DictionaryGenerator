@@ -4,8 +4,8 @@ from morph import Morph, parseMorph
 from re import compile
 from bs4 import Tag
 
-@dataclass
-class Word(frozen=True):
+@dataclass(frozen=True)
+class Word:
   transliteration: str
   lang: str
   transcription: str
@@ -19,9 +19,9 @@ def make_word(tag: Tag, default_lang: str) -> Word:
   transliteration = tag.decode_contents()
   lang = tag.attrs.get('lang', default_lang)
   transcription = tag['trans']
-  selections = list(map(Selection.parse_string, tag['mrp0sel']))
+  selections = list(map(Selection.parse_string, tag['mrp0sel'].split()))
   analyses = dict[int, Morph]()
-  for attr, value in tag.attrs:
+  for attr, value in tag.attrs.items():
     if (match := MRP.fullmatch(attr)) is not None:
       number = int(match.group(1))
       analyses[number] = parseMorph(value)

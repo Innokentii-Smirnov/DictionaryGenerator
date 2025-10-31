@@ -2,11 +2,11 @@ from dataclasses import dataclass
 from word import Word
 from typing import Iterable
 
-@dataclass
-class Line(frozen=True):
+@dataclass(frozen=True)
+class Line:
   text_id: str
   line_id: str
   words: list[Word]
 
   def __iter__(self) -> Iterable[Word]:
-    return word.__iter__()
+    return self.words.__iter__()

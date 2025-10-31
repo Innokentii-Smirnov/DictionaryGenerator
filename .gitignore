@@ -4,3 +4,4 @@ __pycache__
 config.json
 error_log.txt
 skipped_files.txt
+Dictionary.json

@@ -8,6 +8,8 @@ from line_iterator import LineIterator
 import traceback
 from os.path import exists
 from os import remove
+from json import dump
+from lexical_database import LexicalDatabase
 
 SKIPPED_FILES = 'skipped_files.txt'
 LOG_NAME = 'error_log.txt'
@@ -43,9 +45,9 @@ if not path.exists(input_directory):
 os.makedirs(output_directory, exist_ok=True)
 walk = list(os.walk(config['inputDirectory']))
 progress_bar = tqdm(walk)
+lexdb = LexicalDatabase()
 with (open('Modified files.txt', 'w', encoding='utf-8') as modified_files,
-      open('Log.txt', 'w', encoding='utf-8') as log,
-      open(OUTFILE, 'w', encoding='utf-8') as fout):
+      open('Log.txt', 'w', encoding='utf-8') as log):
     for dirpath, dirnames, filenames in progress_bar:
         _, folder = path.split(dirpath)
         if folder != 'Backup':
@@ -64,13 +66,14 @@ with (open('Modified files.txt', 'w', encoding='utf-8') as modified_files,
                         file_text = fin.read()
                     soup = BeautifulSoup(file_text, 'xml')
                     for line in LineIterator(soup, log.write):
-                      for word in line:
-                        print(word.transcription, file=fout)
+                      lexdb.add(line)
                   except (KeyError, ValueError) as exc:
                     fullname = path.join(dirpath, filename)
                     log_file_skipping(fullname)
                     log_error(fullname)
                     log_error(traceback.format_exc())
+with open(OUTFILE, 'w', encoding='utf-8') as fout:
+  dump(lexdb.to_dict(), fout, ensure_ascii=False, indent='\t', sort_keys=True)
 
 
 
