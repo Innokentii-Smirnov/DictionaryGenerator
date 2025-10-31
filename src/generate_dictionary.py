@@ -61,7 +61,7 @@ with open(PROCESSED_FILES_LOG, 'w', encoding='utf-8') as modified_files:
             progress_bar.set_postfix_str(folder)
             for filename in filenames:
                 fullname = path.join(dirpath, filename)
-                text_name, ext = path.splitext(filename)
+                text_id, ext = path.splitext(filename)
                 print(fullname, file=modified_files)
                 if ext == '.xml':
                   try:
@@ -69,7 +69,7 @@ with open(PROCESSED_FILES_LOG, 'w', encoding='utf-8') as modified_files:
                     with open(infile, 'r', encoding='utf-8') as fin:
                         file_text = fin.read()
                     soup = BeautifulSoup(file_text, 'xml')
-                    li = LineIterator(soup, log_handled_error(fullname))
+                    li = LineIterator(soup, text_id, log_handled_error(fullname))
                     for line in li.lines:
                       print('\t{0} ({1})'.format(line.line_id, len(line.words)), file=modified_files)
                       lexdb.add(line)

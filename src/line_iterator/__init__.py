@@ -6,15 +6,16 @@ import traceback
 
 class LineIterator:
 
-  def __init__(self, soup: BeautifulSoup, logging_function: Callable[[str], None]):
+  def __init__(self, soup: BeautifulSoup, text_id: str, logging_function: Callable[[str], None]):
     self.soup = soup
+    self.text_id = text_id
     self.logging_function = logging_function
 
   @property
   def lines(self) -> list[Line]:
     lines = list[Line]()
     lang = 'hit'
-    publ = self.soup.find('AO:TxtPubl').text
+    publ = self.text_id
     lnr = '[unknown]'
     words = list[Word]()
     for tag in self.soup(['lb', 'w']):
