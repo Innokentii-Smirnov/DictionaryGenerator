@@ -3,17 +3,38 @@ from selection import Selection
 from morph import Morph, parseMorph, SingleMorph, MultiMorph
 from re import compile
 from bs4 import Tag
+from os.path import exists
+from os import remove
 
-def make_analysis(selection: Selection, morph: Morph, debug_str: str) -> str:
+SELECTION_LOG = 'selection.log'
+if exists(SELECTION_LOG):
+  remove(SELECTION_LOG)
+def log_selection_issue(message: str, word_tag: str):
+  with open(SELECTION_LOG, 'a', encoding= 'utf-8') as fout:
+    print(message, file=fout)
+    print(word_tag, file=fout)
+    print(file=fout)
+
+def make_analysis(selection: Selection, morph: Morph, word_tag: str) -> str:
     if selection.gramm_form is not None:
-      assert isinstance(morph, MultiMorph), debug_str
-      morph_tag = morph.morph_tags[selection.gramm_form]
-    else:
-      assert isinstance(morph, SingleMorph) or morph.is_singletone == 1, debug_str
       if isinstance(morph, SingleMorph):
+        log_selection_issue('Expected multi:', word_tag)
         morph_tag = morph.morph_tag
       else:
-        morph_tag = morph.to_single().morph_tag
+        if selection.gramm_form not in morph.morph_tags:
+          log_selection_issue('Missing key:', word_tag)
+          morph_tag = ''
+        else:
+          morph_tag = morph.morph_tags[selection.gramm_form]
+    else:
+      if isinstance(morph, MultiMorph):
+        log_selection_issue('Expected single:', word_tag)
+        if morph.is_singletone:
+          morph_tag = morph.to_single().morph_tag
+        else:
+          morph_tag = ''
+      else:
+        morph_tag = morph.morph_tag
     if morph_tag == '':
       return '{0}.{1}'.format(morph.translation, morph.pos)
     else:
@@ -34,16 +55,8 @@ class Word:
       selection = self.selections[0]
       morph = self.analyses[selection.lexeme]
       analysis = None
-      while idx < len(self.selections):
-        try:
-          selection = self.selections[idx]
-          analysis = make_analysis(selection, morph, self.tag)
-          break
-        except AssertionError:
-          print(self.tag)
-        idx += 1
-      if analysis is None:
-        raise ValueError('All analyses were inappropriate.')
+      selection = self.selections[idx]
+      analysis = make_analysis(selection, morph, self.tag)
       return {
         'transliteration': self.transliteration,
         'segmentation': morph.segmentation,

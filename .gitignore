@@ -5,3 +5,4 @@ config.json
 error_log.txt
 skipped_files.txt
 Dictionary.json
+*.log

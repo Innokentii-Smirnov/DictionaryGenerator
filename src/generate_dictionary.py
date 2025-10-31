@@ -11,8 +11,8 @@ from os import remove
 from json import dump
 from lexical_database import LexicalDatabase
 
-SKIPPED_FILES = 'skipped_files.txt'
-LOG_NAME = 'error_log.txt'
+SKIPPED_FILES = 'skipped_files.log'
+LOG_NAME = 'error.log'
 OUTFILE = 'Dictionary.json'
 
 def log_file_skipping(fullname: str) -> None:
@@ -51,24 +51,22 @@ with (open('Modified files.txt', 'w', encoding='utf-8') as modified_files,
     for dirpath, dirnames, filenames in progress_bar:
         _, folder = path.split(dirpath)
         if folder != 'Backup' and 'Annotation' in dirpath:
+            print(dirpath, file=modified_files)
             progress_bar.set_postfix_str(folder)
-            output_subdirectory = dirpath.replace(input_directory, output_directory)
             for filename in filenames:
+                fullname = path.join(dirpath, filename)
                 text_name, ext = path.splitext(filename)
+                print(fullname, file=modified_files)
                 if ext == '.xml':
                   try:
-                    outfile = path.join(output_subdirectory, filename)
-                    if path.exists(outfile):
-                        infile = outfile
-                    else:
-                        infile = path.join(dirpath, filename)
+                    infile = path.join(dirpath, filename)
                     with open(infile, 'r', encoding='utf-8') as fin:
                         file_text = fin.read()
                     soup = BeautifulSoup(file_text, 'xml')
-                    for line in LineIterator(soup, log.write):
+                    for line in LineIterator(soup, log.write).lines:
+                      print('\t{0} ({1})'.format(line.line_id, len(line.words)), file=modified_files)
                       lexdb.add(line)
                   except (KeyError, ValueError) as exc:
-                    fullname = path.join(dirpath, filename)
                     log_file_skipping(fullname)
                     log_error(fullname)
                     log_error(traceback.format_exc())

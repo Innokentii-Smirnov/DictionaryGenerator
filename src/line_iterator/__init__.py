@@ -10,16 +10,17 @@ class LineIterator:
     self.soup = soup
     self.logging_function = logging_function
 
-  def __iter__(self) -> Iterable[Line]:
+  @property
+  def lines(self) -> list[Line]:
+    lines = list[Line]()
     lang = 'hit'
     publ = self.soup.find('AO:TxtPubl').text
     lnr = '[unknown]'
     words = list[Word]()
     for tag in self.soup(['lb', 'w']):
-      match tag.name:
-        case 'lb':
-          if len(words) > 0:
-            yield Line(publ, lnr, words)
+      if tag.name == 'lb':
+          line = Line(publ, lnr, words)
+          lines.append(line)
           words = list[Word]()
           if 'lnr' in tag.attrs:
             lnr = tag['lnr']
@@ -30,7 +31,7 @@ class LineIterator:
           else:
             self.logging_function('Line {0} in {1} is not marked for language.\n'.format(lnr, publ))
             lang = 'Hur'
-        case 'w':
+      elif tag.name == 'w':
           if lang == 'Hur':
             if 'lg' in tag.attrs and tag['lg'] != 'Hur':
               continue
@@ -43,4 +44,6 @@ class LineIterator:
               self.logging_function(traceback.format_exc())
               self.logging_function('\n\n')
     if len(words) > 0:
-      yield Line(publ, lnr, words)
+      line = Line(publ, lnr, words)
+      lines.append(line)
+    return lines
