@@ -10,3 +10,6 @@ class Line:
 
   def __iter__(self) -> Iterable[Word]:
     return self.words.__iter__()
+
+  def __len__(self) -> int:
+    return self.words.__len__()
