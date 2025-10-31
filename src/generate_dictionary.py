@@ -10,6 +10,7 @@ from os.path import exists
 from os import remove
 from json import dump
 from lexical_database import LexicalDatabase
+from typing import Callable
 
 PROCESSED_FILES_LOG = 'processed_files.log'
 SKIPPED_FILES_LOG = 'skipped_files.log'
@@ -24,6 +25,13 @@ def log_file_skipping(fullname: str) -> None:
 def log_error(message: str) -> None:
   with open(ERROR_LOG, 'a', encoding='utf-8') as error_log:
     print(message, file=error_log)
+
+def log_handled_error(fullname: str) -> Callable[[str], None]:
+  def inner(message: str):
+    with open(MAIN_LOG, 'a', encoding='utf-8') as main_log:
+      print(fullname, file=main_log)
+      print(message, file=main_log)
+  return inner
 
 if exists(SKIPPED_FILES_LOG):
   remove(SKIPPED_FILES_LOG)
@@ -45,8 +53,7 @@ if not path.exists(input_directory):
 walk = list(os.walk(input_directory))
 progress_bar = tqdm(walk)
 lexdb = LexicalDatabase()
-with (open(PROCESSED_FILES_LOG, 'w', encoding='utf-8') as modified_files,
-      open(MAIN_LOG, 'w', encoding='utf-8') as log):
+with open(PROCESSED_FILES_LOG, 'w', encoding='utf-8') as modified_files:
     for dirpath, dirnames, filenames in progress_bar:
         _, folder = path.split(dirpath)
         if folder != 'Backup' and 'Annotation' in dirpath:
@@ -62,7 +69,8 @@ with (open(PROCESSED_FILES_LOG, 'w', encoding='utf-8') as modified_files,
                     with open(infile, 'r', encoding='utf-8') as fin:
                         file_text = fin.read()
                     soup = BeautifulSoup(file_text, 'xml')
-                    for line in LineIterator(soup, log.write).lines:
+                    li = LineIterator(soup, log_handled_error(fullname))
+                    for line in li.lines:
                       print('\t{0} ({1})'.format(line.line_id, len(line.words)), file=modified_files)
                       lexdb.add(line)
                   except (KeyError, ValueError) as exc:

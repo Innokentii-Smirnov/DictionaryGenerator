@@ -35,14 +35,22 @@ class LineIterator:
           if lang == 'Hur':
             if 'lg' in tag.attrs and tag['lg'] != 'Hur':
               continue
+            if 'trans' not in tag.attrs:
+              continue
+            if 'mrp0sel' not in tag.attrs:
+              continue
+            if tag['mrp0sel'] == 'DEL':
+              continue
+            if tag['mrp0sel'].startswith('DEL'):
+              continue
+            if tag['mrp0sel'] == 'HURR':
+              continue
             try:
               word = make_word(tag, lang)
               words.append(word)
             except (KeyError, ValueError):
-              msg = 'Cannot parse word:\n{0}\non line {1} in {2}\n\n'.format(str(tag), lnr, publ)
+              msg = 'Cannot parse word:\n{0}\non line {1} in {2}\n\n{3}'.format(str(tag), lnr, publ, traceback.format_exc())
               self.logging_function(msg)
-              self.logging_function(traceback.format_exc())
-              self.logging_function('\n\n')
     if len(words) > 0:
       line = Line(publ, lnr, words)
       lines.append(line)

@@ -6,14 +6,17 @@ from bs4 import Tag
 from os.path import exists
 from os import remove
 
+c = 1
 SELECTION_LOG = 'selection.log'
 if exists(SELECTION_LOG):
   remove(SELECTION_LOG)
 def log_selection_issue(message: str, word_tag: str):
   with open(SELECTION_LOG, 'a', encoding= 'utf-8') as fout:
-    print(message, file=fout)
+    global c
+    print(str(c) + ') ' + message, file=fout)
     print(word_tag, file=fout)
     print(file=fout)
+    c += 1
 
 def make_analysis(selection: Selection, morph: Morph, word_tag: str) -> str:
     if selection.gramm_form is not None:
@@ -37,6 +40,8 @@ def make_analysis(selection: Selection, morph: Morph, word_tag: str) -> str:
         morph_tag = morph.morph_tag
     if morph_tag == '':
       return '{0}.{1}'.format(morph.translation, morph.pos)
+    elif morph_tag.startswith('.'):
+      return '{0}{1}'.format(morph.translation, morph_tag)
     else:
       return '{0}-{1}'.format(morph.translation, morph_tag)
 
@@ -51,23 +56,23 @@ class Word:
 
   def to_dict(self):
     if len(self.selections) > 0:
-      idx = 0
       selection = self.selections[0]
-      morph = self.analyses[selection.lexeme]
-      analysis = None
-      selection = self.selections[idx]
-      analysis = make_analysis(selection, morph, self.tag)
-      return {
-        'transliteration': self.transliteration,
-        'segmentation': morph.segmentation,
-        'analysis': analysis
-      }
-    else:
-      return {
-        'transliteration': self.transliteration,
-        'segmentation': '',
-        'analysis': ''
-      }
+      if selection.lexeme in self.analyses:
+        morph = self.analyses[selection.lexeme]
+        analysis = make_analysis(selection, morph, self.tag)
+        return {
+          'transliteration': self.transliteration,
+          'segmentation': morph.segmentation,
+          'gloss': analysis
+        }
+      else:
+        log_selection_issue('Wrong number:', self.tag)
+        analysis = ''
+    return {
+      'transliteration': self.transliteration,
+      'segmentation': '',
+      'gloss': ''
+    }
 
 MRP = compile(r'mrp(\d+)')
 
