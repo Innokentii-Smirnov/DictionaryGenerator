@@ -40,7 +40,7 @@ def make_analysis(selection: Selection, morph: Morph, word_tag: str) -> str:
         morph_tag = morph.morph_tag
     if morph_tag == '':
       return '{0}.{1}'.format(morph.translation, morph.pos)
-    elif morph_tag.startswith('.'):
+    elif morph_tag.startswith('.') or morph_tag.startswith('='):
       return '{0}{1}'.format(morph.translation, morph_tag)
     else:
       return '{0}-{1}'.format(morph.translation, morph_tag)
