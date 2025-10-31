@@ -1,6 +1,11 @@
 from collections import defaultdict
 from line import Line
 
+fragmentary_form_indicators = {'[', ']', '(-)', 'x'}
+
+def is_fragmentary(form: str) -> bool:
+  return any(indicator in form for indicator in fragmentary_form_indicators)
+
 def sort_values(dic: defaultdict[str, set[str]]) -> dict[str, list[str]]:
   return {key: sorted(values) for key, values in dic.items()}
 
@@ -22,7 +27,12 @@ class LexicalDatabase:
 
   def add(self, line: Line):
     for word in line:
-      for selection in word.selections:
-        number = selection.lexeme
-        analysis = word.analyses[number]
-        self.dictionary[word.transcription].add(str(analysis))
+      if not is_fragmentary(word.transcription):
+        for selection in word.selections:
+          number = selection.lexeme
+          analysis = word.analyses[number]
+          if not is_fragmentary(analysis.segmentation):
+            analysis_str = str(analysis)
+            self.dictionary[word.transcription].add(analysis_str)
+            attestation = '{0},{1}'.format(line.text_id, line.line_id)
+            self.concordance[analysis_str].add(attestation)
