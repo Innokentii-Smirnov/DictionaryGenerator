@@ -6,6 +6,9 @@ fragmentary_form_indicators = {'[', ']', '(-)', 'x'}
 def is_fragmentary(form: str) -> bool:
   return any(indicator in form for indicator in fragmentary_form_indicators)
 
+def get_stem(word: str):
+  return word.split('-')[0]
+
 def sort_values(dic: defaultdict[str, set[str]]) -> dict[str, list[str]]:
   return {key: sorted(values) for key, values in dic.items()}
 
@@ -34,5 +37,10 @@ class LexicalDatabase:
           if not is_fragmentary(analysis.segmentation):
             analysis_str = str(analysis)
             self.dictionary[word.transcription].add(analysis_str)
+            stem = get_stem(analysis.segmentation)
+            glosses_key = '{0},{1}'.format(stem, analysis.pos)
+            self.glosses[glosses_key].add(analysis.translation)
             attestation = '{0},{1}'.format(line.text_id, line.line_id)
             self.concordance[analysis_str].add(attestation)
+    corpus_line = [word.to_dict() for word in line.words]
+    self.corpus[attestation] = corpus_line

@@ -20,7 +20,7 @@ class LineIterator:
         case 'lb':
           if len(words) > 0:
             yield Line(publ, lnr, words)
-            words = list[Word]()
+          words = list[Word]()
           if 'lnr' in tag.attrs:
             lnr = tag['lnr']
           else:

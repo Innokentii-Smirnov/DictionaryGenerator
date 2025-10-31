@@ -50,7 +50,7 @@ with (open('Modified files.txt', 'w', encoding='utf-8') as modified_files,
       open('Log.txt', 'w', encoding='utf-8') as log):
     for dirpath, dirnames, filenames in progress_bar:
         _, folder = path.split(dirpath)
-        if folder != 'Backup':
+        if folder != 'Backup' and 'Annotation' in dirpath:
             progress_bar.set_postfix_str(folder)
             output_subdirectory = dirpath.replace(input_directory, output_directory)
             for filename in filenames:
