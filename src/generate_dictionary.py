@@ -11,43 +11,42 @@ from os import remove
 from json import dump
 from lexical_database import LexicalDatabase
 
-SKIPPED_FILES = 'skipped_files.log'
-LOG_NAME = 'error.log'
+PROCESSED_FILES_LOG = 'processed_files.log'
+SKIPPED_FILES_LOG = 'skipped_files.log'
+MAIN_LOG = 'main.log'
+ERROR_LOG = 'error.log'
 OUTFILE = 'Dictionary.json'
 
 def log_file_skipping(fullname: str) -> None:
-  with open(SKIPPED_FILES, 'a', encoding='utf-8') as skipped_files:
+  with open(SKIPPED_FILES_LOG, 'a', encoding='utf-8') as skipped_files:
     print(fullname, file=skipped_files)
 
 def log_error(message: str) -> None:
-  with open(LOG_NAME, 'a', encoding='utf-8') as error_log:
+  with open(ERROR_LOG, 'a', encoding='utf-8') as error_log:
     print(message, file=error_log)
 
-if exists(SKIPPED_FILES):
-  remove(SKIPPED_FILES)
+if exists(SKIPPED_FILES_LOG):
+  remove(SKIPPED_FILES_LOG)
 
-if exists(LOG_NAME):
-  remove(LOG_NAME)
+if exists(ERROR_LOG):
+  remove(ERROR_LOG)
+
+if exists(MAIN_LOG):
+  remove(MAIN_LOG)
 
 with open('config.json', 'r', encoding='utf-8') as fin:
     config = json.load(fin)
 for key, value in config.items():
     config[key] = path.expanduser(value)
-changes_file = config['changesFile']
 input_directory = config['inputDirectory']
-output_directory = config['outputDirectory']
-if not path.exists(changes_file):
-    print('Changes file not found: ' + changes_file)
-    exit()
 if not path.exists(input_directory):
     print('Input directory not found: ' + input_directory)
     exit()
-os.makedirs(output_directory, exist_ok=True)
-walk = list(os.walk(config['inputDirectory']))
+walk = list(os.walk(input_directory))
 progress_bar = tqdm(walk)
 lexdb = LexicalDatabase()
-with (open('Modified files.txt', 'w', encoding='utf-8') as modified_files,
-      open('Log.txt', 'w', encoding='utf-8') as log):
+with (open(PROCESSED_FILES_LOG, 'w', encoding='utf-8') as modified_files,
+      open(MAIN_LOG, 'w', encoding='utf-8') as log):
     for dirpath, dirnames, filenames in progress_bar:
         _, folder = path.split(dirpath)
         if folder != 'Backup' and 'Annotation' in dirpath:
