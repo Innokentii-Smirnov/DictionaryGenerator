@@ -1,0 +1,3 @@
+[submodule "src/morph"]
+	path = src/morph
+	url = https://github.com/Innokentii-Smirnov/HPMMorphologicalAnalysis.git
