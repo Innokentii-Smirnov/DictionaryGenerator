@@ -1,8 +1,11 @@
+from __future__ import annotations
 import re
+from logging import getLogger
 
 class Selection:
     selection_pattern = re.compile(r'(\d+)([a-z]+)?([A-Z]+)?')
     sep = '.'
+    logger = getLogger(__name__)
 
     def get_elements(self) -> tuple[int, str, str]:
         return self.lexeme, self.gramm_form, self.encl_chain
@@ -17,13 +20,20 @@ class Selection:
         self.encl_chain = encl_chain
 
     @classmethod
-    def parse_string(cls, selection: str):
+    def parse_string(cls, selection: str) -> Selection | None:
         matched = cls.selection_pattern.fullmatch(selection)
+        if selection == 'DEL' or selection == 'HURR':
+          cls.logger.info('Uninformative selection: %s.', selection)
+          return None
+        if selection.startswith('DEL') or selection.startswith('HURR'):
+          cls.logger.error('Incorrect selection: %s.', selection)
+          return None
         if matched is not None:
             lexeme, gramm_form, encl_chain = matched.groups()
             return cls.from_strings(lexeme, gramm_form, encl_chain)
         else:
-            raise ValueError('Cannot parse selection: ' + selection)
+            cls.logger.error('Cannot parse selection: %s.', selection)
+            return None
     
     def __str__(self):
         string = str(self.lexeme)

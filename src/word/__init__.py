@@ -1,3 +1,4 @@
+from __future__ import annotations
 from dataclasses import dataclass
 from selection import Selection
 from morph import Morph, parseMorph, SingleMorph, MultiMorph
@@ -5,6 +6,7 @@ from re import compile
 from bs4 import Tag
 from os.path import exists
 from os import remove
+from logging import getLogger
 
 c = 1
 SELECTION_LOG = 'selection.log'
@@ -53,11 +55,13 @@ class Word:
   transcription: str
   selections: list[Selection]
   analyses: dict[int, Morph]
+  logger = getLogger(__name__)
+  MRP = compile(r'mrp(\d+)')
 
   def to_dict(self):
     if len(self.selections) > 0:
       selection = self.selections[0]
-      if selection.lexeme in self.analyses:
+      if selection is not None and selection.lexeme in self.analyses:
         morph = self.analyses[selection.lexeme]
         analysis = make_analysis(selection, morph, self.tag)
         return {
@@ -74,17 +78,24 @@ class Word:
       'gloss': ''
     }
 
-MRP = compile(r'mrp(\d+)')
-
-def make_word(tag: Tag, default_lang: str) -> Word:
-  assert tag.name == 'w'
-  transliteration = tag.decode_contents()
-  lang = tag.attrs.get('lang', default_lang)
-  transcription = tag['trans']
-  selections = list(map(Selection.parse_string, tag['mrp0sel'].split()))
-  analyses = dict[int, Morph]()
-  for attr, value in tag.attrs.items():
-    if (match := MRP.fullmatch(attr)) is not None:
-      number = int(match.group(1))
-      analyses[number] = parseMorph(value)
-  return Word(str(tag), transliteration, lang, transcription, selections, analyses)
+  @classmethod
+  def make_word(cls, tag: Tag, default_lang: str) -> Word:
+    assert tag.name == 'w'
+    transliteration = tag.decode_contents()
+    lang = tag.attrs.get('lg', default_lang)
+    if 'trans' in tag.attrs:
+      transcription = tag['trans']
+    else:
+      cls.logger.error('A word has no transcription attribute: %s.', tag)
+      transcription = None
+    if 'mrp0sel' in tag.attrs:
+      selections = list(map(Selection.parse_string, tag['mrp0sel'].split()))
+    else:
+      cls.logger.error('A word has no selection attribute: %s.', tag)
+      selections = []
+    analyses = dict[int, Morph]()
+    for attr, value in tag.attrs.items():
+      if (match := cls.MRP.fullmatch(attr)) is not None:
+        number = int(match.group(1))
+        analyses[number] = parseMorph(value)
+    return Word(str(tag), transliteration, lang, transcription, selections, analyses)

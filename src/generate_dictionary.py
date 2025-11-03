@@ -4,13 +4,25 @@ from os import path
 import shutil
 from tqdm.auto import tqdm
 from bs4 import BeautifulSoup
-from line_iterator import LineIterator
+from more_itertools import split_before
 import traceback
 from os.path import exists
 from os import remove
 from json import dump
 from lexical_database import LexicalDatabase
 from typing import Callable
+from line import Line
+from os import makedirs
+from os.path import join
+from logging import getLogger, FileHandler, DEBUG
+
+makedirs('logs', exist_ok=True)
+for package in ['line', 'word', 'selection', 'morph', 'lexical_database']:
+  handler = FileHandler(join('logs', f'{package}.log'), 'w', encoding='utf-8')
+  handler.setLevel(DEBUG)
+  logger = getLogger(package)
+  logger.setLevel(DEBUG)
+  logger.addHandler(handler)
 
 PROCESSED_FILES_LOG = 'processed_files.log'
 SKIPPED_FILES_LOG = 'skipped_files.log'
@@ -55,6 +67,7 @@ progress_bar = tqdm(walk)
 lexdb = LexicalDatabase()
 with open(PROCESSED_FILES_LOG, 'w', encoding='utf-8') as modified_files:
     for dirpath, dirnames, filenames in progress_bar:
+        rel_path = dirpath.removeprefix(input_directory)
         _, folder = path.split(dirpath)
         if folder != 'Backup' and 'Annotation' in dirpath:
             print(dirpath, file=modified_files)
@@ -69,9 +82,12 @@ with open(PROCESSED_FILES_LOG, 'w', encoding='utf-8') as modified_files:
                     with open(infile, 'r', encoding='utf-8') as fin:
                         file_text = fin.read()
                     soup = BeautifulSoup(file_text, 'xml')
-                    li = LineIterator(soup, text_id, log_handled_error(fullname))
-                    for line in li.lines:
-                      print('\t{0} ({1})'.format(line.line_id, len(line.words)), file=modified_files)
+                    tokens = soup(['lb', 'w'])
+                    for line_elements in split_before(tokens,
+                                                      lambda tag: tag.name == 'lb'):
+                      line = Line.parse_line(rel_path, text_id, line_elements)
+                      print('\t{0} ({1})'.format(line.line_id, len(line.word_elements)),
+                            file=modified_files)
                       lexdb.add(line)
                   except (KeyError, ValueError) as exc:
                     log_file_skipping(fullname)
