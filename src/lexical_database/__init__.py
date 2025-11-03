@@ -85,7 +85,7 @@ class LexicalDatabase:
               if selection is not None:
                 number = selection.lexeme
                 if number in word.analyses:
-                  analysis = word.analyses[number]
+                  analysis = word[number]
                   if not is_fragmentary(analysis.segmentation):
                     if isinstance(analysis, MultiMorph) and analysis.is_singletone:
                       analysis_str = str(analysis.to_single())

@@ -15874,6 +15874,9 @@
 			"KUB 27.31,4′",
 			"KUB 27.38,Rs. III 14′"
 		],
+		"šarri-na @ Gottkönig @ { a  → HURR.ABS.PL}{ b  → HURR.RLT.PL.ABS}{ c  → RELAT.PL.ABS} @ noun @ (D)": [
+			"KUB 27.38,Vs. I 23′"
+		],
 		"šarri-na-āž-e @ Gottkönig @ RELAT.PL-PL-GEN @ noun @ ": [
 			"KUB 27.38,Vs. I 1′",
 			"KUB 27.38,Vs. I 2′",
@@ -60637,6 +60640,13 @@
 				"transliteration": "<laes_in/><d>D</d>šar-ri<laes_fin/>-n<del_in/>a-a-še"
 			}
 		],
+		"KUB 27.38,Vs. I 23′": [
+			{
+				"gloss": "Gottkönig-RELAT.PL.ABS",
+				"segmentation": "šarri-na",
+				"transliteration": "šar-re-<laes_in/>e-na<laes_fin/>"
+			}
+		],
 		"KUB 27.38,Vs. I 2′": [
 			{
 				"gloss": "Gottkönig-RELAT.PL-PL-GEN",
@@ -90637,6 +90647,7 @@
 		],
 		"šarrēna": [
 			"šarri-na @ Gottkönig @ RELAT.PL.ABS @ noun @ ",
+			"šarri-na @ Gottkönig @ { a  → HURR.ABS.PL}{ b  → HURR.RLT.PL.ABS}{ c  → RELAT.PL.ABS} @ noun @ (D)",
 			"šarrē-na @ u.B. @ RELAT.PL.ABS @ noun @ "
 		],
 		"šarāmmēni": [

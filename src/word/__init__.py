@@ -54,7 +54,7 @@ class Word:
   lang: str
   transcription: str
   selections: list[Selection]
-  analyses: dict[int, Morph]
+  analyses: dict[int, str]
   logger = getLogger(__name__)
   MRP = compile(r'mrp(\d+)')
 
@@ -62,7 +62,7 @@ class Word:
     if len(self.selections) > 0:
       selection = self.selections[0]
       if selection is not None and selection.lexeme in self.analyses:
-        morph = self.analyses[selection.lexeme]
+        morph = self[selection.lexeme]
         analysis = make_analysis(selection, morph, self.tag)
         return {
           'transliteration': self.transliteration,
@@ -97,5 +97,8 @@ class Word:
     for attr, value in tag.attrs.items():
       if (match := cls.MRP.fullmatch(attr)) is not None:
         number = int(match.group(1))
-        analyses[number] = parseMorph(value)
+        analyses[number] = value
     return Word(str(tag), transliteration, lang, transcription, selections, analyses)
+
+  def __getitem__(self, number: int) -> Morph:
+    return parseMorph(self.analyses[number])
