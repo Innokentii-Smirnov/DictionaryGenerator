@@ -4,7 +4,40 @@ from word import Word
 from morph import MultiMorph
 from word import log_selection_issue
 from re import compile
-from logging import getLogger
+from os import makedirs
+from os.path import join
+from logging import getLogger, FileHandler, DEBUG, Formatter, LogRecord
+from contextvars import ContextVar
+
+ctx_text_path = ContextVar('text_path')
+ctx_text_path.set('Unknown directory')
+
+ctx_text_id = ContextVar('text_id')
+ctx_text_id.set('Unknown directory')
+
+ctx_line_id = ContextVar('line_id')
+ctx_line_id.set('Unknown line')
+
+ctx_word_tag = ContextVar('word_tag')
+ctx_word_tag.set('Unknown word')
+
+def log_filter(record: LogRecord) -> LogRecord:
+  record.text_path = ctx_text_path.get()
+  record.text_id = ctx_text_id.get()
+  record.line_id = ctx_line_id.get()
+  record.word_tag = ctx_word_tag.get()
+  return record
+
+makedirs('logs', exist_ok=True)
+for package in ['line', 'word', 'selection', 'morph', 'lexical_database']:
+  handler = FileHandler(join('logs', f'{package}.log'), 'w', encoding='utf-8')
+  handler.setLevel(DEBUG)
+  formatter = Formatter('%(text_path)s\n%(text_id)s\n%(line_id)s\n%(word_tag)s\n%(message)s\n')
+  handler.setFormatter(formatter)
+  handler.addFilter(log_filter)
+  logger = getLogger(package)
+  logger.setLevel(DEBUG)
+  logger.addHandler(handler)
 
 fragmentary_form_indicators = {'[', ']', '(-)', 'x'}
 
@@ -37,10 +70,14 @@ class LexicalDatabase:
     }
 
   def add(self, line: Line):
+    ctx_text_path.set(line.text_path)
+    ctx_line_id.set(line.line_id.strip())
+    ctx_text_id.set(line.text_id)
     if len(line) > 0:
       attestation = '{0},{1}'.format(line.text_id, line.line_id)
       corpus_line = list[dict[str, str]]()
       for word_tag in line:
+        ctx_word_tag.set(word_tag)
         try:
           word = Word.make_word(word_tag, line.language)
           if word.lang == 'Hur' and word.transcription is not None:

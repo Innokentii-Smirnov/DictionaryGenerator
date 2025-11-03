@@ -12,17 +12,6 @@ from json import dump
 from lexical_database import LexicalDatabase
 from typing import Callable
 from line import Line
-from os import makedirs
-from os.path import join
-from logging import getLogger, FileHandler, DEBUG
-
-makedirs('logs', exist_ok=True)
-for package in ['line', 'word', 'selection', 'morph', 'lexical_database']:
-  handler = FileHandler(join('logs', f'{package}.log'), 'w', encoding='utf-8')
-  handler.setLevel(DEBUG)
-  logger = getLogger(package)
-  logger.setLevel(DEBUG)
-  logger.addHandler(handler)
 
 PROCESSED_FILES_LOG = 'processed_files.log'
 SKIPPED_FILES_LOG = 'skipped_files.log'
@@ -67,7 +56,7 @@ progress_bar = tqdm(walk)
 lexdb = LexicalDatabase()
 with open(PROCESSED_FILES_LOG, 'w', encoding='utf-8') as modified_files:
     for dirpath, dirnames, filenames in progress_bar:
-        rel_path = dirpath.removeprefix(input_directory)
+        rel_path = dirpath.removeprefix(input_directory).removeprefix(os.sep)
         _, folder = path.split(dirpath)
         if folder != 'Backup' and 'Annotation' in dirpath:
             print(dirpath, file=modified_files)
