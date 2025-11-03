@@ -51,37 +51,44 @@ input_directory = config['inputDirectory']
 if not path.exists(input_directory):
     print('Input directory not found: ' + input_directory)
     exit()
-walk = list(os.walk(input_directory))
+
+def to_be_procecced(triple: tuple) -> bool:
+  dirpath, dirnames, filenames = triple
+  _, folder = path.split(dirpath)
+  return folder != 'Backup' and 'Annotation' in dirpath
+
+walk = list(filter(to_be_procecced, os.walk(input_directory)))
 progress_bar = tqdm(walk)
+
 lexdb = LexicalDatabase()
+
 with open(PROCESSED_FILES_LOG, 'w', encoding='utf-8') as modified_files:
     for dirpath, dirnames, filenames in progress_bar:
         rel_path = dirpath.removeprefix(input_directory).removeprefix(os.sep)
+        print(dirpath, file=modified_files)
         _, folder = path.split(dirpath)
-        if folder != 'Backup' and 'Annotation' in dirpath:
-            print(dirpath, file=modified_files)
-            progress_bar.set_postfix_str(folder)
-            for filename in filenames:
-                fullname = path.join(dirpath, filename)
-                text_id, ext = path.splitext(filename)
-                print(fullname, file=modified_files)
-                if ext == '.xml':
-                  try:
-                    infile = path.join(dirpath, filename)
-                    with open(infile, 'r', encoding='utf-8') as fin:
-                        file_text = fin.read()
-                    soup = BeautifulSoup(file_text, 'xml')
-                    tokens = soup(['lb', 'w'])
-                    for line_elements in split_before(tokens,
-                                                      lambda tag: tag.name == 'lb'):
-                      line = Line.parse_line(rel_path, text_id, line_elements)
-                      print('\t{0} ({1})'.format(line.line_id, len(line.word_elements)),
-                            file=modified_files)
-                      lexdb.add(line)
-                  except (KeyError, ValueError) as exc:
-                    log_file_skipping(fullname)
-                    log_error(fullname)
-                    log_error(traceback.format_exc())
+        progress_bar.set_postfix_str(folder)
+        for filename in filenames:
+            fullname = path.join(dirpath, filename)
+            text_id, ext = path.splitext(filename)
+            print(fullname, file=modified_files)
+            if ext == '.xml':
+              try:
+                infile = path.join(dirpath, filename)
+                with open(infile, 'r', encoding='utf-8') as fin:
+                    file_text = fin.read()
+                soup = BeautifulSoup(file_text, 'xml')
+                tokens = soup(['lb', 'w'])
+                for line_elements in split_before(tokens,
+                                                  lambda tag: tag.name == 'lb'):
+                  line = Line.parse_line(rel_path, text_id, line_elements)
+                  print('\t{0} ({1})'.format(line.line_id, len(line.word_elements)),
+                        file=modified_files)
+                  lexdb.add(line)
+              except (KeyError, ValueError) as exc:
+                log_file_skipping(fullname)
+                log_error(fullname)
+                log_error(traceback.format_exc())
 with open(OUTFILE, 'w', encoding='utf-8') as fout:
   dump(lexdb.to_dict(), fout, ensure_ascii=False, indent='\t', sort_keys=True)
 
