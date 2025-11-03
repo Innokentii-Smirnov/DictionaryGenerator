@@ -67,4 +67,5 @@ class LexicalDatabase:
             str(word_tag), line.line_id, line.text_path
           )
           self.logger.exception(msg)
-      self.corpus[attestation] = corpus_line
+      if (len(corpus_line) > 0):
+        self.corpus[attestation] = corpus_line
