@@ -108,5 +108,7 @@ class LexicalDatabase:
             self.logger.exception(msg)
         elif tag.name in {'wsep', 'gap'} and 'c' in tag.attrs:
           corpus_line.append(CorpusWord(tag['c'], '', ''))
+        elif tag.name in {'clb', 'note'}:
+          corpus_line.append(CorpusWord(tag.name.upper(), '', ''))
       if (len(corpus_line) > 0):
         self.corpus[attestation] = corpus_line

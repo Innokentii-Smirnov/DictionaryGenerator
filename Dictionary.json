@@ -20997,6 +20997,11 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "Lücke unbekannter Länge"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "NOTE"
 			}
 		],
 		"DAAM 1.14,Vs. 10′": [
@@ -21567,6 +21572,11 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "im erhaltenen Teil unbeschrieben"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "NOTE"
 			}
 		],
 		"KBo 12.80+, {€1} 9′": [
@@ -22200,6 +22210,11 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "(Rasur)"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "NOTE"
 			}
 		],
 		"KBo 15.70+, {€1+2} Vs. 40′/Vs. I 40′": [
@@ -24607,6 +24622,11 @@
 			}
 		],
 		"KBo 20.131,Rs. III 24′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			},
 			{
 				"gloss": "Fluss; Wasser-RELAT.SG-INS",
 				"segmentation": "šīe-ne-āi",
@@ -27860,6 +27880,13 @@
 				"transliteration": "(Rasur)"
 			}
 		],
+		"KBo 27.188,unknown": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
 		"KBo 27.205,2′": [
 			{
 				"gloss": "u.B.-FUT-PL.A-3A",
@@ -28109,6 +28136,13 @@
 				"transliteration": "i<corr c=\"?\"/>-<del_in/>"
 			}
 		],
+		"KBo 27.206,unknown": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
 		"KBo 27.207,10′": [
 			{
 				"gloss": "u.B..noun",
@@ -28247,6 +28281,13 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "za-a<del_in/>r-"
+			}
+		],
+		"KBo 27.207,unknown": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
 			}
 		],
 		"KBo 27.208,10′": [
@@ -29261,6 +29302,13 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "ḫu-ru-um-ni-da(-)<del_in/>"
+			}
+		],
+		"KBo 27.213,unknown": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
 			}
 		],
 		"KBo 27.214,Rs. V 1": [
@@ -32498,6 +32546,11 @@
 				"gloss": "Weg-RELAT.PL-PL-DAT/ESS",
 				"segmentation": "ḫāri-na-až-a",
 				"transliteration": "ḫa-ar-ra-ša"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "NOTE"
 			}
 		],
 		"KBo 27.219+, {€2} Vs. 4′": [
@@ -33535,6 +33588,11 @@
 				"transliteration": "<del_in/>aš-ḫu-ši-i<del_fin/>k-ku-un-ni"
 			},
 			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			},
+			{
 				"gloss": "Herr-ACC.SG(UNM)",
 				"segmentation": "EN",
 				"transliteration": "<sGr>EN</sGr>"
@@ -33546,6 +33604,11 @@
 			}
 		],
 		"KBo 27.92+, {€4} Rs. IV 5′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			},
 			{
 				"gloss": "",
 				"segmentation": "",
@@ -34043,6 +34106,13 @@
 				"transliteration": "<del_fin/>"
 			}
 		],
+		"KBo 32.10,Rs. 1b′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
 		"KBo 32.10,Rs. 3a′": [
 			{
 				"gloss": "",
@@ -34050,14 +34120,36 @@
 				"transliteration": "-r<del_fin/>a"
 			}
 		],
+		"KBo 32.10,Rs. 4b′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
 		"KBo 32.10,Rs. 5b′": [
 			{
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "(Rasur)"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
 			}
 		],
 		"KBo 32.10,Rs. 8′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			},
 			{
 				"gloss": "",
 				"segmentation": "",
@@ -34069,6 +34161,34 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "Vs. bricht ab"
+			}
+		],
+		"KBo 32.10,Vs. 1b": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.10,Vs. 4b": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.10,Vs. 7b": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.10,Vs. 9b": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
 			}
 		],
 		"KBo 32.100,1′": [
@@ -34104,14 +34224,80 @@
 				"transliteration": "Text bricht ab"
 			}
 		],
+		"KBo 32.101,1′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.101,2′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.101,3′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
 		"KBo 32.101,4′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			},
 			{
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "Text bricht ab"
 			}
 		],
+		"KBo 32.102,1′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.102,2′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.102,3′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.102,4′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.102,5′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
 		"KBo 32.102,6′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			},
 			{
 				"gloss": "",
 				"segmentation": "",
@@ -34153,11 +34339,51 @@
 				"transliteration": "Text bricht ab"
 			}
 		],
+		"KBo 32.103c,1′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.103c,2′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.103c,3′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.103c,4′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
 		"KBo 32.103c,5′": [
 			{
 				"gloss": "",
 				"segmentation": "",
+				"transliteration": "CLB"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
 				"transliteration": "Text bricht ab"
+			}
+		],
+		"KBo 32.103c,unknown": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
 			}
 		],
 		"KBo 32.103d,2′": [
@@ -34188,14 +34414,45 @@
 				"transliteration": "lk. Kol. bricht ab"
 			}
 		],
+		"KBo 32.103e,r. Kol. 1′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
 		"KBo 32.103e,r. Kol. 2′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			},
 			{
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "r. Kol. bricht ab"
 			}
 		],
+		"KBo 32.103f,1′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.103f,2′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
 		"KBo 32.103f,3′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			},
 			{
 				"gloss": "",
 				"segmentation": "",
@@ -34226,18 +34483,91 @@
 				"transliteration": "Text bricht ab"
 			}
 		],
+		"KBo 32.103h,1′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.103h,2′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.103h,3′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.103h,4′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
 		"KBo 32.103h,5′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			},
 			{
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "Text bricht ab"
 			}
 		],
+		"KBo 32.103i,1′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.103i,2′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.103i,3′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.103i,4′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
 		"KBo 32.103i,5′": [
 			{
 				"gloss": "",
 				"segmentation": "",
+				"transliteration": "CLB"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
 				"transliteration": "Text bricht ab"
+			}
+		],
+		"KBo 32.103i,unknown": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
 			}
 		],
 		"KBo 32.103j,2′": [
@@ -34252,7 +34582,26 @@
 				"transliteration": "Text bricht ab"
 			}
 		],
+		"KBo 32.103k,1′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.103k,2′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
 		"KBo 32.103k,3′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			},
 			{
 				"gloss": "",
 				"segmentation": "",
@@ -34269,6 +34618,13 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "Text bricht ab"
+			}
+		],
+		"KBo 32.103l,unknown": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
 			}
 		],
 		"KBo 32.103m,1′": [
@@ -34318,14 +34674,66 @@
 				"transliteration": "Text bricht ab"
 			}
 		],
+		"KBo 32.103n,1′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.103n,2′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.103n,3′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
 		"KBo 32.103n,4′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			},
 			{
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "Text bricht ab"
 			}
 		],
+		"KBo 32.103o,1′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.103o,2′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.103o,3′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
 		"KBo 32.103o,4′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			},
 			{
 				"gloss": "",
 				"segmentation": "",
@@ -34351,25 +34759,89 @@
 				"transliteration": "lk. Kol. bricht ab"
 			}
 		],
+		"KBo 32.103p,r. Kol. 1′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.103p,r. Kol. 2′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.103p,r. Kol. 3′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.103p,r. Kol. 4′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
 		"KBo 32.103p,r. Kol. 5′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			},
 			{
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "r. Kol. bricht ab"
 			}
 		],
+		"KBo 32.103q,1′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
 		"KBo 32.103q,2′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			},
 			{
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "Text bricht ab"
 			}
 		],
+		"KBo 32.104,1′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
 		"KBo 32.104,2′": [
 			{
 				"gloss": "",
 				"segmentation": "",
+				"transliteration": "CLB"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
 				"transliteration": "Text bricht ab"
+			}
+		],
+		"KBo 32.104,unknown": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
 			}
 		],
 		"KBo 32.107,1′": [
@@ -34406,6 +34878,13 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "Text bricht ab"
+			}
+		],
+		"KBo 32.107,unknown": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
 			}
 		],
 		"KBo 32.109,1′": [
@@ -34632,6 +35111,13 @@
 				"gloss": "zerstören.verb",
 				"segmentation": "pāġ-u[",
 				"transliteration": "pa-a-ḫ<del_in/>u<corr c=\"?\"/>(-)"
+			}
+		],
+		"KBo 32.11,Rs. IV 22′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
 			}
 		],
 		"KBo 32.11,Rs. IV 23′": [
@@ -35025,6 +35511,13 @@
 				"transliteration": "<d>URU</d>e-ep-la-am"
 			}
 		],
+		"KBo 32.110,1′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
 		"KBo 32.110,2′": [
 			{
 				"gloss": "",
@@ -35032,7 +35525,54 @@
 				"transliteration": "Text bricht ab"
 			}
 		],
+		"KBo 32.113,1′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.113,2′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.113,3′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.113,4′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.113,5′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.113,6′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
 		"KBo 32.113,7′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			},
 			{
 				"gloss": "",
 				"segmentation": "",
@@ -35251,6 +35791,16 @@
 			}
 		],
 		"KBo 32.12,Rs. IV 23′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			},
 			{
 				"gloss": "",
 				"segmentation": "",
@@ -35663,6 +36213,34 @@
 				"transliteration": "ma-<del_in/>a-an-ni<del_fin/>"
 			}
 		],
+		"KBo 32.13+, {€1+4} Rs. 10b′/1b′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.13+, {€1+4} Rs. 12b′/3b′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.13+, {€1+4} Rs. 13b′/4b′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.13+, {€1+4} Rs. 14b′/5b′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
 		"KBo 32.13+, {€1} Rs. 10a′": [
 			{
 				"gloss": "u.B..unclear",
@@ -35670,7 +36248,26 @@
 				"transliteration": "-n<del_fin/>i<corr c=\"?\"/><note c=\"Oder: -i]n?.\"/>"
 			}
 		],
+		"KBo 32.13+, {€1} Rs. 17′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.13+, {€1} Rs. 18′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
 		"KBo 32.13+, {€1} Rs. 19′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			},
 			{
 				"gloss": "",
 				"segmentation": "",
@@ -35682,6 +36279,13 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "-r<del_fin/>a-a-za-x<del_in/>"
+			}
+		],
+		"KBo 32.13+, {€1} Rs. 1b′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
 			}
 		],
 		"KBo 32.13+, {€1} Rs. 2a′": [
@@ -35696,6 +36300,13 @@
 				"gloss": "Mann.ABS",
 				"segmentation": "tāġe",
 				"transliteration": "(-)t<del_fin/>a-a-ḫ<del_in/>i<corr c=\"?\"/>-<note c=\"Oder: (-)š]a-a-ḫ[i?(-).\"/>"
+			}
+		],
+		"KBo 32.13+, {€1} Rs. 3b′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
 			}
 		],
 		"KBo 32.13+, {€1} Rs. 4a′": [
@@ -35715,6 +36326,13 @@
 				"transliteration": "še-<laes_in/>e<corr c=\"?\"/><laes_fin/>-<del_in/>"
 			}
 		],
+		"KBo 32.13+, {€1} Rs. 4b′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
 		"KBo 32.13+, {€1} Rs. 5a′": [
 			{
 				"gloss": "",
@@ -35727,11 +36345,39 @@
 				"transliteration": "ši-x<del_in/><note c=\"Nach dem Foto eher ŠI als WA. Bei einem WA müsste der untere Winkelhaken komplett zerstört sein, ebenso, falls vorhanden, die Subskription. Der Winkelhaken am Bruch kann aufgrund seiner Position keine Subskription sein.\"/>"
 			}
 		],
+		"KBo 32.13+, {€1} Rs. 5b′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.13+, {€1} Rs. 6b′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.13+, {€1} Rs. 7b′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
 		"KBo 32.13+, {€1} Rs. 8a′": [
 			{
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "-r<del_fin/>a-ap"
+			}
+		],
+		"KBo 32.13+, {€1} Rs. 9b′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
 			}
 		],
 		"KBo 32.13+, {€1} Vs. 10a": [
@@ -35778,6 +36424,13 @@
 				"transliteration": "a-wi<subscr c=\"i\"/>-ta"
 			}
 		],
+		"KBo 32.13+, {€1} Vs. 11b": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
 		"KBo 32.13+, {€1} Vs. 12a": [
 			{
 				"gloss": "Fest-ESS",
@@ -35800,6 +36453,13 @@
 				"transliteration": "ne-ek-ri"
 			}
 		],
+		"KBo 32.13+, {€1} Vs. 12b": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
 		"KBo 32.13+, {€1} Vs. 13a": [
 			{
 				"gloss": "Erde-RELAT.SG-GEN",
@@ -35810,6 +36470,13 @@
 				"gloss": "DN.ABS",
 				"segmentation": "Āllāni",
 				"transliteration": "<d>D</d>a-al-la-a-ni"
+			}
+		],
+		"KBo 32.13+, {€1} Vs. 13b": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
 			}
 		],
 		"KBo 32.13+, {€1} Vs. 15a": [
@@ -35839,6 +36506,13 @@
 				"transliteration": "ša-wu<subscr c=\"u\"/>-u-ši-ni-〈wa<subscr c=\"a\"/>〉"
 			}
 		],
+		"KBo 32.13+, {€1} Vs. 15b": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
 		"KBo 32.13+, {€1} Vs. 16a": [
 			{
 				"gloss": "vor.POST",
@@ -35864,6 +36538,13 @@
 				"gloss": "Fettschwanzschaf.ABS",
 				"segmentation": "kungallē",
 				"transliteration": "ku-un-kal-le-e"
+			}
+		],
+		"KBo 32.13+, {€1} Vs. 16b": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
 			}
 		],
 		"KBo 32.13+, {€1} Vs. 17a": [
@@ -35893,6 +36574,13 @@
 				"transliteration": "ma-a-an-ga"
 			}
 		],
+		"KBo 32.13+, {€1} Vs. 17b": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
 		"KBo 32.13+, {€1} Vs. 18a": [
 			{
 				"gloss": "zählen-ACT-NEG.ADJ.ABS",
@@ -35915,6 +36603,13 @@
 				"transliteration": "ša-a-ḫa-ri"
 			}
 		],
+		"KBo 32.13+, {€1} Vs. 18b": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
 		"KBo 32.13+, {€1} Vs. 19a": [
 			{
 				"gloss": "abstechen-TR.PFV-3A.SG",
@@ -35922,7 +36617,19 @@
 				"transliteration": "šu-ú-<ras_in/>ru<ras_fin/>-u-um"
 			}
 		],
+		"KBo 32.13+, {€1} Vs. 19b": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
 		"KBo 32.13+, {€1} Vs. 1a": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			},
 			{
 				"gloss": "DN.ABS",
 				"segmentation": "Teššob",
@@ -35942,6 +36649,13 @@
 				"gloss": "eintreten-MED",
 				"segmentation": "šeġ+l-u",
 				"transliteration": "še-eḫ-lu"
+			}
+		],
+		"KBo 32.13+, {€1} Vs. 1b": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
 			}
 		],
 		"KBo 32.13+, {€1} Vs. 21a": [
@@ -35966,6 +36680,18 @@
 				"transliteration": "zu-uk-mu-uš-tap"
 			}
 		],
+		"KBo 32.13+, {€1} Vs. 21b": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
 		"KBo 32.13+, {€1} Vs. 22a": [
 			{
 				"gloss": "Koch-RELAT.PL.ABS=CON",
@@ -35981,6 +36707,13 @@
 				"gloss": "Brust-ESS",
 				"segmentation": "neġer+ni-a",
 				"transliteration": "ne-ḫi-ir-na"
+			}
+		],
+		"KBo 32.13+, {€1} Vs. 22b": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
 			}
 		],
 		"KBo 32.13+, {€1} Vs. 23a": [
@@ -36005,6 +36738,13 @@
 				"transliteration": "a-šu-ḫi-ni-wa<subscr c=\"a\"/>"
 			}
 		],
+		"KBo 32.13+, {€1} Vs. 23b": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
 		"KBo 32.13+, {€1} Vs. 24a": [
 			{
 				"gloss": "Gottkönig.ABS",
@@ -36027,6 +36767,13 @@
 				"transliteration": "na-aḫ-ḫa-ap"
 			}
 		],
+		"KBo 32.13+, {€1} Vs. 24b": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
 		"KBo 32.13+, {€1} Vs. 25a": [
 			{
 				"gloss": "uralt, früherer-RELAT.PL.ABS",
@@ -36044,6 +36791,13 @@
 				"transliteration": "<d>D</d><sGr>IŠKUR</sGr>-wa<subscr c=\"a\"/>-al-la"
 			}
 		],
+		"KBo 32.13+, {€1} Vs. 25b": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
 		"KBo 32.13+, {€1} Vs. 26a": [
 			{
 				"gloss": "sich setzen; sitzen; einsetzen-PST-MED",
@@ -36054,6 +36808,13 @@
 				"gloss": "recht, rechte Seite; rechts-ABL/INS",
 				"segmentation": "fandi-n",
 				"transliteration": "wa<subscr c=\"a\"/>-an-ti-in"
+			}
+		],
+		"KBo 32.13+, {€1} Vs. 26b": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
 			}
 		],
 		"KBo 32.13+, {€1} Vs. 28a": [
@@ -36071,6 +36832,13 @@
 				"gloss": "DN-DAT=CON",
 				"segmentation": "Teššob-pa=ma",
 				"transliteration": "<d>D</d><sGr>IŠKUR</sGr>-up-pa-ma"
+			}
+		],
+		"KBo 32.13+, {€1} Vs. 28b": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
 			}
 		],
 		"KBo 32.13+, {€1} Vs. 29a": [
@@ -36134,6 +36902,13 @@
 				"transliteration": "tu-u-um-wa<subscr c=\"a\"/>"
 			}
 		],
+		"KBo 32.13+, {€1} Vs. 30b": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
 		"KBo 32.13+, {€1} Vs. 31a": [
 			{
 				"gloss": "",
@@ -36146,7 +36921,33 @@
 				"transliteration": "<del_fin/>x-la"
 			}
 		],
+		"KBo 32.13+, {€1} Vs. 31b": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.13+, {€1} Vs. 33b": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.13+, {€1} Vs. 34b": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
 		"KBo 32.13+, {€1} Vs. 35b": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			},
 			{
 				"gloss": "",
 				"segmentation": "",
@@ -36180,6 +36981,13 @@
 				"transliteration": "a-wa<subscr c=\"a\"/>-al-li-we<subscr c=\"e\"/>-na"
 			}
 		],
+		"KBo 32.13+, {€1} Vs. 3b": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
 		"KBo 32.13+, {€1} Vs. 4a": [
 			{
 				"gloss": "DN.ABS",
@@ -36207,6 +37015,13 @@
 				"transliteration": "na-aḫ-ḫa-ap"
 			}
 		],
+		"KBo 32.13+, {€1} Vs. 4b": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
 		"KBo 32.13+, {€1} Vs. 5a": [
 			{
 				"gloss": "ein Maß-RELAT.SG-GEN-RELAT.SG-DIR/LOC=3PL.ABS",
@@ -36224,11 +37039,25 @@
 				"transliteration": "at-mi-ni-e"
 			}
 		],
+		"KBo 32.13+, {€1} Vs. 5b": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
 		"KBo 32.13+, {€1} Vs. 6a": [
 			{
 				"gloss": "hochlegen-RES-TR.PFV-3A.SG",
 				"segmentation": "keli+gel-ešt-o-m",
 				"transliteration": "gi-li-gi-li-eš-tu-um"
+			}
+		],
+		"KBo 32.13+, {€1} Vs. 7b": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
 			}
 		],
 		"KBo 32.13+, {€1} Vs. 9a": [
@@ -36248,11 +37077,91 @@
 				"transliteration": "šu-úr-ru-ú"
 			}
 		],
+		"KBo 32.13+, {€1} Vs. 9b": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.13+, {€2} 10b′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.13+, {€2} 1b′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.13+, {€2} 2b′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.13+, {€2} 3b′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.13+, {€2} 4b′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.13+, {€2} 5b′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.13+, {€2} 7b′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.13+, {€2} 8b′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
 		"KBo 32.13+, {€3} 1a′": [
 			{
 				"gloss": "DN.ABS",
 				"segmentation": "Teššob",
 				"transliteration": "<d>D</d><sGr>IŠK<del_fin/>UR</sGr>-up"
+			}
+		],
+		"KBo 32.13+, {€3} 1b′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
 			}
 		],
 		"KBo 32.13+, {€3} 2a′": [
@@ -36267,6 +37176,13 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "<del_fin/>-mu"
+			}
+		],
+		"KBo 32.13+, {€3} 3b′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
 			}
 		],
 		"KBo 32.13+, {€3} 4a′": [
@@ -36305,6 +37221,18 @@
 				"transliteration": "e-ep-ḫé-e-ni"
 			}
 		],
+		"KBo 32.14,Rs. 10b": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
 		"KBo 32.14,Rs. 11a": [
 			{
 				"gloss": "Öl-RELAT.SG-DIR/LOC",
@@ -36327,6 +37255,13 @@
 				"transliteration": "<ras_in/>pu<ras_fin/>-ú-zi-ḫu-um"
 			}
 		],
+		"KBo 32.14,Rs. 11b": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
 		"KBo 32.14,Rs. 12a": [
 			{
 				"gloss": "Öl-RELAT.SG-DIR/LOC",
@@ -36342,6 +37277,18 @@
 				"gloss": "fressen-TR.PFV-3A.SG",
 				"segmentation": "ul+ān-ō-m",
 				"transliteration": "ú-la-a-nu-u-um"
+			}
+		],
+		"KBo 32.14,Rs. 12b": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
 			}
 		],
 		"KBo 32.14,Rs. 13a": [
@@ -36366,6 +37313,23 @@
 				"transliteration": "tar-šu-wa-a-ni"
 			}
 		],
+		"KBo 32.14,Rs. 13b": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
 		"KBo 32.14,Rs. 14a": [
 			{
 				"gloss": "Administrator-RELAT.SG-DAT",
@@ -36384,6 +37348,11 @@
 			}
 		],
 		"KBo 32.14,Rs. 14b": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			},
 			{
 				"gloss": "",
 				"segmentation": "",
@@ -36434,6 +37403,18 @@
 				"transliteration": "te-e-lu"
 			}
 		],
+		"KBo 32.14,Rs. 16b": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
 		"KBo 32.14,Rs. 17a": [
 			{
 				"gloss": "überschreiten-MED",
@@ -36456,6 +37437,13 @@
 				"transliteration": "du-ú-ni-du"
 			}
 		],
+		"KBo 32.14,Rs. 17b": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
 		"KBo 32.14,Rs. 18a": [
 			{
 				"gloss": "überführen?-MOD.ACT-PURP",
@@ -36476,6 +37464,18 @@
 				"gloss": "verschluckte-RELAT.PL.ABS",
 				"segmentation": "šallae-na",
 				"transliteration": "šal-la-e-na"
+			}
+		],
+		"KBo 32.14,Rs. 18b": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
 			}
 		],
 		"KBo 32.14,Rs. 19a": [
@@ -36517,6 +37517,18 @@
 				"transliteration": "<laes_in/>tar<laes_fin/>-šu-wa-a-ni"
 			}
 		],
+		"KBo 32.14,Rs. 1b": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
 		"KBo 32.14,Rs. 20a": [
 			{
 				"gloss": "ablassen; beiseite lassen-MOD.ACT-OPT",
@@ -36537,6 +37549,18 @@
 				"gloss": "anderer-ESS=2PL.ABS",
 				"segmentation": "oli-a=ffa",
 				"transliteration": "u-la-ap-wa<subscr c=\"a\"/>"
+			}
+		],
+		"KBo 32.14,Rs. 20b": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
 			}
 		],
 		"KBo 32.14,Rs. 21a": [
@@ -36564,6 +37588,18 @@
 				"gloss": "sagen; sprechen-ol-MOD.ACT-1JUSS",
 				"segmentation": "kad-ol-i-le",
 				"transliteration": "ka₄-túl-li"
+			}
+		],
+		"KBo 32.14,Rs. 21b": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
 			}
 		],
 		"KBo 32.14,Rs. 23": [
@@ -36766,6 +37802,40 @@
 				"transliteration": "bi-še-eš-ḫu-um"
 			}
 		],
+		"KBo 32.14,Rs. 28": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.14,Rs. 29": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
 		"KBo 32.14,Rs. 2a": [
 			{
 				"gloss": "PRON.ANAPH.ABS",
@@ -36786,6 +37856,59 @@
 				"gloss": "Vater-3POSS.SG-GEN",
 				"segmentation": "atta+i-i-ve",
 				"transliteration": "at-ta-<laes_in/>i<laes_fin/>-wi<subscr c=\"i\"/>"
+			}
+		],
+		"KBo 32.14,Rs. 2b": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.14,Rs. 30": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.14,Rs. 31": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.14,Rs. 32": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
 			}
 		],
 		"KBo 32.14,Rs. 33": [
@@ -36833,6 +37956,28 @@
 				"gloss": "sagen; sprechen-ol-MOD.ACT-1JUSS",
 				"segmentation": "kad-ol-i-le",
 				"transliteration": "ka₄-túl-li"
+			}
+		],
+		"KBo 32.14,Rs. 34": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
 			}
 		],
 		"KBo 32.14,Rs. 35": [
@@ -37087,6 +38232,13 @@
 				"transliteration": "ta-al-mu-u-<laes_in/>wa<laes_fin/>-ap"
 			}
 		],
+		"KBo 32.14,Rs. 3b": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
 		"KBo 32.14,Rs. 40": [
 			{
 				"gloss": "",
@@ -37137,6 +38289,110 @@
 				"gloss": "Wasser; Fluss-RELAT.SG-DIR/LOC",
 				"segmentation": "šie-ne-e",
 				"transliteration": "ši-i-e-ni"
+			}
+		],
+		"KBo 32.14,Rs. 41": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.14,Rs. 42": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.14,Rs. 43": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.14,Rs. 44": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.14,Rs. 45": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.14,Rs. 46": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.14,Rs. 47": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
 			}
 		],
 		"KBo 32.14,Rs. 48": [
@@ -37240,6 +38496,52 @@
 				"transliteration": "at-ta-i-bi-ni-eš-ša"
 			}
 		],
+		"KBo 32.14,Rs. 4b": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.14,Rs. 50": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.14,Rs. 51": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
 		"KBo 32.14,Rs. 53": [
 			{
 				"gloss": "ablassen; beiseite lassen-MOD.ACT-OPT",
@@ -37285,6 +38587,28 @@
 				"gloss": "sagen; sprechen-ol-MOD.ACT-1JUSS",
 				"segmentation": "kad-ol-i-le",
 				"transliteration": "ka₄-túl-li"
+			}
+		],
+		"KBo 32.14,Rs. 54": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
 			}
 		],
 		"KBo 32.14,Rs. 55": [
@@ -37494,6 +38818,13 @@
 				"transliteration": "ši-ti-la-a-i"
 			}
 		],
+		"KBo 32.14,Rs. 5b": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
 		"KBo 32.14,Rs. 60": [
 			{
 				"gloss": "Heger?.ABS",
@@ -37637,6 +38968,18 @@
 				"transliteration": "u-la-ap-pa"
 			}
 		],
+		"KBo 32.14,Rs. 6b": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
 		"KBo 32.14,Rs. 7a": [
 			{
 				"gloss": "sagen; sprechen-ol-MOD.ACT-1JUSS",
@@ -37659,11 +39002,25 @@
 				"transliteration": "ma-a-ta-ap-wa<subscr c=\"a\"/>"
 			}
 		],
+		"KBo 32.14,Rs. 7b": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
 		"KBo 32.14,Rs. 8a": [
 			{
 				"gloss": "sagen; sprechen-ol-MOD.ACT-1JUSS",
 				"segmentation": "kad-ol-i-le",
 				"transliteration": "ka₄-túl-li"
+			}
+		],
+		"KBo 32.14,Rs. 8b": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
 			}
 		],
 		"KBo 32.14,Rs. 9a": [
@@ -37681,6 +39038,13 @@
 				"gloss": "Ofen-ABL/INS",
 				"segmentation": "ēpḫe-ne",
 				"transliteration": "e-ep-ḫé-e-ni"
+			}
+		],
+		"KBo 32.14,Rs. 9b": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
 			}
 		],
 		"KBo 32.14,Vs. 10a": [
@@ -37705,6 +39069,13 @@
 				"transliteration": "𒀹"
 			}
 		],
+		"KBo 32.14,Vs. 10b": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
 		"KBo 32.14,Vs. 11a": [
 			{
 				"gloss": "verfluchen-ITER-3A.SG",
@@ -37727,6 +39098,13 @@
 				"transliteration": "ku-ut-te"
 			}
 		],
+		"KBo 32.14,Vs. 11b": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
 		"KBo 32.14,Vs. 12a": [
 			{
 				"gloss": "Rehbock.ABS",
@@ -37742,6 +39120,13 @@
 				"gloss": "nehmen-PL.A-3JUSS",
 				"segmentation": "ḫā-id-e",
 				"transliteration": "ḫa-a-i-te"
+			}
+		],
+		"KBo 32.14,Vs. 12b": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
 			}
 		],
 		"KBo 32.14,Vs. 13a": [
@@ -37766,6 +39151,18 @@
 				"transliteration": "a-a-še"
 			}
 		],
+		"KBo 32.14,Vs. 13b": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
 		"KBo 32.14,Vs. 14a": [
 			{
 				"gloss": "Jäger-RELAT.PL-PL-ERG",
@@ -37778,11 +39175,32 @@
 				"transliteration": "a-aš-ḫi-i-ma"
 			}
 		],
+		"KBo 32.14,Vs. 14b": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
 		"KBo 32.14,Vs. 15a": [
 			{
 				"gloss": "Vogelfänger-RELAT.PL-PL-ERG",
 				"segmentation": "kare-na-āž-ož",
 				"transliteration": "ga-ri-e-na-šu-uš"
+			}
+		],
+		"KBo 32.14,Vs. 15b": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.14,Vs. 16b": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
 			}
 		],
 		"KBo 32.14,Vs. 17a": [
@@ -37807,6 +39225,18 @@
 				"transliteration": "tar-šu-wa-a-ni"
 			}
 		],
+		"KBo 32.14,Vs. 17b": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
 		"KBo 32.14,Vs. 18a": [
 			{
 				"gloss": "PRON.ANAPH.ABS",
@@ -37827,6 +39257,13 @@
 				"gloss": "Stadt-3POSS.SG-ABL",
 				"segmentation": "arde-ī-dan〈〈i〉〉",
 				"transliteration": "a-ar-ti-i-ta-ni"
+			}
+		],
+		"KBo 32.14,Vs. 18b": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
 			}
 		],
 		"KBo 32.14,Vs. 19a": [
@@ -37851,6 +39288,18 @@
 				"transliteration": "<ras_in/>a<ras_fin/>-am-mi-i-ip"
 			}
 		],
+		"KBo 32.14,Vs. 19b": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
 		"KBo 32.14,Vs. 1a": [
 			{
 				"gloss": "Rehbock.ABS",
@@ -37866,6 +39315,13 @@
 				"gloss": "Berg-RELAT.SG-ERG",
 				"segmentation": "paba+ni-ne-ž",
 				"transliteration": "pa-pa-an-ni-iš"
+			}
+		],
+		"KBo 32.14,Vs. 1b": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
 			}
 		],
 		"KBo 32.14,Vs. 20a": [
@@ -37890,6 +39346,13 @@
 				"transliteration": "tap-šu-ú"
 			}
 		],
+		"KBo 32.14,Vs. 20b": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
 		"KBo 32.14,Vs. 21a": [
 			{
 				"gloss": "Stadt-3POSS.SG.ABS=CON",
@@ -37900,6 +39363,13 @@
 				"gloss": "ansehen-ITER-INGR-TR.PFV-3A.SG",
 				"segmentation": "am-ar-ill-ō-m",
 				"transliteration": "a-ma-ri-il-lu-u-um"
+			}
+		],
+		"KBo 32.14,Vs. 21b": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
 			}
 		],
 		"KBo 32.14,Vs. 22a": [
@@ -37941,6 +39411,18 @@
 				"transliteration": "u-la-ap-wa<subscr c=\"a\"/>"
 			}
 		],
+		"KBo 32.14,Vs. 23b": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
 		"KBo 32.14,Vs. 24a": [
 			{
 				"gloss": "sagen; sprechen-ol-MOD.ACT-1JUSS",
@@ -37958,6 +39440,13 @@
 				"transliteration": "šal-ḫu-u-la"
 			}
 		],
+		"KBo 32.14,Vs. 24b": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
 		"KBo 32.14,Vs. 25a": [
 			{
 				"gloss": "Weisheit-ESS=2PL.ABS",
@@ -37968,6 +39457,13 @@
 				"gloss": "sagen; sprechen-ol-MOD.ACT-1JUSS",
 				"segmentation": "kad-ol-i-le",
 				"transliteration": "ka₄-du-ul-li"
+			}
+		],
+		"KBo 32.14,Vs. 25b": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
 			}
 		],
 		"KBo 32.14,Vs. 26a": [
@@ -37987,6 +39483,13 @@
 				"transliteration": "na-a-wa<subscr c=\"a\"/>"
 			}
 		],
+		"KBo 32.14,Vs. 26b": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
 		"KBo 32.14,Vs. 27a": [
 			{
 				"gloss": "Wasser; Fluss.noun",
@@ -38002,6 +39505,13 @@
 				"gloss": "Weide-RELAT.SG-ESS",
 				"segmentation": "na+i+ġē-ne-a",
 				"transliteration": "na-i-ḫé-e-na"
+			}
+		],
+		"KBo 32.14,Vs. 27b": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
 			}
 		],
 		"KBo 32.14,Vs. 28a": [
@@ -38021,6 +39531,18 @@
 				"transliteration": "a-ga-a-we<subscr c=\"e\"/>"
 			}
 		],
+		"KBo 32.14,Vs. 28b": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
 		"KBo 32.14,Vs. 29a": [
 			{
 				"gloss": "ansehen-NEG-TR.PFV-3A.SG",
@@ -38036,6 +39558,13 @@
 				"gloss": "sehen-NEG-TR.PFV-3A.SG",
 				"segmentation": "fōr-ud-o-m",
 				"transliteration": "p<del_in/>u-r<del_fin/>u-<laes_in/>tu<laes_fin/>-u<del_in/>m<del_fin/>"
+			}
+		],
+		"KBo 32.14,Vs. 29b": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
 			}
 		],
 		"KBo 32.14,Vs. 2a": [
@@ -38060,6 +39589,20 @@
 				"transliteration": "u-ul-bi-i-ni"
 			}
 		],
+		"KBo 32.14,Vs. 2b": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.14,Vs. 30b": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
 		"KBo 32.14,Vs. 31a": [
 			{
 				"gloss": "Rehbock.ABS",
@@ -38080,6 +39623,18 @@
 				"gloss": "Mensch.ABS",
 				"segmentation": "taržuwa+ni",
 				"transliteration": "<laes_in/>tar<laes_fin/>-šu-wa-a-ni"
+			}
+		],
+		"KBo 32.14,Vs. 31b": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
 			}
 		],
 		"KBo 32.14,Vs. 32a": [
@@ -38104,6 +39659,13 @@
 				"transliteration": "na-a-ḫé-la-a-i"
 			}
 		],
+		"KBo 32.14,Vs. 32b": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
 		"KBo 32.14,Vs. 33a": [
 			{
 				"gloss": "der eine-RELAT.SG-DIR/LOC",
@@ -38119,6 +39681,13 @@
 				"gloss": "Distriktverwalter-ESS",
 				"segmentation": "ḫalz+ō+ġ+li-a",
 				"transliteration": "ḫal-zu-u-uḫ-la"
+			}
+		],
+		"KBo 32.14,Vs. 33b": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
 			}
 		],
 		"KBo 32.14,Vs. 34a": [
@@ -38143,6 +39712,13 @@
 				"transliteration": "ta-ḫé-e-ni-eš"
 			}
 		],
+		"KBo 32.14,Vs. 34b": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
 		"KBo 32.14,Vs. 35a": [
 			{
 				"gloss": "Auge-RELAT.SG-INS",
@@ -38158,6 +39734,13 @@
 				"gloss": "Mann-RELAT.SG-DAT=3PL.ABS",
 				"segmentation": "tāġe-ne-vā=l",
 				"transliteration": "ta-ḫé-e-ni-wa<subscr c=\"a\"/>-a-al"
+			}
+		],
+		"KBo 32.14,Vs. 35b": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
 			}
 		],
 		"KBo 32.14,Vs. 36a": [
@@ -38182,6 +39765,13 @@
 				"transliteration": "(Rasur)"
 			}
 		],
+		"KBo 32.14,Vs. 36b": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
 		"KBo 32.14,Vs. 37a": [
 			{
 				"gloss": "PRON.ALT.ABS",
@@ -38202,6 +39792,13 @@
 				"gloss": "zweiter.ABS=CON",
 				"segmentation": "šīnzi=ma",
 				"transliteration": "ši-i-in-zi-ma"
+			}
+		],
+		"KBo 32.14,Vs. 37b": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
 			}
 		],
 		"KBo 32.14,Vs. 38a": [
@@ -38231,6 +39828,18 @@
 				"gloss": "anderer-ESS=2PL.ABS",
 				"segmentation": "oli-a=ffa",
 				"transliteration": "u-la-ap-wa<subscr c=\"a\"/>"
+			}
+		],
+		"KBo 32.14,Vs. 39b": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
 			}
 		],
 		"KBo 32.14,Vs. 3a": [
@@ -38277,11 +39886,25 @@
 				"transliteration": "ma-ta-ap-wa<subscr c=\"a\"/>"
 			}
 		],
+		"KBo 32.14,Vs. 40b": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
 		"KBo 32.14,Vs. 41a": [
 			{
 				"gloss": "sagen; sprechen-ol-MOD.ACT-1JUSS",
 				"segmentation": "kad-ol-i-le",
 				"transliteration": "ka₄-túl-li"
+			}
+		],
+		"KBo 32.14,Vs. 41b": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
 			}
 		],
 		"KBo 32.14,Vs. 42a": [
@@ -38299,6 +39922,13 @@
 				"gloss": "Ruhm-ESS",
 				"segmentation": "ḫelōvi-a",
 				"transliteration": "ḫe-e-lu-u-wa<subscr c=\"a\"/>"
+			}
+		],
+		"KBo 32.14,Vs. 42b": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
 			}
 		],
 		"KBo 32.14,Vs. 43a": [
@@ -38323,6 +39953,18 @@
 				"transliteration": "mu-šu-u-lu-u-um"
 			}
 		],
+		"KBo 32.14,Vs. 43b": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
 		"KBo 32.14,Vs. 44a": [
 			{
 				"gloss": "Applikation-INS",
@@ -38345,6 +39987,18 @@
 				"transliteration": "a-ku-ú-úr-na"
 			}
 		],
+		"KBo 32.14,Vs. 44b": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
 		"KBo 32.14,Vs. 45a": [
 			{
 				"gloss": "u.B.-ol-MED-3A.SG",
@@ -38360,6 +40014,13 @@
 				"gloss": "hinzufügen?-ol-MED-3A.SG",
 				"segmentation": "taž-ol-ūw-a",
 				"transliteration": "ta-šu-lu-ú-wa"
+			}
+		],
+		"KBo 32.14,Vs. 45b": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
 			}
 		],
 		"KBo 32.14,Vs. 46a": [
@@ -38379,6 +40040,13 @@
 				"transliteration": "ši-ta-a-ra"
 			}
 		],
+		"KBo 32.14,Vs. 46b": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
 		"KBo 32.14,Vs. 47a": [
 			{
 				"gloss": "Kupfer-RELAT.SG-ERG",
@@ -38396,6 +40064,18 @@
 				"transliteration": "ta-bi-ri-pu-ú-i"
 			}
 		],
+		"KBo 32.14,Vs. 47b": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
 		"KBo 32.14,Vs. 48a": [
 			{
 				"gloss": "Hand.ABS",
@@ -38411,6 +40091,13 @@
 				"gloss": "abschnüren?-ulli=CON",
 				"segmentation": "eġ+epš-ulli=ma",
 				"transliteration": "e-ḫé-ep-šu-ul-li-ma"
+			}
+		],
+		"KBo 32.14,Vs. 48b": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
 			}
 		],
 		"KBo 32.14,Vs. 49a": [
@@ -38447,6 +40134,18 @@
 				"transliteration": "ši-ta-ri-il-lu-u-um"
 			}
 		],
+		"KBo 32.14,Vs. 4b": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
 		"KBo 32.14,Vs. 50a": [
 			{
 				"gloss": "Schmied.ABS",
@@ -38464,11 +40163,25 @@
 				"transliteration": "pa-a-ru"
 			}
 		],
+		"KBo 32.14,Vs. 50b": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
 		"KBo 32.14,Vs. 51a": [
 			{
 				"gloss": "Inneres-3POSS.SG-DIR",
 				"segmentation": "ištani-ī-da",
 				"transliteration": "iš-ta-ni-i-ta"
+			}
+		],
+		"KBo 32.14,Vs. 51b": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
 			}
 		],
 		"KBo 32.14,Vs. 52a": [
@@ -38488,6 +40201,13 @@
 				"transliteration": "ḫi-il-li-ip"
 			}
 		],
+		"KBo 32.14,Vs. 52b": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
 		"KBo 32.14,Vs. 53a": [
 			{
 				"gloss": "Inneres-3POSS.SG-DIR",
@@ -38503,6 +40223,18 @@
 				"gloss": "Gegossene-RELAT.SG-ERG",
 				"segmentation": "tab+ilia-ne-ž",
 				"transliteration": "ta-bi-li-ia-ni-iš"
+			}
+		],
+		"KBo 32.14,Vs. 53b": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
 			}
 		],
 		"KBo 32.14,Vs. 54a": [
@@ -38527,6 +40259,13 @@
 				"transliteration": "k<del_in/>a-a-z<del_fin/>i"
 			}
 		],
+		"KBo 32.14,Vs. 54b": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
 		"KBo 32.14,Vs. 55a": [
 			{
 				"gloss": "Schmied-RELAT.SG-ERG",
@@ -38544,6 +40283,13 @@
 				"transliteration": "ku-lu-ú-ru-um"
 			}
 		],
+		"KBo 32.14,Vs. 55b": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
 		"KBo 32.14,Vs. 56a": [
 			{
 				"gloss": "schlagen-MOD.ACT-3JUSS",
@@ -38559,6 +40305,13 @@
 				"gloss": "DN-ERG",
 				"segmentation": "Teššob-až",
 				"transliteration": "te-eš-šu-u-pa-aš"
+			}
+		],
+		"KBo 32.14,Vs. 56b": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
 			}
 		],
 		"KBo 32.14,Vs. 57a": [
@@ -38581,6 +40334,13 @@
 				"gloss": "werfen; fallen-MOD.PAT",
 				"segmentation": "kud-o",
 				"transliteration": "ku-ú-du"
+			}
+		],
+		"KBo 32.14,Vs. 57b": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
 			}
 		],
 		"KBo 32.14,Vs. 58a": [
@@ -38607,6 +40367,13 @@
 				"transliteration": "ši-i-e-ni"
 			}
 		],
+		"KBo 32.14,Vs. 59b": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
 		"KBo 32.14,Vs. 5a": [
 			{
 				"gloss": "falls; wenn.CONJ",
@@ -38622,6 +40389,13 @@
 				"gloss": "Berg.ABS",
 				"segmentation": "paba+ni",
 				"transliteration": "pa-a-pa-an-ni"
+			}
+		],
+		"KBo 32.14,Vs. 5b": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
 			}
 		],
 		"KBo 32.14,Vs. 60b": [
@@ -38653,6 +40427,18 @@
 				"transliteration": "i-ti-la-a-an-ni"
 			}
 		],
+		"KBo 32.14,Vs. 6b": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
 		"KBo 32.14,Vs. 7a": [
 			{
 				"gloss": "DN-ERG",
@@ -38668,6 +40454,13 @@
 				"gloss": "Feuer-RELAT.SG-ERG",
 				"segmentation": "tāri-ne-ž",
 				"transliteration": "ta-a-ar-ri-iš"
+			}
+		],
+		"KBo 32.14,Vs. 7b": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
 			}
 		],
 		"KBo 32.14,Vs. 8a": [
@@ -38697,6 +40490,13 @@
 				"transliteration": "𒀹"
 			}
 		],
+		"KBo 32.14,Vs. 8b": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
 		"KBo 32.14,Vs. 9a": [
 			{
 				"gloss": "Rehbock.ABS",
@@ -38719,9 +40519,96 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "(Rasur)"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.14,lk. Rd. 1": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.14,lk. Rd. 2": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.14,lk. Rd. 3": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.14,lk. Rd. 4": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.14,lk. Rd. 5": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.14,lk. Rd. 6": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
 			}
 		],
 		"KBo 32.14,lk. Rd. 7": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			},
 			{
 				"gloss": "",
 				"segmentation": "",
@@ -38809,7 +40696,45 @@
 				"transliteration": "u-ḫa-a-ra-x<del_in/>"
 			}
 		],
+		"KBo 32.14,u. Rd. 66": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.14,u. Rd. 67": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.14,u. Rd. 69": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.14,u. Rd. 70": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
 		"KBo 32.14,u. Rd. 71": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			},
 			{
 				"gloss": "",
 				"segmentation": "",
@@ -38833,6 +40758,13 @@
 				"transliteration": "u-ri-<add_in/>ta<add_fin/>"
 			}
 		],
+		"KBo 32.15,Rs. 10b": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
 		"KBo 32.15,Rs. 12a": [
 			{
 				"gloss": "PN-RELAT.SG-ERG",
@@ -38850,6 +40782,13 @@
 				"transliteration": "<d>D</d><sGr>IŠKUR</sGr>-up-u-ta"
 			}
 		],
+		"KBo 32.15,Rs. 12b": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
 		"KBo 32.15,Rs. 13a": [
 			{
 				"gloss": "verbeugen.verb",
@@ -38865,6 +40804,13 @@
 				"gloss": "hören-až-il-1A.SG=2SG.ABS",
 				"segmentation": "ḫaž-až-il-aw=m",
 				"transliteration": "ḫa-ša-ši-la-um"
+			}
+		],
+		"KBo 32.15,Rs. 13b": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
 			}
 		],
 		"KBo 32.15,Rs. 14a": [
@@ -38906,6 +40852,13 @@
 				"transliteration": "a-ar-ti-wu<subscr c=\"u\"/>-uš-ša"
 			}
 		],
+		"KBo 32.15,Rs. 15b": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
 		"KBo 32.15,Rs. 16a": [
 			{
 				"gloss": "Freilassung.ABS",
@@ -38923,6 +40876,13 @@
 				"transliteration": "wu<subscr c=\"ú\"/>-ut-ki-iš"
 			}
 		],
+		"KBo 32.15,Rs. 16b": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
 		"KBo 32.15,Rs. 17a": [
 			{
 				"gloss": "PN-GEN-ERG",
@@ -38933,6 +40893,13 @@
 				"gloss": "PN-ERG",
 				"segmentation": "Sāzalla-ž",
 				"transliteration": "<d>M</d>za-a-za-al-la-aš"
+			}
+		],
+		"KBo 32.15,Rs. 17b": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
 			}
 		],
 		"KBo 32.15,Rs. 18a": [
@@ -38955,6 +40922,13 @@
 				"gloss": "PN-RELAT.SG-ERG",
 				"segmentation": "Mēgi-ne-ž",
 				"transliteration": "<laes_in/><d>M</d>me<laes_fin/>-e-<laes_in/>ki<laes_fin/>-ni-eš"
+			}
+		],
+		"KBo 32.15,Rs. 18b": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
 			}
 		],
 		"KBo 32.15,Rs. 19a": [
@@ -38991,6 +40965,41 @@
 				"transliteration": "še-er-ḫu-uš"
 			}
 		],
+		"KBo 32.15,Rs. 1b": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.15,Rs. 20b": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.15,Rs. 22b": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.15,Rs. 23b": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.15,Rs. 25b": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
 		"KBo 32.15,Rs. 26b": [
 			{
 				"gloss": "",
@@ -39025,6 +41034,13 @@
 				"transliteration": "pu-ra-am-mi-ip"
 			}
 		],
+		"KBo 32.15,Rs. 2b": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
 		"KBo 32.15,Rs. 3a": [
 			{
 				"gloss": "",
@@ -39032,7 +41048,19 @@
 				"transliteration": "ki-i-ru-nu-ul-mi-ip<note c=\"Es handelt sich um eine Sandhi-Schreibung für kir-o(-e?) ulmi-b.\"/>"
 			}
 		],
+		"KBo 32.15,Rs. 3b": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
 		"KBo 32.15,Rs. 4b": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			},
 			{
 				"gloss": "",
 				"segmentation": "",
@@ -39061,6 +41089,18 @@
 				"transliteration": "a-aš-ti-ip-pa"
 			}
 		],
+		"KBo 32.15,Rs. 5b": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
 		"KBo 32.15,Rs. 6a": [
 			{
 				"gloss": "Vater-3POSS.SG-GEN-RELAT.SG-DIR/LOC",
@@ -39076,6 +41116,13 @@
 				"gloss": "u.B.-INT=2SG.ABS",
 				"segmentation": "anz-a=mma",
 				"transliteration": "a-an-za-am-ma"
+			}
+		],
+		"KBo 32.15,Rs. 6b": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
 			}
 		],
 		"KBo 32.15,Rs. 7a": [
@@ -39117,6 +41164,13 @@
 				"transliteration": "<d>M</d>me-e-ki-ni-el-la"
 			}
 		],
+		"KBo 32.15,Rs. 8b": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
 		"KBo 32.15,Rs. 9a": [
 			{
 				"gloss": "jammern; beklagen; schreien-TR.PFV-3A.SG",
@@ -39139,6 +41193,18 @@
 				"transliteration": "i-ši-ik-ku-un-na"
 			}
 		],
+		"KBo 32.15,Rs. 9b": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
 		"KBo 32.15,Vs. 10a′": [
 			{
 				"gloss": "ein Viertel Kor.ABS",
@@ -39154,6 +41220,18 @@
 				"gloss": "aufschütten-MOD.ACT-l-POT-ž",
 				"segmentation": "kapp-i-l-eva-ž",
 				"transliteration": "ka-ab-b<del_in/>i-li-wa<subscr c=\"a\"/>-aš"
+			}
+		],
+		"KBo 32.15,Vs. 10b′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
 			}
 		],
 		"KBo 32.15,Vs. 11a′": [
@@ -39183,6 +41261,13 @@
 				"transliteration": "it-ti-l<del_fin/>i-wa<subscr c=\"a\"/>-aš"
 			}
 		],
+		"KBo 32.15,Vs. 11b′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
 		"KBo 32.15,Vs. 12a′": [
 			{
 				"gloss": "ein Gewand-INS",
@@ -39200,11 +41285,23 @@
 				"transliteration": "<del_in/>"
 			}
 		],
+		"KBo 32.15,Vs. 12b′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
 		"KBo 32.15,Vs. 13b′": [
 			{
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "(Rasur)"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
 			}
 		],
 		"KBo 32.15,Vs. 14a′": [
@@ -39229,6 +41326,18 @@
 				"transliteration": "x<del_in/>"
 			}
 		],
+		"KBo 32.15,Vs. 14b′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
 		"KBo 32.15,Vs. 15a′": [
 			{
 				"gloss": "Öl.ABS",
@@ -39246,6 +41355,13 @@
 				"transliteration": "e-<del_in/>"
 			}
 		],
+		"KBo 32.15,Vs. 15b′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
 		"KBo 32.15,Vs. 16a′": [
 			{
 				"gloss": "zurückkehren; zurückbringen-MOD.ACT-l-POT-ž",
@@ -39256,6 +41372,20 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "wa-al-li-x<del_in/>"
+			}
+		],
+		"KBo 32.15,Vs. 16b′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.15,Vs. 17b′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
 			}
 		],
 		"KBo 32.15,Vs. 18a′": [
@@ -39279,6 +41409,11 @@
 			{
 				"gloss": "",
 				"segmentation": "",
+				"transliteration": "CLB"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
 				"transliteration": "(Rasur)"
 			}
 		],
@@ -39292,6 +41427,18 @@
 				"gloss": "freilassen; gewähren-TR-1A.NEG-PL=3SG.ABS",
 				"segmentation": "nakk-i-uffo-š=nna",
 				"transliteration": "na-ak-ki-ú-wu<subscr c=\"u\"/>-uš-ša"
+			}
+		],
+		"KBo 32.15,Vs. 19b′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
 			}
 		],
 		"KBo 32.15,Vs. 1a′": [
@@ -39328,6 +41475,13 @@
 				"transliteration": "ti-ša-ap"
 			}
 		],
+		"KBo 32.15,Vs. 20b′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
 		"KBo 32.15,Vs. 21a′": [
 			{
 				"gloss": "sich freuen-RES-ANTIP-NEG",
@@ -39357,6 +41511,13 @@
 				"transliteration": "ši-in-zu-uḫ-ḫa-am-ma"
 			}
 		],
+		"KBo 32.15,Vs. 22b′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
 		"KBo 32.15,Vs. 23a′": [
 			{
 				"gloss": "sich freuen-ANTIP-NEG",
@@ -39372,6 +41533,13 @@
 				"gloss": "GN-ADJ-RELAT.PL.ABS=CON",
 				"segmentation": "Igingališ-ḫī-na=mma",
 				"transliteration": "i-ki-in-ga-li-iš-ḫi-i-na-am-ma"
+			}
+		],
+		"KBo 32.15,Vs. 23b′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
 			}
 		],
 		"KBo 32.15,Vs. 24a′": [
@@ -39408,6 +41576,18 @@
 				"transliteration": "a-bi-e-di-il-la"
 			}
 		],
+		"KBo 32.15,Vs. 26b′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
 		"KBo 32.15,Vs. 27a′": [
 			{
 				"gloss": "1PRON.PL.ABS",
@@ -39435,6 +41615,11 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "(Rasur)"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
 			}
 		],
 		"KBo 32.15,Vs. 28a′": [
@@ -39449,7 +41634,24 @@
 				"transliteration": "wu<subscr c=\"ú\"/>-ta-ri-na-al-la"
 			}
 		],
+		"KBo 32.15,Vs. 28b′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
 		"KBo 32.15,Vs. 29b′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			},
 			{
 				"gloss": "",
 				"segmentation": "",
@@ -39485,6 +41687,13 @@
 				"transliteration": "ku<del_fin/>-<laes_in/>lu<laes_fin/>-u-um-ma"
 			}
 		],
+		"KBo 32.15,Vs. 3b′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
 		"KBo 32.15,Vs. 4a′": [
 			{
 				"gloss": "falls; wenn.CONJ",
@@ -39512,6 +41721,13 @@
 				"transliteration": "ki-i-ri-en-za-am-ma"
 			}
 		],
+		"KBo 32.15,Vs. 4b′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
 		"KBo 32.15,Vs. 5a′": [
 			{
 				"gloss": "wünschen-ANTIP-b",
@@ -39534,6 +41750,13 @@
 				"transliteration": "<d>D</d>te-eš-šu-up"
 			}
 		],
+		"KBo 32.15,Vs. 5b′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
 		"KBo 32.15,Vs. 6a′": [
 			{
 				"gloss": "Schekel.ABS=CON",
@@ -39551,6 +41774,13 @@
 				"transliteration": "a-ar-ri-wa<subscr c=\"a\"/>-aš"
 			}
 		],
+		"KBo 32.15,Vs. 6b′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
 		"KBo 32.15,Vs. 7a′": [
 			{
 				"gloss": "Hälfte.ABS",
@@ -39566,6 +41796,18 @@
 				"gloss": "Schekel.ABS=CON",
 				"segmentation": "šigl+ade=mma",
 				"transliteration": "ši-ik-la-te-em-ma"
+			}
+		],
+		"KBo 32.15,Vs. 7b′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
 			}
 		],
 		"KBo 32.15,Vs. 8a′": [
@@ -39590,6 +41832,13 @@
 				"transliteration": "<d>D</d>te-eš-šu-up"
 			}
 		],
+		"KBo 32.15,Vs. 8b′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
 		"KBo 32.15,Vs. 9a′": [
 			{
 				"gloss": "aufschütten-MOD.ACT-l-POT-ž",
@@ -39612,11 +41861,60 @@
 				"transliteration": "<del_in/>"
 			}
 		],
+		"KBo 32.15,Vs. 9b′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
 		"KBo 32.15,lk. Rd. 1": [
 			{
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "Ende lk. Rd."
+			}
+		],
+		"KBo 32.16,Rs. 10b′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.16,Rs. 12b′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.16,Rs. 13b′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.16,Rs. 15b′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.16,Rs. 16b′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.16,Rs. 17b′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
 			}
 		],
 		"KBo 32.16,Rs. 19b′": [
@@ -39631,11 +41929,79 @@
 				"transliteration": "Ende von ca. 6 Zeilen bis zum u. Rd. unbeschrieben; Ende Rs."
 			}
 		],
+		"KBo 32.16,Rs. 1b′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.16,Rs. 3b′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.16,Rs. 4b′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.16,Rs. 5b′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.16,Rs. 6b′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.16,Rs. 8b′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.16,Rs. 9b′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.16,Vs. 11b": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
 		"KBo 32.16,Vs. 12a": [
 			{
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "<del_fin/>x-<laes_in/>ti<laes_fin/>-x-<laes_in/>ma<corr c=\"?\"/><laes_fin/>"
+			}
+		],
+		"KBo 32.16,Vs. 12b": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
 			}
 		],
 		"KBo 32.16,Vs. 14a": [
@@ -39645,6 +42011,13 @@
 				"transliteration": "<del_fin/>x-ri-e"
 			}
 		],
+		"KBo 32.16,Vs. 14b": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
 		"KBo 32.16,Vs. 15a": [
 			{
 				"gloss": "u.B..ABS",
@@ -39652,11 +42025,143 @@
 				"transliteration": "ḫ<del_fin/>a<corr c=\"?\"/>-wu<subscr c=\"ú\"/>-ú-ši"
 			}
 		],
+		"KBo 32.16,Vs. 17b": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.16,Vs. 18b": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.16,Vs. 19b": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.16,Vs. 1b": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.16,Vs. 21b": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.16,Vs. 22b": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.16,Vs. 23b": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.16,Vs. 24b": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.16,Vs. 25b": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.16,Vs. 26b": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.16,Vs. 27b": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.16,Vs. 28b": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.16,Vs. 29b": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.16,Vs. 2b": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
 		"KBo 32.16,Vs. 30b": [
 			{
 				"gloss": "",
 				"segmentation": "",
+				"transliteration": "CLB"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
 				"transliteration": "Vs. bricht ab"
+			}
+		],
+		"KBo 32.16,Vs. 4b": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.16,Vs. 5b": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
 			}
 		],
 		"KBo 32.16,Vs. 6a": [
@@ -39666,6 +42171,13 @@
 				"transliteration": "wa<subscr c=\"a\"/>-zu-ra<del_fin/>-an-ni"
 			}
 		],
+		"KBo 32.16,Vs. 6b": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
 		"KBo 32.16,Vs. 7a": [
 			{
 				"gloss": "Orator.ABS",
@@ -39673,11 +42185,32 @@
 				"transliteration": "<laes_in/>wa<subscr c=\"a\"/>⸣-zu-ra-an-ni"
 			}
 		],
+		"KBo 32.16,Vs. 7b": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
 		"KBo 32.16,Vs. 8a": [
 			{
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "-u<del_fin/>k-ku"
+			}
+		],
+		"KBo 32.16,Vs. 8b": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.16,Vs. 9b": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
 			}
 		],
 		"KBo 32.17,Rs. 10a′": [
@@ -39786,7 +42319,40 @@
 				"transliteration": "<laes_in/>e<laes_fin/>-ep-ri-eš"
 			}
 		],
+		"KBo 32.18,1′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.18,2′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.18,3′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.18,5′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
 		"KBo 32.18,7′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			},
 			{
 				"gloss": "",
 				"segmentation": "",
@@ -39798,6 +42364,41 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "Zeilen 32a′-36a′ aus der linken, hurritischen Kolumne abgebrochen"
+			}
+		],
+		"KBo 32.19,Rs. 12b′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.19,Rs. 14b′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.19,Rs. 17b′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.19,Rs. 1b": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.19,Rs. 20b′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
 			}
 		],
 		"KBo 32.19,Rs. 21a′": [
@@ -39819,11 +42420,25 @@
 				"transliteration": "š<del_in/>i-"
 			}
 		],
+		"KBo 32.19,Rs. 23b′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
 		"KBo 32.19,Rs. 24a′": [
 			{
 				"gloss": "u.B..ABS",
 				"segmentation": "mamm+o+re",
 				"transliteration": "ma-am-mu-u-r<del_in/>i(-)"
+			}
+		],
+		"KBo 32.19,Rs. 24b′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
 			}
 		],
 		"KBo 32.19,Rs. 25a′": [
@@ -39838,11 +42453,25 @@
 				"transliteration": "pa-<laes_in/>li-ia<laes_fin/>"
 			}
 		],
+		"KBo 32.19,Rs. 25b′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
 		"KBo 32.19,Rs. 26a′": [
 			{
 				"gloss": "freilassen; gewähren-TR.IMP=3PL.ABS=CON",
 				"segmentation": "nakk-i=lla=ān",
 				"transliteration": "na-ak-<laes_in/>ki<laes_fin/>-il-la-<laes_in/>a<laes_fin/>-<del_in/>an"
+			}
+		],
+		"KBo 32.19,Rs. 26b′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
 			}
 		],
 		"KBo 32.19,Rs. 27a′": [
@@ -39857,11 +42486,32 @@
 				"transliteration": "<d>M</d><del_fin/><laes_in/>pur<laes_fin/>-<del_in/>r<del_fin/>a-<del_in/>an"
 			}
 		],
+		"KBo 32.19,Rs. 27b′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
 		"KBo 32.19,Rs. 28a′": [
 			{
 				"gloss": "neun-ESS",
 				"segmentation": "tamri-a",
 				"transliteration": "da<del_in/>m-ra"
+			}
+		],
+		"KBo 32.19,Rs. 28b′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.19,Rs. 2b": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
 			}
 		],
 		"KBo 32.19,Rs. 30a′": [
@@ -39871,11 +42521,46 @@
 				"transliteration": "<laes_in/>i<laes_fin/>-<del_in/>ki-in-kal-iš-ša<corr c=\"(?)\"/>"
 			}
 		],
+		"KBo 32.19,Rs. 30b′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.19,Rs. 32b′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.19,Rs. 33b′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.19,Rs. 36b′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
 		"KBo 32.19,Rs. 37a′": [
 			{
 				"gloss": "u.B.-RELAT.SG-DIR/LOC",
 				"segmentation": "šer+že-ne-e",
 				"transliteration": "š<del_fin/>e-e<del_in/>r-še-ni"
+			}
+		],
+		"KBo 32.19,Rs. 37b′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
 			}
 		],
 		"KBo 32.19,Rs. 38a′": [
@@ -39895,6 +42580,13 @@
 				"gloss": "beten; preisen; segnen-FUT-1A.SG",
 				"segmentation": "ḫōd-ed-aw",
 				"transliteration": "ḫ<del_fin/>u-ti-t<del_in/>a-ú<del_fin/>"
+			}
+		],
+		"KBo 32.19,Rs. 39b′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
 			}
 		],
 		"KBo 32.19,Rs. 40a′": [
@@ -39921,6 +42613,13 @@
 				"transliteration": "<laes_in/>a-ti<laes_fin/>-i-ir-ḫa"
 			}
 		],
+		"KBo 32.19,Rs. 41b′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
 		"KBo 32.19,Rs. 42a′": [
 			{
 				"gloss": "gedeihen lassen-MOD.PAT-l-POT",
@@ -39931,6 +42630,13 @@
 				"gloss": "Feld-2POSS.PL.ABS",
 				"segmentation": "abundi-šši",
 				"transliteration": "a-pu-un-ti-iš-š<del_in/>i<del_fin/>"
+			}
+		],
+		"KBo 32.19,Rs. 43b′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
 			}
 		],
 		"KBo 32.19,Rs. 45a′": [
@@ -39948,6 +42654,13 @@
 				"gloss": "Freilassung.ABS",
 				"segmentation": "kire+n+ze",
 				"transliteration": "ki-<del_in/>r<del_fin/>i-<laes_in/>en<laes_fin/>-zé"
+			}
+		],
+		"KBo 32.19,Rs. 45b′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
 			}
 		],
 		"KBo 32.19,Rs. 46a′": [
@@ -39979,6 +42692,18 @@
 				"transliteration": "š<del_fin/>u-ú-u-<c type=\"sign\">W[A</c>"
 			}
 		],
+		"KBo 32.19,Rs. 47b′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
 		"KBo 32.19,Rs. 48a′": [
 			{
 				"gloss": "kommen; bringen-MOD.ACT-POT=1SG.ABS=CON",
@@ -40003,6 +42728,20 @@
 				"transliteration": "<d>URU</d>e-e<del_in/>p-la"
 			}
 		],
+		"KBo 32.19,Rs. 49b′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.19,Rs. 4b": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
 		"KBo 32.19,Rs. 50a′": [
 			{
 				"gloss": "unbesiedelte-EQU=3SG.ABS",
@@ -40013,6 +42752,13 @@
 				"gloss": "zugrunde richten-FUT-1A.SG",
 				"segmentation": "šer-ed-aw",
 				"transliteration": "še-<laes_in/>ri<laes_fin/>-tap"
+			}
+		],
+		"KBo 32.19,Rs. 50b′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
 			}
 		],
 		"KBo 32.19,Rs. 51a′": [
@@ -40026,7 +42772,26 @@
 			{
 				"gloss": "",
 				"segmentation": "",
+				"transliteration": "CLB"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
 				"transliteration": "Ende Rs."
+			}
+		],
+		"KBo 32.19,Rs. 6b": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.19,Rs. 9b′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
 			}
 		],
 		"KBo 32.19,Vs.": [
@@ -40075,6 +42840,13 @@
 				"transliteration": "ke-e-ri-en-zé"
 			}
 		],
+		"KBo 32.19,Vs. 11b": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
 		"KBo 32.19,Vs. 12a": [
 			{
 				"gloss": "GN-DAT",
@@ -40104,6 +42876,13 @@
 				"transliteration": "ki-re-en-zé<corr c=\"sic\"/>"
 			}
 		],
+		"KBo 32.19,Vs. 13b": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
 		"KBo 32.19,Vs. 14a": [
 			{
 				"gloss": "u.B.-ESS=3PL.ABS",
@@ -40114,6 +42893,13 @@
 				"gloss": "beten; preisen; segnen-FUT-1A.SG",
 				"segmentation": "ḫōd-ed-aw",
 				"transliteration": "ḫu-ti-ta-ú"
+			}
+		],
+		"KBo 32.19,Vs. 14b": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
 			}
 		],
 		"KBo 32.19,Vs. 15a": [
@@ -40140,6 +42926,13 @@
 				"transliteration": "a-ti-i-ir-ḫa"
 			}
 		],
+		"KBo 32.19,Vs. 16b": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
 		"KBo 32.19,Vs. 17a": [
 			{
 				"gloss": "Ruhm-ESS=CON",
@@ -40157,6 +42950,13 @@
 				"transliteration": "a-pu-un-ti-iš-ši"
 			}
 		],
+		"KBo 32.19,Vs. 18b": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
 		"KBo 32.19,Vs. 1a": [
 			{
 				"gloss": "GN-ADJ-RELAT.PL.ABS=CON",
@@ -40169,6 +42969,13 @@
 				"transliteration": "na<laes_fin/>-ak-ki"
 			}
 		],
+		"KBo 32.19,Vs. 1b": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
 		"KBo 32.19,Vs. 20a": [
 			{
 				"gloss": "freilassen; gewähren-TR-2A.PL.NEG=3SG.ABS",
@@ -40179,6 +42986,13 @@
 				"gloss": "Freilassung.ABS",
 				"segmentation": "kire+n+ze",
 				"transliteration": "ki-ri-en-zé"
+			}
+		],
+		"KBo 32.19,Vs. 20b": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
 			}
 		],
 		"KBo 32.19,Vs. 21a": [
@@ -40208,6 +43022,18 @@
 				"gloss": "Tag-ESS",
 				"segmentation": "šowa-a",
 				"transliteration": "šu-u-ú-wa"
+			}
+		],
+		"KBo 32.19,Vs. 22b": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
 			}
 		],
 		"KBo 32.19,Vs. 23a": [
@@ -40244,6 +43070,13 @@
 				"transliteration": "pa-ḫé-tap"
 			}
 		],
+		"KBo 32.19,Vs. 24b": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
 		"KBo 32.19,Vs. 25a": [
 			{
 				"gloss": "unbesiedelte-EQU",
@@ -40261,6 +43094,20 @@
 				"transliteration": "i-in-na-an-na-am"
 			}
 		],
+		"KBo 32.19,Vs. 25b": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.19,Vs. 26b": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
 		"KBo 32.19,Vs. 27a": [
 			{
 				"gloss": "(Umwallung der) Unterstadt.ABS",
@@ -40276,6 +43123,13 @@
 				"gloss": "zerbrechen-RES-1A.SG",
 				"segmentation": "ḫub-ušt-aw",
 				"transliteration": "ḫu-pu-uš-tap"
+			}
+		],
+		"KBo 32.19,Vs. 27b": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
 			}
 		],
 		"KBo 32.19,Vs. 28a": [
@@ -40312,6 +43166,13 @@
 				"transliteration": "ka-a-zu-u-uš〉〉"
 			}
 		],
+		"KBo 32.19,Vs. 29b": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
 		"KBo 32.19,Vs. 2a": [
 			{
 				"gloss": "Sohn-RELAT.PL.ABS",
@@ -40322,6 +43183,13 @@
 				"gloss": "Wohl-INS",
 				"segmentation": "kel+di-āi",
 				"transliteration": "ki-el-ta-a-i"
+			}
+		],
+		"KBo 32.19,Vs. 2b": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
 			}
 		],
 		"KBo 32.19,Vs. 30a": [
@@ -40353,6 +43221,13 @@
 				"transliteration": "ka-a-zu-u-uš"
 			}
 		],
+		"KBo 32.19,Vs. 32b": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
 		"KBo 32.19,Vs. 33a": [
 			{
 				"gloss": "zerbrechen-FUT-1A.SG",
@@ -40377,6 +43252,13 @@
 				"transliteration": "ta-la-aš-ta-a-ú"
 			}
 		],
+		"KBo 32.19,Vs. 35b": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
 		"KBo 32.19,Vs. 36a": [
 			{
 				"gloss": "(Umwallung der) Oberstadt-GEN",
@@ -40394,6 +43276,13 @@
 				"transliteration": "ḫu-u-um-ni"
 			}
 		],
+		"KBo 32.19,Vs. 36b": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
 		"KBo 32.19,Vs. 38a": [
 			{
 				"gloss": "(Umwallung der) Unterstadt-GEN",
@@ -40409,6 +43298,13 @@
 				"gloss": "(Umwallung der) Oberstadt-GEN",
 				"segmentation": "kirġe-ve",
 				"transliteration": "k<del_in/>i<del_fin/>-ir-<del_in/>ḫi-wi<subscr c=\"i\"/><del_fin/>"
+			}
+		],
+		"KBo 32.19,Vs. 38b": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
 			}
 		],
 		"KBo 32.19,Vs. 39a": [
@@ -40440,11 +43336,46 @@
 				"transliteration": "a-az-zi-i-ri"
 			}
 		],
+		"KBo 32.19,Vs. 3b": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.19,Vs. 40b": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.19,Vs. 43b": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.19,Vs. 44b": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
 		"KBo 32.19,Vs. 46a": [
 			{
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "ta-<del_in/>"
+			}
+		],
+		"KBo 32.19,Vs. 46b": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
 			}
 		],
 		"KBo 32.19,Vs. 48a": [
@@ -40454,11 +43385,25 @@
 				"transliteration": "ti-wi<subscr c=\"i\"/>-<del_in/>"
 			}
 		],
+		"KBo 32.19,Vs. 48b": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
 		"KBo 32.19,Vs. 49a": [
 			{
 				"gloss": "u.B..ABS",
 				"segmentation": "idi",
 				"transliteration": "i-ti"
+			}
+		],
+		"KBo 32.19,Vs. 49b": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
 			}
 		],
 		"KBo 32.19,Vs. 4a": [
@@ -40497,6 +43442,13 @@
 				"transliteration": "wa<subscr c=\"a\"/>-ḫa-ar-<laes_in/>ri<laes_fin/>(-)<del_in/>"
 			}
 		],
+		"KBo 32.19,Vs. 51b": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
 		"KBo 32.19,Vs. 52b": [
 			{
 				"gloss": "",
@@ -40514,6 +43466,13 @@
 				"gloss": "u.B.-RELAT.SG-DIR/LOC",
 				"segmentation": "šēri-ne-e",
 				"transliteration": "še-e-er-ri"
+			}
+		],
+		"KBo 32.19,Vs. 5b": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
 			}
 		],
 		"KBo 32.19,Vs. 6a": [
@@ -40550,6 +43509,13 @@
 				"transliteration": "še-e-ši-e"
 			}
 		],
+		"KBo 32.19,Vs. 7b": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
 		"KBo 32.19,Vs. 8a": [
 			{
 				"gloss": "verköstigen-ol-PST-3A.SG",
@@ -40574,7 +43540,24 @@
 				"transliteration": "e-em-ma-an-zé-ne-wa<subscr c=\"a\"/>"
 			}
 		],
+		"KBo 32.19,Vs. 9b": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
 		"KBo 32.19,u. Rd. 1": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			},
 			{
 				"gloss": "",
 				"segmentation": "",
@@ -41756,6 +44739,62 @@
 				"transliteration": "Ende r. Kol."
 			}
 		],
+		"KBo 32.213,r. Kol. 1′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.213,r. Kol. 2′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.213,r. Kol. 3′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.213,r. Kol. 4′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.213,r. Kol. 5′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.213,r. Kol. 6′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.213,r. Kol. 7′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.213,r. Kol. 9′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
 		"KBo 32.214,Rs. IV 1": [
 			{
 				"gloss": "u.B..unclear",
@@ -41939,11 +44978,133 @@
 				"transliteration": "<laes_in/>ú<laes_fin/>-<del_in/>ru-uk-ku(-)"
 			}
 		],
+		"KBo 32.215,10′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.215,11′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.215,12′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.215,14′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.215,15′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.215,16′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.215,17′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.215,19′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.215,1′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.215,20′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
 		"KBo 32.215,21′": [
 			{
 				"gloss": "",
 				"segmentation": "",
+				"transliteration": "CLB"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
 				"transliteration": "Text bricht ab"
+			}
+		],
+		"KBo 32.215,2′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.215,3′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.215,4′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.215,5′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.215,7′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.215,9′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
 			}
 		],
 		"KBo 32.217,2′": [
@@ -41951,6 +45112,48 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "Text bricht ab"
+			}
+		],
+		"KBo 32.217,unknown": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.22,Vs. II 1′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.22,Vs. II 2′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.22,Vs. II 3′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.22,Vs. II 5′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.22,Vs. II 7′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
 			}
 		],
 		"KBo 32.22,Vs. II 8′": [
@@ -42431,6 +45634,62 @@
 				"transliteration": "Text bricht ab"
 			}
 		],
+		"KBo 32.24+, {€1} Rs. III 1′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.24+, {€1} Rs. III 3′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.24+, {€1} Vs. II 10′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.24+, {€1} Vs. II 11′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.24+, {€1} Vs. II 12′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.24+, {€1} Vs. II 13′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.24+, {€1} Vs. II 15′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.24+, {€1} Vs. II 18′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
 		"KBo 32.24+, {€1} Vs. II 19′": [
 			{
 				"gloss": "",
@@ -42438,11 +45697,95 @@
 				"transliteration": "Vs. II bricht ab"
 			}
 		],
+		"KBo 32.24+, {€1} Vs. II 1′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.24+, {€1} Vs. II 3′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.24+, {€1} Vs. II 5′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.24+, {€1} Vs. II 6′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.24+, {€1} Vs. II 8′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.24+, {€2} Rs. III 11′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.24+, {€2} Rs. III 13′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.24+, {€2} Rs. III 14′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.24+, {€2} Rs. III 15′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.24+, {€2} Rs. III 16′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
 		"KBo 32.24+, {€2} Rs. III 18′": [
 			{
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "Rs. III bricht ab"
+			}
+		],
+		"KBo 32.24+, {€2} Rs. III 6′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.24+, {€2} Rs. III 9′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
 			}
 		],
 		"KBo 32.25,Vs.? I 1′": [
@@ -42518,11 +45861,25 @@
 				"transliteration": "ú-u<del_fin/>l-mi"
 			}
 		],
+		"KBo 32.26,1b′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
 		"KBo 32.26,3a′": [
 			{
 				"gloss": "abwischen; niederdrücken-MOD.ACT-PURP=3SG.ABS=CON",
 				"segmentation": "ōll+uġ-i-ae=nna=ān",
 				"transliteration": "u-u<del_fin/>l-lu-ḫa-en-na-a-an"
+			}
+		],
+		"KBo 32.26,3b′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
 			}
 		],
 		"KBo 32.26,4a′": [
@@ -42554,6 +45911,20 @@
 				"transliteration": "ep-ri-ta"
 			}
 		],
+		"KBo 32.26,5b′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.26,6b′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
 		"KBo 32.26,7b′": [
 			{
 				"gloss": "",
@@ -42561,7 +45932,33 @@
 				"transliteration": "Text bricht ab"
 			}
 		],
+		"KBo 32.27,1′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.27,2′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.27,4′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
 		"KBo 32.27,5′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			},
 			{
 				"gloss": "",
 				"segmentation": "",
@@ -42598,10 +45995,81 @@
 			{
 				"gloss": "",
 				"segmentation": "",
+				"transliteration": "CLB"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
 				"transliteration": "Text bricht ab"
 			}
 		],
+		"KBo 32.29,1′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.29,2′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.29,4′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.29,7′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.29,8′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.30,Rs.? 1′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.30,Rs.? 3′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.30,Rs.? 4′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
 		"KBo 32.30,Rs.? 6′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			},
 			{
 				"gloss": "",
 				"segmentation": "",
@@ -42971,7 +46439,40 @@
 				"transliteration": "x<del_in/>"
 			}
 		],
+		"KBo 32.32,1′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.32,3′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.32,4′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.32,5′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
 		"KBo 32.32,7′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			},
 			{
 				"gloss": "",
 				"segmentation": "",
@@ -43044,11 +46545,37 @@
 				"transliteration": "lk. Kol. bricht ab"
 			}
 		],
+		"KBo 32.34,r. Kol. 1′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
 		"KBo 32.34,r. Kol. 2′": [
 			{
 				"gloss": "",
 				"segmentation": "",
+				"transliteration": "CLB"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
 				"transliteration": "r. Kol. bricht ab"
+			}
+		],
+		"KBo 32.35,1′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.35,3′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
 			}
 		],
 		"KBo 32.35,4′": [
@@ -43056,6 +46583,13 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "r. Kol. bricht ab"
+			}
+		],
+		"KBo 32.35,unknown": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
 			}
 		],
 		"KBo 32.36,lk. Kol. 6′": [
@@ -43077,11 +46611,140 @@
 				"transliteration": "lk. Kol. bricht ab"
 			}
 		],
+		"KBo 32.36,r. Kol. 10′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
 		"KBo 32.36,r. Kol. 12′": [
 			{
 				"gloss": "",
 				"segmentation": "",
+				"transliteration": "CLB"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
 				"transliteration": "r. Kol. bricht ab"
+			}
+		],
+		"KBo 32.36,r. Kol. 1′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.36,r. Kol. 2′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.36,r. Kol. 3′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.36,r. Kol. 5′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.36,r. Kol. 6′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.36,r. Kol. 7′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.36,r. Kol. 8′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.37,10′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.37,12′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.37,13′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.37,14′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.37,15′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.37,16′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.37,18′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.37,19′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.37,1′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
 			}
 		],
 		"KBo 32.37,20′": [
@@ -43089,6 +46752,83 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "Ende r. Kol."
+			}
+		],
+		"KBo 32.37,3′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.37,4′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.37,5′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.37,7′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.37,8′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.37,9′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.38,1b′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.38,3b′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.38,4b′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.38,5b′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.38,6b′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
 			}
 		],
 		"KBo 32.38,7b′": [
@@ -43140,11 +46880,51 @@
 				"transliteration": "Vs.? I bricht ab"
 			}
 		],
+		"KBo 32.40,1′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.40,2′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.40,3′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
 		"KBo 32.40,5′": [
 			{
 				"gloss": "",
 				"segmentation": "",
+				"transliteration": "CLB"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
 				"transliteration": "r. Kol. bricht ab"
+			}
+		],
+		"KBo 32.41,1′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.41,4′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
 			}
 		],
 		"KBo 32.41,5′": [
@@ -43238,11 +47018,60 @@
 				"transliteration": "ka₄-ti-i<del_in/>a"
 			}
 		],
+		"KBo 32.43,1b′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.43,2b′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.43,3b′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.43,4b′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.43,5b′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.43,6b′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
 		"KBo 32.43,7a′": [
 			{
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "<del_fin/>-e-em"
+			}
+		],
+		"KBo 32.43,7b′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
 			}
 		],
 		"KBo 32.43,8a′": [
@@ -43252,11 +47081,93 @@
 				"transliteration": "Text bricht ab"
 			}
 		],
+		"KBo 32.44,10′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.44,11′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.44,13′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.44,14′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.44,15′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.44,16′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
 		"KBo 32.44,17′": [
 			{
 				"gloss": "",
 				"segmentation": "",
+				"transliteration": "CLB"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
 				"transliteration": "Text bricht ab"
+			}
+		],
+		"KBo 32.44,1′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.44,2′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.44,3′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.44,5′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.44,6′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
 			}
 		],
 		"KBo 32.44,7′": [
@@ -43264,6 +47175,20 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "(Rasur)"
+			}
+		],
+		"KBo 32.44,8′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.44,9′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
 			}
 		],
 		"KBo 32.45,2′": [
@@ -43304,11 +47229,25 @@
 				"transliteration": "<del_fin/>x-e<corr c=\"?\"/>"
 			}
 		],
+		"KBo 32.46,1b′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
 		"KBo 32.46,2a′": [
 			{
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "-n<del_fin/>e-ra-al"
+			}
+		],
+		"KBo 32.46,3b′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
 			}
 		],
 		"KBo 32.46,4b′": [
@@ -43325,11 +47264,182 @@
 				"transliteration": "Lücke unbekannter Größe"
 			}
 		],
+		"KBo 32.47a+, {€1} Rs. III 1": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.47a+, {€1} Rs. III 11": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.47a+, {€1} Rs. III 12": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.47a+, {€1} Rs. III 14": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.47a+, {€1} Rs. III 15": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.47a+, {€1} Rs. III 17": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.47a+, {€1} Rs. III 19": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.47a+, {€1} Rs. III 2": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.47a+, {€1} Rs. III 20": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.47a+, {€1} Rs. III 21": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.47a+, {€1} Rs. III 4": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.47a+, {€1} Rs. III 5": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.47a+, {€1} Rs. III 6": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.47a+, {€1} Rs. III 7": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.47a+, {€1} Rs. III 8": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.47a+, {€1} Rs. III 9": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.47a+, {€1} Vs. II 10′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.47a+, {€1} Vs. II 11′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.47a+, {€1} Vs. II 12′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.47a+, {€1} Vs. II 13′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
 		"KBo 32.47a+, {€1} Vs. II 14′": [
 			{
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "Ende Vs. II"
+			}
+		],
+		"KBo 32.47a+, {€1} Vs. II 1′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.47a+, {€1} Vs. II 2′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.47a+, {€1} Vs. II 3′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
 			}
 		],
 		"KBo 32.47a+, {€1} Vs. II 4′": [
@@ -43339,18 +47449,180 @@
 				"transliteration": "(Rasur)"
 			}
 		],
+		"KBo 32.47a+, {€1} Vs. II 7′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.47a+, {€1} Vs. II 8′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.47a+, {€1} Vs. II 9′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.47a+, {€2} Rs.? III 10′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
 		"KBo 32.47a+, {€2} Rs.? III 11′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			},
 			{
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "Rs.? III bricht ab"
 			}
 		],
+		"KBo 32.47a+, {€2} Rs.? III 1′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.47a+, {€2} Rs.? III 2′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.47a+, {€2} Rs.? III 3′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.47a+, {€2} Rs.? III 4′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.47a+, {€2} Rs.? III 5′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.47a+, {€2} Rs.? III 6′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.47a+, {€2} Rs.? III 7′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.47a+, {€2} Rs.? III 8′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.47b,11′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.47b,12′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.47b,13′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
 		"KBo 32.47b,14′": [
 			{
 				"gloss": "",
 				"segmentation": "",
+				"transliteration": "CLB"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
 				"transliteration": "Text bricht ab"
+			}
+		],
+		"KBo 32.47b,1′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.47b,2′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.47b,4′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.47b,6′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.47b,7′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.47b,9′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
 			}
 		],
 		"KBo 32.48,lk. Kol. 1′": [
@@ -43360,18 +47632,115 @@
 				"transliteration": "lk. Kol. bricht ab"
 			}
 		],
+		"KBo 32.48,r. Kol. 1′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.48,r. Kol. 3′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.48,r. Kol. 4′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.48,r. Kol. 5′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.48,r. Kol. 6′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.48,r. Kol. 7′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
 		"KBo 32.48,r. Kol. 8′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			},
 			{
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "r. Kol. bricht ab"
 			}
 		],
+		"KBo 32.49,1′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.49,2′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.49,3′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.49,4′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
 		"KBo 32.49,5′": [
 			{
 				"gloss": "",
 				"segmentation": "",
+				"transliteration": "CLB"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
 				"transliteration": "Text bricht ab"
+			}
+		],
+		"KBo 32.49,unknown": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
 			}
 		],
 		"KBo 32.50,10′": [
@@ -43558,11 +47927,42 @@
 				"transliteration": "ša-kar-ri-i<del_in/>š"
 			}
 		],
+		"KBo 32.51,Rs. III 1": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
 		"KBo 32.51,Rs. III 2": [
 			{
 				"gloss": "",
 				"segmentation": "",
+				"transliteration": "CLB"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
 				"transliteration": "Rs. III bricht ab"
+			}
+		],
+		"KBo 32.52,1′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.52,2′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
 			}
 		],
 		"KBo 32.52,4′": [
@@ -43610,11 +48010,96 @@
 				"transliteration": "lk. Kol. bricht ab"
 			}
 		],
+		"KBo 32.53,unknown": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.54,11′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.54,12′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
 		"KBo 32.54,14′": [
 			{
 				"gloss": "",
 				"segmentation": "",
+				"transliteration": "CLB"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
 				"transliteration": "r. Kol. bricht ab"
+			}
+		],
+		"KBo 32.54,1′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.54,2′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.54,4′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.54,6′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.54,7′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.54,8′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.54,9′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
 			}
 		],
 		"KBo 32.55,1′": [
@@ -43667,6 +48152,41 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "lk. Kol. bricht ab"
+			}
+		],
+		"KBo 32.56,unknown": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.57,1′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.57,2′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.57,3′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.57,4′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
 			}
 		],
 		"KBo 32.57,5′": [
@@ -43771,18 +48291,108 @@
 				"transliteration": "Ende Vs. I"
 			}
 		],
+		"KBo 32.59,1′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.59,2′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.59,3′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.59,4′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
 		"KBo 32.59,5′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			},
 			{
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "Text bricht ab"
 			}
 		],
+		"KBo 32.60,1′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.60,3′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.60,4′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
 		"KBo 32.60,5′": [
 			{
 				"gloss": "",
 				"segmentation": "",
+				"transliteration": "CLB"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
 				"transliteration": "Text bricht ab"
+			}
+		],
+		"KBo 32.60,unknown": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.61,1′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.61,2′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
 			}
 		],
 		"KBo 32.61,3′": [
@@ -43793,6 +48403,11 @@
 			}
 		],
 		"KBo 32.62,Rs. 1′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			},
 			{
 				"gloss": "",
 				"segmentation": "",
@@ -43918,6 +48533,67 @@
 				"transliteration": "Text bricht ab"
 			}
 		],
+		"KBo 32.64,1′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.64,2′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.64,3′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.64,4′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.64,5′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.64,6′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.64,7′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.64,8′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
 		"KBo 32.64,9′": [
 			{
 				"gloss": "",
@@ -43925,7 +48601,19 @@
 				"transliteration": "Text bricht ab"
 			}
 		],
+		"KBo 32.66,1′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
 		"KBo 32.66,2′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			},
 			{
 				"gloss": "",
 				"segmentation": "",
@@ -44057,14 +48745,73 @@
 				"transliteration": "lk. Kol. bricht ab"
 			}
 		],
+		"KBo 32.68,r. Kol. 2′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
 		"KBo 32.68,r. Kol. 3′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			},
 			{
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "r. Kol. bricht ab"
 			}
 		],
+		"KBo 32.69,1′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.69,2′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.69,3′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.69,5′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.69,6′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.69,7′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
 		"KBo 32.69,9′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			},
 			{
 				"gloss": "",
 				"segmentation": "",
@@ -44116,6 +48863,48 @@
 				"transliteration": "Text bricht ab"
 			}
 		],
+		"KBo 32.70,unknown": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.71,r. Kol. 1′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.71,r. Kol. 2′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.71,r. Kol. 3′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.71,r. Kol. 4′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.71,r. Kol. 5′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
 		"KBo 32.71,r. Kol. 6′": [
 			{
 				"gloss": "",
@@ -44123,7 +48912,40 @@
 				"transliteration": "r. Kol. bricht ab"
 			}
 		],
+		"KBo 32.72,1′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.72,2′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.72,3′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.72,5′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
 		"KBo 32.72,6′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			},
 			{
 				"gloss": "",
 				"segmentation": "",
@@ -44163,18 +48985,147 @@
 				"transliteration": "Text bricht ab"
 			}
 		],
+		"KBo 32.74,10′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
 		"KBo 32.74,11′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			},
 			{
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "Text bricht ab"
 			}
 		],
+		"KBo 32.74,1′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.74,2′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.74,3′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.74,4′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.74,5′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.74,6′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.74,7′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.74,8′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.74,9′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.75,Rs.? 1′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
 		"KBo 32.75,Rs.? 2′": [
 			{
 				"gloss": "",
 				"segmentation": "",
+				"transliteration": "CLB"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
 				"transliteration": "Rs.? bricht ab"
+			}
+		],
+		"KBo 32.75,Vs.? 1′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.75,Vs.? 2′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.75,Vs.? 3′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.75,Vs.? 4′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.75,Vs.? 5′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.75,Vs.? 6′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
 			}
 		],
 		"KBo 32.75,Vs.? 7′": [
@@ -44219,14 +49170,73 @@
 				"transliteration": "Text bricht ab"
 			}
 		],
+		"KBo 32.77,1′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.77,2′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.77,4′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.77,5′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
 		"KBo 32.77,7′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			},
 			{
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "r. Kol. bricht ab"
 			}
 		],
+		"KBo 32.78,1′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.78,2′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.78,3′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
 		"KBo 32.78,4′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			},
 			{
 				"gloss": "",
 				"segmentation": "",
@@ -44272,6 +49282,13 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "Text bricht ab"
+			}
+		],
+		"KBo 32.79,unknown": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
 			}
 		],
 		"KBo 32.80,2′": [
@@ -44397,14 +49414,59 @@
 				"transliteration": "Text bricht ab"
 			}
 		],
+		"KBo 32.84,1′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.84,2′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
 		"KBo 32.84,3′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			},
 			{
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "Text bricht ab"
 			}
 		],
+		"KBo 32.85,1′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.85,2′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.85,3′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
 		"KBo 32.85,4′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			},
 			{
 				"gloss": "",
 				"segmentation": "",
@@ -44449,7 +49511,19 @@
 				"transliteration": "Text bricht ab"
 			}
 		],
+		"KBo 32.87,1′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
 		"KBo 32.87,2′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			},
 			{
 				"gloss": "",
 				"segmentation": "",
@@ -44570,7 +49644,40 @@
 				"transliteration": "Text bricht ab"
 			}
 		],
+		"KBo 32.90a,unknown": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.90b,1′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.90b,2′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.90b,3′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
 		"KBo 32.90b,4′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			},
 			{
 				"gloss": "",
 				"segmentation": "",
@@ -44634,6 +49741,13 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "Text bricht ab"
+			}
+		],
+		"KBo 32.92,unknown": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
 			}
 		],
 		"KBo 32.93,1′": [
@@ -44735,32 +49849,164 @@
 				"transliteration": "wu<subscr c=\"u\"/>-<del_in/>"
 			}
 		],
+		"KBo 32.95,1′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.95,2′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.95,3′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.95,4′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
 		"KBo 32.95,5′": [
 			{
 				"gloss": "",
 				"segmentation": "",
+				"transliteration": "CLB"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
 				"transliteration": "Text bricht ab"
+			}
+		],
+		"KBo 32.95,unknown": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.96,r. Kol. 1′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.96,r. Kol. 2′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
 			}
 		],
 		"KBo 32.96,r. Kol. 3′": [
 			{
 				"gloss": "",
 				"segmentation": "",
+				"transliteration": "CLB"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
 				"transliteration": "r. Kol. bricht ab"
+			}
+		],
+		"KBo 32.97,1′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.97,2′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.97,3′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
 			}
 		],
 		"KBo 32.97,4′": [
 			{
 				"gloss": "",
 				"segmentation": "",
+				"transliteration": "CLB"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
 				"transliteration": "Text bricht ab"
+			}
+		],
+		"KBo 32.98,1′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.98,2′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.98,3′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.98,4′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
 			}
 		],
 		"KBo 32.98,5′": [
 			{
 				"gloss": "",
 				"segmentation": "",
+				"transliteration": "CLB"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
 				"transliteration": "Text bricht ab"
+			}
+		],
+		"KBo 32.99,Seite A 1′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 32.99,Seite A 3′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
 			}
 		],
 		"KBo 32.99,Seite A 4′": [
@@ -44770,7 +50016,19 @@
 				"transliteration": "Seite A bricht ab"
 			}
 		],
+		"KBo 32.99,Seite B 1′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
 		"KBo 32.99,Seite B 2′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			},
 			{
 				"gloss": "",
 				"segmentation": "",
@@ -50956,6 +56214,11 @@
 				"gloss": "Ritualherr(in).ABS",
 				"segmentation": "āšḫ+ož+i+kk+o+nni",
 				"transliteration": "aš-ḫu-ši-ik-ku-un-ni"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
 			}
 		],
 		"KBo 33.43+, {€1} Rs. IV 11": [
@@ -51116,6 +56379,11 @@
 			{
 				"gloss": "",
 				"segmentation": "",
+				"transliteration": "CLB"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
 				"transliteration": "i-ti-pa"
 			},
 			{
@@ -51244,9 +56512,19 @@
 				"gloss": "Frau-GEN",
 				"segmentation": "aštaga-ve",
 				"transliteration": "aš-da-a-ga-bi"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
 			}
 		],
 		"KBo 33.43+, {€1} Rs. IV 24": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			},
 			{
 				"gloss": "",
 				"segmentation": "",
@@ -51347,6 +56625,11 @@
 			}
 		],
 		"KBo 33.43+, {€1} Rs. IV 29": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			},
 			{
 				"gloss": "",
 				"segmentation": "",
@@ -51470,6 +56753,11 @@
 				"gloss": "Gabe.ABS",
 				"segmentation": "nešše",
 				"transliteration": "ni-eš-ši"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
 			},
 			{
 				"gloss": "Silber-GEN.SG(UNM)",
@@ -51638,6 +56926,11 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "šu-un-ti-in-na"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
 			}
 		],
 		"KBo 33.43+, {€1} Vs. I 60": [
@@ -52038,6 +57331,13 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "d<del_in/>a<corr c=\"?\"/>-"
+			}
+		],
+		"KBo 33.43+, {€3} Vs. II 2′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
 			}
 		],
 		"KBo 33.43+, {€3} Vs. II 3′": [
@@ -54218,6 +59518,11 @@
 				"gloss": "GN-ADJ-RELAT.SG-GEN-RELAT.PL.ABS",
 				"segmentation": "Šabinuwa-ġe-ne-ve-na",
 				"transliteration": "<d>URU</d>ša-bi-nu-wa-ḫi-ni-bi-na"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
 			}
 		],
 		"KBo 35.183+,{€2} Vs. I 29′": [
@@ -55737,6 +61042,11 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "ḫu-u-ru-uš-ši-ia"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
 			}
 		],
 		"KBo 40.123+, {€1+3} Vs. I 43/Vs.11′": [
@@ -56480,6 +61790,11 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "it-kal-zi-ia"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
 			}
 		],
 		"KBo 40.123+, {€1} Vs. I 24": [
@@ -56487,6 +61802,11 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "<laes_in/>ḫu<laes_fin/>-u-ru-uš-ši-ia"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
 			}
 		],
 		"KBo 40.123+, {€1} Vs. I 67′!": [
@@ -60512,6 +65832,11 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "-i<del_fin/>š-na"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "NOTE"
 			}
 		],
 		"KBo 59.226,3′": [
@@ -60952,6 +66277,13 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "ka-<laes_in/>wa<subscr c=\"a\"/>-a-al<laes_fin/>-x<del_in/>"
+			}
+		],
+		"KBo 62.54,unknown": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
 			}
 		],
 		"KBo 62.8,Rs. 1": [
@@ -61441,6 +66773,13 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "Text bricht ab"
+			}
+		],
+		"KBo 64.6,unknown": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
 			}
 		],
 		"KBo 7.65,Vs. I 1": [
@@ -62679,6 +68018,13 @@
 				"transliteration": "wu<subscr c=\"u\"/>-ra-a-na"
 			}
 		],
+		"KBo 8.146,unknown": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
 		"KUB 27.31,10′": [
 			{
 				"gloss": "u.B.=2POSS.SG",
@@ -63731,6 +69077,30 @@
 				"transliteration": "at-ta-nu-u-wa<subscr c=\"a\"/>"
 			}
 		],
+		"KUB 27.38,Vs. I 18′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KUB 27.38,Vs. I 19′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
 		"KUB 27.38,Vs. I 1′": [
 			{
 				"gloss": "Gottkönig-RELAT.PL-PL-GEN",
@@ -63743,13 +69113,44 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "(Rasur)"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KUB 27.38,Vs. I 21′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KUB 27.38,Vs. I 22′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
 			}
 		],
 		"KUB 27.38,Vs. I 23′": [
 			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			},
+			{
 				"gloss": "Gottkönig-RELAT.PL.ABS",
 				"segmentation": "šarri-na",
 				"transliteration": "šar-re-<laes_in/>e-na<laes_fin/>"
+			}
+		],
+		"KUB 27.38,Vs. I 24′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
 			}
 		],
 		"KUB 27.38,Vs. I 25′": [
@@ -63757,6 +69158,13 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "(unbeschrieben)"
+			}
+		],
+		"KUB 27.38,Vs. I 26′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
 			}
 		],
 		"KUB 27.38,Vs. I 27′": [
@@ -69454,6 +74862,11 @@
 		],
 		"KUB 32.51+, {2+1} Vs. I 9′/Vs. I 51″": [
 			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			},
+			{
 				"gloss": "Reinheit-RELAT.SG-GEN-RELAT.PL-PL-ERG=2SG.ABS=CON",
 				"segmentation": "itkal+zi-ne-ve-na-āž-ož=mma=an",
 				"transliteration": "it-kal-<laes_in/>zi<laes_fin/>-ni-wi<subscr c=\"i\"/>-na-a-šu-um-mi-in"
@@ -69965,6 +75378,13 @@
 				"transliteration": "Ende Rs. III"
 			}
 		],
+		"KUB 45.25,Vs. I 1": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
 		"KUB 45.25,Vs. I 10": [
 			{
 				"gloss": "",
@@ -69975,6 +75395,20 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "Vs. I bricht ab"
+			}
+		],
+		"KUB 45.25,Vs. I 3": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KUB 45.25,Vs. I 8": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
 			}
 		],
 		"KUB 45.25,Vs. II 1": [
@@ -71135,6 +76569,11 @@
 				"gloss": "unten; hinab.ADV",
 				"segmentation": "tūri",
 				"transliteration": "tu-ú-r<del_in/>i(-)"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "NOTE"
 			}
 		],
 		"KUB 45.63,Vs. I 12": [
@@ -71604,6 +77043,11 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "<del_fin/>(-)<laes_in/>ḫa-ra<laes_fin/>(-)x<del_in/>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "NOTE"
 			}
 		],
 		"KUB 45.64+, {€1} Vs.? 20′": [
@@ -72243,6 +77687,11 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "Vs. bricht ab"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "NOTE"
 			}
 		],
 		"KUB 45.82,Vs. 10′": [
@@ -77554,6 +83003,11 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "a-x<del_in/>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "NOTE"
 			}
 		],
 		"KUB 47.8,Rs. IV? 4": [
@@ -78746,6 +84200,13 @@
 				"transliteration": "a-<laes_in/>e<laes_fin/>-<del_in/>"
 			}
 		],
+		"KUB 52.110,unknown": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
 		"KUB 52.114+, {€1+2} 1′": [
 			{
 				"gloss": "Ältester-RELAT.PL.ABS=CON",
@@ -79101,6 +84562,13 @@
 				"gloss": "Stern.noun",
 				"segmentation": "MUL",
 				"transliteration": "<sGr>MUL</sGr>"
+			}
+		],
+		"KUB 8.32,unknown": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
 			}
 		],
 		"KUB 8.47,lk. Kol. 1′": [
