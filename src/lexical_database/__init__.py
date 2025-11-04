@@ -96,9 +96,9 @@ class LexicalDatabase:
                     glosses_key = '{0},{1}'.format(stem, analysis.pos)
                     self.glosses[glosses_key].add(analysis.translation)
                     self.concordance[analysis_str].add(attestation)
-                    corpus_line.append(word.to_dict())
                 else:
                   log_selection_issue('Wrong number:', word.tag)
+            corpus_line.append(word.to_dict())
         except (KeyError, ValueError):
           msg = 'Cannot parse word:\n{0}\non line {1} in {2}'.format(
             str(word_tag), line.line_id, line.text_path
