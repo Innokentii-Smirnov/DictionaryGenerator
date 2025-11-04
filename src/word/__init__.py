@@ -7,6 +7,7 @@ from bs4 import Tag
 from os.path import exists
 from os import remove
 from logging import getLogger
+from lexical_database.corpus_word import CorpusWord
 
 c = 1
 SELECTION_LOG = 'selection.log'
@@ -58,25 +59,17 @@ class Word:
   logger = getLogger(__name__)
   MRP = compile(r'mrp(\d+)')
 
-  def to_dict(self):
+  def to_corpus_word(self) -> CorpusWord:
     if len(self.selections) > 0:
       selection = self.selections[0]
       if selection is not None and selection.lexeme in self.analyses:
         morph = self[selection.lexeme]
         analysis = make_analysis(selection, morph, self.tag)
-        return {
-          'transliteration': self.transliteration,
-          'segmentation': morph.segmentation,
-          'gloss': analysis
-        }
+        return CorpusWord(self.transliteration, morph.segmentation, analysis)
       else:
         log_selection_issue('Wrong number:', self.tag)
         analysis = ''
-    return {
-      'transliteration': self.transliteration,
-      'segmentation': '',
-      'gloss': ''
-    }
+    return CorpusWord(self.transliteration, '', '')
 
   @classmethod
   def make_word(cls, tag: Tag, default_lang: str) -> Word:

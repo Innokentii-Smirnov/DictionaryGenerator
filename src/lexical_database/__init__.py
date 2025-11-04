@@ -8,6 +8,7 @@ from os import makedirs
 from os.path import join
 from logging import getLogger, FileHandler, DEBUG, Formatter, LogRecord
 from contextvars import ContextVar
+from .corpus_word import CorpusWord
 
 ctx_text_path = ContextVar('text_path')
 ctx_text_path.set('Unknown directory')
@@ -58,7 +59,7 @@ class LexicalDatabase:
     self.dictionary = defaultdict[str, set[str]](set)
     self.glosses = defaultdict[str, set[str]](set)
     self.concordance = defaultdict[str, set[str]](set)
-    self.corpus = dict[str, dict[str, str]]()
+    self.corpus = dict[str, dict[str, CorpusWord]]()
     self.logger = getLogger(__name__)
 
   def to_dict(self):
@@ -98,7 +99,7 @@ class LexicalDatabase:
                     self.concordance[analysis_str].add(attestation)
                 else:
                   log_selection_issue('Wrong number:', word.tag)
-            corpus_line.append(word.to_dict())
+            corpus_line.append(word.to_corpus_word())
         except (KeyError, ValueError):
           msg = 'Cannot parse word:\n{0}\non line {1} in {2}'.format(
             str(word_tag), line.line_id, line.text_path
