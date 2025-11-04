@@ -39,7 +39,7 @@ for package in ['line', 'word', 'selection', 'morph', 'lexical_database']:
   logger.setLevel(DEBUG)
   logger.addHandler(handler)
 
-fragmentary_form_indicators = {'[', ']', '(-)', 'x'}
+fragmentary_form_indicators = {'[', ']', 'x'}
 
 def is_fragmentary(form: str) -> bool:
   return (any(indicator in form for indicator in fragmentary_form_indicators)

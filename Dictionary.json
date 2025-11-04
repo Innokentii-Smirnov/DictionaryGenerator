@@ -1,5 +1,8 @@
 {
 	"concordance": {
+		"(-)šēžili-ā @ u.B. @ ESS @ noun @ ": [
+			"KBo 32.91,lk. Kol. 3′"
+		],
 		"2 @ zwei @  @ noun @ ": [
 			"KBo 8.135,Rs. r. Kol. 6′"
 		],
@@ -76182,6 +76185,7 @@
 			"šī-i-a=v @ beobachten @ TR-3A.SG=2PL.ABS @ verb @ "
 		],
 		"(-)šēžila(-)": [
+			"(-)šēžili-ā @ u.B. @ ESS @ noun @ ",
 			"šēž-i-l-āi @ u.B. @ MOD.ACT-l-PURP @ verb @ ",
 			"šēž-il-ā @ u.B. @ { a  → il-3A.SG}{ b  → il-INT} @ verb @ ",
 			"šēžili-ā @ u.B. @ ESS @ noun @ ",
@@ -93313,6 +93317,9 @@
 		]
 	},
 	"glosses": {
+		"(,noun": [
+			"u.B."
+		],
 		",unclear": [
 			"u.B."
 		],
