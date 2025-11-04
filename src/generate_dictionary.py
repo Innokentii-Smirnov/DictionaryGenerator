@@ -78,7 +78,7 @@ with open(PROCESSED_FILES_LOG, 'w', encoding='utf-8') as modified_files:
                 with open(infile, 'r', encoding='utf-8') as fin:
                     file_text = fin.read()
                 soup = BeautifulSoup(file_text, 'xml')
-                tokens = soup(['lb', 'w'])
+                tokens = soup.body.find('text').children
                 for line_elements in split_before(tokens,
                                                   lambda tag: tag.name == 'lb'):
                   line = Line.parse_line(rel_path, text_id, line_elements)

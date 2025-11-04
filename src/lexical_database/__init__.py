@@ -77,33 +77,36 @@ class LexicalDatabase:
     if len(line) > 0:
       attestation = '{0},{1}'.format(line.text_id, line.line_id)
       corpus_line = list[dict[str, str]]()
-      for word_tag in line:
-        ctx_word_tag.set(word_tag)
-        try:
-          word = Word.make_word(word_tag, line.language)
-          if word.lang == 'Hur' and word.transcription is not None:
-            for selection in word.selections:
-              if selection is not None:
-                number = selection.lexeme
-                if number in word.analyses:
-                  analysis = word[number]
-                  if not is_fragmentary(analysis.segmentation):
-                    if isinstance(analysis, MultiMorph) and analysis.is_singletone:
-                      analysis_str = str(analysis.to_single())
-                    else:
-                      analysis_str = str(analysis)
-                    self.dictionary[word.transcription].add(analysis_str)
-                    stem = get_stem(analysis.segmentation)
-                    glosses_key = '{0},{1}'.format(stem, analysis.pos)
-                    self.glosses[glosses_key].add(analysis.translation)
-                    self.concordance[analysis_str].add(attestation)
-                else:
-                  log_selection_issue('Wrong number:', word.tag)
-            corpus_line.append(word.to_corpus_word())
-        except (KeyError, ValueError):
-          msg = 'Cannot parse word:\n{0}\non line {1} in {2}'.format(
-            str(word_tag), line.line_id, line.text_path
-          )
-          self.logger.exception(msg)
+      for tag in line:
+        ctx_word_tag.set(tag)
+        if tag.name == 'w':
+          try:
+            word = Word.make_word(tag, line.language)
+            if word.lang == 'Hur' and word.transcription is not None:
+              for selection in word.selections:
+                if selection is not None:
+                  number = selection.lexeme
+                  if number in word.analyses:
+                    analysis = word[number]
+                    if not is_fragmentary(analysis.segmentation):
+                      if isinstance(analysis, MultiMorph) and analysis.is_singletone:
+                        analysis_str = str(analysis.to_single())
+                      else:
+                        analysis_str = str(analysis)
+                      self.dictionary[word.transcription].add(analysis_str)
+                      stem = get_stem(analysis.segmentation)
+                      glosses_key = '{0},{1}'.format(stem, analysis.pos)
+                      self.glosses[glosses_key].add(analysis.translation)
+                      self.concordance[analysis_str].add(attestation)
+                  else:
+                    log_selection_issue('Wrong number:', word.tag)
+              corpus_line.append(word.to_corpus_word())
+          except (KeyError, ValueError):
+            msg = 'Cannot parse word:\n{0}\non line {1} in {2}'.format(
+              str(word_tag), line.line_id, line.text_path
+            )
+            self.logger.exception(msg)
+        elif tag.name in {'wsep', 'gap'} and 'c' in tag.attrs:
+          corpus_line.append(CorpusWord(tag['c'], '', ''))
       if (len(corpus_line) > 0):
         self.corpus[attestation] = corpus_line

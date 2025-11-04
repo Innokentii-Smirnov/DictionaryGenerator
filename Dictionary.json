@@ -20545,6 +20545,13 @@
 		]
 	},
 	"corpus": {
+		"ABoT 2.18,10′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Text bricht ab"
+			}
+		],
 		"ABoT 2.18,2′": [
 			{
 				"gloss": "Wort; Sache-RELAT.PL.ABS",
@@ -20681,6 +20688,18 @@
 				"transliteration": "ti-i-x<del_in/>"
 			}
 		],
+		"DAAM 1.14,Rs.": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "ca. 6 unbeschriebene Zeilen"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Ende Rs. IV"
+			}
+		],
 		"DAAM 1.14,Rs. 10′": [
 			{
 				"gloss": "u.B.-3POSS.SG-ERG=3SG.ABS",
@@ -20784,6 +20803,11 @@
 		],
 		"DAAM 1.14,Rs. 18′": [
 			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "𒀹"
+			},
+			{
 				"gloss": "jetziger-RELAT.PL.ABS",
 				"segmentation": "ḫinnatte-na",
 				"transliteration": "ḫi-in-na-at-te-n<del_in/>a<corr c=\"?\"/>(-)"
@@ -20794,6 +20818,11 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "<del_fin/>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "𒀹"
 			},
 			{
 				"gloss": "u.B.-ERG=3PL.ABS",
@@ -20811,6 +20840,11 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "<del_fin/>-ḫi"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "𒀹"
 			}
 		],
 		"DAAM 1.14,Rs. 20′": [
@@ -20876,6 +20910,11 @@
 				"transliteration": "-p<del_fin/>al-ta"
 			},
 			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "𒀹"
+			},
+			{
 				"gloss": "Königtum-RELAT.SG-ABL/INS",
 				"segmentation": "šarr+a+šše-ne-n",
 				"transliteration": "šar-ra-aš-ši-ni-in"
@@ -20933,6 +20972,11 @@
 			{
 				"gloss": "",
 				"segmentation": "",
+				"transliteration": "𒀹"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
 				"transliteration": "mi-x<del_in/>"
 			}
 		],
@@ -20940,10 +20984,27 @@
 			{
 				"gloss": "",
 				"segmentation": "",
+				"transliteration": "𒀹"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
 				"transliteration": "a-ga-ia-aš-š<del_in/>i(-)"
 			}
 		],
+		"DAAM 1.14,Vs.": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Lücke unbekannter Länge"
+			}
+		],
 		"DAAM 1.14,Vs. 10′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "𒀹"
+			},
 			{
 				"gloss": "DN.ABS",
 				"segmentation": "Ḫarġaraima",
@@ -21148,6 +21209,11 @@
 				"transliteration": "še-na"
 			},
 			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "𒀹"
+			},
+			{
 				"gloss": "nun-CON",
 				"segmentation": "ōndo=ma",
 				"transliteration": "u-un-du-ma"
@@ -21170,6 +21236,11 @@
 				"gloss": "Götterschaft-RELAT.SG-ABL/INS",
 				"segmentation": "en+zari-ne-n",
 				"transliteration": "<sGr>DINGIR</sGr><d>M<del_fin/>EŠ</d>-za-ar-ri-in"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "𒀹"
 			}
 		],
 		"DAAM 1.14,Vs. 20′": [
@@ -21182,6 +21253,11 @@
 				"gloss": "Himmel-ABL/INS",
 				"segmentation": "ḫavoro+ni-n",
 				"transliteration": "ḫa-pur-ni-in"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "𒀹"
 			},
 			{
 				"gloss": "Herrschaft.ABS",
@@ -21221,6 +21297,11 @@
 				"gloss": "nun-CON",
 				"segmentation": "ōndo=ma",
 				"transliteration": "<del_in/>u<corr c=\"?\"/>-un<corr c=\"?\"/>-d<del_fin/>u-<laes_in/>ma<laes_fin/>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Vs. bricht ab"
 			}
 		],
 		"DAAM 1.14,Vs. 2′": [
@@ -21228,6 +21309,11 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "<del_fin/>x-ni-pa"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "𒀹"
 			}
 		],
 		"DAAM 1.14,Vs. 2″": [
@@ -21297,6 +21383,11 @@
 			{
 				"gloss": "",
 				"segmentation": "",
+				"transliteration": "𒀹"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
 				"transliteration": "m<del_in/>a-"
 			}
 		],
@@ -21310,6 +21401,11 @@
 				"gloss": "Götterschaft-RELAT.PL.ABS",
 				"segmentation": "en+zari-na",
 				"transliteration": "<sGr>DINGIR</sGr><d>MEŠ</d>-za-ar-ra"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "𒀹"
 			},
 			{
 				"gloss": "",
@@ -21339,6 +21435,11 @@
 				"gloss": "Himmel-RELAT.SG-GEN",
 				"segmentation": "ḫavoro+nni-ne-ve",
 				"transliteration": "<del_in/>ḫa-wu<subscr c=\"u\"/>-u<del_fin/>-<laes_in/>ru<laes_fin/>-un-ni-bi"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "𒀹"
 			},
 			{
 				"gloss": "DN.ABS",
@@ -21380,6 +21481,11 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "iš-t<del_in/>a-"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Ende des Texts"
 			}
 		],
 		"KBo 12.80+, {€1} 10′": [
@@ -21454,6 +21560,13 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "-m<del_fin/>a-an-na"
+			}
+		],
+		"KBo 12.80+, {€1} 8′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "im erhaltenen Teil unbeschrieben"
 			}
 		],
 		"KBo 12.80+, {€1} 9′": [
@@ -21668,6 +21781,11 @@
 				"gloss": "GN.ABS",
 				"segmentation": "Mūgižanun",
 				"transliteration": "<d>D</d>mu-ú-ki-ša-nu-un"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Ende Vs. I"
 			}
 		],
 		"KBo 12.80+, {€2+3} Rs. IV 6′/Rs. IV? 2′": [
@@ -22053,6 +22171,13 @@
 				"transliteration": "i-nu-ú-u<del_in/>d<corr c=\"?\"/>-da<corr c=\"?\"/><note c=\" Oder: &lt;SP_f_AO_3a_Hurrian&gt;i-nu-ú-u&lt;del_in/&gt;t&lt;/SP_f_AO_3a_Hurrian&gt;&lt;SP_f_AO_3a_--superscr&gt;?&lt;/SP_f_AO_3a_--superscr&gt;&lt;SP_f_AO_3a_Hurrian&gt;-ta&lt;/SP_f_AO_3a_Hurrian&gt;&lt;SP_f_AO_3a_--superscr&gt;?&lt;/SP_f_AO_3a_--superscr&gt;. Es besteht allerdings eine Lücke zwischen dem &lt;SP_f_AO_3a_SIGN&gt;Ú&lt;/SP_f_AO_3a_SIGN&gt; und dem mutmaßlichen &lt;SP_f_AO_3a_SIGN&gt;UD&lt;/SP_f_AO_3a_SIGN&gt;.\" n=\"13\"/>"
 			}
 		],
+		"KBo 12.80+, {€2} Vs. I 16′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Rs. IV bricht ab"
+			}
+		],
 		"KBo 12.80+, {€3} Vs. I? 1": [
 			{
 				"gloss": "u.B.-NEG-3JUSS",
@@ -22068,6 +22193,13 @@
 				"gloss": "u.B.-1A.SG.NEG",
 				"segmentation": "nav-uffu",
 				"transliteration": "na-wu<subscr c=\"ú\"/>-wu<subscr c=\"ú\"/>(-)<del_in/>"
+			}
+		],
+		"KBo 12.80+,Rs. IV": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "(Rasur)"
 			}
 		],
 		"KBo 15.70+, {€1+2} Vs. 40′/Vs. I 40′": [
@@ -22519,6 +22651,13 @@
 				"gloss": "Ritualherr(in)-RELAT.SG-GEN",
 				"segmentation": "āšḫ+ož+i+kk+o+nni-ne-ve",
 				"transliteration": "aš<del_fin/>-ḫu-<laes_in/>ši<laes_fin/>-i<del_in/>k-ku-un-ni-ni-bi"
+			}
+		],
+		"KBo 15.70+, {€1} Rs. 39′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Rs. IV bricht ab"
 			}
 		],
 		"KBo 15.70+, {€1} Rs. 4′": [
@@ -23223,6 +23362,11 @@
 				"gloss": "Reinheit, rein-RELAT.PL-PL-ERG",
 				"segmentation": "eg+o+šše-na-āž-ož",
 				"transliteration": "<laes_in/>e-ku-uš<laes_fin/>-ši-na-<laes_in/>a<laes_fin/>-<del_in/>šu-uš"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Vs. II bricht ab"
 			}
 		],
 		"KBo 15.70+, {€2} Vs. II 2′": [
@@ -23411,6 +23555,11 @@
 				"gloss": "PN.noun",
 				"segmentation": "Tažme.šarri",
 				"transliteration": "<d>M</d>t<del_in/>a-aš-me-šar-ri(-)"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Ende Vs. I"
 			}
 		],
 		"KBo 15.70+,{€3} Vs. I 1": [
@@ -23536,6 +23685,11 @@
 				"gloss": "Gott-ERG",
 				"segmentation": "eni-ž",
 				"transliteration": "e-ni-eš"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "𒀹"
 			}
 		],
 		"KBo 15.72+, {€1} Vs. I 10": [
@@ -23648,6 +23802,11 @@
 				"gloss": "DN-DIR",
 				"segmentation": "Aia-da",
 				"transliteration": "<d>D</d><aGr>É-A</aGr>-ia-ta"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "𒀹"
 			}
 		],
 		"KBo 15.72+, {€1} Vs. I 5": [
@@ -23675,6 +23834,11 @@
 				"gloss": "u.B.-RES-MOD.ACT-OPT",
 				"segmentation": "šōd-ošt-ī-ēž",
 				"transliteration": "šu-u-du-uš-ti-i-e-eš"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "𒀹"
 			}
 		],
 		"KBo 15.72+, {€1} Vs. I 6": [
@@ -23780,11 +23944,28 @@
 				"transliteration": "<d>URU</d>ḫa-at-tu-u-ḫi-<laes_in/>na-a-ša<laes_fin/>"
 			}
 		],
+		"KBo 15.72+, {€2} Rs.": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "erhaltener Teil von zwei Zeilen unbeschrieben"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Rs. bricht nahe unterer Rand ab"
+			}
+		],
 		"KBo 15.72+, {€2} Rs. 10′": [
 			{
 				"gloss": "Himmel-RELAT.SG-GEN",
 				"segmentation": "ḫavoro+nni-ne-ve",
 				"transliteration": "ḫa-wu<subscr c=\"u\"/>-u-ru-un-ni-bi"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "𒀹"
 			},
 			{
 				"gloss": "König.ABS",
@@ -23838,6 +24019,11 @@
 				"gloss": "Land-RELAT.PL-PL-GEN",
 				"segmentation": "omini-na-āž-e",
 				"transliteration": "u-mi-in-na-a-ši"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "𒀹"
 			}
 		],
 		"KBo 15.72+, {€2} Rs. 8′": [
@@ -23862,6 +24048,11 @@
 				"gloss": "Gott-RELAT.PL-PL-GEN",
 				"segmentation": "eni-na-āž-e",
 				"transliteration": "<sGr><laes_in/>DINGIR</sGr><d>MEŠ</d>-na-a-ši<laes_fin/>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "𒀹"
 			},
 			{
 				"gloss": "König.ABS",
@@ -23907,6 +24098,11 @@
 		],
 		"KBo 15.72+, {€3} Vs. I 6′": [
 			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "𒀹"
+			},
+			{
 				"gloss": "u.B..ABS",
 				"segmentation": "ibi",
 				"transliteration": "i-bi(-)<del_in/>"
@@ -23929,6 +24125,18 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "<del_in/>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Vs. I bricht ab"
+			}
+		],
+		"KBo 15.72+,Vs. I": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Lücke unbekannter Größe"
 			}
 		],
 		"KBo 19.125,2′": [
@@ -23977,6 +24185,13 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "te-eš-<laes_in/>še<laes_fin/>-<del_in/>"
+			}
+		],
+		"KBo 19.125,6′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Text bricht ab"
 			}
 		],
 		"KBo 19.147,2′": [
@@ -24048,6 +24263,23 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "-ḫ<del_fin/>a-a-x<del_in/>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Text bricht ab"
+			}
+		],
+		"KBo 20.130,Rs.": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "erhaltener Teil einer Zeile unbeschrieben"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Rs. bricht ab"
 			}
 		],
 		"KBo 20.130,Rs. 10′": [
@@ -24065,6 +24297,11 @@
 				"gloss": "Land-RELAT.PL.ABS",
 				"segmentation": "omini-na",
 				"transliteration": "u-mi-in-na"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "𒀹"
 			},
 			{
 				"gloss": "",
@@ -24087,6 +24324,11 @@
 				"gloss": "Feind-ESS",
 				"segmentation": "torove-a",
 				"transliteration": "dur-pa"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "𒀹"
 			},
 			{
 				"gloss": "jetzt.ADV",
@@ -24232,6 +24474,13 @@
 				"transliteration": "tum-ni-ia-ša"
 			}
 		],
+		"KBo 20.131,Rs. III": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "ca. 5 Zeilen abgebrochen"
+			}
+		],
 		"KBo 20.131,Rs. III 13′": [
 			{
 				"gloss": "u.B..unclear",
@@ -24330,6 +24579,11 @@
 				"transliteration": "<laes_in/>a<laes_fin/>-ru-la-a-uš"
 			},
 			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "𒀹"
+			},
+			{
 				"gloss": "rein-RELAT.SG-GEN-INS",
 				"segmentation": "šeġeli-ne-ve-āi",
 				"transliteration": "še-ḫe-e-el-l<del_in/>i-pa-a-i<del_fin/>"
@@ -24371,6 +24625,11 @@
 				"gloss": "geben-ol-1A-PL",
 				"segmentation": "ar-ol-āw-ž",
 				"transliteration": "a-r<del_fin/>u-l<del_in/>a-a-uš"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Rs. III bricht ab"
 			}
 		],
 		"KBo 20.131,Rs. III 2′": [
@@ -24565,6 +24824,11 @@
 				"gloss": "Gott-RELAT.PL-PL-DAT/ESS",
 				"segmentation": "eni-na-āž-a",
 				"transliteration": "<sGr>DI<del_fin/>NGIR</sGr><d>MEŠ</d>-na-a-ša"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "𒀹"
 			}
 		],
 		"KBo 20.131,Vs. I 28′": [
@@ -24612,6 +24876,11 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "-š<del_fin/>a<corr c=\"?\"/>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Vs. I bricht ab"
 			}
 		],
 		"KBo 20.131,Vs. I 4′": [
@@ -25115,6 +25384,11 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "<del_fin/>x-ni"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Ende Vs. II"
 			}
 		],
 		"KBo 20.131,Vs. II 3′": [
@@ -25227,9 +25501,45 @@
 		],
 		"KBo 20.138,8′": [
 			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "𒀹"
+			},
+			{
 				"gloss": "Spruch-RELAT.PL-PL-ERG",
 				"segmentation": "kat+ki-na-āž-ož",
 				"transliteration": "kat-k<del_in/>i-na-a-šu-uš"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Kolumnenende"
+			}
+		],
+		"KBo 21.43,Rs. IV": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "erhaltener Teil einer Zeile unbeschrieben"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Rs. IV bricht ab"
+			}
+		],
+		"KBo 21.43,Vs. I": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "erhaltener Teil einer Zeile unbeschrieben"
+			}
+		],
+		"KBo 21.43,Vs. I 10′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Vs. I bricht ab"
 			}
 		],
 		"KBo 21.43,Vs. I 2′": [
@@ -25301,6 +25611,18 @@
 				"gloss": "beobachten-INF-ABL/INS",
 				"segmentation": "šī-ūmme-ne",
 				"transliteration": "ši-i-ú-um-mi-<del_in/>ni"
+			}
+		],
+		"KBo 21.44+, {€1} Rs.": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "erhaltener Teil einer Zeile unbeschrieben"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Rs. IV bricht ab"
 			}
 		],
 		"KBo 21.44+, {€1} Rs. 1′": [
@@ -25411,6 +25733,11 @@
 				"gloss": "Tamariske?.noun",
 				"segmentation": "pāīni",
 				"transliteration": "<d>GIŠ</d>p<del_fin/>a-a-i-in-<del_in/>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Lücke unbekannter Größe"
 			}
 		],
 		"KBo 21.44+, {€2} Rs.? 1′": [
@@ -25516,6 +25843,13 @@
 				"transliteration": "aš-ḫu-ši-i<del_in/>k-ku-un-ni(-)"
 			}
 		],
+		"KBo 21.44+, {€3} Rs. r. Kol.": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "erhaltener Teil einer Zeile unbeschrieben"
+			}
+		],
 		"KBo 21.44+, {€3} Rs. r. Kol. 10′": [
 			{
 				"gloss": "u.B.-INT-NEG",
@@ -25603,6 +25937,11 @@
 				"gloss": "u.B..noun",
 				"segmentation": "]šar[",
 				"transliteration": "<del_fin/>x-x-ša<del_in/>r-"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Rs. III bricht ab"
 			}
 		],
 		"KBo 21.44+, {€3} Rs. r. Kol. 3′": [
@@ -25724,6 +26063,13 @@
 				"gloss": "u.B..unclear",
 				"segmentation": "ḫižim[",
 				"transliteration": "ḫi-<laes_in/>ši-im<laes_fin/>-<del_in/>"
+			}
+		],
+		"KBo 21.46,16′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Text bricht ab"
 			}
 		],
 		"KBo 21.46,1′": [
@@ -25918,6 +26264,11 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "-i<del_fin/>š"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Text bricht ab"
 			}
 		],
 		"KBo 23.25,1′": [
@@ -26016,6 +26367,11 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "-a<del_fin/>r-ra(-)<del_in/>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Text bricht ab"
 			}
 		],
 		"KBo 27.102+, {€1+2} Vs. II 18/Rs.? 1′": [
@@ -26297,6 +26653,11 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "<del_fin/>-ni-eš"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Rs. III? bricht ab"
 			}
 		],
 		"KBo 27.102+, {€2} Rs.? 6″": [
@@ -26332,6 +26693,11 @@
 				"gloss": "u.B.-PL-ERG",
 				"segmentation": "]-až-ož",
 				"transliteration": "-š<del_fin/>u<corr c=\"?\"/>-uš"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Vs. II? bricht ab"
 			}
 		],
 		"KBo 27.102+, {€2} Vs.? 1′": [
@@ -26513,6 +26879,11 @@
 				"gloss": "u.B.-INS",
 				"segmentation": "umbi-āe",
 				"transliteration": "<del_fin/>(-)<laes_in/>um<laes_fin/>-ba-a-e"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Rs.? bricht ab"
 			}
 		],
 		"KBo 27.114+, {€1} 4′": [
@@ -26787,6 +27158,11 @@
 				"transliteration": "n<del_fin/>a-a-al-li-we<subscr c=\"e\"/>"
 			},
 			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "(Rasur)"
+			},
+			{
 				"gloss": ".noun",
 				"segmentation": "mari-[",
 				"transliteration": "ma-ri-x<del_in/><note c=\"Das Zeichen am Bruch könnte ein WA sein.\"/>"
@@ -26826,6 +27202,11 @@
 				"gloss": "gießen.unclear",
 				"segmentation": "tapš-u[",
 				"transliteration": "tap-šu-x-x-x<del_in/>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Text bricht ab"
 			}
 		],
 		"KBo 27.179,Rs. 10′": [
@@ -26859,6 +27240,11 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "<del_fin/>x(-)<laes_in/>ši<corr c=\"?\"/><laes_fin/>(-)<del_in/><note c=\"Der Anfang eines AR wäre ebenso möglich.\"/>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Rs. bricht ab"
 			}
 		],
 		"KBo 27.179,Rs. 1′": [
@@ -27146,6 +27532,11 @@
 				"gloss": "nehmen-TR-1A.SG.NEG",
 				"segmentation": "ḫā-i-ūffu",
 				"transliteration": "ḫa-i-ú-<laes_in/>up<laes_fin/>-w<del_in/>u<subscr c=\"ú\"/><note c=\"Nach der Autographie wäre ḫa-i-ú-ni-x[ zu lesen, aber nach dem Foto ist ein UB möglich. Der anschließende Winkelhaken am Bruch könnte gut zu einem WA gehören. Vgl. auch Vs. 5′.\"/>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Vs. bricht ab"
 			}
 		],
 		"KBo 27.179,Vs. 2′": [
@@ -27330,6 +27721,11 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "<del_fin/>-da"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Text bricht ab"
 			}
 		],
 		"KBo 27.188,10′": [
@@ -27349,6 +27745,11 @@
 				"gloss": "u.B..unclear",
 				"segmentation": "]tani[",
 				"transliteration": "<del_fin/>x-ta-ni-x<del_in/>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Text bricht ab"
 			}
 		],
 		"KBo 27.188,1′": [
@@ -27452,6 +27853,11 @@
 				"gloss": "u.B..ABS",
 				"segmentation": "]ižužaži",
 				"transliteration": "<del_fin/>(-)i<corr c=\"?\"/>-šu-ša-ši"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "(Rasur)"
 			}
 		],
 		"KBo 27.205,2′": [
@@ -27459,6 +27865,11 @@
 				"gloss": "u.B.-FUT-PL.A-3A",
 				"segmentation": "sub-et-t-a",
 				"transliteration": "<laes_in/>zu<laes_fin/>-bi-it-ta"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "𒀹"
 			},
 			{
 				"gloss": "Gallenblase-DAT",
@@ -27536,6 +27947,11 @@
 				"gloss": "recht, rechte Seite; rechts.ABS",
 				"segmentation": "fandi",
 				"transliteration": "<sGr><laes_in/>ZAG</sGr>-di<corr c=\"(?)\"/><laes_fin/>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "r. Kol. bricht ab"
 			}
 		],
 		"KBo 27.206,10′": [
@@ -27548,6 +27964,11 @@
 				"gloss": "u.B..ABS",
 				"segmentation": "sissi",
 				"transliteration": "zi-iz-zi(-)<del_in/>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Kolumnenende"
 			}
 		],
 		"KBo 27.206,1′": [
@@ -27700,6 +28121,11 @@
 				"gloss": "u.B..unclear",
 				"segmentation": "]ni[",
 				"transliteration": "<del_fin/>x-ni-x<del_in/>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Text bricht ab"
 			}
 		],
 		"KBo 27.207,1′": [
@@ -27833,6 +28259,13 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "a-d<del_in/>a-"
+			}
+		],
+		"KBo 27.208,11′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Text bricht ab"
 			}
 		],
 		"KBo 27.208,1′": [
@@ -27978,11 +28411,25 @@
 				"transliteration": "<sGr><del_in/>Z<del_fin/>Í</sGr>-n<del_in/>i-eš"
 			}
 		],
+		"KBo 27.209,Rs. 6′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Rs. bricht ab"
+			}
+		],
 		"KBo 27.209,Vs. 10′": [
 			{
 				"gloss": "Eisen?.ABS",
 				"segmentation": "ḫabalgi",
 				"transliteration": "ḫa-pa-a<del_in/>l-ki<corr c=\"?\"/>"
+			}
+		],
+		"KBo 27.209,Vs. 11′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Vs. bricht ab"
 			}
 		],
 		"KBo 27.209,Vs. 1′": [
@@ -28141,6 +28588,13 @@
 				"transliteration": "-i<del_fin/>k-<laes_in/>ki<laes_fin/>-ma-an"
 			}
 		],
+		"KBo 27.210,Rs. lk. Kol. 14′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Rs. lk. Kol. bricht ab"
+			}
+		],
 		"KBo 27.210,Rs. lk. Kol. 1′": [
 			{
 				"gloss": "",
@@ -28256,6 +28710,11 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "š<del_in/>u-"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Rs. r. Kol. bricht ab"
 			}
 		],
 		"KBo 27.210,Rs. r. Kol. 2′": [
@@ -28408,6 +28867,11 @@
 				"gloss": "sterben; sterben lassen-FUT-3A.SG",
 				"segmentation": "BA.ÚŠ-ed-a",
 				"transliteration": "<sGr>BA.ÚŠ</sGr>-da"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Ende Rs."
 			}
 		],
 		"KBo 27.211,Vs. 1": [
@@ -28422,6 +28886,13 @@
 				"gloss": "freilassen; gewähren-FUT-MED-3A.SG",
 				"segmentation": "nakk-ed-uw-a",
 				"transliteration": "na-a<del_fin/>k-ki-du-wa"
+			}
+		],
+		"KBo 27.211,Vs. 13": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Vs. bricht ab"
 			}
 		],
 		"KBo 27.211,Vs. 2": [
@@ -28534,6 +29005,13 @@
 				"transliteration": "<d>LÚ</d><sGr>KÚR</sGr>-e"
 			}
 		],
+		"KBo 27.212,Rs. 4′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Ende Rs."
+			}
+		],
 		"KBo 27.212,Vs. 1": [
 			{
 				"gloss": "Mann-GEN",
@@ -28558,6 +29036,11 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "-d<del_fin/>a"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Vs. bricht ab"
 			}
 		],
 		"KBo 27.212,Vs. 2": [
@@ -28658,6 +29141,13 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "ḫu-<laes_in/>ru<laes_fin/>-<del_in/>um-ni-da(-)"
+			}
+		],
+		"KBo 27.213,13′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "r. Kol. bricht ab"
 			}
 		],
 		"KBo 27.213,1′": [
@@ -28813,6 +29303,13 @@
 				"transliteration": "<sGr>KUR</sGr>-na-še"
 			}
 		],
+		"KBo 27.214,Rs. V 14": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Rs. V? bricht ab"
+			}
+		],
 		"KBo 27.214,Rs. V 2": [
 			{
 				"gloss": "Deich; Kanal=3PL.ABS",
@@ -28925,6 +29422,11 @@
 			{
 				"gloss": "",
 				"segmentation": "",
+				"transliteration": "(Rasur)"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
 				"transliteration": "<c type=\"sign\">GIŠ</c>"
 			}
 		],
@@ -28940,6 +29442,11 @@
 				"gloss": "u.B.-RELAT.SG-DIR=CON",
 				"segmentation": "]ḫi-ne-da=ma",
 				"transliteration": "<del_fin/>x-ḫi-ni-<ras_in/>da-ma<ras_fin/>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "(Rasur)"
 			}
 		],
 		"KBo 27.214,Vs. I 6′": [
@@ -28947,6 +29454,11 @@
 				"gloss": "existieren-uġ-FUT-3A.SG",
 				"segmentation": "ur-uġ-ed-a",
 				"transliteration": "ú-ru-ḫi-ta"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "(Rasur)"
 			}
 		],
 		"KBo 27.214,Vs. I 7′": [
@@ -28966,6 +29478,11 @@
 				"gloss": "existieren-uġ-FUT-3A.SG",
 				"segmentation": "ur-uġ-ed-a",
 				"transliteration": "ú<corr c=\"?\"/>-ru<corr c=\"?\"/><del_fin/>-<laes_in/>ḫi<laes_fin/>-ta"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Ende Vs. I"
 			}
 		],
 		"KBo 27.214,Vs. II 10′": [
@@ -28973,6 +29490,11 @@
 				"gloss": "u.B..noun",
 				"segmentation": "]+arde-[",
 				"transliteration": "<del_fin/>x(-)ar-te-x<del_in/>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Ende Vs. II"
 			}
 		],
 		"KBo 27.214,Vs. II 1′": [
@@ -29260,6 +29782,11 @@
 				"gloss": "u.B..unclear",
 				"segmentation": "]ri",
 				"transliteration": "<del_fin/>x-ri"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Vs.? bricht ab"
 			}
 		],
 		"KBo 27.215,Vs.? 2′": [
@@ -29383,6 +29910,18 @@
 				"transliteration": "i-r<del_in/>a-"
 			}
 		],
+		"KBo 27.216,Rs.": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "ca. 3 im erhaltenen Teil unbeschriebene Zeilen"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Ende Rs. III"
+			}
+		],
 		"KBo 27.216,Rs. III 2′!": [
 			{
 				"gloss": "Erde-RELAT.SG-DIR/LOC",
@@ -29412,6 +29951,13 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "<del_fin/>-<laes_in/>a<corr c=\"?\"/><laes_fin/>-ap-ni(-)<del_in/>"
+			}
+		],
+		"KBo 27.216,Vs. II 10": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Vs. II bricht ab"
 			}
 		],
 		"KBo 27.216,Vs. II 3": [
@@ -29961,6 +30507,11 @@
 				"transliteration": "a-aš-ḫu-u"
 			},
 			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "(Rasur)"
+			},
+			{
 				"gloss": "Himmel.ABS",
 				"segmentation": "ḫavoro+ni",
 				"transliteration": "ḫa-wu<subscr c=\"u\"/>-u-<laes_in/>ur<laes_fin/>-ni"
@@ -30129,6 +30680,13 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "<laes_in/>na<laes_fin/>-x<del_in/>"
+			}
+		],
+		"KBo 27.217,Rs. IV 48′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Rs. IV bricht ab"
 			}
 		],
 		"KBo 27.217,Rs. IV 4′": [
@@ -30701,6 +31259,11 @@
 				"gloss": "falls; wenn.CONJ",
 				"segmentation": "ai=[",
 				"transliteration": "a-<laes_in/>i<corr c=\"?\"/><laes_fin/>-<del_in/><note c=\"Das A steht allerdings ohne Lücke direkt hinter dem IA, sodass auch nur ein Wort vorliegen könnte. Das Verb des Einleitungssatzes der direkten Rede, kad-i-a, müsste dann am Ende der vorhergehenden Zeile gestanden haben.\"/>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Vs. I bricht ab"
 			}
 		],
 		"KBo 27.217,Vs. I 3′": [
@@ -31301,6 +31864,11 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "<num>6</num><d>KA<del_in/>M</d>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Ende Rs. IV"
 			}
 		],
 		"KBo 27.219+, {€1} Rs. IV 13′": [
@@ -31387,6 +31955,13 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "ḫi-i-x<del_in/>"
+			}
+		],
+		"KBo 27.219+, {€1} Vs. I": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Lücke von größerer Länge"
 			}
 		],
 		"KBo 27.219+, {€1} Vs. I 1": [
@@ -31897,6 +32472,11 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "x-<laes_in/>ša<corr c=\"?\"/><laes_fin/><note c=\" Oder: &lt;SP_f_AO_3a_Hurrian&gt;-&lt;laes_in/&gt;ta&lt;laes_fin/&gt;&lt;/SP_f_AO_3a_Hurrian&gt;.\" n=\"11\"/>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Vs. II bricht ab"
 			}
 		],
 		"KBo 27.219+, {€2} Rs. 1": [
@@ -31925,6 +32505,11 @@
 				"gloss": "Wasser; Fluss-ESS",
 				"segmentation": "šie-a",
 				"transliteration": "ši-i-ia"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Ende Vs. I"
 			}
 		],
 		"KBo 27.219+, {€3+1+4} Vs. I(?) 1/Vs. II 1/lk. Kol. 1": [
@@ -32159,6 +32744,11 @@
 				"transliteration": "-r<del_fin/>i<corr c=\"?\"/>-wa<subscr c=\"a\"/>"
 			},
 			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "𒀹"
+			},
+			{
 				"gloss": "DN-RELAT.SG-ERG=3PL.ABS",
 				"segmentation": "Tapšuwari-nē-ž=l",
 				"transliteration": "<d>D</d>tap-šu-wa-ar-ri-<laes_in/>i<laes_fin/>-e<del_in/>l"
@@ -32186,6 +32776,11 @@
 				"gloss": "sprechen-CVB-n",
 				"segmentation": "alu-m+āi-n",
 				"transliteration": "a-lu-ma-a-i<del_in/>n"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Ende Rs. III"
 			}
 		],
 		"KBo 27.219+, {€5+1} 1′/Rs. III 13′": [
@@ -32372,6 +32967,27 @@
 				"transliteration": "e<del_fin/>-ni-it-ḫar-ra(-)<del_in/><note c=\"Die in der Autographie angegebene Zeichenspur vor dem 〈SP_f_AO_3a_SIGN〉NI〈/SP_f_AO_3a_SIGN〉 ist auf dem Foto nicht zu erkennen. Oder: 〈SP_f_AO_3a_Hurrian〉i〈del_fin/〉-ni-it-ḫar-ra-〈del_in/〉〈/SP_f_AO_3a_Hurrian〉.\"/>"
 			}
 		],
+		"KBo 27.219+,Rs. III": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Lücke größerer Länge"
+			}
+		],
+		"KBo 27.219+,Rs. IV": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Lücke größerer Länge"
+			}
+		],
+		"KBo 27.219+,Vs. II": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Lücke größerer Länge"
+			}
+		],
 		"KBo 27.75,2′": [
 			{
 				"gloss": "",
@@ -32410,6 +33026,13 @@
 				"transliteration": "ši-i-<laes_in/>e<laes_fin/>(-)<del_in/>"
 			}
 		],
+		"KBo 27.75,6′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Text bricht ab"
+			}
+		],
 		"KBo 27.92+, {€1} Rs. III 1′": [
 			{
 				"gloss": "",
@@ -32422,6 +33045,11 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "k<del_in/>u-"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Ende Rs. III"
 			}
 		],
 		"KBo 27.92+, {€1} Vs. II 1": [
@@ -32636,6 +33264,13 @@
 				"transliteration": "pa-a-ḫi-ta"
 			}
 		],
+		"KBo 27.92+, {€2} lk. Kol. 10′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Vs. I bricht ab"
+			}
+		],
 		"KBo 27.92+, {€2} lk. Kol. 1′": [
 			{
 				"gloss": "u.B..unclear",
@@ -32749,6 +33384,11 @@
 				"gloss": "gegenseitige Liebe-INS",
 				"segmentation": "tad+ugar+i-āe",
 				"transliteration": "t<del_in/>a-du-ga-ra-a-e<note c=\"Die genaue Schreibung der Ergänzung kann abweichen.\"/>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Vs. II bricht ab"
 			}
 		],
 		"KBo 27.92+, {€3} 5′": [
@@ -32838,6 +33478,13 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "<aGr>QA-TI</aGr>"
+			}
+		],
+		"KBo 27.92+, {€4} Rs. IV 13′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Rs. IV bricht ab"
 			}
 		],
 		"KBo 27.92+, {€4} Rs. IV 1′": [
@@ -32973,6 +33620,20 @@
 				"transliteration": "<d>D</d><sGr>IŠKUR</sGr>-up-pa"
 			}
 		],
+		"KBo 27.92+,Vs. I": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Lücke unbekannter Größe"
+			}
+		],
+		"KBo 27.92+,Vs. II": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Lücke unbekannter Größe"
+			}
+		],
 		"KBo 27.95,10′": [
 			{
 				"gloss": "u.B..ABS",
@@ -33036,6 +33697,13 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "<del_in/>"
+			}
+		],
+		"KBo 27.95,15′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Text bricht ab"
 			}
 		],
 		"KBo 27.95,2′": [
@@ -33256,6 +33924,11 @@
 				"gloss": "PN.ABS",
 				"segmentation": "]do.ḫeba",
 				"transliteration": "-d<del_fin/>u-ḫé-pa"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Vs. II? bricht ab"
 			}
 		],
 		"KBo 27.96,Seite A 3′": [
@@ -33307,6 +33980,13 @@
 				"transliteration": "<del_fin/>(-)<laes_in/>ú<laes_fin/>-nu-ša-am-ma"
 			}
 		],
+		"KBo 27.96,Seite B": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Ende von ca. 4 Zeilen unbeschrieben"
+			}
+		],
 		"KBo 27.96,Seite B 11'": [
 			{
 				"gloss": "u.B..unclear",
@@ -33326,6 +34006,13 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "<del_fin/>x-a-ki"
+			}
+		],
+		"KBo 27.96,Seite B 15′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Rs. III? bricht ab"
 			}
 		],
 		"KBo 27.96,Seite B 1′": [
@@ -33363,6 +34050,27 @@
 				"transliteration": "-r<del_fin/>a"
 			}
 		],
+		"KBo 32.10,Rs. 5b′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "(Rasur)"
+			}
+		],
+		"KBo 32.10,Rs. 8′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Ende Rs."
+			}
+		],
+		"KBo 32.10,Vs. 10b": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Vs. bricht ab"
+			}
+		],
 		"KBo 32.100,1′": [
 			{
 				"gloss": "u.B..unclear",
@@ -33389,6 +34097,27 @@
 				"transliteration": "<del_in/>"
 			}
 		],
+		"KBo 32.100,4′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Text bricht ab"
+			}
+		],
+		"KBo 32.101,4′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Text bricht ab"
+			}
+		],
+		"KBo 32.102,6′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Text bricht ab"
+			}
+		],
 		"KBo 32.103a,2′": [
 			{
 				"gloss": "",
@@ -33403,11 +34132,32 @@
 				"transliteration": "-a<del_fin/>p-wa<subscr c=\"a\"/>-aš-<del_in/>"
 			}
 		],
+		"KBo 32.103a,4′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Text bricht ab"
+			}
+		],
 		"KBo 32.103b,2′": [
 			{
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "<del_fin/>-wa-a-du"
+			}
+		],
+		"KBo 32.103b,3′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Text bricht ab"
+			}
+		],
+		"KBo 32.103c,5′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Text bricht ab"
 			}
 		],
 		"KBo 32.103d,2′": [
@@ -33422,6 +34172,34 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "-r<del_fin/>i"
+			}
+		],
+		"KBo 32.103d,4′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Text bricht ab"
+			}
+		],
+		"KBo 32.103e,lk. Kol. 1′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "lk. Kol. bricht ab"
+			}
+		],
+		"KBo 32.103e,r. Kol. 2′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "r. Kol. bricht ab"
+			}
+		],
+		"KBo 32.103f,3′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Text bricht ab"
 			}
 		],
 		"KBo 32.103g,1′": [
@@ -33441,6 +34219,25 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "x"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Text bricht ab"
+			}
+		],
+		"KBo 32.103h,5′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Text bricht ab"
+			}
+		],
+		"KBo 32.103i,5′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Text bricht ab"
 			}
 		],
 		"KBo 32.103j,2′": [
@@ -33448,6 +34245,18 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "k<del_in/>a<corr c=\"?\"/>-"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Text bricht ab"
+			}
+		],
+		"KBo 32.103k,3′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Text bricht ab"
 			}
 		],
 		"KBo 32.103l,2′": [
@@ -33455,6 +34264,11 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "-u<del_fin/>l-la-x<del_in/>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Text bricht ab"
 			}
 		],
 		"KBo 32.103m,1′": [
@@ -33497,6 +34311,27 @@
 				"transliteration": "<laes_in/>ú<laes_fin/>-<del_in/>"
 			}
 		],
+		"KBo 32.103m,6′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Text bricht ab"
+			}
+		],
+		"KBo 32.103n,4′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Text bricht ab"
+			}
+		],
+		"KBo 32.103o,4′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Text bricht ab"
+			}
+		],
 		"KBo 32.103p,lk. Kol. 1′": [
 			{
 				"gloss": "",
@@ -33509,6 +34344,32 @@
 				"gloss": "u.B..unclear",
 				"segmentation": "nap[",
 				"transliteration": "<laes_in/>na<corr c=\"?\"/>-ap<corr c=\"?\"/><laes_fin/>-x<del_in/>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "lk. Kol. bricht ab"
+			}
+		],
+		"KBo 32.103p,r. Kol. 5′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "r. Kol. bricht ab"
+			}
+		],
+		"KBo 32.103q,2′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Text bricht ab"
+			}
+		],
+		"KBo 32.104,2′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Text bricht ab"
 			}
 		],
 		"KBo 32.107,1′": [
@@ -33540,6 +34401,11 @@
 				"gloss": "u.B..ABS",
 				"segmentation": "]šiāllē",
 				"transliteration": "<del_fin/>-ši-a-al-le-<laes_in/>e<laes_fin/>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Text bricht ab"
 			}
 		],
 		"KBo 32.109,1′": [
@@ -33592,6 +34458,11 @@
 				"gloss": "u.B.-3POSS.SG-PL-DAT/ESS",
 				"segmentation": "]b-i-až-a",
 				"transliteration": "-b<del_fin/>i<corr c=\"?\"/>-ia-ša"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Ende von 4-5 Zeilen unbeschrieben; lk. Kol. bricht ab"
 			}
 		],
 		"KBo 32.11,Rs. IV 10′": [
@@ -33763,6 +34634,13 @@
 				"transliteration": "pa-a-ḫ<del_in/>u<corr c=\"?\"/>(-)"
 			}
 		],
+		"KBo 32.11,Rs. IV 23′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Ende Rs. IV"
+			}
+		],
 		"KBo 32.11,Rs. IV 2′": [
 			{
 				"gloss": "u.B.-ANTIP-b",
@@ -33806,6 +34684,11 @@
 				"gloss": "u.B..unclear",
 				"segmentation": "]ma",
 				"transliteration": "-m<del_fin/>a<corr c=\"?\"/>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "𒀹"
 			},
 			{
 				"gloss": "1PRON.SG.ABS",
@@ -34011,6 +34894,13 @@
 				"transliteration": "ši-i-<del_in/>tu-u-ri<del_fin/>"
 			}
 		],
+		"KBo 32.11,Vs. I 20": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Vs. I bricht ab"
+			}
+		],
 		"KBo 32.11,Vs. I 3": [
 			{
 				"gloss": "Riegel.ABS",
@@ -34060,6 +34950,11 @@
 				"gloss": "Wort; Sache.ABS",
 				"segmentation": "tīve",
 				"transliteration": "ti-wi<subscr c=\"i\"/>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "(Rasur)"
 			},
 			{
 				"gloss": "machen.unclear",
@@ -34128,6 +35023,20 @@
 				"gloss": "GN.ABS=CON",
 				"segmentation": "Ēbla=m",
 				"transliteration": "<d>URU</d>e-ep-la-am"
+			}
+		],
+		"KBo 32.110,2′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Text bricht ab"
+			}
+		],
+		"KBo 32.113,7′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Text bricht ab"
 			}
 		],
 		"KBo 32.12,Rs. IV 10′": [
@@ -34341,6 +35250,13 @@
 				"transliteration": "ka₄-túl-li"
 			}
 		],
+		"KBo 32.12,Rs. IV 23′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Ende Rs. IV"
+			}
+		],
 		"KBo 32.12,Rs. IV 2′": [
 			{
 				"gloss": "",
@@ -34461,6 +35377,11 @@
 				"transliteration": "<del_in/>t<del_fin/>ar-šu-wa-a-ni"
 			},
 			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "𒀹"
+			},
+			{
 				"gloss": "PRON.ANAPH.ABS",
 				"segmentation": "andi",
 				"transliteration": "an-ti"
@@ -34505,6 +35426,11 @@
 				"gloss": "u.B.-ESS",
 				"segmentation": "ālv-a",
 				"transliteration": "<laes_in/>a<laes_fin/>-al-wa<subscr c=\"a\"/>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "𒀹"
 			},
 			{
 				"gloss": "u.B.-TR-3A.SG=CON",
@@ -34616,6 +35542,11 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "(-)t<del_fin/>i-i-<del_in/>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Vs. I bricht ab"
 			}
 		],
 		"KBo 32.12,Vs. I 3": [
@@ -34737,6 +35668,13 @@
 				"gloss": "u.B..unclear",
 				"segmentation": "-]ni",
 				"transliteration": "-n<del_fin/>i<corr c=\"?\"/><note c=\"Oder: -i]n?.\"/>"
+			}
+		],
+		"KBo 32.13+, {€1} Rs. 19′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Ende Rs."
 			}
 		],
 		"KBo 32.13+, {€1} Rs. 1a′": [
@@ -35208,6 +36146,13 @@
 				"transliteration": "<del_fin/>x-la"
 			}
 		],
+		"KBo 32.13+, {€1} Vs. 35b": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Vs. bricht ab"
+			}
+		],
 		"KBo 32.13+, {€1} Vs. 3a": [
 			{
 				"gloss": "Gottkönig.ABS",
@@ -35331,11 +36276,23 @@
 				"transliteration": "-m<del_fin/>u"
 			}
 		],
+		"KBo 32.13+,Rs.": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Lücke von wenigen Zeilen"
+			}
+		],
 		"KBo 32.14,Rs. 10a": [
 			{
 				"gloss": "herausziehen-aḫḫ-TR.PFV-3A.SG",
 				"segmentation": "tal-aḫḫ-ō-m",
 				"transliteration": "ta-la-aḫ-ḫu-u-um"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "𒀹"
 			},
 			{
 				"gloss": "herausziehen-aḫḫ-TR.PFV-3A.SG",
@@ -35358,6 +36315,11 @@
 				"gloss": "eintauchen-TR.PFV-3A.SG",
 				"segmentation": "pūz+iġ-o-m",
 				"transliteration": "pu-ú-zi-ḫu-um"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "𒀹"
 			},
 			{
 				"gloss": "eintauchen-TR.PFV-3A.SG",
@@ -35421,6 +36383,13 @@
 				"transliteration": "e-ep-ri-eš"
 			}
 		],
+		"KBo 32.14,Rs. 14b": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "(Rasur)"
+			}
+		],
 		"KBo 32.14,Rs. 15a": [
 			{
 				"gloss": "sich setzen; sitzen; einsetzen-MOD.ACT-l-PURP",
@@ -35448,6 +36417,11 @@
 				"gloss": "Abgabe-ESS",
 				"segmentation": "er+āni-a",
 				"transliteration": "e-ra-a-na"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "𒀹"
 			},
 			{
 				"gloss": "sehen?-MED",
@@ -35654,6 +36628,11 @@
 				"gloss": "fressen-TR.PFV-3A.SG",
 				"segmentation": "ul+ān-ō-m",
 				"transliteration": "ú-la-a-nu-u-um"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "𒀹"
 			},
 			{
 				"gloss": "ein Tier.ABS",
@@ -36719,6 +37698,11 @@
 				"gloss": "fett_gemachte-RELAT.SG-ERG",
 				"segmentation": "šēd+oʾ+ilia-ne-ž",
 				"transliteration": "še-e-du-i-li-ia-ni-iš<note c=\"Der anschließende Glossenkeil dient zur ur Trennung von Zeile Vs. 10b.\"/>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "𒀹"
 			}
 		],
 		"KBo 32.14,Vs. 11a": [
@@ -36731,6 +37715,11 @@
 				"gloss": "Rehbock-RELAT.SG-ERG",
 				"segmentation": "nāli-ne-ž",
 				"transliteration": "na-a-al-li-iš"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "𒀹"
 			},
 			{
 				"gloss": "werfen; fallen-PL.A-3JUSS",
@@ -36760,6 +37749,11 @@
 				"gloss": "Vogelfänger-RELAT.PL-PL-ERG",
 				"segmentation": "kare-na-āž-ož",
 				"transliteration": "ka-ri-e-na-šu-uš"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "𒀹"
 			},
 			{
 				"gloss": "nehmen-PL.A-3JUSS",
@@ -36840,6 +37834,11 @@
 				"gloss": "hinabgehen-ANTIP",
 				"segmentation": "tūr-i",
 				"transliteration": "<del_in/>d<del_fin/>u-ú-ri"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "𒀹"
 			},
 			{
 				"gloss": "anderer?-RELAT.SG-DIR/LOC=CON",
@@ -37046,6 +38045,11 @@
 				"transliteration": "me-la-aḫ-ḫu-um"
 			},
 			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "𒀹"
+			},
+			{
 				"gloss": "Rehbock.ABS",
 				"segmentation": "nāli",
 				"transliteration": "na-a-<laes_in/>li<laes_fin/>"
@@ -37171,6 +38175,11 @@
 				"gloss": "Körper; Bezug-3POSS.SG-DIR",
 				"segmentation": "idi-ī-da",
 				"transliteration": "i-ti-i-ta"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "(Rasur)"
 			}
 		],
 		"KBo 32.14,Vs. 37a": [
@@ -37299,6 +38308,11 @@
 				"transliteration": "ta-wa<subscr c=\"a\"/>-aš-tu-u-um"
 			},
 			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "𒀹"
+			},
+			{
 				"gloss": "gießen-RES-TR.PFV-3A.SG",
 				"segmentation": "tav-ašt-ō-m",
 				"transliteration": "ta-wa<subscr c=\"a\"/>-aš-tu-u-um"
@@ -37319,6 +38333,11 @@
 				"gloss": "ausstatten-RES-TR.PFV-3A.SG",
 				"segmentation": "ton-ōšt-o-m",
 				"transliteration": "tu-nu-u-uš-tu-um"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "𒀹"
 			},
 			{
 				"gloss": "Verzierung-ESS",
@@ -37498,6 +38517,11 @@
 				"transliteration": "ka-pal-li-iš"
 			},
 			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "𒀹"
+			},
+			{
 				"gloss": "Becher.ABS",
 				"segmentation": "kāze",
 				"transliteration": "k<del_in/>a-a-z<del_fin/>i"
@@ -37549,6 +38573,11 @@
 				"transliteration": "za-am-ma-la-aš-du-uš"
 			},
 			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "𒀹"
+			},
+			{
 				"gloss": "werfen; fallen-MOD.PAT",
 				"segmentation": "kud-o",
 				"transliteration": "ku-ú-du"
@@ -37595,6 +38624,13 @@
 				"transliteration": "pa-a-pa-an-ni"
 			}
 		],
+		"KBo 32.14,Vs. 60b": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Ende Vs."
+			}
+		],
 		"KBo 32.14,Vs. 6a": [
 			{
 				"gloss": "verbrennen-MOD.ACT-l-DESID",
@@ -37605,6 +38641,11 @@
 				"gloss": "Feuer-RELAT.SG-ERG",
 				"segmentation": "tāri-ne-ž",
 				"transliteration": "ta-a-ar-ri-eš"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "𒀹"
 			},
 			{
 				"gloss": "schlagen-MOD.ACT-l-DESID",
@@ -37649,6 +38690,11 @@
 				"gloss": "Inneres-3POSS.SG-DIR",
 				"segmentation": "ištani-ī-da",
 				"transliteration": "iš-ta-ni-i-ta<note c=\"Der anschließende Glossenkeil dient zur Trennung von Zeile Vs. 8b.\"/>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "𒀹"
 			}
 		],
 		"KBo 32.14,Vs. 9a": [
@@ -37666,6 +38712,20 @@
 				"gloss": "Fluch-ESS",
 				"segmentation": "šid+ar+ni-a",
 				"transliteration": "ši-ta-ar-na"
+			}
+		],
+		"KBo 32.14,Vs. 9b": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "(Rasur)"
+			}
+		],
+		"KBo 32.14,lk. Rd. 7": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Ende lk. Rd."
 			}
 		],
 		"KBo 32.14,u. Rd. 63": [
@@ -37747,6 +38807,13 @@
 				"gloss": "u.B.-ār",
 				"segmentation": "uġ-ār-[",
 				"transliteration": "u-ḫa-a-ra-x<del_in/>"
+			}
+		],
+		"KBo 32.14,u. Rd. 71": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Ende Rs."
 			}
 		],
 		"KBo 32.15,Rs. 10a": [
@@ -37924,6 +38991,13 @@
 				"transliteration": "še-er-ḫu-uš"
 			}
 		],
+		"KBo 32.15,Rs. 26b": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Rs. bricht ab"
+			}
+		],
 		"KBo 32.15,Rs. 2a": [
 			{
 				"gloss": "falls; wenn.CONJ",
@@ -37956,6 +39030,13 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "ki-i-ru-nu-ul-mi-ip<note c=\"Es handelt sich um eine Sandhi-Schreibung für kir-o(-e?) ulmi-b.\"/>"
+			}
+		],
+		"KBo 32.15,Rs. 4b": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "(Rasur)"
 			}
 		],
 		"KBo 32.15,Rs. 5a": [
@@ -38119,6 +39200,13 @@
 				"transliteration": "<del_in/>"
 			}
 		],
+		"KBo 32.15,Vs. 13b′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "(Rasur)"
+			}
+		],
 		"KBo 32.15,Vs. 14a′": [
 			{
 				"gloss": "ausgießen?-INT-b",
@@ -38185,6 +39273,13 @@
 				"gloss": "Schuld?-3POSS.SG-DIR",
 				"segmentation": "ḫenzi-i-da",
 				"transliteration": "ḫi-in-<laes_in/>zi-ta<laes_fin/>"
+			}
+		],
+		"KBo 32.15,Vs. 18b′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "(Rasur)"
 			}
 		],
 		"KBo 32.15,Vs. 19a′": [
@@ -38335,6 +39430,13 @@
 				"transliteration": "ku-ra-aḫ-ḫa"
 			}
 		],
+		"KBo 32.15,Vs. 27b′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "(Rasur)"
+			}
+		],
 		"KBo 32.15,Vs. 28a′": [
 			{
 				"gloss": "Koch-ESS",
@@ -38345,6 +39447,13 @@
 				"gloss": "Abwäscher-ESS=3PL.ABS",
 				"segmentation": "fud+ar+i+nni-a=lla",
 				"transliteration": "wu<subscr c=\"ú\"/>-ta-ri-na-al-la"
+			}
+		],
+		"KBo 32.15,Vs. 29b′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Ende Vs."
 			}
 		],
 		"KBo 32.15,Vs. 2a′": [
@@ -38503,6 +39612,25 @@
 				"transliteration": "<del_in/>"
 			}
 		],
+		"KBo 32.15,lk. Rd. 1": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Ende lk. Rd."
+			}
+		],
+		"KBo 32.16,Rs. 19b′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "(Rasur)"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Ende von ca. 6 Zeilen bis zum u. Rd. unbeschrieben; Ende Rs."
+			}
+		],
 		"KBo 32.16,Vs. 12a": [
 			{
 				"gloss": "",
@@ -38522,6 +39650,13 @@
 				"gloss": "u.B..ABS",
 				"segmentation": "ḫāv+ō+že",
 				"transliteration": "ḫ<del_fin/>a<corr c=\"?\"/>-wu<subscr c=\"ú\"/>-ú-ši"
+			}
+		],
+		"KBo 32.16,Vs. 30b": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Vs. bricht ab"
 			}
 		],
 		"KBo 32.16,Vs. 6a": [
@@ -38602,6 +39737,13 @@
 				"transliteration": "<del_fin/>x-la"
 			}
 		],
+		"KBo 32.17,Rs. 16b′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Rs. bricht ab"
+			}
+		],
 		"KBo 32.17,Rs. 3a′": [
 			{
 				"gloss": "",
@@ -38642,6 +39784,20 @@
 				"gloss": "Herr-ERG",
 				"segmentation": "ēvri-ž",
 				"transliteration": "<laes_in/>e<laes_fin/>-ep-ri-eš"
+			}
+		],
+		"KBo 32.18,7′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Text bricht ab"
+			}
+		],
+		"KBo 32.19,Rs.": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Zeilen 32a′-36a′ aus der linken, hurritischen Kolumne abgebrochen"
 			}
 		],
 		"KBo 32.19,Rs. 21a′": [
@@ -38864,6 +40020,20 @@
 				"gloss": "so=3SG.ABS=CON",
 				"segmentation": "īnna=nna=m",
 				"transliteration": "<del_in/>i-i<del_fin/>n-n<del_in/>a-an-n<del_fin/>a-am"
+			}
+		],
+		"KBo 32.19,Rs. 51b′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Ende Rs."
+			}
+		],
+		"KBo 32.19,Vs.": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Zeilen 40a-45a aus der linken, hurritischen Kolumne abgebrochen"
 			}
 		],
 		"KBo 32.19,Vs. 10a": [
@@ -39327,6 +40497,13 @@
 				"transliteration": "wa<subscr c=\"a\"/>-ḫa-ar-<laes_in/>ri<laes_fin/>(-)<del_in/>"
 			}
 		],
+		"KBo 32.19,Vs. 52b": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Ende Vs."
+			}
+		],
 		"KBo 32.19,Vs. 5a": [
 			{
 				"gloss": "GN-DAT",
@@ -39395,6 +40572,13 @@
 				"gloss": "zehnter-RELAT.SG-DAT",
 				"segmentation": "ēmman+ze-ne-va",
 				"transliteration": "e-em-ma-an-zé-ne-wa<subscr c=\"a\"/>"
+			}
+		],
+		"KBo 32.19,u. Rd. 1": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Ende u. Rd."
 			}
 		],
 		"KBo 32.20,Rs. IV 10′": [
@@ -39536,6 +40720,11 @@
 				"transliteration": "za-a-zu-u-lu-uš-te-ri"
 			},
 			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "𒀹"
+			},
+			{
 				"gloss": "GN-DAT",
 				"segmentation": "Igingališ-va",
 				"transliteration": "i-ki-in-<laes_in/>kal<laes_fin/>-i-iš-<laes_in/>ša<laes_fin/>"
@@ -39655,6 +40844,11 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "<del_fin/>-<laes_in/><c type=\"sign\">WA</c><corr c=\"?\"/><laes_fin/>(-)<del_in/>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Rs. IV bricht ab"
 			}
 		],
 		"KBo 32.20,Rs. IV 3′": [
@@ -40059,6 +41253,11 @@
 				"gloss": "u.B..ABS",
 				"segmentation": "umbi",
 				"transliteration": "<laes_in/>ú-um-bi<laes_fin/>(-)<del_in/>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Vs. I bricht ab"
 			}
 		],
 		"KBo 32.20,Vs. I 1′": [
@@ -40287,6 +41486,13 @@
 				"transliteration": "š<del_fin/>a<corr c=\"?\"/>-at-ḫa-mu-ú-<del_in/>"
 			}
 		],
+		"KBo 32.209,15′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Text bricht ab"
+			}
+		],
 		"KBo 32.209,2′": [
 			{
 				"gloss": "u.B.-ERG",
@@ -40402,6 +41608,13 @@
 				"transliteration": "dam-ra"
 			}
 		],
+		"KBo 32.21,Vs. I 4′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Vs. I bricht ab"
+			}
+		],
 		"KBo 32.210,lk. Kol. 1′": [
 			{
 				"gloss": "",
@@ -40433,6 +41646,13 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "<del_fin/>x-ru-ma-la-an"
+			}
+		],
+		"KBo 32.210,lk. Kol. 6′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "lk. Kol. bricht ab"
 			}
 		],
 		"KBo 32.212,lk. Kol. 2′": [
@@ -40475,6 +41695,11 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "<del_fin/>-a-ma"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "lk. Kol. bricht ab"
 			}
 		],
 		"KBo 32.213,lk. Kol. 1′": [
@@ -40517,6 +41742,18 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "<del_fin/>-a"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "lk. Kol. bricht ab"
+			}
+		],
+		"KBo 32.213,r. Kol. 11′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Ende r. Kol."
 			}
 		],
 		"KBo 32.214,Rs. IV 1": [
@@ -40538,6 +41775,13 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "<del_fin/>-mi-ra"
+			}
+		],
+		"KBo 32.214,Rs. IV 7′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Rs. IV bricht ab"
 			}
 		],
 		"KBo 32.214,Vs. I 10′": [
@@ -40562,6 +41806,11 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "ku-ri-x<del_in/>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Ende Vs. I"
 			}
 		],
 		"KBo 32.214,Vs. I 1′": [
@@ -40688,6 +41937,27 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "<laes_in/>ú<laes_fin/>-<del_in/>ru-uk-ku(-)"
+			}
+		],
+		"KBo 32.215,21′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Text bricht ab"
+			}
+		],
+		"KBo 32.217,2′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Text bricht ab"
+			}
+		],
+		"KBo 32.22,Vs. II 8′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Vs. II bricht ab"
 			}
 		],
 		"KBo 32.223,Rs. III 2′": [
@@ -40844,6 +42114,18 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "ta-na-a-a<del_in/>n-"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Ende Rs. III"
+			}
+		],
+		"KBo 32.223,Vs. I 6′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Vs. I bricht ab"
 			}
 		],
 		"KBo 32.223,Vs. II 1": [
@@ -40888,6 +42170,13 @@
 				"gloss": "Inneres, innere; Mitte-3POSS-PL-DAT/ESS=CON",
 				"segmentation": "egi-i-až-a=ma",
 				"transliteration": "i-ki-<laes_in/>ia<laes_fin/>-<del_in/>ša-ma"
+			}
+		],
+		"KBo 32.223,Vs. II 11": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Vs. II bricht ab"
 			}
 		],
 		"KBo 32.223,Vs. II 2": [
@@ -41135,6 +42424,25 @@
 				"gloss": "u.B..unclear",
 				"segmentation": "ḫam-ā[",
 				"transliteration": "ḫa-ma-<laes_in/>a<laes_fin/>-<del_in/><note c=\"Nach dem Foto wäre auch ḫa-zu-[ möglich.\"/>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Text bricht ab"
+			}
+		],
+		"KBo 32.24+, {€1} Vs. II 19′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Vs. II bricht ab"
+			}
+		],
+		"KBo 32.24+, {€2} Rs. III 18′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Rs. III bricht ab"
 			}
 		],
 		"KBo 32.25,Vs.? I 1′": [
@@ -41196,6 +42504,11 @@
 				"gloss": "zurückkehren; zurückbringen-MOD.PAT=3SG.ABS",
 				"segmentation": "pend-o=n",
 				"transliteration": "bi-en-du-u<del_in/>n"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Vs.? I bricht ab"
 			}
 		],
 		"KBo 32.26,1a′": [
@@ -41241,6 +42554,20 @@
 				"transliteration": "ep-ri-ta"
 			}
 		],
+		"KBo 32.26,7b′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Text bricht ab"
+			}
+		],
+		"KBo 32.27,5′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Text bricht ab"
+			}
+		],
 		"KBo 32.28,2′": [
 			{
 				"gloss": "Abwäscher-ESS=3PL.ABS",
@@ -41260,6 +42587,32 @@
 				"gloss": "falls; wenn.CONJ",
 				"segmentation": "ai",
 				"transliteration": "<laes_in/>a-a<laes_fin/>-<del_in/>i"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Text bricht ab"
+			}
+		],
+		"KBo 32.29,11′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Text bricht ab"
+			}
+		],
+		"KBo 32.30,Rs.? 6′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Rs.? bricht ab"
+			}
+		],
+		"KBo 32.30,Vs.? 1′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Vs.? bricht ab"
 			}
 		],
 		"KBo 32.31+, {€1} Rs. IV 1′": [
@@ -41368,6 +42721,18 @@
 				"gloss": "u.B..unclear",
 				"segmentation": "ḫiš[",
 				"transliteration": "<laes_in/>ḫi-iš<laes_fin/>-x<del_in/><corr c=\"(?)\"/>"
+			}
+		],
+		"KBo 32.31+, {€2} Rs. IV": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Anfang von ca. 4 Zeilen unbeschrieben"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Ende Rs. IV"
 			}
 		],
 		"KBo 32.31+, {€2} Rs. IV 10′": [
@@ -41508,6 +42873,13 @@
 				"transliteration": "<laes_in/><d>D<laes_fin/></d>ši-mi-g<del_in/>a-"
 			}
 		],
+		"KBo 32.31+, {€2} Vs. I 16": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Vs. I bricht ab"
+			}
+		],
 		"KBo 32.31+, {€2} Vs. I 2": [
 			{
 				"gloss": "beten; preisen; segnen-RES-TR.PFV-3A.SG",
@@ -41599,6 +42971,13 @@
 				"transliteration": "x<del_in/>"
 			}
 		],
+		"KBo 32.32,7′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "r. Kol. bricht ab"
+			}
+		],
 		"KBo 32.33,2′": [
 			{
 				"gloss": "",
@@ -41611,6 +42990,11 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "<del_fin/>-aš"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Ende lk. Kol."
 			}
 		],
 		"KBo 32.34,lk. Kol. 1′": [
@@ -41653,6 +43037,25 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "ge-e-i<del_fin/>l-ta-i"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "lk. Kol. bricht ab"
+			}
+		],
+		"KBo 32.34,r. Kol. 2′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "r. Kol. bricht ab"
+			}
+		],
+		"KBo 32.35,4′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "r. Kol. bricht ab"
 			}
 		],
 		"KBo 32.36,lk. Kol. 6′": [
@@ -41667,6 +43070,32 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "-i<del_fin/>š"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "lk. Kol. bricht ab"
+			}
+		],
+		"KBo 32.36,r. Kol. 12′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "r. Kol. bricht ab"
+			}
+		],
+		"KBo 32.37,20′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Ende r. Kol."
+			}
+		],
+		"KBo 32.38,7b′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Text bricht ab"
 			}
 		],
 		"KBo 32.39,Rs.? 1′": [
@@ -41683,6 +43112,13 @@
 				"transliteration": "ša<del_in/>r-"
 			}
 		],
+		"KBo 32.39,Rs.? 4′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Rs.? IV bricht ab"
+			}
+		],
 		"KBo 32.39,Vs.? 1′": [
 			{
 				"gloss": "",
@@ -41695,6 +43131,27 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "ú<corr c=\"?\"/>-pu-<del_in/>"
+			}
+		],
+		"KBo 32.39,Vs.? 6′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Vs.? I bricht ab"
+			}
+		],
+		"KBo 32.40,5′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "r. Kol. bricht ab"
+			}
+		],
+		"KBo 32.41,5′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Text bricht ab"
 			}
 		],
 		"KBo 32.42,10′": [
@@ -41723,6 +43180,13 @@
 				"gloss": "u.B..unclear",
 				"segmentation": "ḫāv-[",
 				"transliteration": "ḫa-a-<c type=\"sign\">W[A</c>-"
+			}
+		],
+		"KBo 32.42,15′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Text bricht ab"
 			}
 		],
 		"KBo 32.42,1′": [
@@ -41781,6 +43245,27 @@
 				"transliteration": "<del_fin/>-e-em"
 			}
 		],
+		"KBo 32.43,8a′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Text bricht ab"
+			}
+		],
+		"KBo 32.44,17′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Text bricht ab"
+			}
+		],
+		"KBo 32.44,7′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "(Rasur)"
+			}
+		],
 		"KBo 32.45,2′": [
 			{
 				"gloss": "",
@@ -41805,6 +43290,11 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "-i<del_fin/>š<corr c=\"?\"/>-ši-ip-w<del_in/>a"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Text bricht ab"
 			}
 		],
 		"KBo 32.46,1a′": [
@@ -41819,6 +43309,69 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "-n<del_fin/>e-ra-al"
+			}
+		],
+		"KBo 32.46,4b′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Tafelende"
+			}
+		],
+		"KBo 32.47a+, {€1} Rs. III": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Lücke unbekannter Größe"
+			}
+		],
+		"KBo 32.47a+, {€1} Vs. II 14′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Ende Vs. II"
+			}
+		],
+		"KBo 32.47a+, {€1} Vs. II 4′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "(Rasur)"
+			}
+		],
+		"KBo 32.47a+, {€2} Rs.? III 11′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Rs.? III bricht ab"
+			}
+		],
+		"KBo 32.47b,14′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Text bricht ab"
+			}
+		],
+		"KBo 32.48,lk. Kol. 1′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "lk. Kol. bricht ab"
+			}
+		],
+		"KBo 32.48,r. Kol. 8′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "r. Kol. bricht ab"
+			}
+		],
+		"KBo 32.49,5′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Text bricht ab"
 			}
 		],
 		"KBo 32.50,10′": [
@@ -41880,6 +43433,11 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "a-<laes_in/>am<laes_fin/>-m<del_in/>i-"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Text bricht ab"
 			}
 		],
 		"KBo 32.50,1′": [
@@ -41944,6 +43502,11 @@
 			{
 				"gloss": "",
 				"segmentation": "",
+				"transliteration": "(Rasur)"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
 				"transliteration": "ša-<del_in/>"
 			}
 		],
@@ -41952,6 +43515,11 @@
 				"gloss": "u.B.-RELAT.SG-ERG",
 				"segmentation": "tāni-ne-ž",
 				"transliteration": "<del_in/>t<del_fin/>a-a-an-ni-eš"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "𒀹"
 			},
 			{
 				"gloss": "",
@@ -41990,6 +43558,20 @@
 				"transliteration": "ša-kar-ri-i<del_in/>š"
 			}
 		],
+		"KBo 32.51,Rs. III 2": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Rs. III bricht ab"
+			}
+		],
+		"KBo 32.52,4′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Text bricht ab"
+			}
+		],
 		"KBo 32.53,1′": [
 			{
 				"gloss": "Freilassung.ABS",
@@ -42021,6 +43603,18 @@
 				"gloss": "zurückkehren; zurückbringen-MOD.PAT=3SG.ABS",
 				"segmentation": "pend-ō=n",
 				"transliteration": "bi<del_fin/>-en-tu-u-un"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "lk. Kol. bricht ab"
+			}
+		],
+		"KBo 32.54,14′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "r. Kol. bricht ab"
 			}
 		],
 		"KBo 32.55,1′": [
@@ -42049,6 +43643,13 @@
 				"transliteration": "ki<del_fin/>-<laes_in/>i<laes_fin/>-ru-nu-<laes_in/>ul-mi<laes_fin/>-<del_in/>ip<del_fin/>"
 			}
 		],
+		"KBo 32.55,5′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "lk. Kol. bricht ab"
+			}
+		],
 		"KBo 32.56,1′": [
 			{
 				"gloss": "u.B..ABS",
@@ -42061,6 +43662,18 @@
 				"gloss": "ergreifen-TR.PFV-3A.SG",
 				"segmentation": "šatt-o-m",
 				"transliteration": "š<del_fin/>a-ad-du-u<del_in/>p"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "lk. Kol. bricht ab"
+			}
+		],
+		"KBo 32.57,5′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Text bricht ab"
 			}
 		],
 		"KBo 32.58,Rs. IV 1": [
@@ -42096,6 +43709,11 @@
 				"gloss": "sich freuen-RES-ANTIP-NEG",
 				"segmentation": "an-ašt-i-kki",
 				"transliteration": "<laes_in/>a-na<laes_fin/>-a<del_in/>š<del_fin/>-t<del_in/>i-ik-ki<corr c=\"(?)\"/><note c=\"Die Lücke zwischen AŠ und TI wäre nach dem Foto recht groß.\"/>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Rs. IV bricht ab"
 			}
 		],
 		"KBo 32.58,Vs. I 1′": [
@@ -42146,6 +43764,39 @@
 				"gloss": "geben-MOD.ACT-l-POT-ž",
 				"segmentation": "ar-i-l-eva-ž",
 				"transliteration": "a-ar-<del_in/>ri-wa<subscr c=\"a\"/>-aš"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Ende Vs. I"
+			}
+		],
+		"KBo 32.59,5′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Text bricht ab"
+			}
+		],
+		"KBo 32.60,5′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Text bricht ab"
+			}
+		],
+		"KBo 32.61,3′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Kolumnenende"
+			}
+		],
+		"KBo 32.62,Rs. 1′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Ende Rs."
 			}
 		],
 		"KBo 32.62,Vs. I 1": [
@@ -42227,6 +43878,11 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "<del_fin/>x<del_in/>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Vs. I bricht ab"
 			}
 		],
 		"KBo 32.63,3′": [
@@ -42255,6 +43911,27 @@
 				"transliteration": "w<del_fin/>u<subscr c=\"u\"/>-ú-ri-ta"
 			}
 		],
+		"KBo 32.63,6′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Text bricht ab"
+			}
+		],
+		"KBo 32.64,9′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Text bricht ab"
+			}
+		],
+		"KBo 32.66,2′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Text bricht ab"
+			}
+		],
 		"KBo 32.67,Rs.? IV 10′": [
 			{
 				"gloss": "DN-ERG",
@@ -42272,6 +43949,13 @@
 				"gloss": "sagen; sprechen-TR-3A.SG",
 				"segmentation": "kad-i-a",
 				"transliteration": "ga-ti-ia"
+			}
+		],
+		"KBo 32.67,Rs.? IV 12′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Rs.? IV bricht ab"
 			}
 		],
 		"KBo 32.67,Rs.? IV 2′": [
@@ -42366,6 +44050,27 @@
 				"transliteration": "<del_fin/>-x-x-ša"
 			}
 		],
+		"KBo 32.68,lk. Kol. 4′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "lk. Kol. bricht ab"
+			}
+		],
+		"KBo 32.68,r. Kol. 3′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "r. Kol. bricht ab"
+			}
+		],
+		"KBo 32.69,9′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Text bricht ab"
+			}
+		],
 		"KBo 32.70,1′": [
 			{
 				"gloss": "u.B.-RELAT.SG-GEN",
@@ -42404,6 +44109,25 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "<del_fin/>x"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Text bricht ab"
+			}
+		],
+		"KBo 32.71,r. Kol. 6′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "r. Kol. bricht ab"
+			}
+		],
+		"KBo 32.72,6′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Text bricht ab"
 			}
 		],
 		"KBo 32.73,2′": [
@@ -42432,6 +44156,32 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "nu-<laes_in/>ú<laes_fin/>-<del_in/>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Text bricht ab"
+			}
+		],
+		"KBo 32.74,11′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Text bricht ab"
+			}
+		],
+		"KBo 32.75,Rs.? 2′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Rs.? bricht ab"
+			}
+		],
+		"KBo 32.75,Vs.? 7′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Vs.? bricht ab"
 			}
 		],
 		"KBo 32.76,1′": [
@@ -42460,6 +44210,27 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "<del_fin/>x-ar-r<del_in/>i-"
+			}
+		],
+		"KBo 32.76,5′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Text bricht ab"
+			}
+		],
+		"KBo 32.77,7′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "r. Kol. bricht ab"
+			}
+		],
+		"KBo 32.78,4′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Text bricht ab"
 			}
 		],
 		"KBo 32.79,1′": [
@@ -42496,6 +44267,11 @@
 				"gloss": "Silber.ABS",
 				"segmentation": "ižuġ+ni",
 				"transliteration": "i-š<del_in/>u-uḫ-ni"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Text bricht ab"
 			}
 		],
 		"KBo 32.80,2′": [
@@ -42553,6 +44329,11 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "<del_in/>d<del_fin/>u-<laes_in/>ú-ut<laes_fin/>-x"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Text bricht ab"
 			}
 		],
 		"KBo 32.81,2′": [
@@ -42567,6 +44348,13 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "(-)k<del_fin/>a-wu<subscr c=\"u\"/>-u-ša(-)<del_in/>"
+			}
+		],
+		"KBo 32.81,4′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Text bricht ab"
 			}
 		],
 		"KBo 32.83,1′": [
@@ -42602,6 +44390,25 @@
 				"gloss": "u.B..ABS",
 				"segmentation": "pēġi",
 				"transliteration": "<laes_in/>bi<laes_fin/>-e-ḫi"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Text bricht ab"
+			}
+		],
+		"KBo 32.84,3′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Text bricht ab"
+			}
+		],
+		"KBo 32.85,4′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Text bricht ab"
 			}
 		],
 		"KBo 32.86,3′": [
@@ -42633,6 +44440,20 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "<del_fin/>-ne-e"
+			}
+		],
+		"KBo 32.86,6′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Text bricht ab"
+			}
+		],
+		"KBo 32.87,2′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Text bricht ab"
 			}
 		],
 		"KBo 32.88,2′": [
@@ -42685,6 +44506,11 @@
 				"gloss": "Botschaft-ESS=2PL.ABS",
 				"segmentation": "am+o+mi-ā=v",
 				"transliteration": "a-mu-u<corr c=\"?\"/>-ma-a<corr c=\"?\"/>-a<del_fin/>p"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Text bricht ab"
 			}
 		],
 		"KBo 32.89,Rs. 1": [
@@ -42709,6 +44535,11 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "ḫi-i<del_in/>l-"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Rs. bricht ab"
 			}
 		],
 		"KBo 32.90a,1′": [
@@ -42730,6 +44561,27 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "ḫ<del_fin/>a-a-r<del_in/>a"
+			}
+		],
+		"KBo 32.90a,5′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Text bricht ab"
+			}
+		],
+		"KBo 32.90b,4′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Text bricht ab"
+			}
+		],
+		"KBo 32.91,lk. Kol. 1′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "(Rasur)"
 			}
 		],
 		"KBo 32.91,lk. Kol. 2′": [
@@ -42763,6 +44615,11 @@
 				"gloss": "u.B..unclear",
 				"segmentation": "]fi",
 				"transliteration": "<del_fin/>x-<laes_in/>wi<subscr c=\"i\"/><corr c=\"?\"/><laes_fin/>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "lk. Kol. bricht ab"
 			}
 		],
 		"KBo 32.92,1′": [
@@ -42770,6 +44627,13 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "nu-ú-w<del_in/>a(-)"
+			}
+		],
+		"KBo 32.92,2′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Text bricht ab"
 			}
 		],
 		"KBo 32.93,1′": [
@@ -42810,6 +44674,18 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "<del_fin/>-<laes_in/>a<corr c=\"?\"/><laes_fin/>-ša"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Text bricht ab"
+			}
+		],
+		"KBo 32.94,10′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Text bricht ab"
 			}
 		],
 		"KBo 32.94,2′": [
@@ -42857,6 +44733,55 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "wu<subscr c=\"u\"/>-<del_in/>"
+			}
+		],
+		"KBo 32.95,5′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Text bricht ab"
+			}
+		],
+		"KBo 32.96,r. Kol. 3′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "r. Kol. bricht ab"
+			}
+		],
+		"KBo 32.97,4′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Text bricht ab"
+			}
+		],
+		"KBo 32.98,5′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Text bricht ab"
+			}
+		],
+		"KBo 32.99,Seite A 4′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Seite A bricht ab"
+			}
+		],
+		"KBo 32.99,Seite B 2′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Seite B bricht ab"
+			}
+		],
+		"KBo 33.10+, {€1} Rs.? 10′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Rs. IV bricht ab"
 			}
 		],
 		"KBo 33.10+, {€1} Rs.? 1′": [
@@ -42948,6 +44873,11 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "x-nu-x<del_in/>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Vs. I bricht ab"
 			}
 		],
 		"KBo 33.10+, {€1} Vs.? 2′!": [
@@ -43018,6 +44948,11 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "ni-i-<c type=\"sign\">W<del_in/>A</c>-"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Ende Rs. III"
 			}
 		],
 		"KBo 33.10+, {€2} Rs. III 2′": [
@@ -43322,6 +45257,13 @@
 				"transliteration": "<del_fin/>x-ka-a"
 			}
 		],
+		"KBo 33.10+, {€3} Vs. 13′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Vs. II bricht ab"
+			}
+		],
 		"KBo 33.10+, {€3} Vs. 2′": [
 			{
 				"gloss": "",
@@ -43408,6 +45350,20 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "n<del_in/>a-"
+			}
+		],
+		"KBo 33.106,11′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Text bricht ab"
+			}
+		],
+		"KBo 33.106,2′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Zeile zerstört"
 			}
 		],
 		"KBo 33.106,3′": [
@@ -43509,6 +45465,13 @@
 				"transliteration": "<del_fin/>-ta"
 			}
 		],
+		"KBo 33.109,lk. Kol. 11″": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "lk. Kol. bricht ab"
+			}
+		],
 		"KBo 33.109,lk. Kol. 1′": [
 			{
 				"gloss": "",
@@ -43528,6 +45491,13 @@
 				"gloss": "u.B..unclear",
 				"segmentation": "]ta",
 				"transliteration": "<del_fin/>-<laes_in/>ta<laes_fin/>"
+			}
+		],
+		"KBo 33.109,lk. Kol. 5′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Zeile zerstört"
 			}
 		],
 		"KBo 33.109,lk. Kol. 7″": [
@@ -43566,6 +45536,11 @@
 				"gloss": "u.B..unclear",
 				"segmentation": "pug-u[",
 				"transliteration": "<laes_in/>pu<corr c=\"?\"/>-uk<corr c=\"?\"/>-ú<laes_fin/>-x<del_in/>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "r. Kol. bricht ab"
 			}
 		],
 		"KBo 33.109,r. Kol. 1′": [
@@ -43730,6 +45705,11 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "x<del_in/>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "lk. Kol. bricht ab"
 			}
 		],
 		"KBo 33.12+, {€1+2} 10′/lk. Kol. 6′": [
@@ -43964,6 +45944,11 @@
 				"gloss": "u.B..unclear",
 				"segmentation": "ab-i[",
 				"transliteration": "<laes_in/>a<laes_fin/>-bi-x<del_in/>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "r. Kol. bricht ab"
 			}
 		],
 		"KBo 33.12+, {€2} r. Kol. 1′": [
@@ -44177,6 +46162,11 @@
 				"gloss": "Reinheit-RELAT.SG-GEN-RELAT.PL-PL-ERG",
 				"segmentation": "itkal+zi-ne-ve-na-až-ož",
 				"transliteration": "<del_in/>it-kal-z<del_fin/>i-ni-b<del_in/>i-na-šu-uš"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "lk. Kol. bricht ab"
 			}
 		],
 		"KBo 33.12+, {€3} Rs. 6′": [
@@ -44242,6 +46232,11 @@
 				"gloss": "Feind-RELAT.SG-ERG=3PL.ABS",
 				"segmentation": "torove-ne-ž=l",
 				"transliteration": "<d>LÚ</d><sGr>KÚR</sGr>-ni-el<note c=\" Das KÚR (schräger unterer Keil) und das NI (gerader waagerechter Keil) sehen unterschiedlich aus, sodass keine Lesung °LÚ°KÚR.KÚR-el vorliegt.\"/>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Rs. IV bricht ab"
 			}
 		],
 		"KBo 33.130,Rs. IV 2′": [
@@ -44420,6 +46415,11 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "am-<del_in/>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Vs. I bricht ab"
 			}
 		],
 		"KBo 33.134,Rs. 11″": [
@@ -44526,6 +46526,13 @@
 				"transliteration": "a<del_in/>m-mu-ra-mi<corr c=\"(?)\"/><del_fin/>"
 			}
 		],
+		"KBo 33.134,Rs. 18″": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Rs. bricht ab"
+			}
+		],
 		"KBo 33.134,Rs. 2′": [
 			{
 				"gloss": "",
@@ -44627,6 +46634,13 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "<del_fin/>x-lu-x<del_in/>"
+			}
+		],
+		"KBo 33.134,Vs. 12′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Vs. bricht ab"
 			}
 		],
 		"KBo 33.134,Vs. 2′": [
@@ -44738,6 +46752,11 @@
 				"gloss": "vertreiben-uġ-FUT-3A.SG",
 				"segmentation": "mil-uġ-ed-a",
 				"transliteration": "mi-l<del_fin/>u-<laes_in/>ḫé<laes_fin/>-da"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "(Rasur)"
 			}
 		],
 		"KBo 33.135,lk. Kol. 1′": [
@@ -44754,11 +46773,25 @@
 				"transliteration": "<del_fin/>x-i-ši"
 			}
 		],
+		"KBo 33.135,lk. Kol. 5″": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "lk. Kol. bricht ab"
+			}
+		],
 		"KBo 33.135,r. Kol. 10′": [
 			{
 				"gloss": "u.B..noun",
 				"segmentation": "anni-[",
 				"transliteration": "<laes_in/>an<corr c=\"?\"/>-ni<corr c=\"?\"/><laes_fin/>-x<del_in/>"
+			}
+		],
+		"KBo 33.135,r. Kol. 11′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "r. Kol. bricht ab"
 			}
 		],
 		"KBo 33.135,r. Kol. 1′": [
@@ -45046,6 +47079,11 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "<del_fin/>-zi"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Vs. I? bricht ab"
 			}
 		],
 		"KBo 33.137+, {€3} Vs. II? 10′": [
@@ -45053,6 +47091,13 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "zu-x<del_in/>"
+			}
+		],
+		"KBo 33.137+, {€3} Vs. II? 11′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Vs. II? bricht ab"
 			}
 		],
 		"KBo 33.137+, {€3} Vs. II? 9′": [
@@ -45264,6 +47309,13 @@
 				"transliteration": "<del_fin/>x-li-<laes_in/>a<laes_fin/>-te-x<del_in/>"
 			}
 		],
+		"KBo 33.15+, {€1} Vs.? II 13′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Rs. bricht ab"
+			}
+		],
 		"KBo 33.15+, {€1} Vs.? II 3′": [
 			{
 				"gloss": "",
@@ -45300,6 +47352,11 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "-r<del_fin/>i-in-ni-ni-pa"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "(Rasur)"
 			},
 			{
 				"gloss": "Weide-RELAT.SG-DAT",
@@ -45406,6 +47463,11 @@
 				"gloss": "Reinheit, rein-RELAT.PL-PL-ERG",
 				"segmentation": "eg+o+šše-na-až-ož",
 				"transliteration": "<laes_in/>e<laes_fin/>-ku-uš-ši-na-šu-uš"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "(Rasur)"
 			}
 		],
 		"KBo 33.15+, {€2} Rs. 6": [
@@ -45454,6 +47516,11 @@
 				"gloss": "ganz-DIR",
 				"segmentation": "šummi-da",
 				"transliteration": "šum-<laes_in/>mi<laes_fin/>-<del_in/>ta<del_fin/>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Ende Vs."
 			}
 		],
 		"KBo 33.15+, {€2} Vs. 2′": [
@@ -45555,6 +47622,20 @@
 				"gloss": "Zunge-DIR",
 				"segmentation": "irdi-da",
 				"transliteration": "ir-ti-ta"
+			}
+		],
+		"KBo 33.15+,Vs.": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Lücke unbekannter Größe"
+			}
+		],
+		"KBo 33.16,10′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Text bricht ab"
 			}
 		],
 		"KBo 33.16,1′": [
@@ -45714,6 +47795,13 @@
 				"transliteration": "<laes_in/><d>D</d><sGr><laes_fin/><del_in/>10</sGr>"
 			}
 		],
+		"KBo 33.202,Rs. 26′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Rs. bricht ab"
+			}
+		],
 		"KBo 33.202,Vs. 10′": [
 			{
 				"gloss": "u.B..ABS",
@@ -45792,6 +47880,11 @@
 				"gloss": "Herr-ERG",
 				"segmentation": "ēvri-ž",
 				"transliteration": "ep-ri-eš"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Ende Vs."
 			}
 		],
 		"KBo 33.202,Vs. 1′": [
@@ -45963,6 +48056,11 @@
 				"gloss": "u.B.-INS",
 				"segmentation": "pud+ul+i+ni-āi",
 				"transliteration": "pu-du-li-na-<laes_in/>a<laes_fin/>-<del_in/>i"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Ende u. Rd."
 			}
 		],
 		"KBo 33.203,10′": [
@@ -45975,6 +48073,13 @@
 				"gloss": "u.B.-RELAT.PL-PL-DAT/ESS",
 				"segmentation": "pud+ul+i+m+a+šše-na-až-a",
 				"transliteration": "p<del_in/>u-du-ú-li-ma-aš-ši-na-ša"
+			}
+		],
+		"KBo 33.203,11′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Text bricht ab"
 			}
 		],
 		"KBo 33.203,1′": [
@@ -46027,6 +48132,11 @@
 				"gloss": "u.B.-ESS",
 				"segmentation": "ḫav+āḫḫ+ō+bade-a",
 				"transliteration": "ḫa-wa<subscr c=\"a\"/><del_fin/>-a-aḫ-ḫu-u-pa-ta<note c=\"Oder: ḫa-pa]-a-aḫ-ḫu-u-pa-ta.\"/>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "(Rasur)"
 			},
 			{
 				"gloss": "",
@@ -47093,6 +49203,11 @@
 				"gloss": "u.B..unclear",
 				"segmentation": "]ap[",
 				"transliteration": "<del_fin/>(-)ap-x<del_in/>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Rs. IV bricht ab"
 			}
 		],
 		"KBo 33.205+,{€3} Rs. IV 4": [
@@ -47551,6 +49666,11 @@
 				"gloss": "Herr-ERG",
 				"segmentation": "ēvri-ž",
 				"transliteration": "e-ep-ri-eš"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Ende Vs. I"
 			}
 		],
 		"KBo 33.205+,{€3} Vs. II 10′": [
@@ -47586,6 +49706,11 @@
 				"gloss": "Opfergrube.ABS",
 				"segmentation": "ābi",
 				"transliteration": "a-a-<del_in/>bi<del_fin/>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Ende Vs. II"
 			}
 		],
 		"KBo 33.205+,{€3} Vs. II 3′": [
@@ -47670,6 +49795,11 @@
 				"gloss": "u.B.-RELAT.PL.ABS=CON",
 				"segmentation": "šēġ+ad+ul+i+m+a+šše-na=ma",
 				"transliteration": "še-<laes_in/>e<laes_fin/>-<del_in/>ḫa-du-li-ma-aš-ši-na-ma"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Rs. III bricht ab"
 			}
 		],
 		"KBo 33.43+, {€1+2+3} Vs. II 60/Vs. II 60/Vs. II 1′": [
@@ -47689,6 +49819,11 @@
 				"gloss": "Mensch-RELAT.SG-GEN",
 				"segmentation": "taržuwa+ni-ne-ve",
 				"transliteration": "<laes_in/>tar-šu-wa-an<laes_fin/>-ni-bi"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "𒀹"
 			},
 			{
 				"gloss": "u.B.-ESS=2SG.ABS",
@@ -47721,6 +49856,11 @@
 				"gloss": "schaffen; zeugen-MOD.PAT",
 				"segmentation": "pūd-o",
 				"transliteration": "pu-ú-du"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "𒀹"
 			},
 			{
 				"gloss": "u.B.-ESS=2SG.ABS",
@@ -48724,6 +50864,11 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "ḫu-u-um-n<del_in/>a-"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Ende Rs. III"
 			}
 		],
 		"KBo 33.43+, {€1} Rs. III 7": [
@@ -48770,6 +50915,18 @@
 				"gloss": "setzen; stellen; legen-MOD.PAT-l-OPT",
 				"segmentation": "kev-ō-l-ež",
 				"transliteration": "ki-pu-u-l<del_in/>i-iš"
+			}
+		],
+		"KBo 33.43+, {€1} Rs. IV": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Raum von ca. 7 Zeilen unbeschrieben"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Ende Rs. IV"
 			}
 		],
 		"KBo 33.43+, {€1} Rs. IV 1": [
@@ -49031,6 +51188,11 @@
 				"gloss": "Sünde.ABS",
 				"segmentation": "arni",
 				"transliteration": "ar-ni"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "(Rasur)"
 			}
 		],
 		"KBo 33.43+, {€1} Rs. IV 21": [
@@ -49478,6 +51640,13 @@
 				"transliteration": "šu-un-ti-in-na"
 			}
 		],
+		"KBo 33.43+, {€1} Vs. I 60": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Ende Vs. I"
+			}
+		],
 		"KBo 33.43+, {€1} Vs. II 29": [
 			{
 				"gloss": "Reinheit-RELAT.SG-GEN-RELAT.PL-PL-ERG",
@@ -49566,6 +51735,11 @@
 				"gloss": "GN-RELAT.SG-DAT",
 				"segmentation": "Pōranade-ne-va",
 				"transliteration": "pu-u-ra-na-te-ni-pa"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "𒀹"
 			}
 		],
 		"KBo 33.43+, {€1} Vs. II 48": [
@@ -49871,6 +52045,11 @@
 				"gloss": "DN-GEN",
 				"segmentation": "Ḫebat-ve",
 				"transliteration": "<laes_in/><d>D</d>ḫé<laes_fin/>-bat-<laes_in/>ti<laes_fin/>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Ende Vs. II"
 			}
 		],
 		"KBo 33.51+, {€1} 1′": [
@@ -49949,6 +52128,13 @@
 				"gloss": "u.B..unclear",
 				"segmentation": "]e[",
 				"transliteration": "<del_fin/>(-)e-x<del_in/>"
+			}
+		],
+		"KBo 33.51+, {€2} 11′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Text bricht ab"
 			}
 		],
 		"KBo 33.51+, {€2} 4′": [
@@ -50087,6 +52273,13 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "ú-x<del_in/>"
+			}
+		],
+		"KBo 33.61a+, {€1} Rs.? 16′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Rs.? bricht ab"
 			}
 		],
 		"KBo 33.61a+, {€1} Rs.? 3′": [
@@ -50582,11 +52775,23 @@
 				"transliteration": "<del_fin/>(-)i-x<del_in/>"
 			}
 		],
+		"KBo 33.61a+, {€3} 8′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Vs.? bricht ab"
+			}
+		],
 		"KBo 33.62,10′": [
 			{
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "-r<del_fin/>a"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "𒀹"
 			},
 			{
 				"gloss": "u.B.-RELAT.PL.ABS",
@@ -50640,6 +52845,11 @@
 			{
 				"gloss": "",
 				"segmentation": "",
+				"transliteration": "(Rasur)"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
 				"transliteration": "pa-a-ru-x<del_in/>"
 			},
 			{
@@ -50663,6 +52873,11 @@
 				"gloss": "Bindung?.ABS",
 				"segmentation": "sul+gi",
 				"transliteration": "zu-ul-<laes_in/>ki<laes_fin/>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "𒀹"
 			},
 			{
 				"gloss": "u.B.-ESS=2SG.ABS",
@@ -50756,6 +52971,11 @@
 				"transliteration": "<ras_in/>šu-u-ni"
 			},
 			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "𒀹"
+			},
+			{
 				"gloss": "gießen.unclear",
 				"segmentation": "tapš-u[",
 				"transliteration": "tap<ras_fin/>-š<del_in/>u-"
@@ -50771,6 +52991,11 @@
 				"gloss": "Weg.ABS",
 				"segmentation": "ḫāri",
 				"transliteration": "ḫa-a-ri"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "𒀹"
 			},
 			{
 				"gloss": "u.B.-RELAT.PL.ABS",
@@ -50798,6 +53023,11 @@
 				"gloss": "wissen; kennen-TR-2A.SG",
 				"segmentation": "pāl-i-o",
 				"transliteration": "pa-a-li-ú"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "𒀹"
 			},
 			{
 				"gloss": "hinterer; letzterer.ABS",
@@ -50958,6 +53188,11 @@
 				"gloss": "Rede.ABS",
 				"segmentation": "tip+šari",
 				"transliteration": "tip-šar"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "𒀹"
 			}
 		],
 		"KBo 33.62,28′": [
@@ -51031,6 +53266,13 @@
 				"transliteration": "<del_fin/>x-ti(-)<del_in/>"
 			}
 		],
+		"KBo 33.62,35′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Text bricht ab"
+			}
+		],
 		"KBo 33.62,3′": [
 			{
 				"gloss": "",
@@ -51077,6 +53319,11 @@
 				"transliteration": "ḫa-a-ra"
 			},
 			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "𒀹"
+			},
+			{
 				"gloss": "Weg-ESS",
 				"segmentation": "ḫāri-a",
 				"transliteration": "ḫa-a-r<del_in/>a"
@@ -51097,6 +53344,11 @@
 				"gloss": "Weg-ESS",
 				"segmentation": "ḫāri-a",
 				"transliteration": "ḫa-a-ra"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "𒀹"
 			},
 			{
 				"gloss": "",
@@ -51123,6 +53375,11 @@
 			{
 				"gloss": "",
 				"segmentation": "",
+				"transliteration": "𒀹"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
 				"transliteration": "ta-ti-i<del_in/>n-<note c=\"Oder: ta-ti-še(-)[.\"/>"
 			}
 		],
@@ -51141,6 +53398,11 @@
 				"gloss": "u.B.-ANTIP",
 				"segmentation": "ig-i",
 				"transliteration": "i-ki"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "𒀹"
 			},
 			{
 				"gloss": "neun-ESS",
@@ -51165,6 +53427,11 @@
 				"transliteration": "i-ki"
 			},
 			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "𒀹"
+			},
+			{
 				"gloss": "u.B.-ESS",
 				"segmentation": "sōšši-a",
 				"transliteration": "zu-u-uš-ša"
@@ -51180,6 +53447,13 @@
 				"transliteration": "wu<subscr c=\"u\"/>-u-ri(-)<del_in/>"
 			}
 		],
+		"KBo 33.67,lk. Kol.": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Lücke von ca. 4 Zeilen"
+			}
+		],
 		"KBo 33.67,lk. Kol. 1′": [
 			{
 				"gloss": "",
@@ -51192,6 +53466,11 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "<del_fin/>-ti"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "lk. Kol. bricht ab"
 			}
 		],
 		"KBo 33.67,r. Kol. 2′": [
@@ -51248,6 +53527,13 @@
 				"transliteration": "ḫa-a-<laes_in/>šar<laes_fin/>-<del_in/>ri<corr c=\"?\"/>(-)"
 			}
 		],
+		"KBo 33.67,r. Kol. 9′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "r. Kol. bricht ab"
+			}
+		],
 		"KBo 35.1,lk. Kol. 10′": [
 			{
 				"gloss": "DN-RELAT.SG-DAT",
@@ -51277,6 +53563,11 @@
 				"gloss": "sehen-FUT-ANTIP",
 				"segmentation": "for-ēd-i",
 				"transliteration": "wu<subscr c=\"u\"/>-re-e<del_fin/>-te"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "lk. Kol. bricht ab"
 			}
 		],
 		"KBo 35.1,lk. Kol. 3′": [
@@ -51410,6 +53701,11 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "x<corr c=\"?\"/><del_in/><note c=\"In der Autographie scheinen noch Spuren am rechten Bruch angegeben zu sein. Auf dem Foto sind diese nicht eindeutig als Zeichenspur zu erkennen.\"/>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Text bricht ab"
 			}
 		],
 		"KBo 35.108,r. Kol. 1′": [
@@ -51498,6 +53794,11 @@
 				"transliteration": "<laes_in/>a<laes_fin/>-u-ul"
 			},
 			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "(Rasur)"
+			},
+			{
 				"gloss": "Eidgemäßer(?).noun",
 				"segmentation": "elam+ir+ġe-[",
 				"transliteration": "e-la-mi-ir-<del_in/>ḫé<corr c=\"?\"/>-"
@@ -51513,6 +53814,32 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "ka-at-ta-a-x<del_in/>"
+			}
+		],
+		"KBo 35.183+,{€2} Rs. III 2": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "(Rasur)"
+			}
+		],
+		"KBo 35.183+,{€2} Rs. III 33": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "(Rasur)"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "(Rasur)"
+			}
+		],
+		"KBo 35.183+,{€2} Rs. III 38": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Rs. III bricht ab"
 			}
 		],
 		"KBo 35.183+,{€2} Rs. IV 10′": [
@@ -51705,6 +54032,11 @@
 				"gloss": "u.B..unclear",
 				"segmentation": "]i",
 				"transliteration": "<del_fin/>x-i"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Rs. IV bricht ab"
 			}
 		],
 		"KBo 35.183+,{€2} Rs. IV 2′": [
@@ -51753,6 +54085,11 @@
 				"gloss": "u.B.-RELAT.PL.ABS",
 				"segmentation": "tāri-na",
 				"transliteration": "da-a-ar-ra"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "(Rasur)"
 			},
 			{
 				"gloss": "Gott.ABS",
@@ -51818,6 +54155,13 @@
 				"transliteration": "ma-an-du-ug-ga-<laes_in/>el<laes_fin/>-la"
 			}
 		],
+		"KBo 35.183+,{€2} Vs. I 10′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "(Rasur)"
+			}
+		],
 		"KBo 35.183+,{€2} Vs. I 12′": [
 			{
 				"gloss": "Wasser; Fluss.ABS",
@@ -51876,11 +54220,37 @@
 				"transliteration": "<d>URU</d>ša-bi-nu-wa-ḫi-ni-bi-na"
 			}
 		],
+		"KBo 35.183+,{€2} Vs. I 29′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Vs. I bricht ab"
+			}
+		],
+		"KBo 35.183+,{€2} Vs. II 16′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "(Rasur)"
+			}
+		],
+		"KBo 35.183+,{€2} Vs. II 40′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Ende Vs. II"
+			}
+		],
 		"KBo 35.2,lk. Kol. 1′": [
 			{
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "<del_fin/>x-en"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "lk. Kol. bricht ab"
 			}
 		],
 		"KBo 35.2,r. Kol. 2′": [
@@ -51948,6 +54318,23 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "x<del_in/>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "r. Kol. bricht ab"
+			}
+		],
+		"KBo 35.24+, {€1} Rs. III": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Raum von ca. 3 Zeilen, soweit erhalten, unbeschrieben"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Ende Rs. III"
 			}
 		],
 		"KBo 35.24+, {€1} Rs. III 8′": [
@@ -52065,6 +54452,11 @@
 				"gloss": "u.B..unclear",
 				"segmentation": "]tuga[",
 				"transliteration": "(-)t<del_fin/>u<corr c=\"?\"/>-ga-x<del_in/>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Vs. II bricht ab"
 			}
 		],
 		"KBo 35.24+, {€2+1} 10′/Rs. III 5′": [
@@ -52145,6 +54537,11 @@
 			}
 		],
 		"KBo 35.24+, {€2+1} 9′/Rs. III 4′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "(Rasur)"
+			},
 			{
 				"gloss": "",
 				"segmentation": "",
@@ -52288,6 +54685,13 @@
 				"transliteration": "<c type=\"sign\">ḪI</c><note c=\"Das ḪI steht auf dem oberen der beiden Paragraphenstriche. Vor und nach dem Zeichen ist eine große Lücke. Es ist wohl kein Wort, dass direkt zu dem Omen gehört.\"/>"
 			}
 		],
+		"KBo 35.3,r. Kol. 7′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "r. Kol. bricht ab"
+			}
+		],
 		"KBo 35.4,10′": [
 			{
 				"gloss": "Vorzeichen.ABS",
@@ -52310,6 +54714,13 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "<laes_in/>ḫu-nu<laes_fin/>-x<del_in/>"
+			}
+		],
+		"KBo 35.4,12′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Text bricht ab"
 			}
 		],
 		"KBo 35.4,1′": [
@@ -52474,6 +54885,11 @@
 				"transliteration": "ḫa<corr c=\"?\"/>-w<del_fin/>u<subscr c=\"u\"/>-ur-ni"
 			},
 			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "𒀹"
+			},
+			{
 				"gloss": "Jäger.ABS",
 				"segmentation": "keb+li",
 				"transliteration": "ki-ip-li"
@@ -52504,6 +54920,11 @@
 			}
 		],
 		"KBo 35.43,Vs. 14′!": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "𒀹"
+			},
 			{
 				"gloss": "3PRON-PL-ERG",
 				"segmentation": "manu-ž-ōž",
@@ -52541,6 +54962,13 @@
 				"transliteration": "<del_fin/>(-)<laes_in/>ḫa<corr c=\"?\"/><laes_fin/>-m<del_in/>a(-)<note c=\" Oder: &lt;SP_f_AO_3a_Hurrian&gt;&lt;del_fin/&gt;x-u-m&lt;del_in/&gt;a(-)&lt;/SP_f_AO_3a_Hurrian&gt;.\" n=\"5\"/>"
 			}
 		],
+		"KBo 35.43,Vs. 18′!": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Text bricht ab"
+			}
+		],
 		"KBo 35.43,Vs. 1′": [
 			{
 				"gloss": "u.B..ABS",
@@ -52553,6 +54981,11 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "<del_fin/>x-ri"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "𒀹"
 			},
 			{
 				"gloss": "gehen-ANTIP",
@@ -52575,6 +55008,11 @@
 				"gloss": "u.B.-MED",
 				"segmentation": "nūd-u",
 				"transliteration": "nu-ú-du"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "𒀹"
 			},
 			{
 				"gloss": "",
@@ -52625,6 +55063,11 @@
 			{
 				"gloss": "",
 				"segmentation": "",
+				"transliteration": "𒀹"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
 				"transliteration": "a-x<del_in/>"
 			}
 		],
@@ -52642,6 +55085,11 @@
 			{
 				"gloss": "",
 				"segmentation": "",
+				"transliteration": "𒀹"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
 				"transliteration": "a-al-pa-x<del_in/>"
 			}
 		],
@@ -52655,6 +55103,13 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "da-a-ma-<del_in/>"
+			}
+		],
+		"KBo 35.43,Vs. 9′!": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "im erhaltenen Teil unbeschrieben"
 			}
 		],
 		"KBo 35.46,1′": [
@@ -52695,6 +55150,11 @@
 				"gloss": "machen-TR.PFV-3A.SG",
 				"segmentation": "tān-o-m",
 				"transliteration": "(-)d<del_fin/>a-a-nu-u<del_in/>m<note c=\"Nach dem Foto steht das A etwas dichter am DA, als es die Autographie angibt.\"/>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Text bricht ab"
 			}
 		],
 		"KBo 35.47,1′": [
@@ -52781,6 +55241,13 @@
 				"transliteration": "<del_fin/>x-ši-<laes_in/>i<laes_fin/>-ni-ta"
 			}
 		],
+		"KBo 35.47,8′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Text bricht ab"
+			}
+		],
 		"KBo 35.5,1′": [
 			{
 				"gloss": "Feld.noun",
@@ -52836,6 +55303,13 @@
 				"gloss": "u.B..noun",
 				"segmentation": "armušše-[",
 				"transliteration": "<del_in/>a<del_fin/>r<corr c=\"?\"/>-mu-uš-še-x<del_in/><note c=\"Oder: [x-r]i-. Am hinteren Bruch vielleicht -še-n[i⒣.\"/>"
+			}
+		],
+		"KBo 35.5,7′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Text bricht ab"
 			}
 		],
 		"KBo 35.52+, {€1} 2′": [
@@ -52964,6 +55438,13 @@
 				"transliteration": "ta-a-<laes_in/>še<laes_fin/>-x<del_in/>"
 			}
 		],
+		"KBo 35.52+, {€2} 8′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Text bricht ab"
+			}
+		],
 		"KBo 35.6,Rs. III 4′": [
 			{
 				"gloss": "u.B.-ERG",
@@ -52986,6 +55467,11 @@
 				"gloss": "u.B.-FUT-3A.SG",
 				"segmentation": "nav-ed-a",
 				"transliteration": "na-<laes_in/>we<subscr c=\"e\"/>-da<laes_fin/><note c=\"Das NA steht näher am vorhergehenden Zeichen, als es nach der Autographie erscheint. Morphologisch wäre eine Worttrennung sinnvoll. Die Proportionen des WA + Subskription sprechen eher für ein subskribiertes E anstatt eines A. Die Stelle ist aber etwas beschädigt.\"/>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "(Rasur)"
 			}
 		],
 		"KBo 35.6,Rs. III 6′": [
@@ -53027,6 +55513,20 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "-r<del_fin/>u-ḫi-da"
+			}
+		],
+		"KBo 35.6,Rs. III 9′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Rs. III bricht ab"
+			}
+		],
+		"KBo 35.6,Vs. II 10″": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Vs. II bricht ab"
 			}
 		],
 		"KBo 35.6,Vs. II 1′": [
@@ -53143,6 +55643,13 @@
 				"transliteration": "šu-ú-x<del_in/>"
 			}
 		],
+		"KBo 35.62,8′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "r. Kol. bricht ab"
+			}
+		],
 		"KBo 35.7,Vs. 1′": [
 			{
 				"gloss": "u.B..unclear",
@@ -53185,6 +55692,13 @@
 				"transliteration": "ḫi-el-l<del_in/>i-"
 			}
 		],
+		"KBo 35.7,Vs. 7′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Vs. bricht ab"
+			}
+		],
 		"KBo 40.102,1′": [
 			{
 				"gloss": "u.B..unclear",
@@ -53211,6 +55725,11 @@
 				"gloss": "DN.ABS",
 				"segmentation": "Kumarbi",
 				"transliteration": "<del_in/><d>D<corr c=\"?\"/></d>k<del_fin/>u<corr c=\"?\"/>-<laes_in/>mar<laes_fin/>-b<del_in/>i<corr c=\"?\"/>(-)"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Text bricht ab"
 			}
 		],
 		"KBo 40.123+, {€1+2} Vs. I 28/1′": [
@@ -53495,6 +56014,27 @@
 				"transliteration": "<del_fin/>"
 			}
 		],
+		"KBo 40.123+, {€12+7} Rs. 6′/Rs. IV 11′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "(Rasur)"
+			}
+		],
+		"KBo 40.123+, {€12+7} Rs./Rs. IV": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "erhaltener Teil einer Zeile unbeschrieben"
+			}
+		],
+		"KBo 40.123+, {€12+8} Rs.": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Raum von ca. 4 Zeilen unbeschrieben"
+			}
+		],
 		"KBo 40.123+, {€1} Rs. III 1": [
 			{
 				"gloss": "Liebe-ESS",
@@ -53590,6 +56130,11 @@
 				"transliteration": "ú-<del_in/>"
 			},
 			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "𒀹"
+			},
+			{
 				"gloss": "Sulfur?-ESS=1PL.ABS",
 				"segmentation": "kibridi-a=dil",
 				"transliteration": "ki-<ras_in/>ip<ras_fin/>-ri-<laes_in/>ta-ti<laes_fin/>-el"
@@ -53620,6 +56165,11 @@
 				"gloss": "Wasser; Fluss-RELAT.PL-PL-DAT/ESS",
 				"segmentation": "šie-na-āž-a",
 				"transliteration": "ši-i-e-na-a-ša"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "(Rasur)"
 			}
 		],
 		"KBo 40.123+, {€1} Rs. III 15": [
@@ -53717,6 +56267,11 @@
 				"gloss": "Vater-DIR",
 				"segmentation": "atta+i-da",
 				"transliteration": "at-ta-i-ta"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "𒀹"
 			},
 			{
 				"gloss": "Mutter.ABS",
@@ -53883,6 +56438,11 @@
 				"transliteration": "<del_in/>n<del_fin/>e-e-eš-ši<note c=\"In der Autographie wird am Bruch noch ein Teil des Kopfes eines senkrechten Keils angegeben, der für ein NE statt eines NI spräche, was auch dem zur Verfügung stehenden Raum besser entsprechen könnte. Auf dem Foto ist er nicht sicher zu erkennen.\"/>"
 			},
 			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "𒀹"
+			},
+			{
 				"gloss": "u.B.-ESS",
 				"segmentation": "pāri-a",
 				"transliteration": "pa-a-ra"
@@ -53901,6 +56461,18 @@
 				"gloss": "u.B.-ESS",
 				"segmentation": "šarārmi-a",
 				"transliteration": "ša-<laes_in/>ra<laes_fin/>-a-ar-ma"
+			}
+		],
+		"KBo 40.123+, {€1} Vs. I": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "erhaltener Teil einer Zeile unbeschrieben"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Ende Vs. I"
 			}
 		],
 		"KBo 40.123+, {€1} Vs. I 22": [
@@ -54212,6 +56784,11 @@
 				"transliteration": "ki-i-pa-aš-ši"
 			},
 			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "𒀹"
+			},
+			{
 				"gloss": "u.B.-RELAT.SG-GEN-RELAT.SG-DIR",
 				"segmentation": "aġr+i+nni-ne-ve-ne-da",
 				"transliteration": "<laes_in/>aḫ<laes_fin/>-ri-in-ni-ni-bi-ni-ta"
@@ -54232,6 +56809,11 @@
 				"gloss": "u.B.-RELAT.SG-DIR",
 				"segmentation": "kūmuri-ne-da",
 				"transliteration": "ku-ú-mu-ur-<laes_in/>ri<laes_fin/>-ta"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "𒀹"
 			},
 			{
 				"gloss": "Silber-RELAT.SG-DAT=3PL.ABS",
@@ -54266,6 +56848,11 @@
 				"gloss": "Wasser; Fluss-RELAT.PL.ABS",
 				"segmentation": "šie-na",
 				"transliteration": "ši-i-e-na"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "𒀹"
 			},
 			{
 				"gloss": "GN-RELAT.SG-DIR",
@@ -54493,6 +57080,11 @@
 				"gloss": "u.B..ABS",
 				"segmentation": "paini",
 				"transliteration": "pa-i-ni"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "𒀹"
 			}
 		],
 		"KBo 40.123+, {€1} Vs. II 34": [
@@ -54807,6 +57399,11 @@
 				"transliteration": "e-ki-ni"
 			},
 			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "(Rasur)"
+			},
+			{
 				"gloss": "GN-ABL/INS",
 				"segmentation": "Ḫāžimari-ne",
 				"transliteration": "ḫ<del_fin/>a-a-ši-ma<del_in/>r<del_fin/>-ri"
@@ -54953,6 +57550,11 @@
 				"gloss": "Wasser; Fluss-RELAT.PL.ABS",
 				"segmentation": "šie-na",
 				"transliteration": "<del_in/>ši<del_fin/>-<laes_in/>i<laes_fin/>-e-na"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "𒀹"
 			},
 			{
 				"gloss": "",
@@ -55306,6 +57908,11 @@
 				"gloss": "DN.ABS",
 				"segmentation": "Nikkal",
 				"transliteration": "<d>D</d>ni-ik-kal"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "𒀹"
 			}
 		],
 		"KBo 40.123+, {€7+1} Rs. III 11′/Rs. III 30": [
@@ -55430,6 +58037,11 @@
 				"gloss": "Gott-RELAT.PL-PL-DAT/ESS",
 				"segmentation": "eni-na-āž-a",
 				"transliteration": "<sGr>DINGIR</sGr><d>MEŠ</d>-na-a-ša"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "𒀹"
 			},
 			{
 				"gloss": "DN-RELAT.SG-DAT",
@@ -55593,6 +58205,18 @@
 				"transliteration": "<sGr>DIN<del_in/>GIR</sGr><d>MEŠ</d>-na-a-ša-i"
 			}
 		],
+		"KBo 40.123+, {€8+1} Rs. III": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "erhaltener Teil von zwei Zeilen unbeschrieben"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Ende Rs. III"
+			}
+		],
 		"KBo 40.123+, {€8+1} Rs. III 24′/Rs. III 60″": [
 			{
 				"gloss": "DN.noun",
@@ -55659,6 +58283,11 @@
 				"gloss": "sprechen-d-TR.IMP=2SG.ABS",
 				"segmentation": "kul-d-i=m",
 				"transliteration": "ku-ul-t<del_in/>i<del_fin/>-im"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "𒀹"
 			}
 		],
 		"KBo 40.123+, {€8+4+1} Rs. III 21′/Rs. III 57′/Rs. III 57″": [
@@ -55676,6 +58305,11 @@
 				"gloss": "Fruchtbarkeit.ABS",
 				"segmentation": "ḫan+u+b+a+sḫe",
 				"transliteration": "ḫa-nu-pa-az-ḫi"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "(Rasur)"
 			}
 		],
 		"KBo 40.123+, {€8+4+1} Rs. III 22′/Rs. III 58′/Rs. III 58″": [
@@ -55688,6 +58322,11 @@
 				"gloss": "sprechen-d-MOD.PAT=CON",
 				"segmentation": "kul-d-o=m",
 				"transliteration": "<del_in/>k<del_fin/>u-ul-tum"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "𒀹"
 			},
 			{
 				"gloss": "Liebe-ESS",
@@ -56016,6 +58655,11 @@
 				"transliteration": "<laes_in/>ku<laes_fin/>-ul-ti-<laes_in/>im<laes_fin/>"
 			},
 			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "𒀹"
+			},
+			{
 				"gloss": "Leben.ABS",
 				"segmentation": "šeġōr+ni",
 				"transliteration": "še-ḫu-u-ur<corr c=\"!\"/>-ni<note c=\"Das UR hat drei statt zwei vordere senkrechte Keile.\"/>"
@@ -56031,6 +58675,18 @@
 				"gloss": "Leben.ABS",
 				"segmentation": "šeġor+ni",
 				"transliteration": "še-<laes_in/>ḫu-ur<laes_fin/>-<del_in/>ni"
+			}
+		],
+		"KBo 40.123+, {€8} Rs. IV": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "erhaltener Teil der Rs. IV bis zum u. Rd. unbeschrieben"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Ende Rs. IV"
 			}
 		],
 		"KBo 40.123+,{€1+6} Vs. II 43/1′": [
@@ -56391,6 +59047,11 @@
 				"gloss": "ganz-ABL/INS",
 				"segmentation": "šummi-n",
 				"transliteration": "šum-mi-in"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "𒀹"
 			}
 		],
 		"KBo 40.123+,{€1} Vs. II 63": [
@@ -56463,6 +59124,11 @@
 				"transliteration": "da-a-ḫi-pa"
 			},
 			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "𒀹"
+			},
+			{
 				"gloss": "Mann.ABS=1SG.ABS",
 				"segmentation": "tāġe=d",
 				"transliteration": "da-a-ḫi-<laes_in/>it<laes_fin/>"
@@ -56471,6 +59137,16 @@
 				"gloss": "Ehefrau; Frau-DAT",
 				"segmentation": "āšti-va",
 				"transliteration": "a-aš-ti-pa"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "𒀹"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Ende Vs. II"
 			}
 		],
 		"KBo 47.311,Vs. lk. Kol. 2′": [
@@ -56520,6 +59196,11 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "<del_fin/>x-<laes_in/>an<laes_fin/>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Vs. lk. Kol. bricht ab"
 			}
 		],
 		"KBo 47.311,Vs. r. Kol. 2′": [
@@ -56541,6 +59222,13 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "ka-a-x<del_in/>"
+			}
+		],
+		"KBo 47.311,Vs. r. Kol. 5′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Vs. r. Kol. bricht ab"
 			}
 		],
 		"KBo 49.60,2′": [
@@ -56598,6 +59286,11 @@
 				"gloss": "u.B..unclear",
 				"segmentation": "]ri",
 				"transliteration": "<del_fin/>x-x-ri<corr c=\"?\"/>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Text bricht ab"
 			}
 		],
 		"KBo 51.224+, {€2+1} 2′": [
@@ -56712,6 +59405,11 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "x"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Text bricht ab"
 			}
 		],
 		"KBo 51.228+, {€1} Rs. 10′": [
@@ -56980,6 +59678,13 @@
 				"transliteration": "<laes_in/>ki-ki<laes_fin/>-x<del_in/>"
 			}
 		],
+		"KBo 51.228+, {€1} Vs. 23′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Vs. I bricht ab"
+			}
+		],
 		"KBo 51.228+, {€1} Vs. 2′": [
 			{
 				"gloss": "",
@@ -57078,6 +59783,11 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "<sGr>TIL</sGr>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Ende des Texts"
 			}
 		],
 		"KBo 51.228+, {€2} 1′": [
@@ -57151,6 +59861,11 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "ku-un-x<del_in/>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Rs. IV bricht ab"
 			}
 		],
 		"KBo 51.228+, {€3} 2′": [
@@ -57165,6 +59880,11 @@
 				"gloss": "u.B.-ESS",
 				"segmentation": "]ūll+ūdi-a",
 				"transliteration": "<del_fin/>x-ú-ul-lu-ú-d<del_in/>a(-)"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Text bricht ab"
 			}
 		],
 		"KBo 51.228+, {€4} 2′": [
@@ -57186,6 +59906,18 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "<del_in/>a<corr c=\"?\"/><del_fin/>-<laes_in/>lu<corr c=\"?\"/><laes_fin/>-<del_in/>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Text bricht ab"
+			}
+		],
+		"KBo 51.228+,Rs. IV": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Lücke unbekannter Länge"
 			}
 		],
 		"KBo 51.232,Seite A 10′": [
@@ -57234,6 +59966,11 @@
 				"gloss": "u.B.-ESS",
 				"segmentation": "]až+a+šḫe-ā=[",
 				"transliteration": "<del_fin/>x-<laes_in/>a-ša<corr c=\"?\"/>-aš<corr c=\"?\"/>-ḫa-a<laes_fin/>-x<del_in/><note c=\"Vielleicht auch ]x-⸢a⸣-x-⸢ši⸣ ⸢ḫa-a⸣-x[.\"/>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Seite A bricht ab"
 			}
 		],
 		"KBo 51.232,Seite A 2′": [
@@ -57307,11 +60044,23 @@
 				"transliteration": "wa<subscr c=\"a\"/>-wa<subscr c=\"a\"/>-na-aš-ta"
 			}
 		],
+		"KBo 51.232,Seite B 1′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Seite B bricht ab"
+			}
+		],
 		"KBo 52.224,10′": [
 			{
 				"gloss": "u.B.-ESS",
 				"segmentation": "]ri-a",
 				"transliteration": "<del_fin/>-<laes_in/>ra<corr c=\"?\"/><laes_fin/>(-)<del_in/>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Text bricht ab"
 			}
 		],
 		"KBo 52.224,1′": [
@@ -57474,6 +60223,11 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "x-ki(-)<del_in/>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Text bricht ab"
 			}
 		],
 		"KBo 53.229,1′": [
@@ -57521,6 +60275,13 @@
 				"gloss": "sagen; sprechen-TR-3A.SG",
 				"segmentation": "kad-i-a",
 				"transliteration": "ka₄-ti-ia"
+			}
+		],
+		"KBo 53.229,8′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Text bricht ab"
 			}
 		],
 		"KBo 53.232,1′": [
@@ -57580,6 +60341,11 @@
 				"gloss": "u.B..noun",
 				"segmentation": "tiffani-x[",
 				"transliteration": "t<del_fin/>i-ip-wa<subscr c=\"a\"/>-ni-x<del_in/>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Text bricht ab"
 			}
 		],
 		"KBo 53.233,lk. Kol. 1′": [
@@ -57644,6 +60410,11 @@
 				"gloss": "u.B..unclear",
 				"segmentation": "]ā[",
 				"transliteration": "<del_fin/>-<laes_in/>a-a<laes_fin/>(-)<del_in/><note c=\"Das erste A könnte auch ein E sein oder zu einem IA gehören.\"/>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "lk. Kol. bricht ab"
 			}
 		],
 		"KBo 54.4,3′": [
@@ -57701,6 +60472,13 @@
 				"transliteration": "<d><laes_in/>D<laes_fin/></d><sGr>IŠKUR</sGr>-úw-wu<laes_in/><subscr c=\"ú\"/><corr c=\"?\"/><laes_fin/>-u<del_in/>š<note c=\" Vgl. &lt;SP_f_AO_3a_TxtPubl&gt;KBo 33.61a&lt;/SP_f_AO_3a_TxtPubl&gt; Rs.? 6′ &lt;SP_f_AO_3a_Determ&gt;D&lt;/SP_f_AO_3a_Determ&gt;&lt;SP_f_AO_3a_SumGRAM&gt;10&lt;/SP_f_AO_3a_SumGRAM&gt;&lt;SP_f_AO_3a_Hurrian&gt;-&lt;laes_in/&gt;up&lt;laes_fin/&gt;-pu-uš&lt;/SP_f_AO_3a_Hurrian&gt;. Oder &lt;SP_f_AO_3a_Determ&gt;&lt;laes_in/&gt;D&lt;laes_fin/&gt;&lt;/SP_f_AO_3a_Determ&gt;&lt;SP_f_AO_3a_SumGRAM&gt;IŠKUR&lt;/SP_f_AO_3a_SumGRAM&gt;&lt;SP_f_AO_3a_Hurrian&gt;-úw-we&lt;/SP_f_AO_3a_Hurrian&gt;&lt;SP_f_AO_3a_subscr&gt;&lt;laes_in/&gt;e&lt;laes_fin/&gt;&lt;/SP_f_AO_3a_subscr&gt;&lt;SP_f_AO_3a_Hurrian&gt;-x&lt;del_in/&gt;&lt;/SP_f_AO_3a_Hurrian&gt;.\" n=\"1\"/>"
 			}
 		],
+		"KBo 54.4,8′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Text bricht ab"
+			}
+		],
 		"KBo 56.198,2′": [
 			{
 				"gloss": "u.B..unclear",
@@ -57730,6 +60508,13 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "<sGr>LÚ</sGr>-k<del_in/>a(-)"
+			}
+		],
+		"KBo 56.198,5′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Text bricht ab"
 			}
 		],
 		"KBo 59.226,1′": [
@@ -57787,6 +60572,11 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "<d>M</d><del_in/>ú<corr c=\"?\"/>-te<corr c=\"?\"/>-ep<corr c=\"?\"/>-šar<corr c=\"?\"/>-"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Text bricht ab"
 			}
 		],
 		"KBo 60.232,1′": [
@@ -57856,6 +60646,13 @@
 				"gloss": "u.B..unclear",
 				"segmentation": "tēr-i[",
 				"transliteration": "te-e-r<del_in/>i(-)"
+			}
+		],
+		"KBo 60.232,8′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Text bricht ab"
 			}
 		],
 		"KBo 62.54,Rs. 1′": [
@@ -57955,6 +60752,11 @@
 				"gloss": "Gallenblase.noun",
 				"segmentation": "ažni",
 				"transliteration": "<sGr>Z<del_fin/>Í</sGr><corr c=\"?\"/>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Rs. bricht ab"
 			}
 		],
 		"KBo 62.54,Vs. 10′": [
@@ -57989,6 +60791,11 @@
 				"gloss": "u.B.-3POSS-PL-DAT/ESS",
 				"segmentation": "tem+gi-i-až-a",
 				"transliteration": "<laes_in/>te-em<laes_fin/>-ki-ia-ša"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Vs. bricht ab"
 			}
 		],
 		"KBo 62.54,Vs. 1′": [
@@ -58176,6 +60983,13 @@
 				"transliteration": "e-ia-ar-ši"
 			}
 		],
+		"KBo 62.8,Rs. 10": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Rs. bricht ab"
+			}
+		],
 		"KBo 62.8,Rs. 2": [
 			{
 				"gloss": "u.B.-RELAT.SG-EQU2",
@@ -58239,6 +61053,11 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "<del_fin/>x-li"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "(Rasur)"
 			}
 		],
 		"KBo 62.8,Rs. 7": [
@@ -58331,6 +61150,11 @@
 				"gloss": "u.B..ABS",
 				"segmentation": "ev+ar+že",
 				"transliteration": "e-wa<subscr c=\"a\"/>-ar-ši"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "(Rasur)"
 			}
 		],
 		"KBo 62.8,Vs. 13′": [
@@ -58343,6 +61167,11 @@
 				"gloss": "u.B..ABS=3SG.ABS",
 				"segmentation": "ḫillame=n",
 				"transliteration": "<add_in/>ḫi<corr c=\"?\"/><add_fin/>-il-<laes_in/>la<laes_fin/>-mi-en<note c=\"Vielleicht ist das angenommene ḪI auch zerstört. Dies scheint nach dem 3D-Scan nicht ausgeschlossen zu sein.\"/>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Ende Vs."
 			}
 		],
 		"KBo 62.8,Vs. 1′": [
@@ -58381,6 +61210,11 @@
 				"gloss": "geben-ōl-ull-TR.PFV-3A.SG",
 				"segmentation": "ar-ōl-ull-o-m",
 				"transliteration": "a<del_fin/>-ru-u-lu-ul-lu-<ras_in/>up<ras_fin/>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "(Rasur)"
 			}
 		],
 		"KBo 62.8,Vs. 5′": [
@@ -58393,6 +61227,11 @@
 				"gloss": "u.B..ABS",
 				"segmentation": "kibi",
 				"transliteration": "<ras_in/>ki-bi<ras_fin/>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "(Rasur)"
 			},
 			{
 				"gloss": "",
@@ -58458,6 +61297,11 @@
 				"transliteration": "ši-i-ri"
 			},
 			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "(Rasur)"
+			},
+			{
 				"gloss": "u.B..ABS",
 				"segmentation": "šēni",
 				"transliteration": "še-e-ni"
@@ -58503,6 +61347,11 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "ḫe-e-w<del_in/>a<subscr c=\"a\"/><del_fin/>-x<del_in/>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Text bricht ab"
 			}
 		],
 		"KBo 64.5,2′": [
@@ -58536,6 +61385,13 @@
 				"gloss": "u.B..ABS",
 				"segmentation": "]anzuballi",
 				"transliteration": "<del_fin/>(-)an-zu-pa-al-li"
+			}
+		],
+		"KBo 64.5,6′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Text bricht ab"
 			}
 		],
 		"KBo 64.6,1′": [
@@ -58597,6 +61453,13 @@
 				"transliteration": "<del_fin/>(-)<laes_in/>ip<laes_fin/>-ḫe-e-ni"
 			}
 		],
+		"KBo 64.6,8′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Text bricht ab"
+			}
+		],
 		"KBo 7.65,Vs. I 1": [
 			{
 				"gloss": "Vorzeichen.ABS",
@@ -58655,6 +61518,16 @@
 				"gloss": "Lamm.ABS",
 				"segmentation": "ḫavēr+ni",
 				"transliteration": "ḫa-w<del_in/>e<subscr c=\"e\"/>-er-ni"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Vs. I bricht ab"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "erhaltener Teil der Rs. unbeschrieben"
 			}
 		],
 		"KBo 71.80,3′": [
@@ -58719,6 +61592,11 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "x-<laes_in/>en<corr c=\"?\"/><laes_fin/>(-)<del_in/>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Text bricht ab"
 			}
 		],
 		"KBo 8.135,Rs. r. Kol. 1′": [
@@ -58776,6 +61654,11 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "<num>2</num>(-)<del_in/>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Ende Rs. r. Kol."
 			}
 		],
 		"KBo 8.135,Vs. lk. Kol. 2": [
@@ -58797,6 +61680,13 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "<del_fin/>x-it-a"
+			}
+		],
+		"KBo 8.135,Vs. lk. Kol. 6": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Vs. lk. Kol. bricht ab"
 			}
 		],
 		"KBo 8.135,Vs. r. Kol. 1": [
@@ -58839,6 +61729,20 @@
 				"gloss": "Gallenblase.ABS",
 				"segmentation": "ažne",
 				"transliteration": "<sGr>ZÍ</sGr>-ni"
+			}
+		],
+		"KBo 8.135,Vs. r. Kol. 7": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Vs. r. Kol. bricht ab"
+			}
+		],
+		"KBo 8.137,11′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Text bricht ab"
 			}
 		],
 		"KBo 8.137,2′": [
@@ -58891,6 +61795,11 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "<del_fin/>(-)ta-lam-e"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "(Rasur)"
 			},
 			{
 				"gloss": "recht, rechte Seite; rechts-ABL/INS",
@@ -59072,6 +61981,11 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "ma-<del_in/>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Rs. IV bricht ab"
 			}
 		],
 		"KBo 8.144+, {€1} Rs. IV 6′": [
@@ -59371,6 +62285,11 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "<sGr>TIL</sGr>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Ende lk. Rd."
 			}
 		],
 		"KBo 8.144+, {€2+3} Rs. IV 14′/1′": [
@@ -59634,6 +62553,11 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "<del_fin/>x-ik-<laes_in/>ku<laes_fin/>-<del_in/>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Vs. I bricht ab"
 			}
 		],
 		"KBo 8.146,10′": [
@@ -59655,6 +62579,13 @@
 				"gloss": "Vorzeichen.ABS",
 				"segmentation": "for+āna",
 				"transliteration": "⸢wu<subscr c=\"u\"/>⸣-ra-a-n<del_in/>a"
+			}
+		],
+		"KBo 8.146,13′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Text bricht ab"
 			}
 		],
 		"KBo 8.146,1′": [
@@ -59770,6 +62701,11 @@
 				"gloss": "u.B.=2POSS.SG",
 				"segmentation": "]li=mma",
 				"transliteration": "<del_fin/>x-x-li-im-m<del_in/>a(-)"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Text bricht ab"
 			}
 		],
 		"KUB 27.31,1′": [
@@ -60056,6 +62992,11 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "<laes_in/>u<laes_fin/>-x<del_in/>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Rs. III bricht ab"
 			}
 		],
 		"KUB 27.38,Rs. III 2′": [
@@ -60354,6 +63295,13 @@
 				"transliteration": "uš-ta-e"
 			}
 		],
+		"KUB 27.38,Rs. IV 1′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "(abgebrochen)"
+			}
+		],
 		"KUB 27.38,Rs. IV 20′": [
 			{
 				"gloss": "u.B.-ABL/INS",
@@ -60560,6 +63508,13 @@
 				"transliteration": "ta-a-ta-an-ne(-)<del_in/>"
 			}
 		],
+		"KUB 27.38,Rs. IV 33′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Rs. IV bricht ab"
+			}
+		],
 		"KUB 27.38,Rs. IV 4′": [
 			{
 				"gloss": "u.B..ABS",
@@ -60623,6 +63578,18 @@
 				"gloss": "PN.ABS=3SG.ABS",
 				"segmentation": "Audalumma=n",
 				"transliteration": "<d>m</d>a-ú-ta-lu-um-ma-an"
+			}
+		],
+		"KUB 27.38,Vs. I": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Bis zum unteren Rand etwa 3 Zeieln"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Ende Vs. I"
 			}
 		],
 		"KUB 27.38,Vs. I 10′": [
@@ -60788,11 +63755,32 @@
 				"transliteration": "<laes_in/><d>D</d>šar-ri<laes_fin/>-n<del_in/>a-a-še"
 			}
 		],
+		"KUB 27.38,Vs. I 20′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "(Rasur)"
+			}
+		],
 		"KUB 27.38,Vs. I 23′": [
 			{
 				"gloss": "Gottkönig-RELAT.PL.ABS",
 				"segmentation": "šarri-na",
 				"transliteration": "šar-re-<laes_in/>e-na<laes_fin/>"
+			}
+		],
+		"KUB 27.38,Vs. I 25′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "(unbeschrieben)"
+			}
+		],
+		"KUB 27.38,Vs. I 27′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "(unbeschrieben)"
 			}
 		],
 		"KUB 27.38,Vs. I 2′": [
@@ -61171,6 +64159,11 @@
 				"gloss": "u.B.-TR.PFV-3A.SG",
 				"segmentation": "siss-ō-m",
 				"transliteration": "zi-iz-zu-u-um"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Ende Vs. II"
 			}
 		],
 		"KUB 27.38,Vs. II 2′": [
@@ -61359,6 +64352,11 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "<del_fin/>x-<laes_in/>an<laes_fin/>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Text bricht ab"
 			}
 		],
 		"KUB 27.44,10′": [
@@ -61371,6 +64369,13 @@
 				"gloss": "Truppe-RELAT.PL-PL-DIR",
 				"segmentation": "ummani-na-aš-ta",
 				"transliteration": "<sGr>ÉR<del_in/>IN</sGr>-na-aš-ta"
+			}
+		],
+		"KUB 27.44,12′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Text bricht ab"
 			}
 		],
 		"KUB 27.44,2′": [
@@ -61504,6 +64509,11 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "<del_fin/>-a"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Ende Vs. I(?)"
 			}
 		],
 		"KUB 29.12,Vs. I(?) 1′": [
@@ -61649,6 +64659,13 @@
 				"transliteration": "<sGr>LÚ</sGr>-kán"
 			}
 		],
+		"KUB 29.12,Vs. II(?) 12′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Ende Vs. II(?)"
+			}
+		],
 		"KUB 31.3,Rs. 10′": [
 			{
 				"gloss": "sprechen-āġ-TR.PFV-3A.SG",
@@ -61700,6 +64717,11 @@
 				"gloss": "DN.ABS=CON",
 				"segmentation": "Šavoška=an",
 				"transliteration": "<d>D</d><aGr>IŠTAR</aGr>-an<note c=\"Im Gegensatz zur Wiedergabe in der Autographie handelt es sich nicht um eine richtige Zeile.\"/>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Ende Rs."
 			}
 		],
 		"KUB 31.3,Rs. 1′": [
@@ -61854,6 +64876,13 @@
 				"transliteration": "wa<subscr c=\"a\"/>-an-da-<del_in/>"
 			}
 		],
+		"KUB 31.3,Vs. 11": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Vs. bricht ab"
+			}
+		],
 		"KUB 31.3,Vs. 2": [
 			{
 				"gloss": "u.B..ABS",
@@ -61876,6 +64905,11 @@
 				"gloss": "u.B..ABS",
 				"segmentation": "šešti",
 				"transliteration": "<del_in/>š<del_fin/>e<corr c=\"?\"/>-eš-ti"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "(Rasur)"
 			},
 			{
 				"gloss": "",
@@ -61970,6 +65004,13 @@
 				"transliteration": "wa<subscr c=\"a\"/>-a-an-d<del_in/>a-"
 			}
 		],
+		"KUB 31.3,lk. Rd. 1": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Tafelende"
+			}
+		],
 		"KUB 32.23+, {€1+2} Vs. 1": [
 			{
 				"gloss": "kommen; bringen-INT=1PL.ABS",
@@ -61990,6 +65031,11 @@
 				"gloss": "u.B.-RELAT.SG-DAT",
 				"segmentation": "kune-ne-va",
 				"transliteration": "ku-ni-ni-pa"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "𒀹"
 			},
 			{
 				"gloss": "DN-DAT",
@@ -62024,6 +65070,11 @@
 				"transliteration": "ti-pa-a-ḫu-u-um"
 			},
 			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "𒀹"
+			},
+			{
 				"gloss": "Rettung-GEN",
 				"segmentation": "eġli-ve",
 				"transliteration": "eḫ-li-bi"
@@ -62037,6 +65088,11 @@
 				"gloss": "Wort; Name?.ABS",
 				"segmentation": "tē+ni",
 				"transliteration": "te-e-ni"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "𒀹"
 			}
 		],
 		"KUB 32.23+, {€1+2} Vs. 11/Vs. 11!": [
@@ -62069,6 +65125,11 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "<del_fin/>x-iš"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "𒀹"
 			},
 			{
 				"gloss": "falls; wenn=2SG.ABS",
@@ -62130,6 +65191,11 @@
 				"transliteration": "ku-ni-ni-pa"
 			},
 			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "𒀹"
+			},
+			{
 				"gloss": "DN-DAT",
 				"segmentation": "Teššob-pa",
 				"transliteration": "<d>D</d><sGr>10</sGr>-up-pa"
@@ -62174,6 +65240,11 @@
 			{
 				"gloss": "",
 				"segmentation": "",
+				"transliteration": "𒀹"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
 				"transliteration": "<d>D</d><sGr>10</sGr>-u<del_in/>p-"
 			}
 		],
@@ -62187,6 +65258,11 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "<del_fin/>-<laes_in/>al-zi<laes_fin/>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "𒀹"
 			},
 			{
 				"gloss": "u.B.-MOD.PAT-OPT=1PL.ABS",
@@ -62236,6 +65312,11 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "ti-x<del_in/>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "𒀹"
 			},
 			{
 				"gloss": "Stadt-ESS=1PL.ABS",
@@ -62293,6 +65374,11 @@
 				"gloss": "Gott-RELAT.PL-PL-DAT/ESS",
 				"segmentation": "eni-na-āž-a",
 				"transliteration": "<sGr>DINGIR</sGr><d>MEŠ</d>-na-a-ša"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "𒀹"
 			}
 		],
 		"KUB 32.23+, {€1+2} Vs. 8": [
@@ -62325,6 +65411,11 @@
 				"gloss": "Gott-RELAT.PL-PL-GEN",
 				"segmentation": "eni-na-āž-e",
 				"transliteration": "<sGr>DINGIR</sGr><d>MEŠ</d>-na-a-še"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "𒀹"
 			},
 			{
 				"gloss": "falls; wenn=2SG.ABS",
@@ -62367,6 +65458,11 @@
 				"gloss": "königlich (weiblich).ABS",
 				"segmentation": "alla+n+ō+ḫḫe",
 				"transliteration": "al-la-nu-u-uḫ-ḫi"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "𒀹"
 			}
 		],
 		"KUB 32.23+, {€1} Vs. 13": [
@@ -62490,6 +65586,11 @@
 			{
 				"gloss": "",
 				"segmentation": "",
+				"transliteration": "𒀹"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
 				"transliteration": "<del_in/>"
 			},
 			{
@@ -62527,6 +65628,11 @@
 				"transliteration": "zu-u-uš-ši-<ras_in/>uš<ras_fin/>"
 			},
 			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "𒀹"
+			},
+			{
 				"gloss": "u.B.-ōġ-PST-3A.SG=3PL.ABS",
 				"segmentation": "až-ōġ-ōž-a=lla",
 				"transliteration": "a-šu-u-ḫu-u-ša-al-l<del_in/>a"
@@ -62562,6 +65668,11 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "<del_fin/>x-uš"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "𒀹"
 			}
 		],
 		"KUB 32.23+, {€3+1+4} Vs. I 5′/Vs. 21/Vs. 21": [
@@ -62628,6 +65739,11 @@
 				"gloss": "u.B.-GEN-RELAT.PL-PL-DAT/ESS",
 				"segmentation": "]-ve-na-āž-a",
 				"transliteration": "<del_fin/>x-bi-na-a-ša"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "𒀹"
 			}
 		],
 		"KUB 32.23+, {€3+1+4} Vs. I 8′/Vs. 24/Vs. 24": [
@@ -62705,6 +65821,11 @@
 				"transliteration": "<laes_in/>a<laes_fin/>-<del_in/>"
 			},
 			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "𒀹"
+			},
+			{
 				"gloss": "u.B..ABS",
 				"segmentation": "tapš+ō+bāde",
 				"transliteration": "tap-šu-u-u-<laes_in/>pa-a-ti<laes_fin/>"
@@ -62760,6 +65881,13 @@
 				"transliteration": "<del_fin/>-li-pa(-)<del_in/>"
 			}
 		],
+		"KUB 32.23+, {€4} Vs. 36": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "𒀹"
+			}
+		],
 		"KUB 32.23+, {€4} Vs. 37": [
 			{
 				"gloss": "u.B..unclear",
@@ -62791,6 +65919,11 @@
 				"gloss": "u.B.-ANTIP",
 				"segmentation": "ig-i",
 				"transliteration": "i-ki"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "𒀹"
 			},
 			{
 				"gloss": "u.B..ABS",
@@ -62832,6 +65965,11 @@
 				"gloss": "PN.ABS",
 				"segmentation": "Tažmi.šarri",
 				"transliteration": "<del_in/><d>M</d>t<del_fin/>a-aš-mi-<del_in/>šar-r<del_fin/>i(-)<del_in/>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Rs. bricht ab"
 			}
 		],
 		"KUB 32.23+, {€5} Vs. 10′": [
@@ -62918,6 +66056,11 @@
 				"gloss": "u.B..unclear",
 				"segmentation": "ub-u[",
 				"transliteration": "u-p<del_in/>u<corr c=\"?\"/>-<note c=\"Oder: u-še-[.\"/>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Ende Vs."
 			}
 		],
 		"KUB 32.23+, {€5} Vs. 1′": [
@@ -62993,6 +66136,13 @@
 				"transliteration": "ú-ri-im-pu-ú-u<del_in/>š-"
 			}
 		],
+		"KUB 32.23+,Vs.": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Lücke unbekannter Größe"
+			}
+		],
 		"KUB 32.25+, {€1+2} Rs. IV 30′": [
 			{
 				"gloss": "Mensch-RELAT.SG-GEN",
@@ -63037,6 +66187,13 @@
 				"gloss": "Gott-RELAT.PL-PL-DAT/ESS",
 				"segmentation": "eni-na-āž-a",
 				"transliteration": "<sGr>DINGIR</sGr><d>MEŠ</d>-na-a-ša"
+			}
+		],
+		"KUB 32.25+, {€1+2} Rs. IV 38′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Ende Rs. IV"
 			}
 		],
 		"KUB 32.25+, {€1+2} Vs. I 1": [
@@ -63490,6 +66647,11 @@
 				"gloss": "reinigen-ōl-3A.SG",
 				"segmentation": "itk-ōl-a",
 				"transliteration": "it-ku-u-<laes_in/>la<laes_fin/>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "𒀹"
 			}
 		],
 		"KUB 32.25+, {€1} Rs. IV 24′": [
@@ -63694,6 +66856,11 @@
 				"gloss": "u.B..ABS",
 				"segmentation": "al+ōr+e",
 				"transliteration": "a-lu-u-ri"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "𒀹"
 			}
 		],
 		"KUB 32.25+, {€1} Vs. I 16": [
@@ -63945,6 +67112,11 @@
 				"gloss": "reinigen-MED-PL.A-3A-NMLZ.ABS",
 				"segmentation": "itk-u-nd-a-šše",
 				"transliteration": "it-ku-<laes_in/>un-ta<laes_fin/>-<del_in/>aš-ši"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Vs. I bricht ab"
 			}
 		],
 		"KUB 32.25+, {€1} Vs. I 7": [
@@ -64132,6 +67304,11 @@
 				"gloss": "Feld-ABL/INS",
 				"segmentation": "avari-ne",
 				"transliteration": "a-wa-ar-ri"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "𒀹"
 			}
 		],
 		"KUB 32.25+, {€2} Rs. III 49′": [
@@ -64224,6 +67401,11 @@
 				"gloss": "lang sein; dauerhaft sein-āž-MOD.PAT-OPT",
 				"segmentation": "ker-āž-o-ež",
 				"transliteration": "ke-e-ra-a-šu-uš"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Ende Rs. III"
 			}
 		],
 		"KUB 32.25+, {€2} Rs. III 5′": [
@@ -64265,6 +67447,13 @@
 				"gloss": "Ritualherr(in)-RELAT.SG-GEN",
 				"segmentation": "āšḫ+ož+i+kk+o+nni-ne-ve",
 				"transliteration": "aš-ḫu-ši-ik-ku-un-ni-ni-b<del_in/>i"
+			}
+		],
+		"KUB 32.25+, {€2} Vs. II": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "ca. 3 Zeilen abgebrochen"
 			}
 		],
 		"KUB 32.25+, {€2} Vs. II 1": [
@@ -64437,6 +67626,11 @@
 				"gloss": "reinigen-MOD.PAT-OPT",
 				"segmentation": "itk-ō-ež",
 				"transliteration": "<laes_in/>it<laes_fin/>-ku-u-uš"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "𒀹"
 			}
 		],
 		"KUB 32.25+, {€2} Vs. II 27": [
@@ -64648,6 +67842,11 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "<laes_in/>ga<laes_fin/>-<del_in/><note c=\"Oder: t[a-.\"/>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Vs. II bricht ab"
 			}
 		],
 		"KUB 32.25+, {€2} Vs. II 6": [
@@ -65541,6 +68740,11 @@
 				"transliteration": "<del_in/>kar<del_fin/>-ši-ta"
 			},
 			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "(Rasur)"
+			},
+			{
 				"gloss": "Speichel-DIR",
 				"segmentation": "ḫapsōri-da",
 				"transliteration": "ḫa-a<del_in/>p-zu-u-ri-ta"
@@ -65644,6 +68848,11 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "ú-r<del_in/>a(-)"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Ende Rs. III"
 			}
 		],
 		"KUB 32.40+, {€2} Vs. 10′": [
@@ -65770,6 +68979,11 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "-n<del_fin/>a-šu-uš"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Vs. I bricht ab"
 			}
 		],
 		"KUB 32.40+, {€2} Vs. II 1": [
@@ -66134,6 +69348,18 @@
 				"gloss": "Ritualherr(in).ABS",
 				"segmentation": "āšḫ+ož+i+kk+o+nni",
 				"transliteration": "<laes_in/>aš-ḫu-ši<laes_fin/>-<del_in/>i<del_fin/>k-<laes_in/>ku<laes_fin/>-<del_in/>un-ni<del_fin/>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Vs. II bricht ab"
+			}
+		],
+		"KUB 32.40+,Rs. III": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Lücke von ca. 10 Zeilen"
 			}
 		],
 		"KUB 32.51+, {2+1} Vs. I 10′/Vs. I 52″": [
@@ -66185,6 +69411,11 @@
 				"gloss": "Wasser; Fluss-RELAT.PL-PL-ERG",
 				"segmentation": "šie-na-āž-ož",
 				"transliteration": "ši-i-e-na-a-šu-<del_in/>u<del_fin/>š"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Ende Vs. I"
 			}
 		],
 		"KUB 32.51+, {2+1} Vs. I 4′/Vs. I 46″": [
@@ -66298,6 +69529,11 @@
 				"gloss": "Gold; golden-RELAT.PL.ABS",
 				"segmentation": "ḫi+ar+o+ḫḫe-na",
 				"transliteration": "ḫi-ia-r<del_fin/>u-<laes_in/>uḫ<laes_fin/>-ḫi-n<del_in/>a"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Rs. III bricht ab"
 			}
 		],
 		"KUB 32.51+, {€1} Vs. II 32″": [
@@ -66698,11 +69934,23 @@
 				"transliteration": "a-n<del_in/>a<del_fin/>-<laes_in/>am<laes_fin/>-<del_in/>mi-im-ma"
 			}
 		],
+		"KUB 32.51+, {€2} Rs. IV 3": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Rs. IV bricht ab"
+			}
+		],
 		"KUB 32.51+,{€1} Vs. II 54″": [
 			{
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "x<corr c=\"?\"/><del_in/><note c=\"Auf dem Foto ist eine mögliche Zeichenspur unterhalb des IB des letzten erhaltenen Wortes der vorhergehenden Zeile zu erkennen.\"/>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Ende Vs. II"
 			}
 		],
 		"KUB 45.25,Rs. III 4′": [
@@ -66727,6 +69975,23 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "ma-x<del_in/>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Ende Rs. III"
+			}
+		],
+		"KUB 45.25,Vs. I 10": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "(unbeschrieben)"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Vs. I bricht ab"
 			}
 		],
 		"KUB 45.25,Vs. II 1": [
@@ -66765,6 +70030,11 @@
 				"gloss": "König.ABS",
 				"segmentation": "evri+ni",
 				"transliteration": "<laes_in/>e<laes_fin/>-w<del_in/>e<subscr c=\"e\"/><del_fin/>-<laes_in/>er-ne<laes_fin/>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Vs. II bricht ab"
 			}
 		],
 		"KUB 45.25,Vs. II 3": [
@@ -66808,6 +70078,11 @@
 				"gloss": "u.B..ABS",
 				"segmentation": "alv+o+vade",
 				"transliteration": "al-wu<subscr c=\"u\"/>-wa<subscr c=\"a\"/>-te"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "(Rasur)"
 			},
 			{
 				"gloss": "König.ABS",
@@ -66856,6 +70131,11 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "<del_fin/>x-pa<corr c=\"?\"/>-ma"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "lk. Kol. bricht ab"
 			}
 		],
 		"KUB 45.31,r. Kol. 10′": [
@@ -66911,6 +70191,11 @@
 				"gloss": "gut-ESS=CON",
 				"segmentation": "[f]aġri-a=ma",
 				"transliteration": "<del_in/>w<del_fin/>a<subscr c=\"a\"/>-<laes_in/>aḫ<laes_fin/>-ra-ma"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "r. Kol. bricht ab"
 			}
 		],
 		"KUB 45.31,r. Kol. 1′": [
@@ -67066,6 +70351,11 @@
 				"gloss": "u.B.=2SG.ABS",
 				"segmentation": "]na=mma",
 				"transliteration": "<del_fin/>-na-am-ma"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Vs. I bricht ab"
 			}
 		],
 		"KUB 45.60,Vs. II 10′": [
@@ -67321,6 +70611,13 @@
 				"transliteration": "<del_fin/>x-<laes_in/>ma<laes_fin/>-ar-ri(-)<del_in/>"
 			}
 		],
+		"KUB 45.60,Vs. II 23′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Vs. II bricht ab"
+			}
+		],
 		"KUB 45.60,Vs. II 2′": [
 			{
 				"gloss": "u.B..unclear",
@@ -67436,6 +70733,11 @@
 				"transliteration": "ta-a-<ras_in/>ša<ras_fin/>-e"
 			},
 			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "(Rasur)"
+			},
+			{
 				"gloss": "u.B.-INS",
 				"segmentation": "sūve-ae",
 				"transliteration": "zu-ú-wa<subscr c=\"a\"/>-e"
@@ -67495,6 +70797,11 @@
 				"gloss": "töten-MOD.PAT-NEG-3JUSS",
 				"segmentation": "ub-o-va-en",
 				"transliteration": "ú-pu-we<subscr c=\"e\"/>-in"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "(Rasur)"
 			},
 			{
 				"gloss": "",
@@ -67616,6 +70923,13 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "<d>D</d>ta-<laes_in/>aš-mi-i<del_in/>š(-)"
+			}
+		],
+		"KUB 45.61,Vs. II? 21": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Vs. II? bricht ab"
 			}
 		],
 		"KUB 45.61,Vs. II? 3": [
@@ -67777,6 +71091,11 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "<aGr>ŠA</aGr> <sGr>A.<laes_in/>AB<laes_fin/>.<del_in/>BA</sGr>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Ende Rs. IV"
 			}
 		],
 		"KUB 45.63,Vs. I 1": [
@@ -67869,6 +71188,11 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "x-<laes_in/>ni<laes_fin/>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Vs. I bricht ab"
 			}
 		],
 		"KUB 45.63,Vs. I 2": [
@@ -68080,6 +71404,13 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "<d>D</d>ḫu-<del_in/>"
+			}
+		],
+		"KUB 45.64+, {€1} Rs.? 18′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Rs.? bricht ab"
 			}
 		],
 		"KUB 45.64+, {€1} Rs.? 1′": [
@@ -68359,6 +71690,13 @@
 				"transliteration": "te-<del_in/>"
 			}
 		],
+		"KUB 45.64+, {€1} Vs.? 26′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Vs.? bricht ab"
+			}
+		],
 		"KUB 45.64+, {€1} Vs.? 2′": [
 			{
 				"gloss": "",
@@ -68540,7 +71878,7 @@
 			{
 				"gloss": "sprechen-ANTIP-b",
 				"segmentation": "alu-ī-b",
-				"transliteration": "<laes_in/>a<corr c=\"?\"/>-lu<corr c=\"?\"/>-ú<laes_fin/>-i-ip<note c=\"Groddek D. 2015c: 138: x-x-⸢ú⸣-i-ip. Dort Fn. 65: \">Zeicehn A oder ZA.\"\"/&gt;</note> <w mrp0sel=\" 1a\" mrp1=\"ḫill-i-b@mitteilen@{ a → ANTIP-b}@verb@\" trans=\"ḫellib\">ḫi-el-li-ip</w> <w mrp0sel=\"DEL 1\" mrp1=\"Nav[@DN@@ noun@\" trans=\"nā(-)\"><d>D</d>na-a-<c type=\"sign\">W<del_in/>A</c>(-)<note c=\" Die Lesungen von Bo 3294 {€2} stammen aus &lt;SP_f_AO_3a_-LIT&gt;Groddek D. 2015c&lt;/SP_f_AO_3a_-LIT&gt;: 138. Dort wird an-na-a-ṷ[aₓ gelesen. Da die nächste zeile eindeutig auf die EInleitungsformel der direkten Rede verweist, dürfte ein Name, und zwar ein Göttername, wahrscheinlich sein.\" n=\"9\"/></w>\n<lb cu=\"𒀭𒅎𒊇𒋫𒀠𒀀𒇻𒈠𒋡𒋾𒅀\" lg=\"Hur\" lnr=\" {€2+1} Rs.? 6′\" txtid=\"KUB 45.64+\"/> <w mrp0sel=\" 1a\" mrp1=\"Teššob-oda=l@DN@{ a → DIR=3PL.ABS}@noun@\" trans=\"IŠKUR-fodal\"><d>D</d><sGr>IŠKUR</sGr>-wu<subscr c=\"u\"/>-ta<corr c=\"!\"/>-al<note c=\" Text: &lt;SP_f_AO_3a_SIGN&gt;ŠA&lt;/SP_f_AO_3a_SIGN&gt;.\" n=\"10\"/></w> <w mrp0sel=\" 1a\" mrp1=\"alu-m+ai@sprechen@{ a → CVB}@verb@\" trans=\"aluma\">a-lu-ma</w> <w mrp0sel=\" 1a\" mrp1=\"alu-m+ai@sprechen@{ a → CVB}@verb@\" trans=\"aluma\">〈〈a-lu-ma〉〉</w> <w mrp0sel=\" 1a\" mrp1=\"kad-i-a@sagen; sprechen@{ a → TR-3A.SG}@verb@\" trans=\"kadia\">k<del_in/>a₄-ti-ia<note c=\" Oder: &lt;SP_f_AO_3a_Hurrian&gt;k&lt;del_in/&gt;a&lt;/SP_f_AO_3a_Hurrian&gt; &lt;SP_f_AO_3a_Hurrian&gt;-ti-a&lt;/SP_f_AO_3a_Hurrian&gt;.\" n=\"11\"/></w>\n<lb cu=\"𒋼𒊄𒅁𒊀𒌷𒄣𒈨𒉌𒊄𒁕𒆷𒊇𒅆\" lg=\"Hur\" lnr=\" {€2+1} Rs.? 7′\" txtid=\"KUB 45.64+\"/> <w mrp0sel=\" 1a 2a\" mrp1=\"tive-iffe-a@Wort; Sache@{ a → ESS}@noun@\" mrp2=\"tīve-f-fa@Wort; Sache@{ a → 2POSS.SG-DAT}@noun@\" trans=\"teveffa\">te-we<subscr c=\"e\"/>-ip-wa<subscr c=\"a\"/></w> <w mrp0sel=\" 1a\" mrp1=\"Kumme-ne-ve@GN@{ a → RELAT.SG-GEN}@noun@\" trans=\"kummenive\"><d>URU</d>kum-me-ni-we<subscr c=\"e\"/></w> <w mrp0sel=\" 1\" mrp1=\"talāv+o+že@groß@.ABS@noun@\" trans=\"talavoži\">da-l<del_in/>a-wu<subscr c=\"u\"/>-ši<note c=\"Die konkrete Schreibung kann von der Ergänzung abweichen.\"/></w>\n<lb cu=\"𒀀𒋼𒂊𒊺𒊀𒂊𒇷𒀀𒋼𒂊𒈠𒆠▒\" lg=\"Hur\" lnr=\" {€2+1} Rs.? 8′\" txtid=\"KUB 45.64+\"/> <w mrp0sel=\" 1 2a 3a\" mrp1=\"ade@u.B.@.ABS@noun@\" mrp2=\"ad-e@herabkommen?; herabbringen?@{ a → TR.IMP}@verb@\" mrp3=\"ad-e@herabkommen?; herabbringen?@{ a → TR.IMP}@verb@\" trans=\"ade\">a-te</w> <w mrp0sel=\" 1\" mrp1=\"eže@Erde@.ABS@noun@\" trans=\"eže\">e-še</w> <w mrp0sel=\" 1a 2b 2a\" mrp1=\"faeli@u.B.@{ a → .ABS}@noun@\" mrp2=\"fael-i@u.B.@{ a → TR.IMP} { b → ANTIP}@verb@\" trans=\"faeli\">wa<subscr c=\"a\"/>-e-<laes_in/>li<laes_fin/></w> <w mrp0sel=\" 1 2 2a 3a\" mrp1=\"ade=ma@u.B.@.ABS=CON@noun@\" mrp2=\"ad-ē=ma@herabkommen?; herabbringen?@{ a → TR.IMP=CON}@verb@\" mrp3=\"ad-ē=ma@herabkommen?; herabbringen?@{ a → TR.IMP=CON}@verb@\" trans=\"adēma\">a-te-e-ma</w> <w mrp0sel=\"DEL 1\" mrp1=\"ki[@u.B.@@ unclear@\" trans=\"ki-x\">ki-x<del_in/></w>\n<lb cu=\"𒅆𒄿𒉏𒈠𒀊𒀭𒅎𒌒𒄷𒌋𒁺𒌅𒌋▒\" lg=\"Hur\" lnr=\" {€2+1} Rs.? 9′\" txtid=\"KUB 45.64+\"/> <w mrp0sel=\" 1a\" mrp1=\"šīni=mma=m@weiterhin; wieder; ferner@{ a → =2SG.ABS=CON}@ADV@\" trans=\"šīnimmab\">ši-i-nim-ma-ap</w> <w mrp0sel=\" 1a\" mrp1=\"Teššob@DN@{ a → .ABS}@noun@\" trans=\"IŠKUR-ub\"><d>D</d><sGr>IŠKUR</sGr>-up</w> <w mrp0sel=\" 1a 2a\" mrp1=\"ḫōd-ud-ō@beten; preisen; segnen@{ a → -ud-MOD.PAT}@verb@\" mrp2=\"ḫōd-ud-o-m@beten; preisen; segnen@{ a → NEG-TR.PFV-3A.SG}@verb@\" trans=\"ḫōdudu(-)x\">ḫu-u-du-tu-u(-)x<del_in/><note c=\"Eine Lesung 〈SP_f_AO_3a_Hurrian〉ḫu-u-du-tu-u-u〈del_in/〉m〈/SP_f_AO_3a_Hurrian〉 wäre nur möglich, wenn die Lücke zwischen dem möglichen 〈SP_f_AO_3a_SIGN〉UM〈/SP_f_AO_3a_SIGN〉 und dem 〈SP_f_AO_3a_SIGN〉U〈/SP_f_AO_3a_SIGN〉 keine Worttrennung darstellte.\"/></w>\n<lb cu=\"𒀭𒄷𒌋𒋼𒈾𒀀𒋗𒌋𒍑𒊬𒊏𒊄𒂊𒊀▒\" lg=\"Hur\" lnr=\" {€2+1} Rs.? 10′\" txtid=\"KUB 45.64+\"/> <w mrp0sel=\" 1a\" mrp1=\"Ḫōde-na-āž-ōž@DN@{ a → RELAT.PL-PL-ERG}@noun@\" trans=\"ḫōdenāžōž\"><d>D</d>ḫu-u-te-na-a-šu-u-<add_in/>uš<add_fin/></w> <w mrp0sel=\" 1a\" mrp1=\"šarri-a@Gottkönig@{ a → ESS}@noun@\" trans=\"šarra\">šar-ra</w> <w mrp0sel=\"DEL 1a 2\" mrp1=\"fē-va@2PRON@{ a → DAT}@PRON@\" mrp2=\"fēv-a[@u.B.@@ unclear@\" trans=\"fēva-x\">we<subscr c=\"e\"/>-e-wa<subscr c=\"a\"/>-x<del_in/></w>\n<lb cu=\"𒋾𒊀𒀀𒄴𒁺𒆠𒂖𒋫𒅈𒁳𒄑𒍣▒\" lg=\"Hur\" lnr=\" {€2+1} Rs.? 11′\" txtid=\"KUB 45.64+\"/> <w mrp0sel=\" 1a\" mrp1=\"tiv-āġ-id-o@sprechen@{ a → āġ-PL.A-TR.PFV}@verb@\" trans=\"tivāḫtu\"><laes_in/>ti<laes_fin/>-wa<subscr c=\"a\"/>-<laes_in/>a<laes_fin/>-aḫ-du</w> <w mrp0sel=\" 1a 2a 3a\" mrp1=\"kel+di-a@Wohl@{ a → ESS}@noun@\" mrp2=\"arde-b@Stadt@{ a → 2POSS.SG.ABS}@noun@\" mrp3=\"keld+ardi-b@u.B.@{ a → 2POSS.SG}@noun@\" trans=\"kelda(-)ardib\">ke-el-ta(-)ar-tip<note c=\" Nach dem Foto wäre auch ein einziges Wort möglich.\" n=\"13\"/></w> <w mrp0sel=\"DEL 1a 2a 3\" mrp1=\"issi@u.B.@{ a → .ABS}@noun@\" mrp2=\"iss-i@u.B.@{ a → ANTIP}@verb@\" mrp3=\"iss-i[@u.B.@@ unclear@\" trans=\"issi(-)x\">iz-zi(-)x<del_in/><note c=\" Nach dem Foto scheint die Lücke zwischen dem &lt;SP_f_AO_3a_SIGN&gt;ZI&lt;/SP_f_AO_3a_SIGN&gt; und der Zeichenspur am Bruch nicht ganz so groß zu sein, wie es in der Autographie angegeben ist.\" n=\"14\"/></w>\n<lb cu=\"▒▒▒𒀊𒂉𒆷𒄿𒁉𒅕𒈾𒂊𒊺𒉌𒉿\" lg=\"Hur\" lnr=\" {€2+1} Rs.? 12′\" txtid=\"KUB 45.64+\"/> <w><del_in/></w> <w mrp0sel=\" 1a 2a 3a\" mrp1=\"]-a-b@u.B.@{ a → INT-b}@verb@\" mrp2=\"]a-b@u.B.@{ a → 2POSS.SG.ABS}@noun@\" mrp3=\"]a=m@u.B.@{ a → =CON}@unclear@\" trans=\"x-x-ab\"><del_fin/>x-x-ap<note c=\"Groddek. D. 2015c: 138: [ ]x x-ap.\"/></w> <w mrp0sel=\" 1a 2a 3a\" mrp1=\"kuli-a@u.B.@{ a → ESS}@noun@\" mrp2=\"kul-a@sprechen@{ a → INT}@verb@\" mrp3=\"kol-a@ablassen; beiseite lassen@{ a → INT}@verb@\" trans=\"kula\">ku-la</w> <w mrp0sel=\" 1a\" mrp1=\"evri+ni-a@König@{ a → ESS}@noun@\" mrp2=\"ibirn-a@@ INT@verb@\" trans=\"ibirna\"><laes_in/>i<laes_fin/>-bi-ir-na</w> <w mrp0sel=\" 1a 2a 3a\" mrp1=\"eže-ne-ve@Erde@{ a → RELAT.SG-GEN}@noun@\" mrp2=\"eže-ne-va@Erde@{ a → RELAT.SG-DAT}@noun@\" mrp3=\"eže-ne-ve-a@Erde@{ a → RELAT.SG-GEN-ESS}@noun@\" trans=\"eženi\">e-še-ni-<c type=\"sign\">W<del_in/>A</c></w> <parsep/>\n<lb cu=\"▒▒𒄰𒈪𒊏▒𒊀𒀀𒄩𒌋𒈪𒅔\" lg=\"Hur\" lnr=\" {€1} Rs.? 13′\" txtid=\"KUB 45.64+\"/> <w><del_in/></w> <w><space c=\"14\"/></w> <w mrp0sel=\"DEL\"><del_fin/>x</w> <w mrp0sel=\"DEL 1a 2\" mrp1=\"kammiri-a@u.B.@{ a → ESS}@noun@\" mrp2=\"kammira[@u.B.@@ noun@\" trans=\"kammira(-)\">kam-mi-ra(-)<del_in/></w> <w><space c=\"4\"/></w> <w mrp0sel=\"DEL 1a 2a 3a 3b\" mrp1=\"]f+āġ+i-a@u.B.@{ a → ESS}@noun@\" mrp2=\"]f+ā+ġe-a@u.B.@{ a → ESS}@verb@\" mrp3=\"]f-āġ-a@u.B.@{ a → āġ-3A.SG} { b → āġ-INT}@verb@\" trans=\"x-fāġa\"><del_fin/>x-wa<subscr c=\"a\"/>-a-ḫa</w> <w mrp0sel=\"DEL 1a 2a 3a\" mrp1=\"omini-ne@Land@{ a → ABL/INS}@noun@\" mrp2=\"omini-ne-e@Land@{ a → RELAT.SG-DIR/LOC}@noun@\" mrp3=\"omini-ne-[@Land@{ a → RELAT.SG}@verb@\" trans=\"umin\">u-mi-i<del_in/>n-</w>\n<lb cu=\"▒𒈠𒀭𒈾▒𒆷𒀀𒈠𒀭𒄷𒌋\" lg=\"Hur\" lnr=\" {€1} Rs.? 14′\" txtid=\"KUB 45.64+\"/> <w><del_in/></w> <w><space c=\"14\"/></w> <w mrp0sel=\"DEL 1 2a 3a 4a 5\" mrp1=\"]manna[@u.B.@@ unclear@\" mrp2=\"]mani-na@u.B.@{ a → RELAT.PL.ABS}@noun@\" mrp3=\"]mani-na-[@u.B.@{ a → RELAT.PL}@noun@\" mrp4=\"]m+a+nni-a@u.B.@{ a → ESS}@noun@\" mrp5=\"mann-a[@sein@@ verb@\" trans=\"(-)manna(-)\"><del_fin/>(-)ma-an-n<del_in/>a(-)</w> <w><space c=\"5\"/></w> <w mrp0sel=\"DEL 1a 2a 3b 3a 4a 4b 5a\" mrp1=\"]li-ā=ma@u.B.@{ a → ESS=CON}@noun@\" mrp2=\"]li-nā=ma@u.B.@{ a → RELAT.PL.ABS=CON}@noun@\" mrp3=\"]l-ā=ma@u.B.@{ a → 3A.SG=CON} { b → INT=CON}@verb@\" mrp4=\"]l-ām-a@u.B.@{ a → FACT-3A.SG} { b → FACT-INT}@verb@\" mrp5=\"]lāmi-a@u.B.@{ a → ESS}@noun@\" trans=\"x-lāma\"><del_fin/>x-la-a-ma</w> <w firstAnalysisIsPlaceholder=\"true\" mrp0sel=\"DEL 1\" mrp1=\"Ḫō[@DN@@ noun@\" trans=\"ḫō\"><d>D</d>ḫu-u-<del_in/></w>\n<lb cu=\"▒▒𒇻𒌋𒄷𒊀𒀀𒄩𒂊▒\" lg=\"Hur\" lnr=\" {€1} Rs.? 15′\" txtid=\"KUB 45.64+\"/> <w><del_in/></w> <w><space c=\"14\"/></w> <w mrp0sel=\"DEL 1 2 3a 3b 4a 5a\" mrp1=\"]lōġu[@u.B.@@ unclear@\" mrp2=\"]l+ō+ġ+o[@u.B.@@ noun@\" mrp3=\"]l-ōġ-o@u.B.@{ a → ōġ-MOD.PAT} { b → ōġ-2A.SG}@verb@\" mrp4=\"]l-ōġ-u@u.B.@{ a → ōġ-MED}@verb@\" mrp5=\"]l-ōġ-u[@u.B.@{ a → ōġ}@verb@\" trans=\"x-lōġu(-)\"><del_fin/>x-lu-u-ḫ<del_in/>u(-)</w> <w><space c=\"7\"/></w> <w mrp0sel=\"DEL 1a 2a 3a 3b\" mrp1=\"]f+āġ+i-a@u.B.@{ a → ESS}@noun@\" mrp2=\"]f+ā+ġe-a@u.B.@{ a → ESS}@noun@\" mrp3=\"]f-āġ-a@u.B.@{ a → āġ-3A.SG} { b → āġ-INT}@verb@\" trans=\"fāġa\"><del_fin/>-<laes_in/>wa<subscr c=\"a\"/><laes_fin/>-a-ḫa</w> <w mrp0sel=\"DEL 1\" mrp1=\"e[@u.B.@@ unclear@\" trans=\"e-x\">e-x<del_in/></w>\n<lb cu=\"▒▒𒋫𒄑𒄴▒\" lg=\"Hur\" lnr=\" {€1} Rs.? 16′\" txtid=\"KUB 45.64+\"/> <w><del_in/></w> <w><space c=\"18\"/></w> <w mrp0sel=\"DEL\"><del_fin/>x<del_in/></w> <w><space c=\"20\"/></w> <w firstAnalysisIsPlaceholder=\"true\" mrp0sel=\"DEL 1\" mrp1=\"]ta@u.B.@@ unclear@\" trans=\"ta\"><del_fin/>-<laes_in/>ta<laes_fin/></w> <w mrp0sel=\"DEL 1\" mrp1=\"aḫ[@u.B.@@ noun@\" trans=\"aḫ-x\"><d>GIŠ</d>aḫ-x<del_in/></w>\n<lb cu=\"▒▒𒀭𒄷\" lg=\"Hur\" lnr=\" {€1} Rs.? 17′\" txtid=\"KUB 45.64+\"/> <w><del_in/></w> <w><space c=\"44\"/></w> <w firstAnalysisIsPlaceholder=\"true\" mrp0sel=\"DEL\" mrp1=\"x@@@verb@\" trans=\"x\"><del_fin/>x</w> <w firstAnalysisIsPlaceholder=\"true\" mrp0sel=\"DEL \" mrp1=\"Ḫo[@DN@@ noun@\" trans=\"ḫu\"><d>D</d>ḫu-<del_in/></w>\n<lb cu=\"▒▒▒▒▒▒\" lg=\"Hur\" lnr=\" {€1} Rs.? 18′\" txtid=\"KUB 45.64+\"/> <w><del_in/></w> <w><space c=\"47\"/></w> <w mrp0sel=\"DEL\"><del_fin/>x</w> <w mrp0sel=\"DEL\">x<del_in/></w> <gap c=\"Rs.? bricht ab\" t=\"line\"/> "
+				"transliteration": "<laes_in/>a<corr c=\"?\"/>-lu<corr c=\"?\"/>-ú<laes_fin/>-i-ip<note c=\"Groddek D. 2015c: 138: x-x-⸢ú⸣-i-ip. Dort Fn. 65: Zeichen A oder ZA.\"/>"
 			},
 			{
 				"gloss": "mitteilen-ANTIP-b",
@@ -68634,6 +71972,13 @@
 				"gloss": "beten; preisen; segnen--ud-MOD.PAT",
 				"segmentation": "ḫōd-ud-ō",
 				"transliteration": "ḫu-u-du-tu-u(-)x<del_in/><note c=\"Eine Lesung 〈SP_f_AO_3a_Hurrian〉ḫu-u-du-tu-u-u〈del_in/〉m〈/SP_f_AO_3a_Hurrian〉 wäre nur möglich, wenn die Lücke zwischen dem möglichen 〈SP_f_AO_3a_SIGN〉UM〈/SP_f_AO_3a_SIGN〉 und dem 〈SP_f_AO_3a_SIGN〉U〈/SP_f_AO_3a_SIGN〉 keine Worttrennung darstellte.\"/>"
+			}
+		],
+		"KUB 45.70,Rs. 10′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Rs. bricht ab"
 			}
 		],
 		"KUB 45.70,Rs. 1′": [
@@ -68781,6 +72126,11 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "<del_fin/>-a"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Ende Vs."
 			}
 		],
 		"KUB 45.81,10′": [
@@ -68812,6 +72162,11 @@
 				"gloss": "u.B.-TR-3A.SG-NEG",
 				"segmentation": "]t-i-a-ma",
 				"transliteration": "<del_fin/>-<laes_in/>ti<laes_fin/>-ia-m<del_in/>a<corr c=\"?\"/><note c=\"Über dem Rest des waagerechten Keils ist noch eine Linie zu erkennen. Dabei ist unklar, ob es das Ende eines waagerechten Keils oder eine Beschädigung ist. DIe Autographie gibt diese Linie nicht an.\"/>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Text bricht ab"
 			}
 		],
 		"KUB 45.81,2′": [
@@ -68898,6 +72253,13 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "a-x<del_in/>"
+			}
+		],
+		"KUB 45.82,Vs.": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Vs. bricht ab"
 			}
 		],
 		"KUB 45.82,Vs. 10′": [
@@ -69239,6 +72601,11 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "<del_fin/>(-)<laes_in/>un<corr c=\"?\"/><laes_fin/>-x-x<del_in/>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Text bricht ab"
 			}
 		],
 		"KUB 47.10,1′": [
@@ -69408,6 +72775,11 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "<del_fin/>x-ta"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Vs. II? bricht ab"
 			}
 		],
 		"KUB 47.12+,{€1} Vs. III? 10′": [
@@ -69509,6 +72881,13 @@
 				"gloss": "u.B..unclear",
 				"segmentation": "ši[",
 				"transliteration": "ši-x<del_in/>"
+			}
+		],
+		"KUB 47.12+,{€1} Vs. III? 18′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Vs. III? bricht ab"
 			}
 		],
 		"KUB 47.12+,{€1} Vs. III? 6′": [
@@ -69757,6 +73136,11 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "<del_fin/>(-)šu<corr c=\"?\"/>(-)<del_in/>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Text bricht ab"
 			}
 		],
 		"KUB 47.13,1′": [
@@ -69871,6 +73255,11 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "<laes_in/>a<laes_fin/>-ḫar-<laes_in/>ri<laes_fin/>(-)<del_in/>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Text bricht ab"
 			}
 		],
 		"KUB 47.14,2′": [
@@ -69969,6 +73358,13 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "<laes_in/>um<corr c=\"?\"/><laes_fin/>-<del_in/><note c=\" Oder: &lt;SP_f_AO_3a_Hurrian&gt;&lt;laes_in/&gt;ap&lt;laes_fin/&gt;-&lt;del_in/&gt;&lt;/SP_f_AO_3a_Hurrian&gt;.\" n=\"3\"/>"
+			}
+		],
+		"KUB 47.15,12′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Text bricht ab"
 			}
 		],
 		"KUB 47.15,1′": [
@@ -70105,6 +73501,11 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "<del_fin/>-<laes_in/>ḫa<laes_fin/>-ap"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Text bricht ab"
 			}
 		],
 		"KUB 47.16,2′": [
@@ -70208,6 +73609,13 @@
 				"gloss": "Wein-ESS",
 				"segmentation": "šūwāli-a",
 				"transliteration": "šu-u-wa-a-<laes_in/>la<laes_fin/>(-)x<del_in/>"
+			}
+		],
+		"KUB 47.17,11′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Text bricht ab"
 			}
 		],
 		"KUB 47.17,1′": [
@@ -70417,6 +73825,11 @@
 				"gloss": "falls; wenn=1SG.ABS",
 				"segmentation": "āi=tta",
 				"transliteration": "a-<laes_in/>it<laes_fin/>-t<del_in/>a(-)"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Vs. bricht ab"
 			}
 		],
 		"KUB 47.2,10′": [
@@ -70633,6 +74046,11 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "a-ú-x<del_in/><note c=\" Das Wort beginnt auf der Höhe der Lücke nach dem &lt;SP_f_AO_3a_SIGN&gt;IB&lt;/SP_f_AO_3a_SIGN&gt; der vorhergehenden Zeile.\" n=\"8\"/>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Ende Rs. IV"
 			}
 		],
 		"KUB 47.2,21′": [
@@ -70857,6 +74275,11 @@
 				"gloss": "Gott-RELAT.PL.ABS",
 				"segmentation": "eni-na",
 				"transliteration": "<sGr>DINGIR</sGr><d>MEŠ</d>-n<del_in/>a(-)"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Vs. I bricht ab"
 			}
 		],
 		"KUB 47.2,Vs. I 2": [
@@ -71050,6 +74473,11 @@
 				"gloss": "weiblich-RELAT.PL.ABS",
 				"segmentation": "āšt+o+ḫḫē-na",
 				"transliteration": "a-aš-du-uḫ-ḫi-e-na"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "(Rasur)"
 			}
 		],
 		"KUB 47.2,lk. Rd. lk. Kol. 7": [
@@ -71074,6 +74502,11 @@
 				"gloss": "PN-RELAT.SG-ERG=3SG.ABS",
 				"segmentation": "Kešše-ne-š=nna",
 				"transliteration": "<d>M</d>ke-eš-še-ni-iš-ša"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Ende lk. Rd. lk. Kol."
 			}
 		],
 		"KUB 47.2,lk. Rd. r. Kol. 1": [
@@ -71110,6 +74543,11 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "<sGr>TIL</sGr>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Ende lk. Rd. r. Kol."
 			}
 		],
 		"KUB 47.21,10′": [
@@ -71167,6 +74605,13 @@
 				"gloss": "u.B..ABS",
 				"segmentation": "]fēbi",
 				"transliteration": "(-)w<del_fin/>e<subscr c=\"e\"/>-e-bi(-)x<del_in/>"
+			}
+		],
+		"KUB 47.21,16′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Text bricht ab"
 			}
 		],
 		"KUB 47.21,2′": [
@@ -71294,6 +74739,11 @@
 				"gloss": "Haus.ABS",
 				"segmentation": "šelli",
 				"transliteration": "še-el-li<note c=\"Das Wort beginnt auf Höhe des abschließenden senkrechten Keils des TA der vorhergehenden Zeile. Die Zeilen des Texts verlaufen im Verhältnis zum Tafelende schräg nach rechts oben bzw. das Tafelende im Verhältnis zum Text nach rechts unten.\"/>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Ende des Texts"
 			}
 		],
 		"KUB 47.3,1′": [
@@ -71383,6 +74833,11 @@
 			{
 				"gloss": "",
 				"segmentation": "",
+				"transliteration": "𒀹"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
 				"transliteration": "n<del_in/>a-"
 			}
 		],
@@ -71462,6 +74917,13 @@
 				"transliteration": "ú-ti-ip-x<del_in/>"
 			}
 		],
+		"KUB 47.4,Rs. IV": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Lücke von ca. 6 Zeilen"
+			}
+		],
 		"KUB 47.4,Rs. IV 10″": [
 			{
 				"gloss": "",
@@ -71509,6 +74971,13 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "<laes_in/>ú<laes_fin/>-<del_in/>"
+			}
+		],
+		"KUB 47.4,Rs. IV 23‴": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Rs. IV bricht ab"
 			}
 		],
 		"KUB 47.4,Rs. IV 2′": [
@@ -71614,6 +75083,13 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "ši-i-en-še(-)<del_in/>"
+			}
+		],
+		"KUB 47.4,Vs. I": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Lücke größerer Länge"
 			}
 		],
 		"KUB 47.4,Vs. I 10′": [
@@ -71814,6 +75290,11 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "pa-x<del_in/>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Vs. I bricht ab"
 			}
 		],
 		"KUB 47.4,Vs. I 5′": [
@@ -71891,6 +75372,11 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "<sGr>TIL</sGr>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Ende lk. Rd."
 			}
 		],
 		"KUB 47.5+, {€1+2} Vs. I 10′/3′": [
@@ -71927,6 +75413,11 @@
 				"gloss": "Stadt-RELAT.SG-ABL/INS",
 				"segmentation": "arde-ne-n",
 				"transliteration": "ar-ti-ni-in<corr c=\"!\"/><note c=\" Zwar sieht das Zeichen wie &lt;SP_f_AO_3a_Hurrian&gt;-še-ni&lt;/SP_f_AO_3a_Hurrian&gt; aus, doch ist aus morphologischen Gründen ein &lt;SP_f_AO_3a_SIGN&gt;IN&lt;/SP_f_AO_3a_SIGN&gt; angebracht. Vgl. auch das ebenso geschriebene &lt;SP_f_AO_3a_SIGN&gt;IN&lt;/SP_f_AO_3a_SIGN&gt; in Vs. II 3.\" n=\"3\"/>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Ende Vs. I"
 			}
 		],
 		"KUB 47.5+, {€1+2} Vs. I 8′/1′": [
@@ -71985,6 +75476,11 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "<del_fin/>x-zi-i-e<note c=\" Das Zeichen am Bruch endet mit einem gebrochenen senkrechten Keil.\" n=\"12\"/>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "(Rasur)"
 			},
 			{
 				"gloss": "",
@@ -72114,6 +75610,11 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "te-wi<subscr c=\"i\"/>-<ras_in/>wu<subscr c=\"u\"/><ras_fin/>-x<del_in/>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "(Rasur)"
 			}
 		],
 		"KUB 47.5+, {€1+4} Rs. III 7′/1′": [
@@ -72486,6 +75987,11 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "<del_fin/>x-ap-ni"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Rs. IV bricht ab"
 			}
 		],
 		"KUB 47.5+, {€1} Rs. IV 3": [
@@ -72745,6 +76251,11 @@
 				"gloss": "u.B..unclear",
 				"segmentation": "tib-i[",
 				"transliteration": "<laes_in/>ti<laes_fin/>-bi-x<del_in/>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Vs. II bricht ab"
 			}
 		],
 		"KUB 47.5+, {€3} Vs. II 2": [
@@ -72891,6 +76402,25 @@
 				"transliteration": "ku-úr-ku-u-ur-we<subscr c=\"e\"/>-aš-ša"
 			}
 		],
+		"KUB 47.5+,Rs. III": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "ca. 4–5 zerstörte Zeilen"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Ende Rs. III"
+			}
+		],
+		"KUB 47.5+,Vs. II": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Lücke größerer Länge"
+			}
+		],
 		"KUB 47.56,Rs. 10′": [
 			{
 				"gloss": "u.B.-ESS=3PL.ABS",
@@ -72971,6 +76501,11 @@
 				"gloss": "u.B.-TR.PFV-3A.SG",
 				"segmentation": "miġ-ō-m",
 				"transliteration": "mi-ḫu-u-um"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "𒀹"
 			}
 		],
 		"KUB 47.56,Rs. 16′": [
@@ -72988,6 +76523,11 @@
 				"gloss": "u.B.-INT-b",
 				"segmentation": "felz-a-b",
 				"transliteration": "we<subscr c=\"e\"/>-el-za-ap"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "𒀹"
 			}
 		],
 		"KUB 47.56,Rs. 17′": [
@@ -73010,6 +76550,11 @@
 				"gloss": "u.B.-RELAT.SG-DAT",
 				"segmentation": "ḫuburi-ne-va",
 				"transliteration": "<ras_in/>ḫu<ras_fin/>-pu-<ras_in/>úr<ras_fin/>-ri-pa"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "𒀹"
 			}
 		],
 		"KUB 47.56,Rs. 18′": [
@@ -73035,6 +76580,11 @@
 			}
 		],
 		"KUB 47.56,Rs. 19′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "𒀹"
+			},
 			{
 				"gloss": "Weihrauch-DIR=3PL.ABS",
 				"segmentation": "āġri-da=l",
@@ -73065,6 +76615,11 @@
 				"transliteration": "e-in<del_fin/>-za-ar-ra"
 			},
 			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "𒀹"
+			},
+			{
 				"gloss": "opfernd-RELAT.SG-GEN-RELAT.SG-DIR=3PL.ABS",
 				"segmentation": "āšḫ+ō+m+ai-ne-ve-ne-da=l",
 				"transliteration": "<laes_in/>a-aš<laes_fin/>-ḫu-u-ma-<laes_in/>i-ni<laes_fin/>-bi-ni-<laes_in/>ta<corr c=\"?\"/><laes_fin/>-al<note c=\"Die Autographie gibt ein ŠA an, aber nach dem Foto wäre auch ein -⸢ta⸣- möglich. Aus morphologischen Gründen wird TA hier bevorzugt.\"/>"
@@ -73082,6 +76637,11 @@
 				"transliteration": "x-x-ma"
 			},
 			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "𒀹"
+			},
+			{
 				"gloss": "u.B.-ESS=3PL.ABS",
 				"segmentation": "[xx]allin+o+ḫḫe-ā=l",
 				"transliteration": "x-x-al-li-nu-uḫ-ḫa-a-al"
@@ -73097,6 +76657,11 @@
 				"gloss": "Weihrauch-ESS",
 				"segmentation": "aġri-a",
 				"transliteration": "a-aḫ-<laes_in/>ra<laes_fin/>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "𒀹"
 			},
 			{
 				"gloss": "DN.ABS",
@@ -73124,6 +76689,11 @@
 				"gloss": "u.B.-3POSS.SG-ESS=3SG.ABS",
 				"segmentation": "]-i-a=n",
 				"transliteration": "x-x-x-x-x-ia-an<note c=\"Das zweite unklare Zeichen kann nach der Autographie als ŠE gelesen werden. Möglicherweise könnte es auch mit den anschließenden Zeichenspuren zusammen ein LI ergeben.\"/>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "𒀹"
 			}
 		],
 		"KUB 47.56,Rs. 24′": [
@@ -73151,6 +76721,18 @@
 				"gloss": "u.B..ABS",
 				"segmentation": "sumġar",
 				"transliteration": "zum-ḫar"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "𒀹"
+			}
+		],
+		"KUB 47.56,Rs. 26′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Ende Rs."
 			}
 		],
 		"KUB 47.56,Rs. 2′": [
@@ -73172,6 +76754,11 @@
 				"gloss": "u.B.-ESS",
 				"segmentation": "pērġubi-a",
 				"transliteration": "bi-e-er-<laes_in/>ḫu<corr c=\"?\"/><laes_fin/>-pa<corr c=\"?\"/><note c=\"Ein RI anstelle des ḪU scheint auch möglich zu sein. Die Lesung des PA und des anschließenden Worttrenners folgt der Autographie. Auf dem Foto ist diese Stelle schwer zu bewerten. Ist es tatsächlich ein PA, sind ist der senkrechte Keil ungewöhnlich weit rechts gesetzt.\"/>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "𒀹"
 			}
 		],
 		"KUB 47.56,Rs. 5′": [
@@ -73205,6 +76792,11 @@
 				"transliteration": "<del_fin/>-<laes_in/>a<laes_fin/>-ra"
 			},
 			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "𒀹"
+			},
+			{
 				"gloss": "u.B.-ESS=3PL.ABS",
 				"segmentation": "kumr+o+ḫḫe-ā=l",
 				"transliteration": "kum-ru-uḫ-ḫa-a-al"
@@ -73220,6 +76812,11 @@
 				"gloss": "Götterschaft-RELAT.PL.ABS",
 				"segmentation": "ēn+zari-na",
 				"transliteration": "e-in-za-ar-ra"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "𒀹"
 			}
 		],
 		"KUB 47.56,Rs. 9′": [
@@ -73237,6 +76834,11 @@
 				"gloss": "Wasser; Fluss-ESS",
 				"segmentation": "šie-a",
 				"transliteration": "ši-ia"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "𒀹"
 			},
 			{
 				"gloss": "u.B..unclear",
@@ -73273,6 +76875,11 @@
 				"transliteration": "<del_fin/>x-ra-aš"
 			},
 			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "𒀹"
+			},
+			{
 				"gloss": "DN-RELAT.SG-ERG",
 				"segmentation": "Ani-ne-ž",
 				"transliteration": "<d>D</d>a-an-ni-eš"
@@ -73293,6 +76900,11 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "<del_fin/>x-e"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "𒀹"
 			},
 			{
 				"gloss": "DN-RELAT.SG-ERG",
@@ -73325,6 +76937,11 @@
 				"gloss": "u.B.-INF.ABS",
 				"segmentation": "mēg-umme",
 				"transliteration": "mi-e-ku-um-mi"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "(Rasur)"
 			}
 		],
 		"KUB 47.56,Vs. 14′": [
@@ -73351,6 +76968,11 @@
 				"transliteration": "<del_fin/>(-)šu-u<del_in/>n<corr c=\"?\"/>-"
 			},
 			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "𒀹"
+			},
+			{
 				"gloss": "eine Kopfbedeckung-ABL/INS=3PL.ABS",
 				"segmentation": "kubāġi-ne=l",
 				"transliteration": "ku-pa-a-ḫi-ni-el"
@@ -73373,6 +76995,11 @@
 				"transliteration": "<del_fin/>-uš-ḫi"
 			},
 			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "𒀹"
+			},
+			{
 				"gloss": "Gesandter; Bote.ABS",
 				"segmentation": "pāšš+i+tḫe",
 				"transliteration": "pa-aš-ši-it-ḫi"
@@ -73388,6 +77015,11 @@
 				"gloss": "Gott-RELAT.PL-PL-GEN",
 				"segmentation": "eni-na-āž-e",
 				"transliteration": "<sGr>DINGIR</sGr><d>MEŠ</d>-na-a-ši"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "𒀹"
 			}
 		],
 		"KUB 47.56,Vs. 18′": [
@@ -73454,6 +77086,11 @@
 			{
 				"gloss": "",
 				"segmentation": "",
+				"transliteration": "𒀹"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
 				"transliteration": "<del_fin/>-<laes_in/>i<laes_fin/>-el"
 			}
 		],
@@ -73514,6 +77151,11 @@
 				"gloss": "u.B..unclear",
 				"segmentation": "]ēt[",
 				"transliteration": "<del_fin/>(-)e-e<del_in/>t-"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Vs. bricht ab"
 			}
 		],
 		"KUB 47.56,Vs. 3′": [
@@ -73601,6 +77243,11 @@
 				"gloss": "u.B.-INT-NEG",
 				"segmentation": "iġ-ō-vōr",
 				"transliteration": "i-ḫu-u-up-wu<subscr c=\"u\"/>-u-<laes_in/>ur<laes_fin/>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "𒀹"
 			}
 		],
 		"KUB 47.56,Vs. 9′": [
@@ -73724,6 +77371,11 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "<sGr>URU</sGr>-ni-x<del_in/>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Ende Rs. III"
 			}
 		],
 		"KUB 47.6,Vs. II 1": [
@@ -73772,6 +77424,11 @@
 				"gloss": "u.B.-RELAT.PL.ABS",
 				"segmentation": "išši-na",
 				"transliteration": "<sGr><laes_in/>ANŠE.KUR.RA<laes_fin/></sGr><d>MEŠ</d>-na<note c=\" Es wäre auch &lt;SP_f_AO_3a_Hurrian&gt;&lt;del_fin/&gt;x-&lt;laes_in/&gt;še&lt;laes_fin/&gt;&lt;/SP_f_AO_3a_Hurrian&gt; &lt;SP_f_AO_3a_SumGRAM&gt;URU&lt;/SP_f_AO_3a_SumGRAM&gt;&lt;SP_f_AO_3a_Determ&gt;MEŠ&lt;/SP_f_AO_3a_Determ&gt;&lt;SP_f_AO_3a_Hurrian&gt;-na&lt;/SP_f_AO_3a_Hurrian&gt; denkbar, allerdings stünde dann das &lt;SP_f_AO_3a_SIGN&gt;URU&lt;/SP_f_AO_3a_SIGN&gt; ohne worttrennende Lücke am vorhergehenden Zeichen.\" n=\"1\"/>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Vs. II bricht ab"
 			}
 		],
 		"KUB 47.6,Vs. II 2": [
@@ -73976,6 +77633,11 @@
 				"gloss": "u.B.-uġ-MOD.PAT",
 				"segmentation": "pīd-uġ-o",
 				"transliteration": "bi-du-ḫu"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Rs. IV? bricht ab"
 			}
 		],
 		"KUB 47.8,Rs. V? 1": [
@@ -74011,6 +77673,11 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "<del_fin/>x-al"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Rs. V? bricht ab"
 			}
 		],
 		"KUB 47.8,Vs. II? 1′": [
@@ -74047,6 +77714,11 @@
 				"gloss": "aufnehmen; erheben; heraufkommen; aufrichten-PL.A-3JUSS",
 				"segmentation": "ag-id-en",
 				"transliteration": "a-ki-te-in"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Ende Vs. II?"
 			}
 		],
 		"KUB 47.8,Vs. III? 1′": [
@@ -74077,6 +77749,11 @@
 			{
 				"gloss": "",
 				"segmentation": "",
+				"transliteration": "(Rasur)"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
 				"transliteration": "ku-<del_in/>"
 			}
 		],
@@ -74097,6 +77774,11 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "še-eš-x<del_in/>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Ende Vs. III?"
 			}
 		],
 		"KUB 47.92,Rs. 1": [
@@ -74157,6 +77839,13 @@
 				"transliteration": "<laes_in/>ka<laes_fin/>-<del_in/>"
 			}
 		],
+		"KUB 47.92,Rs. 5": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Rs. bricht ab"
+			}
+		],
 		"KUB 47.92,Vs. 1′": [
 			{
 				"gloss": "Palasttor-RELAT.PL.ABS",
@@ -74201,6 +77890,11 @@
 				"gloss": "u.B..unclear",
 				"segmentation": "naġ-ōl[",
 				"transliteration": "na-ḫu-u-ul-<del_in/>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Ende Vs."
 			}
 		],
 		"KUB 47.93,Rs. 10′": [
@@ -74247,6 +77941,11 @@
 				"gloss": "einbrechen-FUT-3A.SG",
 				"segmentation": "ḫatḫ-ēd-a",
 				"transliteration": "ḫa-at-ḫé-e-et-a"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Ende Rs."
 			}
 		],
 		"KUB 47.93,Rs. 1′": [
@@ -74447,6 +78146,11 @@
 				"gloss": "u.B..unclear",
 				"segmentation": "kar[",
 				"transliteration": "kar-<del_in/>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Vs. bricht ab"
 			}
 		],
 		"KUB 47.93,Vs. 2": [
@@ -74562,6 +78266,11 @@
 			{
 				"gloss": "",
 				"segmentation": "",
+				"transliteration": "(Rasur)"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
 				"transliteration": "im-<del_in/>"
 			}
 		],
@@ -74577,6 +78286,11 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "<del_fin/>x<del_in/>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Rs. III? bricht ab"
 			}
 		],
 		"KUB 47.94,Rs. III? 3′": [
@@ -74639,6 +78353,11 @@
 				"gloss": "linke Seite; links.ABS=3SG.ABS",
 				"segmentation": "šapḫaldi=nna",
 				"transliteration": "<sGr>GÙB</sGr>-en-na"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "(Rasur)"
 			}
 		],
 		"KUB 47.95,1′": [
@@ -74681,6 +78400,11 @@
 				"gloss": "Stadt-ABL/INS",
 				"segmentation": "arde-ne",
 				"transliteration": "<sGr><laes_in/>URU</sGr>-te-ni<laes_fin/>(-)x<del_in/>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Text bricht ab"
 			}
 		],
 		"KUB 47.96,Rs. 2′": [
@@ -74739,6 +78463,11 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "<d>M</d>ma-du-ḫi-<laes_in/>it<laes_fin/>-<del_in/><note c=\"Möglicherweise auch °M°ka-du-ḫi-⸢it⸣-[.\"/>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Ende Rs."
 			}
 		],
 		"KUB 47.96,Vs. 1": [
@@ -74761,6 +78490,13 @@
 				"gloss": "u.B..noun",
 				"segmentation": "1[x]ni",
 				"transliteration": "<num>1</num>-x-ni"
+			}
+		],
+		"KUB 47.96,Vs. 11": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Vs. bricht ab"
 			}
 		],
 		"KUB 47.96,Vs. 2": [
@@ -74922,6 +78658,13 @@
 				"transliteration": "<laes_in/>a<corr c=\"?\"/><laes_fin/>-ki-du"
 			}
 		],
+		"KUB 52.110,14′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Text bricht ab"
+			}
+		],
 		"KUB 52.110,1′": [
 			{
 				"gloss": "",
@@ -74996,6 +78739,11 @@
 				"gloss": "u.B..ABS",
 				"segmentation": "kišši",
 				"transliteration": "ki-iš-ši(-)ta-ma-aš-ši"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "(Rasur)"
 			}
 		],
 		"KUB 52.110,9′": [
@@ -75109,6 +78857,13 @@
 				"transliteration": "wu<subscr c=\"u\"/>-x<del_in/>"
 			}
 		],
+		"KUB 52.114+, {€1} 11′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Text bricht ab"
+			}
+		],
 		"KUB 52.114+, {€1} 8′": [
 			{
 				"gloss": "",
@@ -75161,6 +78916,13 @@
 				"transliteration": "pu-ú-<del_in/>"
 			}
 		],
+		"KUB 52.115,5′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Text bricht ab"
+			}
+		],
 		"KUB 8.32,10′": [
 			{
 				"gloss": "DN-ABL/INS",
@@ -75193,6 +78955,13 @@
 				"gloss": "u.B.-uʾ-FUT-3A.SG",
 				"segmentation": "pūz-uʾ-ed-a",
 				"transliteration": "pu-ú-z<del_in/>u-e-da"
+			}
+		],
+		"KUB 8.32,14′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Text bricht ab"
 			}
 		],
 		"KUB 8.32,1′": [
@@ -75433,6 +79202,11 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "<del_fin/>x-di"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "lk. Kol. bricht ab"
 			}
 		],
 		"KUB 8.47,r. Kol. 1′!": [
@@ -75505,6 +79279,13 @@
 				"transliteration": "<sGr>ZÍ</sGr>-<del_in/>a"
 			}
 		],
+		"KUB 8.47,r. Kol. 8′!": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "r. Kol. bricht ab"
+			}
+		],
 		"RS 19.148,1′": [
 			{
 				"gloss": "",
@@ -75541,6 +79322,11 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "e-x<del_in/>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Text bricht ab"
 			}
 		],
 		"TC-4F05h,Vs.? II oder III 1′": [
@@ -75585,6 +79371,13 @@
 				"transliteration": "a-lu-um-m<del_in/>a-"
 			}
 		],
+		"TC-4F05h,Vs.? II oder III 7′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Vs.? II oder III bricht ab"
+			}
+		],
 		"VBoT 59,Rs. III 10′": [
 			{
 				"gloss": "",
@@ -75623,6 +79416,11 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "<del_fin/>x-ni(-)<del_in/>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Rs. III bricht ab"
 			}
 		],
 		"VBoT 59,Rs. III 1′": [
@@ -75803,6 +79601,11 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "(-)t<del_fin/>i-iš-<del_in/>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "Vs. II bricht ab"
 			}
 		],
 		"VBoT 59,Vs. II 2′": [
