@@ -24,7 +24,6 @@ class Line:
 
   @classmethod
   def parse_line(cls, text_path: str, text_id: str, elements: list[Tag]) -> Line:
-    elements = list(filter(lambda element: isinstance(element, Tag), elements))
     full_path = join(text_path, text_id)
     if (lb := elements[0]).name == 'lb':
       if 'lnr' in lb.attrs:
@@ -39,7 +38,13 @@ class Line:
         language = cls.UNKNOWN_LANGUAGE
       word_elements = elements[1:]
     else:
-      cls.logger.error('The first line in %s does not start with a linebreak element.', full_path)
+      match lb.name:
+        case 'clb':
+          cls.logger.warning('The first line in %s starts with a clause boundary instead of a linebreak element.', full_path)
+        case 'ParagrNr':
+          cls.logger.info('The first line in %s starts with a paragraph name: %s.', full_path, lb)
+        case _:
+          cls.logger.error('The first line in %s does not start with a linebreak element, but with the element %s.', full_path, lb.name)
       line_id = cls.UNKNOWN_LINE_ID
       language = cls.UNKNOWN_LANGUAGE
       word_elements = elements

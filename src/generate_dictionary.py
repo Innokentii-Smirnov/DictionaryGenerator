@@ -12,6 +12,8 @@ from json import dump
 from lexical_database import LexicalDatabase
 from typing import Callable
 from line import Line
+from itertools import filterfalse
+from bs4 import Tag, NavigableString
 
 PROCESSED_FILES_LOG = 'processed_files.log'
 SKIPPED_FILES_LOG = 'skipped_files.log'
@@ -57,6 +59,12 @@ def to_be_procecced(triple: tuple) -> bool:
   _, folder = path.split(dirpath)
   return folder != 'Backup' and 'Annotation' in dirpath
 
+def is_tag(element: Tag | NavigableString) -> bool:
+  return isinstance(element, Tag)
+
+def is_ao_manuscripts(tag: Tag) -> bool:
+  return tag.prefix == 'AO' and tag.name == 'Manuscripts'
+
 walk = list(filter(to_be_procecced, os.walk(input_directory)))
 progress_bar = tqdm(walk)
 
@@ -79,6 +87,8 @@ with open(PROCESSED_FILES_LOG, 'w', encoding='utf-8') as modified_files:
                     file_text = fin.read()
                 soup = BeautifulSoup(file_text, 'xml')
                 tokens = soup.body.find('text').children
+                tokens = filter(is_tag, tokens)
+                tokens = filterfalse(is_ao_manuscripts, tokens)
                 for line_elements in split_before(tokens,
                                                   lambda tag: tag.name == 'lb'):
                   line = Line.parse_line(rel_path, text_id, line_elements)
