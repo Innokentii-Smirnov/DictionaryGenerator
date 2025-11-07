@@ -24,6 +24,7 @@ class Line:
 
   @classmethod
   def parse_line(cls, text_path: str, text_id: str, elements: list[Tag]) -> Line:
+    elements = list(filter(lambda element: isinstance(element, Tag), elements))
     full_path = join(text_path, text_id)
     if (lb := elements[0]).name == 'lb':
       if 'lnr' in lb.attrs:
