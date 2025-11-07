@@ -9,38 +9,15 @@ from os import remove
 from logging import getLogger
 from lexical_database.corpus_word import CorpusWord
 
-c = 1
-SELECTION_LOG = 'selection.log'
-if exists(SELECTION_LOG):
-  remove(SELECTION_LOG)
-def log_selection_issue(message: str, word_tag: str):
-  with open(SELECTION_LOG, 'a', encoding= 'utf-8') as fout:
-    global c
-    print(str(c) + ') ' + message, file=fout)
-    print(word_tag, file=fout)
-    print(file=fout)
-    c += 1
+ERROR_SYMBOL = 'ERROR'
 
 def make_analysis(selection: Selection, morph: Morph, word_tag: str) -> str:
-    if selection.gramm_form is not None:
-      if isinstance(morph, SingleMorph):
-        log_selection_issue('Expected multi:', word_tag)
-        morph_tag = morph.morph_tag
-      else:
-        if selection.gramm_form not in morph.morph_tags:
-          log_selection_issue('Missing key:', word_tag)
-          morph_tag = ''
-        else:
-          morph_tag = morph.morph_tags[selection.gramm_form]
+    if selection.gramm_form is None:
+        morph_tag = morph.single_morph_tag
     else:
-      if isinstance(morph, MultiMorph):
-        log_selection_issue('Expected single:', word_tag)
-        if morph.is_singletone:
-          morph_tag = morph.to_single().morph_tag
-        else:
-          morph_tag = ''
-      else:
-        morph_tag = morph.morph_tag
+        morph_tag = morph[selection.gramm_form]
+    if morph_tag is None:
+      morph_tag = ERROR_SYMBOL
     if morph_tag == '':
       return '{0}.{1}'.format(morph.translation, morph.pos)
     elif morph_tag.startswith('.') or morph_tag.startswith('='):
@@ -67,7 +44,7 @@ class Word:
         analysis = make_analysis(selection, morph, self.tag)
         return CorpusWord(self.transliteration, morph.segmentation, analysis)
       else:
-        log_selection_issue('Wrong number:', self.tag)
+        self.logger.error('Wrong number: %s', self.tag)
         analysis = ''
     return CorpusWord(self.transliteration, '', '')
 

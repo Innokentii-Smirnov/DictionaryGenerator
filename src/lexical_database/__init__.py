@@ -2,7 +2,6 @@ from collections import defaultdict
 from line import Line
 from word import Word
 from morph import MultiMorph
-from word import log_selection_issue
 from re import compile
 from os import makedirs
 from os.path import join
@@ -33,7 +32,7 @@ makedirs('logs', exist_ok=True)
 for package in ['line', 'word', 'selection', 'morph', 'lexical_database']:
   handler = FileHandler(join('logs', f'{package}.log'), 'w', encoding='utf-8')
   handler.setLevel(DEBUG)
-  formatter = Formatter('%(text_path)s\n%(text_id)s\n%(line_id)s\n%(word_tag)s\n%(message)s\n')
+  formatter = Formatter('%(text_path)s\n%(text_id)s\n%(line_id)s\n%(word_tag)s\n%(levelname)s: %(message)s\n')
   handler.setFormatter(formatter)
   handler.addFilter(log_filter)
   logger = getLogger(package)
@@ -99,7 +98,7 @@ class LexicalDatabase:
                       self.glosses[glosses_key].add(analysis.translation)
                       self.concordance[analysis_str].add(attestation)
                   else:
-                    log_selection_issue('Wrong number:', word.tag)
+                    self.logger.error('Wrong number: %s', word.tag)
               corpus_line.append(word.to_corpus_word())
           except (KeyError, ValueError):
             msg = 'Cannot parse word:\n{0}\non line {1} in {2}'.format(

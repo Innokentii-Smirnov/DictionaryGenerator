@@ -24041,6 +24041,79 @@
 				"transliteration": "𒀹"
 			}
 		],
+		"KBo 15.72+, {€2} Rs. 15′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 15.72+, {€2} Rs. 16′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 15.72+, {€2} Rs. 1′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 15.72+, {€2} Rs. 2′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 15.72+, {€2} Rs. 3′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 15.72+, {€2} Rs. 4′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 15.72+, {€2} Rs. 5′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 15.72+, {€2} Rs. 6′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 15.72+, {€2} Rs. 7′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
 		"KBo 15.72+, {€2} Rs. 8′": [
 			{
 				"gloss": "Gott-RELAT.PL.ABS",
@@ -24078,6 +24151,13 @@
 				"gloss": "Erde-RELAT.SG-GEN",
 				"segmentation": "eže-ne-ve",
 				"transliteration": "<laes_in/>e<laes_fin/>-<del_in/>še<corr c=\"?\"/>-ni<corr c=\"?\"/>-bi<corr c=\"?\"/>"
+			}
+		],
+		"KBo 15.72+, {€3} Vs. I 1′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
 			}
 		],
 		"KBo 15.72+, {€3} Vs. I 3′": [
@@ -24368,6 +24448,18 @@
 				"transliteration": "šu-ú-ra-an-ni"
 			}
 		],
+		"KBo 20.130,Rs. 13′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
 		"KBo 20.130,Rs. 2′": [
 			{
 				"gloss": "",
@@ -24568,6 +24660,13 @@
 				"transliteration": "a-ru-l<del_in/>a-a-uš"
 			}
 		],
+		"KBo 20.131,Rs. III 19′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
 		"KBo 20.131,Rs. III 1′": [
 			{
 				"gloss": "u.B..ABS",
@@ -24619,6 +24718,18 @@
 				"gloss": "geben-ol-1A-PL",
 				"segmentation": "ar-ol-āw-ž",
 				"transliteration": "<laes_in/>a<laes_fin/>-<del_in/>ru-la-a-uš<del_fin/>"
+			}
+		],
+		"KBo 20.131,Rs. III 23′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
 			}
 		],
 		"KBo 20.131,Rs. III 24′": [
@@ -25548,6 +25659,46 @@
 				"transliteration": "Rs. IV bricht ab"
 			}
 		],
+		"KBo 21.43,Rs. IV 1′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 21.43,Rs. IV 2′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 21.43,Rs. IV 4′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 21.43,Rs. IV 5′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 21.43,Rs. IV 6′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
 		"KBo 21.43,Vs. I": [
 			{
 				"gloss": "",
@@ -25645,6 +25796,20 @@
 				"transliteration": "Rs. IV bricht ab"
 			}
 		],
+		"KBo 21.44+, {€1} Rs. 12′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 21.44+, {€1} Rs. 13′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
 		"KBo 21.44+, {€1} Rs. 1′": [
 			{
 				"gloss": "u.B..noun",
@@ -25693,6 +25858,49 @@
 				"gloss": "u.B.-MOD.PAT-OPT",
 				"segmentation": "umb-ō-ež",
 				"transliteration": "um-pu-u-u<del_in/>š"
+			}
+		],
+		"KBo 21.44+, {€1} Rs. 6′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 21.44+, {€1} Rs. 7′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 21.44+, {€1} Rs. 8′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 21.44+, {€1} Rs. 9′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
 			}
 		],
 		"KBo 21.44+, {€2} Rs.? 10′": [
@@ -28390,7 +28598,7 @@
 		],
 		"KBo 27.208,8′": [
 			{
-				"gloss": "Körper; Bezug.noun",
+				"gloss": "Körper; Bezug-ERROR",
 				"segmentation": "idi-v-āž-a=an",
 				"transliteration": "<del_fin/>(-)<laes_in/>i<laes_fin/>(-)ti-wa<subscr c=\"a\"/>-a-ša-an"
 			},
@@ -29977,7 +30185,7 @@
 				"transliteration": "e-še-ni"
 			},
 			{
-				"gloss": "mitteilen.verb",
+				"gloss": "mitteilen-ERROR",
 				"segmentation": "ḫill-i",
 				"transliteration": "ḫi-il-li"
 			}
@@ -33105,6 +33313,102 @@
 				"transliteration": "Ende Rs. III"
 			}
 		],
+		"KBo 27.92+, {€1} Vs. I 1": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 27.92+, {€1} Vs. I 10′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 27.92+, {€1} Vs. I 11′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 27.92+, {€1} Vs. I 12′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 27.92+, {€1} Vs. I 15′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 27.92+, {€1} Vs. I 16′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 27.92+, {€1} Vs. I 17′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 27.92+, {€1} Vs. I 2": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 27.92+, {€1} Vs. I 3": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 27.92+, {€1} Vs. I 4": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 27.92+, {€1} Vs. I 5": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 27.92+, {€1} Vs. I 6": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 27.92+, {€1} Vs. I 9′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
 		"KBo 27.92+, {€1} Vs. II 1": [
 			{
 				"gloss": "abwaschen?; waschen?-PL.A-3JUSS",
@@ -33308,6 +33612,11 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "i<del_in/>t-"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
 			}
 		],
 		"KBo 27.92+, {€2+3} r. Kol. 7′/3′": [
@@ -33315,6 +33624,13 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "pa-a-ḫi-ta"
+			}
+		],
+		"KBo 27.92+, {€2+3} r. Kol. 8′/4′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
 			}
 		],
 		"KBo 27.92+, {€2} lk. Kol. 10′": [
@@ -33413,6 +33729,20 @@
 				"gloss": "u.B.-RELAT.SG=CON",
 				"segmentation": "puūīni-ne-[x]=ma",
 				"transliteration": "pu-ú-i-in-ni-<del_in/> -m<del_fin/>a"
+			}
+		],
+		"KBo 27.92+, {€2} r. Kol. 1′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 27.92+, {€2} r. Kol. 4′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
 			}
 		],
 		"KBo 27.92+, {€3} 10′": [
@@ -33533,7 +33863,19 @@
 				"transliteration": "<aGr>QA-TI</aGr>"
 			}
 		],
+		"KBo 27.92+, {€4} Rs. IV 12′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
 		"KBo 27.92+, {€4} Rs. IV 13′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			},
 			{
 				"gloss": "",
 				"segmentation": "",
@@ -33586,6 +33928,11 @@
 				"gloss": "Ritualherr(in).ABS",
 				"segmentation": "āšḫ+ož+i+kk+o+nni",
 				"transliteration": "<del_in/>aš-ḫu-ši-i<del_fin/>k-ku-un-ni"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
 			},
 			{
 				"gloss": "",
@@ -39492,7 +39839,7 @@
 		],
 		"KBo 32.14,Vs. 27a": [
 			{
-				"gloss": "Wasser; Fluss.noun",
+				"gloss": "Wasser; Fluss-ERROR",
 				"segmentation": "šie-na-āž-a",
 				"transliteration": "ši-i-e<corr c=\"!\"/>-na-a-ša<note c=\"Text: ŠE.\" n=\"1\"/>"
 			},
@@ -50359,7 +50706,7 @@
 				"transliteration": "-l<del_fin/>u-u-šu"
 			},
 			{
-				"gloss": "DN; PN.noun",
+				"gloss": "DN; PN-ERROR",
 				"segmentation": "Kalgamiž-ve",
 				"transliteration": "<d>D</d><sGr>GIŠ.GIM.MAŠ</sGr>-we<subscr c=\"e\"/>"
 			}
@@ -55209,6 +55556,46 @@
 				"transliteration": "ni-eš-ši"
 			}
 		],
+		"KBo 33.43+, {€1+2} Vs. II 53": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 33.43+, {€1+2} Vs. II 54": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 33.43+, {€1+2} Vs. II 56": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 33.43+, {€1+2} Vs. II 57": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 33.43+, {€1+2} Vs. II 58": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
 		"KBo 33.43+, {€1} Rs. III 10": [
 			{
 				"gloss": "Regen?-RELAT.SG-GEN-INS=3SG.ABS",
@@ -56061,6 +56448,27 @@
 				"transliteration": "<sGr>DINGIR</sGr><d>MEŠ</d>-na-<ras_in/>a<ras_fin/>-ša"
 			}
 		],
+		"KBo 33.43+, {€1} Rs. III 56": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 33.43+, {€1} Rs. III 57": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 33.43+, {€1} Rs. III 58": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
 		"KBo 33.43+, {€1} Rs. III 59": [
 			{
 				"gloss": "PRON.DEM.ABS",
@@ -56214,6 +56622,11 @@
 				"gloss": "Ritualherr(in).ABS",
 				"segmentation": "āšḫ+ož+i+kk+o+nni",
 				"transliteration": "aš-ḫu-ši-ik-ku-un-ni"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
 			},
 			{
 				"gloss": "",
@@ -56384,6 +56797,11 @@
 			{
 				"gloss": "",
 				"segmentation": "",
+				"transliteration": "CLB"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
 				"transliteration": "i-ti-pa"
 			},
 			{
@@ -56517,6 +56935,11 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "CLB"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
 			}
 		],
 		"KBo 33.43+, {€1} Rs. IV 24": [
@@ -56625,6 +57048,11 @@
 			}
 		],
 		"KBo 33.43+, {€1} Rs. IV 29": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			},
 			{
 				"gloss": "",
 				"segmentation": "",
@@ -56765,6 +57193,30 @@
 				"transliteration": "<sGr>KÙ.BABBAR</sGr>"
 			}
 		],
+		"KBo 33.43+, {€1} Rs. IV 36": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 33.43+, {€1} Rs. IV 38": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
 		"KBo 33.43+, {€1} Rs. IV 4": [
 			{
 				"gloss": "u.B.-ABL/INS",
@@ -56897,7 +57349,302 @@
 				"transliteration": "še-ḫa-la-aš-ši-ḫi-nim-ma"
 			}
 		],
+		"KBo 33.43+, {€1} Vs. I 1": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 33.43+, {€1} Vs. I 11": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 33.43+, {€1} Vs. I 12": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 33.43+, {€1} Vs. I 13": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 33.43+, {€1} Vs. I 15": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 33.43+, {€1} Vs. I 16": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 33.43+, {€1} Vs. I 17": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 33.43+, {€1} Vs. I 19": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 33.43+, {€1} Vs. I 20": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 33.43+, {€1} Vs. I 21": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 33.43+, {€1} Vs. I 23": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 33.43+, {€1} Vs. I 24": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 33.43+, {€1} Vs. I 26": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 33.43+, {€1} Vs. I 28": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 33.43+, {€1} Vs. I 29": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 33.43+, {€1} Vs. I 3": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 33.43+, {€1} Vs. I 30": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 33.43+, {€1} Vs. I 31": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 33.43+, {€1} Vs. I 32": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 33.43+, {€1} Vs. I 35": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 33.43+, {€1} Vs. I 36": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 33.43+, {€1} Vs. I 37": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 33.43+, {€1} Vs. I 4": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 33.43+, {€1} Vs. I 41": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 33.43+, {€1} Vs. I 42": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 33.43+, {€1} Vs. I 44": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 33.43+, {€1} Vs. I 46": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 33.43+, {€1} Vs. I 47": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 33.43+, {€1} Vs. I 48": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 33.43+, {€1} Vs. I 49": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 33.43+, {€1} Vs. I 5": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 33.43+, {€1} Vs. I 50": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 33.43+, {€1} Vs. I 51": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 33.43+, {€1} Vs. I 52": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 33.43+, {€1} Vs. I 53": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
 		"KBo 33.43+, {€1} Vs. I 54": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			},
 			{
 				"gloss": "DN; GN-RELAT.SG-GEN-RELAT.PL.ABS",
 				"segmentation": "Šimige-ne-ve-na",
@@ -56910,6 +57657,16 @@
 			}
 		],
 		"KBo 33.43+, {€1} Vs. I 56": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			},
 			{
 				"gloss": "DN-GEN-RELAT.PL.ABS",
 				"segmentation": "Šavoška-ve-na",
@@ -56933,11 +57690,208 @@
 				"transliteration": "CLB"
 			}
 		],
+		"KBo 33.43+, {€1} Vs. I 58": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 33.43+, {€1} Vs. I 59": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 33.43+, {€1} Vs. I 6": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
 		"KBo 33.43+, {€1} Vs. I 60": [
 			{
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "Ende Vs. I"
+			}
+		],
+		"KBo 33.43+, {€1} Vs. I 7": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 33.43+, {€1} Vs. I 8": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 33.43+, {€1} Vs. I 9": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 33.43+, {€1} Vs. II 1": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 33.43+, {€1} Vs. II 10": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 33.43+, {€1} Vs. II 12": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 33.43+, {€1} Vs. II 13": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 33.43+, {€1} Vs. II 14": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 33.43+, {€1} Vs. II 16": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 33.43+, {€1} Vs. II 17": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 33.43+, {€1} Vs. II 18": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 33.43+, {€1} Vs. II 2": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 33.43+, {€1} Vs. II 20": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 33.43+, {€1} Vs. II 22": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 33.43+, {€1} Vs. II 24": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 33.43+, {€1} Vs. II 26": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 33.43+, {€1} Vs. II 27": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 33.43+, {€1} Vs. II 28": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
 			}
 		],
 		"KBo 33.43+, {€1} Vs. II 29": [
@@ -56955,6 +57909,13 @@
 				"gloss": "Körper; Bezug-2POSS.SG.ABS",
 				"segmentation": "idi-b",
 				"transliteration": "i-ti-ip"
+			}
+		],
+		"KBo 33.43+, {€1} Vs. II 3": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
 			}
 		],
 		"KBo 33.43+, {€1} Vs. II 30": [
@@ -56991,6 +57952,20 @@
 				"transliteration": "ši-i-e-na-šu-uš"
 			}
 		],
+		"KBo 33.43+, {€1} Vs. II 32": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 33.43+, {€1} Vs. II 33": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
 		"KBo 33.43+, {€1} Vs. II 34": [
 			{
 				"gloss": "wieder; weiterhin=CON",
@@ -57006,6 +57981,13 @@
 				"gloss": "DN-GEN-RELAT.PL-PL-ERG",
 				"segmentation": "Nabari-ve-na-až-ož",
 				"transliteration": "<d>D</d>na-bar-bi-na-šu-uš"
+			}
+		],
+		"KBo 33.43+, {€1} Vs. II 4": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
 			}
 		],
 		"KBo 33.43+, {€1} Vs. II 47": [
@@ -57055,6 +58037,32 @@
 				"gloss": "Himmel-EQU",
 				"segmentation": "ḫavoro+ni-ož",
 				"transliteration": "ḫa-wu<subscr c=\"u\"/>-u-ur-nu-uš"
+			}
+		],
+		"KBo 33.43+, {€1} Vs. II 6": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 33.43+, {€1} Vs. II 8": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 33.43+, {€1} Vs. II 9": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
 			}
 		],
 		"KBo 33.43+, {€2+1} Vs. II 35": [
@@ -57316,6 +58324,13 @@
 				"transliteration": "še-el-lu-uš-š<del_in/>a<corr c=\"!\"/>-a-e<note c=\"Text: &lt;SP_f_AO_3a_SIGN&gt;TA&lt;/SP_f_AO_3a_SIGN&gt;.\" n=\"2\"/>"
 			}
 		],
+		"KBo 33.43+, {€3} Rs. III 1": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
 		"KBo 33.43+, {€3} Rs. III 2": [
 			{
 				"gloss": "DN-GEN",
@@ -57334,6 +58349,11 @@
 			}
 		],
 		"KBo 33.43+, {€3} Vs. II 2′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			},
 			{
 				"gloss": "",
 				"segmentation": "",
@@ -61037,12 +62057,83 @@
 				"transliteration": "Text bricht ab"
 			}
 		],
+		"KBo 40.123+, {€1+2+3} Vs. I 36/9′/Vs. 4′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 40.123+, {€1+2+3} Vs. I 38/11′/Vs. 6′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 40.123+, {€1+2+3} Vs. I 39/12′/Vs. 7′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 40.123+, {€1+2+3} Vs. I 40/13′/Vs. 8′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 40.123+, {€1+2+3} Vs. I 41/14′/Vs. 9′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
 		"KBo 40.123+, {€1+2} Vs. I 28/1′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			},
 			{
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "ḫu-u-ru-uš-ši-ia"
 			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 40.123+, {€1+2} Vs. I 29/2′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 40.123+, {€1+2} Vs. I 31/4′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 40.123+, {€1+3} Vs. I 42/Vs.10′": [
 			{
 				"gloss": "",
 				"segmentation": "",
@@ -61324,11 +62415,44 @@
 				"transliteration": "<del_fin/>"
 			}
 		],
+		"KBo 40.123+, {€12+7} Rs. 3′/Rs. IV 8′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 40.123+, {€12+7} Rs. 4′/Rs. IV 9′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 40.123+, {€12+7} Rs. 5′/Rs. IV 10′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
 		"KBo 40.123+, {€12+7} Rs. 6′/Rs. IV 11′": [
 			{
 				"gloss": "",
 				"segmentation": "",
+				"transliteration": "CLB"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
 				"transliteration": "(Rasur)"
+			}
+		],
+		"KBo 40.123+, {€12+7} Rs. 7′/Rs. IV 12′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
 			}
 		],
 		"KBo 40.123+, {€12+7} Rs./Rs. IV": [
@@ -61343,6 +62467,37 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "Raum von ca. 4 Zeilen unbeschrieben"
+			}
+		],
+		"KBo 40.123+, {€12+8} Rs. 10′/Rs. IV 3′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 40.123+, {€12+8} Rs. 8′/Rs. IV 1′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 40.123+, {€12+8} Rs. 9′/Rs. IV 2′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
 			}
 		],
 		"KBo 40.123+, {€1} Rs. III 1": [
@@ -61785,11 +62940,154 @@
 				"transliteration": "Ende Vs. I"
 			}
 		],
+		"KBo 40.123+, {€1} Vs. I 1": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 40.123+, {€1} Vs. I 10": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 40.123+, {€1} Vs. I 11": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 40.123+, {€1} Vs. I 13": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 40.123+, {€1} Vs. I 14": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 40.123+, {€1} Vs. I 15": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 40.123+, {€1} Vs. I 16": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 40.123+, {€1} Vs. I 17": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 40.123+, {€1} Vs. I 18": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 40.123+, {€1} Vs. I 19": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 40.123+, {€1} Vs. I 2": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 40.123+, {€1} Vs. I 20": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 40.123+, {€1} Vs. I 21": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 40.123+, {€1} Vs. I 22": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
 		"KBo 40.123+, {€1} Vs. I 23": [
 			{
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "it-kal-zi-ia"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
 			},
 			{
 				"gloss": "",
@@ -61809,11 +63107,80 @@
 				"transliteration": "CLB"
 			}
 		],
+		"KBo 40.123+, {€1} Vs. I 25": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 40.123+, {€1} Vs. I 27": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 40.123+, {€1} Vs. I 3": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 40.123+, {€1} Vs. I 4": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 40.123+, {€1} Vs. I 5": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KBo 40.123+, {€1} Vs. I 6": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
 		"KBo 40.123+, {€1} Vs. I 67′!": [
 			{
 				"gloss": "DN-DAT=3PL.ABS",
 				"segmentation": "Šavoška-va=l",
 				"transliteration": "<d><laes_in/>D<laes_fin/></d><sGr>GAŠAN</sGr>-ga-pa-al"
+			}
+		],
+		"KBo 40.123+, {€1} Vs. I 8": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
 			}
 		],
 		"KBo 40.123+, {€1} Vs. II 1": [
@@ -63002,6 +64369,13 @@
 				"gloss": "Gott-RELAT.PL-PL-DAT/ESS",
 				"segmentation": "eni-na-āž-a",
 				"transliteration": "<sGr>DINGIR</sGr><d>MEŠ</d>-na-a-<laes_in/>ša<laes_fin/>"
+			}
+		],
+		"KBo 40.123+, {€4+7} Rs. IV 9′/Rs. IV 2′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
 			}
 		],
 		"KBo 40.123+, {€4} Rs. IV 3′": [
@@ -71580,6 +72954,37 @@
 				"transliteration": "<sGr>DINGIR</sGr><d>MEŠ</d>-na-a-ša"
 			}
 		],
+		"KUB 32.25+, {€1+2} Rs. IV 34′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KUB 32.25+, {€1+2} Rs. IV 35′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KUB 32.25+, {€1+2} Rs. IV 37′": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
 		"KUB 32.25+, {€1+2} Rs. IV 38′": [
 			{
 				"gloss": "",
@@ -71910,6 +73315,13 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "<del_fin/>x<corr c=\"?\"/>"
+			}
+		],
+		"KUB 32.25+, {€1+3} Rs. IV 16′/Rs. lk. Kol. 15′!": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
 			}
 		],
 		"KUB 32.25+, {€1+3} Rs. IV 17′/Rs. lk. Kol. 16′!": [
@@ -74809,6 +76221,27 @@
 				"transliteration": "Ende Vs. I"
 			}
 		],
+		"KUB 32.51+, {2+1} Vs. I 1′/Vs. I 43″": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KUB 32.51+, {2+1} Vs. I 2′/Vs. I 44″": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KUB 32.51+, {2+1} Vs. I 3′/Vs. I 45″": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
 		"KUB 32.51+, {2+1} Vs. I 4′/Vs. I 46″": [
 			{
 				"gloss": "Reinheit-RELAT.SG-GEN-RELAT.PL-PL-ERG=2SG.ABS",
@@ -74858,6 +76291,20 @@
 				"gloss": "Wasser; Fluss-RELAT.PL-PL-ERG",
 				"segmentation": "šie-na-āž-ož",
 				"transliteration": "še-i-<laes_in/>e<laes_fin/>-na-a-šu-uš"
+			}
+		],
+		"KUB 32.51+, {2+1} Vs. I 7′/Vs. I 49″": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KUB 32.51+, {2+1} Vs. I 8′/Vs. I 50″": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
 			}
 		],
 		"KUB 32.51+, {2+1} Vs. I 9′/Vs. I 51″": [
@@ -74930,6 +76377,27 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "Rs. III bricht ab"
+			}
+		],
+		"KUB 32.51+, {€1} Vs. I 38″": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KUB 32.51+, {€1} Vs. I 40″": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			}
+		],
+		"KUB 32.51+, {€1} Vs. I 42″": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
 			}
 		],
 		"KUB 32.51+, {€1} Vs. II 32″": [
@@ -75331,6 +76799,11 @@
 			}
 		],
 		"KUB 32.51+, {€2} Rs. IV 3": [
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "CLB"
+			},
 			{
 				"gloss": "",
 				"segmentation": "",
@@ -78995,7 +80468,7 @@
 				"transliteration": "-t<del_fin/>a-al"
 			},
 			{
-				"gloss": "sprechen.verb",
+				"gloss": "sprechen-ERROR",
 				"segmentation": "alu-m+ai",
 				"transliteration": "a-lu-ma"
 			},
@@ -82983,7 +84456,7 @@
 		],
 		"KUB 47.8,Rs. IV? 2": [
 			{
-				"gloss": "geben.verb",
+				"gloss": "geben-ERROR",
 				"segmentation": "ar-ol-i-b",
 				"transliteration": "a-ru-<ras_in/>li<ras_fin/>-ip"
 			},
