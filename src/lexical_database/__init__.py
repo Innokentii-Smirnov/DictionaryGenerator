@@ -2,7 +2,7 @@ from collections import defaultdict
 from line import Line
 from word import Word
 from word.corpus_word import make_corpus_word
-from morph import MultiMorph
+from morph import Morph, MultiMorph
 from re import compile
 from os import makedirs
 from os.path import join
@@ -52,6 +52,15 @@ def get_stem(word: str):
 def sort_values(dic: defaultdict[str, set[str]]) -> dict[str, list[str]]:
   return {key: sorted(values) for key, values in dic.items()}
 
+TRANSLATION_WORD_SEPARATOR = '; '
+
+""" Split a semicolon-delimited translation into separate words
+
+:return: a list of words the translation consists of
+"""
+def split_translation_into_words(translation: str) -> list[str]:
+  return translation.split(TRANSLATION_WORD_SEPARATOR)
+
 class LexicalDatabase:
 
   def __init__(self):
@@ -60,6 +69,18 @@ class LexicalDatabase:
     self.concordance = defaultdict[str, set[str]](set)
     self.corpus = dict[str, dict[str, dict[str, str]]]()
     self.logger = getLogger(__name__)
+
+  """Add the words occuring in a translation to the
+  list possible tranlsations for a particular stem
+
+  :param analysis: An HPM morphological analysis object
+  """
+  def update_glosses(self, analysis: Morph) -> None:
+    stem = get_stem(analysis.segmentation)
+    glosses_key = '{0},{1}'.format(stem, analysis.pos)
+    values = self.glosses[glosses_key]
+    for translation_word in split_translation_into_words(analysis.translation):
+      values.add(translation_word)
 
   def to_dict(self):
     return {
@@ -93,9 +114,7 @@ class LexicalDatabase:
                       else:
                         analysis_str = str(analysis)
                       self.dictionary[word.transcription].add(analysis_str)
-                      stem = get_stem(analysis.segmentation)
-                      glosses_key = '{0},{1}'.format(stem, analysis.pos)
-                      self.glosses[glosses_key].add(analysis.translation)
+                      self.update_glosses(analysis)
                       self.concordance[analysis_str].add(attestation)
                   else:
                     self.logger.error('The selected morphological analysis number %i is not available for word %s.', number, word.tag)

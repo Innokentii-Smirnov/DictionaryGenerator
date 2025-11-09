@@ -157576,7 +157576,8 @@
 			"sechster"
 		],
 		"ARAD,noun": [
-			"Sklave; Diener"
+			"Diener",
+			"Sklave"
 		],
 		"Adal.šen,noun": [
 			"DN"
@@ -157635,7 +157636,7 @@
 		],
 		"BA.ÚŠ,verb": [
 			"sterben",
-			"sterben; sterben lassen"
+			"sterben lassen"
 		],
 		"BADniri,noun": [
 			"u.B."
@@ -157659,7 +157660,8 @@
 			"Palastangehöriger"
 		],
 		"E,noun": [
-			"Deich; Kanal"
+			"Deich",
+			"Kanal"
 		],
 		"EN,28.1.1.3": [
 			"Herr"
@@ -157765,7 +157767,8 @@
 			"Rand"
 		],
 		"Kalgamiž,noun": [
-			"DN; PN"
+			"DN",
+			"PN"
 		],
 		"Kapšalla,noun": [
 			"GN"
@@ -157879,7 +157882,8 @@
 			"nicht sein"
 		],
 		"NUMUN,noun": [
-			"Samen; Nachkomme"
+			"Nachkomme",
+			"Samen"
 		],
 		"Nabarbi,noun": [
 			"DN"
@@ -158104,14 +158108,17 @@
 			"vor"
 		],
 		"abi,PREP": [
-			"Gesicht; vor"
+			"Gesicht",
+			"vor"
 		],
 		"abi,PRON": [
-			"wer; jeder"
+			"jeder",
+			"wer"
 		],
 		"abi,noun": [
-			"Gesicht; vor",
-			"u.B."
+			"Gesicht",
+			"u.B.",
+			"vor"
 		],
 		"abri,noun": [
 			"u.B."
@@ -158141,7 +158148,8 @@
 			"Schemel"
 		],
 		"ad,verb": [
-			"herabkommen?; herabbringen?",
+			"herabbringen?",
+			"herabkommen?",
 			"u.B."
 		],
 		"ade,noun": [
@@ -158157,7 +158165,8 @@
 			"u.B."
 		],
 		"adāl,noun": [
-			"stark; der Starke"
+			"der Starke",
+			"stark"
 		],
 		"adāži,noun": [
 			"u.B."
@@ -158175,11 +158184,10 @@
 			"Verzierung"
 		],
 		"ag,verb": [
-			"aufnehmen; aufrichten; erheben; heraufkommen",
-			"aufnehmen; erheben; heraufkommen",
-			"aufnehmen; erheben; heraufkommen; aufrichten",
-			"aufnehmen; heraufkommen; aufrichten",
-			"erheben; aufnehmen; heraufkommen",
+			"aufnehmen",
+			"aufrichten",
+			"erheben",
+			"heraufkommen",
 			"u.B."
 		],
 		"aga,noun": [
@@ -158214,8 +158222,8 @@
 			"u.B."
 		],
 		"ai,CONJ": [
-			"falls; wenn",
-			"wenn; falls"
+			"falls",
+			"wenn"
 		],
 		"aili,noun": [
 			"u.B."
@@ -158230,7 +158238,9 @@
 			"u.B."
 		],
 		"al+il+an,verb": [
-			"jammern; beklagen; schreien"
+			"beklagen",
+			"jammern",
+			"schreien"
 		],
 		"al+ipš+i,noun": [
 			"Ziegel"
@@ -158255,7 +158265,6 @@
 		],
 		"al,NF": [
 			"sprechen",
-			"sprechen; u.B.",
 			"u.B."
 		],
 		"al,noun": [
@@ -158263,7 +158272,8 @@
 		],
 		"al,verb": [
 			"sprechen",
-			"trinken; tränken",
+			"trinken",
+			"tränken",
 			"u.B."
 		],
 		"alami,noun": [
@@ -158322,10 +158332,12 @@
 			"ein Gewand"
 		],
 		"alāže,CONJ": [
-			"ob; entweder"
+			"entweder",
+			"ob"
 		],
 		"alē,verb": [
-			"heranreichen lassen; sich nähern"
+			"heranreichen lassen",
+			"sich nähern"
 		],
 		"alġ,verb": [
 			"u.B."
@@ -158369,12 +158381,14 @@
 			"Adminstrator"
 		],
 		"amm,verb": [
-			"erreichen; gelangen lassen",
-			"errreichen; gelangen lassen"
+			"erreichen",
+			"errreichen",
+			"gelangen lassen"
 		],
 		"ammatte,noun": [
 			"früher, uralt",
-			"uralt; früherer"
+			"früherer",
+			"uralt"
 		],
 		"ammi,ADV": [
 			"zuvor?"
@@ -158404,7 +158418,8 @@
 			"sich freuen"
 		],
 		"ana,noun": [
-			"sich freuen; erfreuen"
+			"erfreuen",
+			"sich freuen"
 		],
 		"anagi,noun": [
 			"u.B."
@@ -158604,27 +158619,29 @@
 			"Feld"
 		],
 		"ave,PRON": [
-			"wer; jeder"
+			"jeder",
+			"wer"
 		],
 		"ave,noun": [
+			"jeder",
 			"u.B.",
-			"wer; jeder"
+			"wer"
 		],
 		"avi+n,ADV": [
 			"vorne"
 		],
 		"avi,POST": [
-			"Gesicht; vor",
+			"Gesicht",
 			"vor"
 		],
 		"avi,PREP": [
-			"Gesicht; vor",
+			"Gesicht",
 			"vor"
 		],
 		"avi,noun": [
 			"Gesicht",
-			"Gesicht; vor",
-			"u.B."
+			"u.B.",
+			"vor"
 		],
 		"az+al+di,noun": [
 			"u.B."
@@ -158681,7 +158698,8 @@
 			"Siehe!"
 		],
 		"ašk,verb": [
-			"fragen?; zur Rede stellen?"
+			"fragen?",
+			"zur Rede stellen?"
 		],
 		"aški,noun": [
 			"u.B."
@@ -158732,7 +158750,7 @@
 			"u.B."
 		],
 		"až,verb": [
-			"abwischen?; waschen?",
+			"abwischen?",
 			"u.B.",
 			"waschen?"
 		],
@@ -158785,7 +158803,8 @@
 			"u.B."
 		],
 		"edi,noun": [
-			"Körper; hinsichtlich",
+			"Körper",
+			"hinsichtlich",
 			"u.B."
 		],
 		"eg+o+ni,noun": [
@@ -158798,7 +158817,8 @@
 			"Reinheit, rein"
 		],
 		"eg+ud+ut+ki,noun": [
-			"Unreinheit; Verunreinigung"
+			"Unreinheit",
+			"Verunreinigung"
 		],
 		"eg+ušš,NF": [
 			"u.B."
@@ -158810,24 +158830,29 @@
 			"u.B."
 		],
 		"eg+ō+šše,noun": [
-			"Reinheit; rein"
+			"Reinheit",
+			"rein"
 		],
 		"eg,verb": [
-			"rein sein; rein machen",
-			"rein sein; reinigen",
+			"rein machen",
+			"rein sein",
+			"reinigen",
 			"u.B."
 		],
 		"ege+ni,noun": [
-			"Inneres, innere; Mitte"
+			"Inneres, innere",
+			"Mitte"
 		],
 		"ege+nni,noun": [
-			"Inneres, innere; Mitte"
+			"Inneres, innere",
+			"Mitte"
 		],
 		"ege,PREP": [
 			"drinnen"
 		],
 		"ege,noun": [
-			"Inneres; innere"
+			"Inneres",
+			"innere"
 		],
 		"egi,POST": [
 			"mitten"
@@ -158837,7 +158862,6 @@
 		],
 		"egi,noun": [
 			"Inneres, innere",
-			"Inneres, innere; Mitte",
 			"Mitte",
 			"u.B."
 		],
@@ -158873,7 +158897,8 @@
 			"u.B."
 		],
 		"elmi,noun": [
-			"Eid; Schwur"
+			"Eid",
+			"Schwur"
 		],
 		"elōruli,noun": [
 			"u.B."
@@ -159041,14 +159066,16 @@
 			"u.B."
 		],
 		"fand+a+ni,noun": [
-			"recht, rechte Seite; rechts",
-			"rechte Seite; rechts"
+			"recht, rechte Seite",
+			"rechte Seite",
+			"rechts"
 		],
 		"fand+ar+i+nni,noun": [
 			"Koch"
 		],
 		"fandi,noun": [
-			"recht, rechte Seite; rechts"
+			"recht, rechte Seite",
+			"rechts"
 		],
 		"fandin,ADV": [
 			"rechts"
@@ -159067,7 +159094,8 @@
 			"u.B."
 		],
 		"faġr+a+že,noun": [
-			"gut; schön"
+			"gut",
+			"schön"
 		],
 		"faġr+o+bāde,noun": [
 			"ungut"
@@ -159076,10 +159104,12 @@
 			"ungut"
 		],
 		"faġr+o+že,noun": [
-			"gut; schön"
+			"gut",
+			"schön"
 		],
 		"faġri,noun": [
-			"gut; schön"
+			"gut",
+			"schön"
 		],
 		"faġē,noun": [
 			"Kopf"
@@ -159222,8 +159252,9 @@
 			"u.B."
 		],
 		"fud,verb": [
+			"schaffen",
 			"u.B.",
-			"zeugen; schaffen"
+			"zeugen"
 		],
 		"fut+ki,noun": [
 			"Sohn"
@@ -159247,7 +159278,8 @@
 			"u.B."
 		],
 		"fāġr,verb": [
-			"gut sein; gut machen"
+			"gut machen",
+			"gut sein"
 		],
 		"fāž+ō+ni,noun": [
 			"u.B."
@@ -159358,12 +159390,14 @@
 			"Baumeister"
 		],
 		"idi,noun": [
+			"Bezug",
 			"Körper",
-			"Körper; Bezug",
 			"u.B."
 		],
 		"idi,verb": [
-			"Körper; in Bezug auf; hinsichtlich"
+			"Körper",
+			"hinsichtlich",
+			"in Bezug auf"
 		],
 		"ieni,noun": [
 			"u.B."
@@ -159375,8 +159409,9 @@
 			"in"
 		],
 		"igi,noun": [
-			"Inneres; Mitte; innere",
+			"Inneres",
 			"Mitte",
+			"innere",
 			"u.B."
 		],
 		"igiži,noun": [
@@ -159545,7 +159580,6 @@
 		],
 		"ištani,PREP": [
 			"Inneres",
-			"Inneres; in",
 			"in"
 		],
 		"ištani,noun": [
@@ -159582,7 +159616,8 @@
 			"u.B."
 		],
 		"iž+ikk+o+nni,noun": [
-			"Jammernder; Klagender"
+			"Jammernder",
+			"Klagender"
 		],
 		"iž+ī+že,noun": [
 			"u.B."
@@ -159591,7 +159626,8 @@
 			"1PRON.SG"
 		],
 		"iž,verb": [
-			"jammern; klagen",
+			"jammern",
+			"klagen",
 			"u.B."
 		],
 		"iža+mme,noun": [
@@ -159635,7 +159671,8 @@
 			"u.B."
 		],
 		"kad,verb": [
-			"sagen; sprechen",
+			"sagen",
+			"sprechen",
 			"u.B."
 		],
 		"kadi,noun": [
@@ -159768,14 +159805,17 @@
 			"stark"
 		],
 		"ke,verb": [
-			"legen; setzen; stellen",
-			"setzen; stellen; legen"
+			"legen",
+			"setzen",
+			"stellen"
 		],
 		"keb+li,noun": [
 			"Jäger"
 		],
 		"keb,verb": [
-			"legen; setzen; stellen"
+			"legen",
+			"setzen",
+			"stellen"
 		],
 		"kel+di,noun": [
 			"Wohl"
@@ -159799,13 +159839,16 @@
 			"u.B."
 		],
 		"ker+a+šše,noun": [
-			"lang; dauerhaft"
+			"dauerhaft",
+			"lang"
 		],
 		"ker+ašš,verb": [
-			"lang machen; dauerhaft machen"
+			"dauerhaft machen",
+			"lang machen"
 		],
 		"ker,verb": [
-			"lang sein; dauerhaft sein"
+			"dauerhaft sein",
+			"lang sein"
 		],
 		"kev+o+že,noun": [
 			"u.B."
@@ -159814,7 +159857,9 @@
 			"u.B."
 		],
 		"kev,verb": [
-			"setzen; stellen; legen"
+			"legen",
+			"setzen",
+			"stellen"
 		],
 		"keveri,noun": [
 			"Ältester"
@@ -159914,7 +159959,8 @@
 			"u.B."
 		],
 		"kir+a+že,noun": [
-			"dauerhaft; lang"
+			"dauerhaft",
+			"lang"
 		],
 		"kir+ar+i+nni,noun": [
 			"u.B."
@@ -159923,7 +159969,8 @@
 			"u.B."
 		],
 		"kir+ašš,verb": [
-			"dauerhaft machen; lang machen"
+			"dauerhaft machen",
+			"lang machen"
 		],
 		"kir+man,NUM": [
 			"achtzehn"
@@ -159984,7 +160031,8 @@
 			"u.B."
 		],
 		"kol,verb": [
-			"ablassen; beiseite lassen"
+			"ablassen",
+			"beiseite lassen"
 		],
 		"kov,verb": [
 			"u.B."
@@ -159999,7 +160047,8 @@
 			"u.B."
 		],
 		"kud,verb": [
-			"werfen; fallen"
+			"fallen",
+			"werfen"
 		],
 		"kuduni,noun": [
 			"Nacken?"
@@ -160152,7 +160201,8 @@
 			"u.B."
 		],
 		"kād,verb": [
-			"sagen; sprechen"
+			"sagen",
+			"sprechen"
 		],
 		"kāde,noun": [
 			"Gerste?"
@@ -160200,7 +160250,8 @@
 			"u.B."
 		],
 		"kēl,verb": [
-			"wohl sein; wohl machen"
+			"wohl machen",
+			"wohl sein"
 		],
 		"kēlġēdi,noun": [
 			"u.B."
@@ -160341,7 +160392,8 @@
 			"u.B."
 		],
 		"mall+ade,noun": [
-			"Schüssel; Schale"
+			"Schale",
+			"Schüssel"
 		],
 		"malvāži,noun": [
 			"u.B."
@@ -160420,7 +160472,8 @@
 			"u.B."
 		],
 		"mena,noun": [
-			"Zwilling?; Geschwister?"
+			"Geschwister?",
+			"Zwilling?"
 		],
 		"meni,noun": [
 			"u.B."
@@ -160520,8 +160573,8 @@
 			"folgendermaßen"
 		],
 		"mād,verb": [
-			"weise sein",
-			"weise sein; weise machen"
+			"weise machen",
+			"weise sein"
 		],
 		"mādi,noun": [
 			"Weisheit"
@@ -160623,7 +160676,8 @@
 			"u.B."
 		],
 		"mūž,verb": [
-			"bereiten; ordnen"
+			"bereiten",
+			"ordnen"
 		],
 		"mūži,noun": [
 			"gerecht"
@@ -160650,7 +160704,8 @@
 			"u.B."
 		],
 		"nakk,verb": [
-			"freilassen; gewähren"
+			"freilassen",
+			"gewähren"
 		],
 		"nakt,verb": [
 			"u.B."
@@ -160728,7 +160783,9 @@
 			"Sitzgelegenheit"
 		],
 		"naḫḫ,verb": [
-			"sich setzen; sitzen; einsetzen"
+			"einsetzen",
+			"sich setzen",
+			"sitzen"
 		],
 		"negri,noun": [
 			"Riegel"
@@ -160755,7 +160812,8 @@
 			"Gabe"
 		],
 		"nešši,noun": [
-			"Geschenk; Gabe"
+			"Gabe",
+			"Geschenk"
 		],
 		"nešḫi,noun": [
 			"u.B."
@@ -160827,7 +160885,8 @@
 			"u.B."
 		],
 		"niġari,noun": [
-			"Mitgift; Gabe"
+			"Gabe",
+			"Mitgift"
 		],
 		"niġe,noun": [
 			"u.B."
@@ -160955,7 +161014,8 @@
 			"Mutter"
 		],
 		"nēr,verb": [
-			"gut sein; gut machen",
+			"gut machen",
+			"gut sein",
 			"u.B."
 		],
 		"nēra,noun": [
@@ -161046,7 +161106,8 @@
 			"Land"
 		],
 		"or+o+nni,noun": [
-			"hinterer; letzterer"
+			"hinterer",
+			"letzterer"
 		],
 		"or,verb": [
 			"u.B."
@@ -161136,7 +161197,8 @@
 			"u.B."
 		],
 		"pand,verb": [
-			"recht sein; richtig sein"
+			"recht sein",
+			"richtig sein"
 		],
 		"pandi,noun": [
 			"u.B."
@@ -161218,10 +161280,12 @@
 			"u.B."
 		],
 		"pend,": [
-			"zurückkehren; zurückbringen"
+			"zurückbringen",
+			"zurückkehren"
 		],
 		"pend,verb": [
-			"zurückkehren; zurückbringen"
+			"zurückbringen",
+			"zurückkehren"
 		],
 		"pid+o+šše,noun": [
 			"u.B."
@@ -161251,8 +161315,10 @@
 			"Kanal"
 		],
 		"pind,verb": [
-			"zurückbringen; zurückkehren; zurückkommen; zurückschicken",
-			"zurückkommen; zurückschicken"
+			"zurückbringen",
+			"zurückkehren",
+			"zurückkommen",
+			"zurückschicken"
 		],
 		"pindaia+ni,noun": [
 			"u.B."
@@ -161333,8 +161399,9 @@
 			"u.B."
 		],
 		"pud,verb": [
+			"schaffen",
 			"u.B.",
-			"zeugen; schaffen"
+			"zeugen"
 		],
 		"puendi,noun": [
 			"u.B."
@@ -161361,7 +161428,8 @@
 			"u.B."
 		],
 		"pura+mmi,noun": [
-			"Diener; Sklave"
+			"Diener",
+			"Sklave"
 		],
 		"purġ,verb": [
 			""
@@ -161419,8 +161487,8 @@
 			"u.B."
 		],
 		"pāl,verb": [
-			"kennen; wissen",
-			"wissen; kennen"
+			"kennen",
+			"wissen"
 		],
 		"pāli,noun": [
 			"falsch",
@@ -161439,8 +161507,8 @@
 			"u.B."
 		],
 		"pār,verb": [
+			"einziehen",
 			"losgehen",
-			"losgehen; einziehen",
 			"u.B."
 		],
 		"pārgi,noun": [
@@ -161450,7 +161518,8 @@
 			"u.B."
 		],
 		"pārili,noun": [
-			"Ärgernis; Verfehlung"
+			"Verfehlung",
+			"Ärgernis"
 		],
 		"pārizi,noun": [
 			"ein halbes Kor"
@@ -161491,7 +161560,8 @@
 			"u.B."
 		],
 		"pāšš+i+tḫe,noun": [
-			"Gesandter; Bote"
+			"Bote",
+			"Gesandter"
 		],
 		"pāž+a+nni,noun": [
 			"u.B."
@@ -161516,9 +161586,10 @@
 			"u.B."
 		],
 		"pēd,verb": [
-			"drehen; zurückwenden",
-			"drehen; zurückwenden; zurückgeben",
-			"u.B."
+			"drehen",
+			"u.B.",
+			"zurückgeben",
+			"zurückwenden"
 		],
 		"pēr,verb": [
 			"u.B."
@@ -161554,7 +161625,8 @@
 			"u.B."
 		],
 		"pōd,verb": [
-			"zeugen; erschaffen"
+			"erschaffen",
+			"zeugen"
 		],
 		"pōe,noun": [
 			"u.B."
@@ -161590,9 +161662,9 @@
 			"u.B."
 		],
 		"pūd,verb": [
-			"schaffen; zeugen",
+			"schaffen",
 			"u.B.",
-			"zeugen; schaffen"
+			"zeugen"
 		],
 		"pūe,noun": [
 			"u.B."
@@ -161643,7 +161715,8 @@
 			"u.B."
 		],
 		"salmi,noun": [
-			"Bild; Statue"
+			"Bild",
+			"Statue"
 		],
 		"samm+al,verb": [
 			"abreißen"
@@ -161980,15 +162053,17 @@
 			"Liebe"
 		],
 		"tag,verb": [
-			"hell sein; makellos sein",
-			"hell sein; makellos sein; leuchten"
+			"hell sein",
+			"leuchten",
+			"makellos sein"
 		],
 		"tage+že,noun": [
 			"hell"
 		],
 		"tagi,noun": [
-			"hell; makellos",
-			"hell; rein; makellos"
+			"hell",
+			"makellos",
+			"rein"
 		],
 		"tagumi,noun": [
 			"u.B."
@@ -162027,8 +162102,9 @@
 			"groß"
 		],
 		"talm,verb": [
-			"groß sein; groß werden; groß machen",
-			"groß werden; groß machen"
+			"groß machen",
+			"groß sein",
+			"groß werden"
 		],
 		"talmi,noun": [
 			"groß"
@@ -162219,7 +162295,8 @@
 			"u.B."
 		],
 		"taže,noun": [
-			"Geschenk?; Gabe?"
+			"Gabe?",
+			"Geschenk?"
 		],
 		"taʾ+akka,noun": [
 			"Mann"
@@ -162330,10 +162407,12 @@
 			"u.B."
 		],
 		"tie,noun": [
-			"Wort; Sache"
+			"Sache",
+			"Wort"
 		],
 		"til+ol,verb": [
-			"zertreten; zerstampfen"
+			"zerstampfen",
+			"zertreten"
 		],
 		"tilladi,noun": [
 			"u.B."
@@ -162358,7 +162437,8 @@
 			"sprechen"
 		],
 		"tive,noun": [
-			"Wort; Sache"
+			"Sache",
+			"Wort"
 		],
 		"tivāži,noun": [
 			"u.B."
@@ -162446,7 +162526,8 @@
 			"u.B."
 		],
 		"tupp,verb": [
-			"bleiben; versammeln"
+			"bleiben",
+			"versammeln"
 		],
 		"tuppi,noun": [
 			"u.B."
@@ -162482,7 +162563,8 @@
 			"u.B."
 		],
 		"tād+i+a+šše,noun": [
-			"die Liebende; die Liebliche"
+			"die Liebende",
+			"die Liebliche"
 		],
 		"tād,verb": [
 			"lieben"
@@ -162500,7 +162582,8 @@
 			"u.B."
 		],
 		"tāg,verb": [
-			"hell sein; makellos sein"
+			"hell sein",
+			"makellos sein"
 		],
 		"tāl+āḫḫ,verb": [
 			"herausziehen"
@@ -162516,7 +162599,8 @@
 			"groß machen"
 		],
 		"tāle,noun": [
-			"Baum; Holz"
+			"Baum",
+			"Holz"
 		],
 		"tāli,noun": [
 			"u.B."
@@ -162590,11 +162674,13 @@
 			"Mann"
 		],
 		"tē+ni,noun": [
-			"Wort",
-			"Wort; Name?"
+			"Name?",
+			"Wort"
 		],
 		"tē,noun": [
-			"Wort; Sache; Name?",
+			"Name?",
+			"Sache",
+			"Wort",
 			"u.B."
 		],
 		"tēa,ADV": [
@@ -162624,7 +162710,8 @@
 			"zählen"
 		],
 		"tīe,noun": [
-			"Wort; Sache"
+			"Sache",
+			"Wort"
 		],
 		"tīr,verb": [
 			"u.B."
@@ -162633,10 +162720,12 @@
 			"u.B."
 		],
 		"tīve+ni,noun": [
-			"Wort; Sache"
+			"Sache",
+			"Wort"
 		],
 		"tīve,noun": [
-			"Wort; Sache"
+			"Sache",
+			"Wort"
 		],
 		"tīvini,noun": [
 			"Stroh"
@@ -162697,11 +162786,12 @@
 			"hinabgehen"
 		],
 		"tōre,noun": [
-			"unten; hinab"
+			"hinab",
+			"unten"
 		],
 		"tōri,ADV": [
-			"hinab; unten",
-			"unten; hinab"
+			"hinab",
+			"unten"
 		],
 		"tōri,noun": [
 			"u.B."
@@ -162731,7 +162821,8 @@
 			"u.B."
 		],
 		"tūn,verb": [
-			"vermögen; überwinden"
+			"vermögen",
+			"überwinden"
 		],
 		"tūnuw,verb": [
 			"u.B."
@@ -162743,8 +162834,8 @@
 			"hinabgehen"
 		],
 		"tūri,ADV": [
-			"hinab; unten",
-			"unten; hinab"
+			"hinab",
+			"unten"
 		],
 		"tūri,noun": [
 			"Oberseite?"
@@ -162756,8 +162847,8 @@
 			"Schlacht"
 		],
 		"ub,verb": [
+			"schlachten",
 			"töten",
-			"töten; schlachten",
 			"u.B."
 		],
 		"ubi,noun": [
@@ -162812,11 +162903,15 @@
 			"u.B."
 		],
 		"ull+uġ,verb": [
-			"zurückhalten; niederdrücken; abwischen"
+			"abwischen",
+			"niederdrücken",
+			"zurückhalten"
 		],
 		"ull,verb": [
+			"abwischen",
+			"niederdrücken",
 			"u.B.",
-			"zurückhalten; niederdrücken; abwischen"
+			"zurückhalten"
 		],
 		"ullai,noun": [
 			"u.B."
@@ -162864,7 +162959,8 @@
 			"u.B."
 		],
 		"un,verb": [
-			"kommen; bringen"
+			"bringen",
+			"kommen"
 		],
 		"undō,ADV": [
 			"nun"
@@ -162885,7 +162981,8 @@
 			"u.B."
 		],
 		"ur+o+nni,noun": [
-			"hinterer; letzterer"
+			"hinterer",
+			"letzterer"
 		],
 		"ur+uġ+ul+zi,noun": [
 			"u.B."
@@ -162900,8 +162997,8 @@
 			"u.B."
 		],
 		"ure,noun": [
-			"Mitteilung?; Vorhersage?",
-			"Vorhersage?; Mitteilung?"
+			"Mitteilung?",
+			"Vorhersage?"
 		],
 		"urgi,noun": [
 			"u.B."
@@ -163010,7 +163107,10 @@
 			"Erhebung?"
 		],
 		"ušt,verb": [
-			"aufstehen; erheben; fortbringen; herausgehen"
+			"aufstehen",
+			"erheben",
+			"fortbringen",
+			"herausgehen"
 		],
 		"uštedi,noun": [
 			"u.B."
@@ -163084,7 +163184,8 @@
 			"Opfergrube?"
 		],
 		"āi,CONJ": [
-			"falls; wenn"
+			"falls",
+			"wenn"
 		],
 		"ākk,verb": [
 			"u.B."
@@ -163114,7 +163215,8 @@
 			"Widersprecher?"
 		],
 		"āmb,verb": [
-			"brennen; verbrennen"
+			"brennen",
+			"verbrennen"
 		],
 		"āmbi,noun": [
 			"u.B."
@@ -163193,20 +163295,24 @@
 			"weihräuchern"
 		],
 		"āšk,verb": [
-			"fragen?; zur Rede stellen"
+			"fragen?",
+			"zur Rede stellen"
 		],
 		"āšt+o+ḫḫē,noun": [
 			"weiblich"
 		],
 		"āšte,noun": [
-			"Frau; Ehefrau"
+			"Ehefrau",
+			"Frau"
 		],
 		"āšti,noun": [
-			"Ehefrau; Frau"
+			"Ehefrau",
+			"Frau"
 		],
 		"āšš,verb": [
-			"abwaschen?; waschen?",
-			"u.B."
+			"abwaschen?",
+			"u.B.",
+			"waschen?"
 		],
 		"āššani,noun": [
 			"u.B."
@@ -163221,8 +163327,9 @@
 			"u.B."
 		],
 		"āšḫ+ož+i+kk+o+nni,noun": [
+			"Ritualherr",
 			"Ritualherr(in)",
-			"Ritualherr; Ritualherrin"
+			"Ritualherrin"
 		],
 		"āšḫ+ō+m+ai+ni,noun": [
 			"opfernd"
@@ -163394,7 +163501,8 @@
 			"niedergedrückt?"
 		],
 		"ōll+uġ,verb": [
-			"abwischen; niederdrücken"
+			"abwischen",
+			"niederdrücken"
 		],
 		"ōlli,noun": [
 			"u.B."
@@ -163403,7 +163511,8 @@
 			"u.B."
 		],
 		"ōlmi,noun": [
-			"Sklavin; Dienerin",
+			"Dienerin",
+			"Sklavin",
 			"Waffe"
 		],
 		"ōmmini,noun": [
@@ -163520,7 +163629,7 @@
 		],
 		"Šimige,noun": [
 			"DN",
-			"DN; GN"
+			"GN"
 		],
 		"Šinut,noun": [
 			"GN"
@@ -163532,7 +163641,8 @@
 			"GN"
 		],
 		"ŠÈ,PREP": [
-			"nach; zu"
+			"nach",
+			"zu"
 		],
 		"ŠÚ,verb": [
 			"umwölken"
@@ -163604,10 +163714,12 @@
 			"u.B."
 		],
 		"šaphaldi,noun": [
-			"linke Seite; links"
+			"linke Seite",
+			"links"
 		],
 		"šapḫaldi,noun": [
-			"linke Seite; links"
+			"linke Seite",
+			"links"
 		],
 		"šar+i+ġe,noun": [
 			"u.B."
@@ -163701,7 +163813,8 @@
 			"Säge"
 		],
 		"šdori,noun": [
-			"Mädchen; junge Frau"
+			"Mädchen",
+			"junge Frau"
 		],
 		"šeb+ār+i,noun": [
 			"u.B."
@@ -163812,7 +163925,8 @@
 			"u.B."
 		],
 		"šeġl,verb": [
-			"rein sein; rein machen"
+			"rein machen",
+			"rein sein"
 		],
 		"šeġli,noun": [
 			"u.B."
@@ -163827,11 +163941,12 @@
 			"u.B."
 		],
 		"šeġr,verb": [
-			"angenehm sein; großzügig sein",
+			"angenehm sein",
 			"großzügig sein"
 		],
 		"šeġri,noun": [
-			"angenehm; großzügig",
+			"angenehm",
+			"großzügig",
 			"u.B."
 		],
 		"šeġur+n+i+nni,noun": [
@@ -163875,7 +163990,8 @@
 			"u.B."
 		],
 		"šia,noun": [
-			"Fluss; Wasser"
+			"Fluss",
+			"Wasser"
 		],
 		"šial,verb": [
 			"u.B."
@@ -163896,7 +164012,8 @@
 			"Fluch"
 		],
 		"šid+ō+ri,noun": [
-			"Mädchen; junge Frau"
+			"Mädchen",
+			"junge Frau"
 		],
 		"šid,verb": [
 			"verfluchen"
@@ -163905,8 +164022,8 @@
 			"u.B."
 		],
 		"šie,noun": [
-			"Fluss; Wasser",
-			"Wasser; Fluss"
+			"Fluss",
+			"Wasser"
 		],
 		"šiel,verb": [
 			"u.B."
@@ -163921,7 +164038,8 @@
 			"Schekel"
 		],
 		"šikki,noun": [
-			"Pflock?; Balken?"
+			"Balken?",
+			"Pflock?"
 		],
 		"šil+um+ō+tḫ,verb": [
 			"u.B."
@@ -163982,8 +164100,10 @@
 			"Auge"
 		],
 		"šini,ADV": [
-			"ferner; weiterhin; wiederum",
-			"wieder; weiterhin"
+			"ferner",
+			"weiterhin",
+			"wieder",
+			"wiederum"
 		],
 		"šinnaġi+ni,noun": [
 			"u.B."
@@ -163998,7 +164118,8 @@
 			"erzählen"
 		],
 		"šiē,noun": [
-			"Wasser; Fluss"
+			"Fluss",
+			"Wasser"
 		],
 		"šokk+a+ni,noun": [
 			"der eine"
@@ -164087,7 +164208,7 @@
 		],
 		"šummi,noun": [
 			"ganz",
-			"ganz; gänzlich"
+			"gänzlich"
 		],
 		"šumni+ški,noun": [
 			"Lehrling?"
@@ -164144,7 +164265,8 @@
 			"u.B."
 		],
 		"šuē,noun": [
-			"alle; ganz"
+			"alle",
+			"ganz"
 		],
 		"šuġ,verb": [
 			"erneuern?",
@@ -164334,7 +164456,8 @@
 			"unrein"
 		],
 		"šēġala,noun": [
-			"rein; Reinheit"
+			"Reinheit",
+			"rein"
 		],
 		"šēġā,noun": [
 			"Tor"
@@ -164371,8 +164494,8 @@
 			"u.B."
 		],
 		"šīa,noun": [
-			"Fluss; Wasser",
-			"Wasser; Fluss"
+			"Fluss",
+			"Wasser"
 		],
 		"šīadi,noun": [
 			"u.B."
@@ -164381,8 +164504,8 @@
 			"u.B."
 		],
 		"šīe,noun": [
-			"Fluss; Wasser",
-			"Wasser; Fluss"
+			"Fluss",
+			"Wasser"
 		],
 		"šīkki,noun": [
 			"u.B."
@@ -164409,7 +164532,9 @@
 			"u.B."
 		],
 		"šīni,ADV": [
-			"weiterhin; wieder; ferner"
+			"ferner",
+			"weiterhin",
+			"wieder"
 		],
 		"šīnunaġi,noun": [
 			"u.B."
@@ -164425,7 +164550,8 @@
 			"u.B."
 		],
 		"šīr,verb": [
-			"genügen; entsprechen",
+			"entsprechen",
+			"genügen",
 			"u.B."
 		],
 		"šīri,noun": [
@@ -164474,8 +164600,10 @@
 			"u.B."
 		],
 		"šōe,noun": [
-			"alle; ganz",
-			"alle?; ganz?",
+			"alle",
+			"alle?",
+			"ganz",
+			"ganz?",
 			"u.B."
 		],
 		"šōi,noun": [
@@ -164483,7 +164611,7 @@
 		],
 		"šōkko,NUM": [
 			"ein",
-			"eins; ein"
+			"eins"
 		],
 		"šōl,verb": [
 			"u.B."
@@ -164615,7 +164743,8 @@
 			"PN"
 		],
 		"ūl+me,noun": [
-			"Sklavin; Dienerin"
+			"Dienerin",
+			"Sklavin"
 		],
 		"ūmb+i+že,noun": [
 			"u.B."
@@ -164624,7 +164753,8 @@
 			"u.B."
 		],
 		"ūpš,verb": [
-			"mähen?; ernten?"
+			"ernten?",
+			"mähen?"
 		],
 		"ūrmi,noun": [
 			"Leber"
@@ -164929,13 +165059,16 @@
 			"Gold"
 		],
 		"ḫi+ar+o+ḫḫe,noun": [
-			"Gold; golden"
+			"Gold",
+			"golden"
 		],
 		"ḫiar+o+ni,noun": [
 			"sämtliche"
 		],
 		"ḫiar+o+ḫḫe,noun": [
-			"Gold; Goldenes; golden"
+			"Gold",
+			"Goldenes",
+			"golden"
 		],
 		"ḫib,noun": [
 			"u.B."
@@ -164977,7 +165110,8 @@
 			"gegürtet"
 		],
 		"ḫimz,verb": [
-			"binden; sich gürten"
+			"binden",
+			"sich gürten"
 		],
 		"ḫinnatte,noun": [
 			"jetziger"
@@ -165040,7 +165174,8 @@
 			"u.B."
 		],
 		"ḫo+i+šše,noun": [
-			"Ruf; Aufruf"
+			"Aufruf",
+			"Ruf"
 		],
 		"ḫom+ar+o+ġe,noun": [
 			"lapislazuli"
@@ -165163,8 +165298,9 @@
 			"gebären"
 		],
 		"ḫāni,noun": [
-			"Kind; Kleinkind; Säugling",
-			"Kind; Säugling"
+			"Kind",
+			"Kleinkind",
+			"Säugling"
 		],
 		"ḫār+a+ġe,noun": [
 			"u.B."
@@ -165319,7 +165455,9 @@
 			"u.B."
 		],
 		"ḫōd,verb": [
-			"beten; preisen; segnen"
+			"beten",
+			"preisen",
+			"segnen"
 		],
 		"ḫōde,noun": [
 			"u.B."
@@ -165377,8 +165515,9 @@
 			"u.B."
 		],
 		"ḫōmni,noun": [
-			"Asche; Feuerstelle; Staub",
-			"Asche; Staub",
+			"Asche",
+			"Feuerstelle",
+			"Staub",
 			"u.B."
 		],
 		"ḫōp,verb": [
