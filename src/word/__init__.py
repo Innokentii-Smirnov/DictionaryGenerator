@@ -25,6 +25,9 @@ def make_analysis(selection: Selection, morph: Morph, word_tag: str) -> str:
     else:
       return '{0}-{1}'.format(morph.translation, morph_tag)
 
+def enclose_with_xml_tag(string: str, tag: str) -> str:
+  return '<{0}>{1}</{0}>'.format(tag, string)
+
 @dataclass(frozen=True)
 class Word:
   tag: str
@@ -37,16 +40,17 @@ class Word:
   MRP = compile(r'mrp(\d+)')
 
   def to_corpus_word(self) -> CorpusWord:
+    transliteration = enclose_with_xml_tag(self.transliteration, 'w')
     if len(self.selections) > 0:
       selection = self.selections[0]
       if selection is not None and selection.lexeme in self.analyses:
         morph = self[selection.lexeme]
         analysis = make_analysis(selection, morph, self.tag)
-        return CorpusWord(self.transliteration, morph.segmentation, analysis)
+        return CorpusWord(transliteration, morph.segmentation, analysis)
       else:
         self.logger.error('Wrong number: %s', self.tag)
         analysis = ''
-    return CorpusWord(self.transliteration, '', '')
+    return CorpusWord(transliteration, '', '')
 
   @classmethod
   def make_word(cls, tag: Tag, default_lang: str) -> Word:
