@@ -46,7 +46,7 @@ def is_fragmentary(form: str) -> bool:
           or form.strip() == '')
 
 stem_split_pattern = compile('[-=]')
-def get_stem(word: str):
+def get_stem(word: str) -> str:
   return stem_split_pattern.split(word)[0]
 
 def sort_values(dic: defaultdict[str, set[str]]) -> dict[str, list[str]]:
@@ -63,11 +63,11 @@ def split_translation_into_words(translation: str) -> list[str]:
 
 class LexicalDatabase:
 
-  def __init__(self):
+  def __init__(self) -> None:
     self.dictionary = defaultdict[str, set[str]](set)
     self.glosses = defaultdict[str, set[str]](set)
     self.concordance = defaultdict[str, set[str]](set)
-    self.corpus = dict[str, dict[str, dict[str, str]]]()
+    self.corpus = dict[str, list[dict[str, str]]]()
     self.logger = getLogger(__name__)
 
   """Add the words occuring in a translation to the
@@ -82,7 +82,7 @@ class LexicalDatabase:
     for translation_word in split_translation_into_words(analysis.translation):
       values.add(translation_word)
 
-  def to_dict(self):
+  def to_dict(self) -> dict[str, dict[str, list[str]] | dict[str, list[dict[str, str]]]]:
     return {
       'dictionary': sort_values(self.dictionary),
       'glosses': sort_values(self.glosses),
@@ -90,7 +90,7 @@ class LexicalDatabase:
       'corpus': self.corpus
     }
 
-  def add(self, line: Line):
+  def add(self, line: Line) -> None:
     ctx_text_path.set(line.text_path)
     ctx_line_id.set(line.line_id.strip())
     ctx_text_id.set(line.text_id)

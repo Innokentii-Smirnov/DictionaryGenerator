@@ -11,7 +11,7 @@ class Selection:
         return self.lexeme, self.gramm_form, self.encl_chain
 
     @classmethod
-    def from_strings(cls, lexeme: str, gramm_form: str, encl_chain: str):
+    def from_strings(cls, lexeme: str, gramm_form: str, encl_chain: str) -> Selection:
         return cls(int(lexeme), gramm_form, encl_chain)
 
     def __init__(self, lexeme: int, gramm_form: str, encl_chain: str):
@@ -35,7 +35,7 @@ class Selection:
             cls.logger.error('Cannot parse selection: %s.', selection)
             return None
     
-    def __str__(self):
+    def __str__(self) -> str:
         string = str(self.lexeme)
         if self.gramm_form is not None:
             string += self.gramm_form

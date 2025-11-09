@@ -11,7 +11,7 @@ from .corpus_word import make_corpus_word
 
 ERROR_SYMBOL = 'ERROR'
 
-def join(sep, translation, grammatical_info):
+def join(sep: str, translation: str, grammatical_info: str) -> str:
   return sep.join(filter(lambda x: x != '', (translation, grammatical_info)))
 
 def make_analysis(selection: Selection, morph: Morph, word_tag: str) -> str:

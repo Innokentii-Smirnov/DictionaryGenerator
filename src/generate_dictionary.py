@@ -30,7 +30,7 @@ def log_error(message: str) -> None:
     print(message, file=error_log)
 
 def log_handled_error(fullname: str) -> Callable[[str], None]:
-  def inner(message: str):
+  def inner(message: str) -> None:
     with open(MAIN_LOG, 'a', encoding='utf-8') as main_log:
       print(fullname, file=main_log)
       print(message, file=main_log)
@@ -54,7 +54,7 @@ if not path.exists(input_directory):
     print('Input directory not found: ' + input_directory)
     exit()
 
-def to_be_procecced(triple: tuple) -> bool:
+def to_be_procecced(triple: tuple[str, list[str], list[str]]) -> bool:
   dirpath, dirnames, filenames = triple
   _, folder = path.split(dirpath)
   return folder != 'Backup' and 'Annotation' in dirpath
