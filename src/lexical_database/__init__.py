@@ -99,10 +99,10 @@ class LexicalDatabase:
                       self.concordance[analysis_str].add(attestation)
                   else:
                     self.logger.error('The selected morphological analysis number %i is not available for word %s.', number, word.tag)
-              corpus_line.append(word.to_corpus_word())
+            corpus_line.append(word.to_corpus_word())
           except (KeyError, ValueError):
             msg = 'Cannot parse word:\n{0}\non line {1} in {2}'.format(
-              str(word_tag), line.line_id, line.text_path
+              str(tag), line.line_id, line.text_path
             )
             self.logger.exception(msg)
         else:
