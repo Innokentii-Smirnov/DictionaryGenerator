@@ -100,7 +100,7 @@ with open(PROCESSED_FILES_LOG, 'w', encoding='utf-8') as modified_files:
                 log_error(fullname)
                 log_error(traceback.format_exc())
 with open(OUTFILE, 'w', encoding='utf-8') as fout:
-  dump(lexdb.to_dict(), fout, default=vars, ensure_ascii=False, indent='\t', sort_keys=True)
+  dump(lexdb.to_dict(), fout, ensure_ascii=False, indent='\t', sort_keys=True)
 
 
 

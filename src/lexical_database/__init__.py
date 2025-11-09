@@ -1,13 +1,13 @@
 from collections import defaultdict
 from line import Line
 from word import Word
+from word.corpus_word import make_corpus_word
 from morph import MultiMorph
 from re import compile
 from os import makedirs
 from os.path import join
 from logging import getLogger, FileHandler, DEBUG, Formatter, LogRecord
 from contextvars import ContextVar
-from .corpus_word import CorpusWord
 
 ctx_text_path = ContextVar('text_path')
 ctx_text_path.set('Unknown directory')
@@ -58,7 +58,7 @@ class LexicalDatabase:
     self.dictionary = defaultdict[str, set[str]](set)
     self.glosses = defaultdict[str, set[str]](set)
     self.concordance = defaultdict[str, set[str]](set)
-    self.corpus = dict[str, dict[str, CorpusWord]]()
+    self.corpus = dict[str, dict[str, dict[str, str]]]()
     self.logger = getLogger(__name__)
 
   def to_dict(self):
@@ -106,6 +106,6 @@ class LexicalDatabase:
             )
             self.logger.exception(msg)
         else:
-          corpus_line.append(CorpusWord(str(tag), '', ''))
+          corpus_line.append(make_corpus_word(str(tag)))
       if (len(corpus_line) > 0):
         self.corpus[attestation] = corpus_line

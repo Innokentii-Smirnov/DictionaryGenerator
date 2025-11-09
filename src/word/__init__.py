@@ -7,7 +7,7 @@ from bs4 import Tag
 from os.path import exists
 from os import remove
 from logging import getLogger
-from lexical_database.corpus_word import CorpusWord
+from .corpus_word import make_corpus_word
 
 ERROR_SYMBOL = 'ERROR'
 
@@ -49,11 +49,11 @@ class Word:
       if selection is not None and selection.lexeme in self.analyses:
         morph = self[selection.lexeme]
         analysis = make_analysis(selection, morph, self.tag)
-        return CorpusWord(transliteration, morph.segmentation, analysis)
+        return make_corpus_word(transliteration, morph.segmentation, analysis)
       else:
         self.logger.error('Wrong number: %s', self.tag)
         analysis = ''
-    return CorpusWord(transliteration, '', '')
+    return make_corpus_word(transliteration)
 
   @classmethod
   def make_word(cls, tag: Tag, default_lang: str) -> Word:
