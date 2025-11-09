@@ -13,7 +13,7 @@ from lexical_database import LexicalDatabase
 from typing import Callable
 from line import Line
 from itertools import filterfalse
-from bs4 import Tag, NavigableString
+from bs4 import Tag, NavigableString, PageElement
 
 PROCESSED_FILES_LOG = 'processed_files.log'
 SKIPPED_FILES_LOG = 'skipped_files.log'
@@ -59,9 +59,6 @@ def to_be_procecced(triple: tuple) -> bool:
   _, folder = path.split(dirpath)
   return folder != 'Backup' and 'Annotation' in dirpath
 
-def is_tag(element: Tag | NavigableString) -> bool:
-  return isinstance(element, Tag)
-
 def is_ao_manuscripts(tag: Tag) -> bool:
   return tag.prefix == 'AO' and tag.name == 'Manuscripts'
 
@@ -86,8 +83,15 @@ with open(PROCESSED_FILES_LOG, 'w', encoding='utf-8') as modified_files:
                 with open(infile, 'r', encoding='utf-8') as fin:
                     file_text = fin.read()
                 soup = BeautifulSoup(file_text, 'xml')
-                tokens = soup.body.find('text').children
-                tokens = list(filter(is_tag, tokens))
+                body_tag = soup.body
+                assert body_tag is not None, 'The XML tag "body" could not be found.'
+                text_tag = body_tag.find('text')
+                assert text_tag is not None, 'The XML tag "text" could not be found.'
+                assert isinstance(text_tag, Tag), 'A string was provided instead of the XML tag "text".'
+                tokens = list[Tag]()
+                for page_element in text_tag.children:
+                  if isinstance(page_element, Tag):
+                    tokens.append(page_element)
                 if is_ao_manuscripts(tokens[0]):
                   tokens = tokens[1:]
                 for line_elements in split_before(tokens,

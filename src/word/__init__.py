@@ -36,13 +36,13 @@ class Word:
   tag: str
   transliteration: str
   lang: str
-  transcription: str
-  selections: list[Selection]
+  transcription: str | None
+  selections: list[Selection | None]
   analyses: dict[int, str]
   logger = getLogger(__name__)
   MRP = compile(r'mrp(\d+)')
 
-  def to_corpus_word(self) -> CorpusWord:
+  def to_corpus_word(self) -> dict[str, str]:
     transliteration = enclose_with_xml_tag(self.transliteration, 'w')
     if len(self.selections) > 0:
       selection = self.selections[0]
@@ -62,15 +62,18 @@ class Word:
     lang = tag.attrs.get('lg', default_lang)
     if 'trans' in tag.attrs:
       transcription = tag['trans']
+      assert isinstance(transcription, str)
     else:
       cls.logger.error('A word has no transcription attribute: %s.', tag)
       transcription = None
     if 'mrp0sel' in tag.attrs:
-      selections = list(map(Selection.parse_string, tag['mrp0sel'].split()))
+      mrp0sel = tag['mrp0sel']
+      assert isinstance(mrp0sel, str)
+      selections = list(map(Selection.parse_string, mrp0sel.split()))
     else:
       cls.logger.error('A word has no selection attribute: %s.', tag)
       selections = []
-    analyses = dict[int, Morph]()
+    analyses = dict[int, str]()
     for attr, value in tag.attrs.items():
       if (match := cls.MRP.fullmatch(attr)) is not None:
         number = int(match.group(1))

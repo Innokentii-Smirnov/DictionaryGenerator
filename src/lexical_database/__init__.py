@@ -9,16 +9,16 @@ from os.path import join
 from logging import getLogger, FileHandler, DEBUG, Formatter, LogRecord
 from contextvars import ContextVar
 
-ctx_text_path = ContextVar('text_path')
+ctx_text_path: ContextVar[str] = ContextVar('text_path')
 ctx_text_path.set('Unknown directory')
 
-ctx_text_id = ContextVar('text_id')
+ctx_text_id: ContextVar[str] = ContextVar('text_id')
 ctx_text_id.set('Unknown directory')
 
-ctx_line_id = ContextVar('line_id')
+ctx_line_id: ContextVar[str] = ContextVar('line_id')
 ctx_line_id.set('Unknown line')
 
-ctx_word_tag = ContextVar('word_tag')
+ctx_word_tag: ContextVar[str] = ContextVar('word_tag')
 ctx_word_tag.set('Unknown word')
 
 def log_filter(record: LogRecord) -> LogRecord:
@@ -98,7 +98,7 @@ class LexicalDatabase:
       attestation = '{0},{1}'.format(line.text_id, line.line_id)
       corpus_line = list[dict[str, str]]()
       for tag in line:
-        ctx_word_tag.set(tag)
+        ctx_word_tag.set(str(tag))
         if tag.name == 'w':
           try:
             word = Word.make_word(tag, line.language)

@@ -1,6 +1,6 @@
 from __future__ import annotations
 from dataclasses import dataclass
-from typing import Iterable
+from collections.abc import Iterator
 from bs4 import Tag
 from logging import getLogger
 from os.path import join
@@ -16,7 +16,7 @@ class Line:
   UNKNOWN_LINE_ID = 'unknown'
   UNKNOWN_LANGUAGE = 'unknown'
 
-  def __iter__(self) -> Iterable[Tag]:
+  def __iter__(self) -> Iterator[Tag]:
     return self.word_elements.__iter__()
 
   def __len__(self) -> int:
@@ -28,6 +28,7 @@ class Line:
     if (lb := elements[0]).name == 'lb':
       if 'lnr' in lb.attrs:
         line_id = lb['lnr']
+        assert isinstance(line_id, str)
       else:
         cls.logger.error('A line in %s is not numbered.', full_path)
         line_id = cls.UNKNOWN_LINE_ID
