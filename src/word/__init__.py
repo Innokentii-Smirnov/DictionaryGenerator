@@ -11,6 +11,9 @@ from lexical_database.corpus_word import CorpusWord
 
 ERROR_SYMBOL = 'ERROR'
 
+def join(sep, translation, grammatical_info):
+  return sep.join(filter(lambda x: x != '', (translation, grammatical_info)))
+
 def make_analysis(selection: Selection, morph: Morph, word_tag: str) -> str:
     if selection.gramm_form is None:
         morph_tag = morph.single_morph_tag
@@ -19,11 +22,11 @@ def make_analysis(selection: Selection, morph: Morph, word_tag: str) -> str:
     if morph_tag is None:
       morph_tag = ERROR_SYMBOL
     if morph_tag == '':
-      return '{0}.{1}'.format(morph.translation, morph.pos)
+      return join('.', morph.translation, morph.pos)
     elif morph_tag.startswith('.') or morph_tag.startswith('='):
       return '{0}{1}'.format(morph.translation, morph_tag)
     else:
-      return '{0}-{1}'.format(morph.translation, morph_tag)
+      return join('-', morph.translation, morph_tag)
 
 def enclose_with_xml_tag(string: str, tag: str) -> str:
   return '<{0}>{1}</{0}>'.format(tag, string)
