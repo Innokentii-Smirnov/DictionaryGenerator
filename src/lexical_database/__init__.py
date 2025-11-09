@@ -117,7 +117,7 @@ class LexicalDatabase:
                       self.update_glosses(analysis)
                       self.concordance[analysis_str].add(attestation)
                   else:
-                    self.logger.error('The selected morphological analysis number %i is not available for word %s.', number, word.tag)
+                    self.logger.error('The selected morphological analysis number %i is not available.', number)
             corpus_line.append(word.to_corpus_word())
           except (KeyError, ValueError):
             msg = 'Cannot parse word:\n{0}\non line {1} in {2}'.format(

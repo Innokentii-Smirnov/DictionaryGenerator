@@ -14,7 +14,7 @@ ERROR_SYMBOL = 'ERROR'
 def join(sep: str, translation: str, grammatical_info: str) -> str:
   return sep.join(filter(lambda x: x != '', (translation, grammatical_info)))
 
-def make_analysis(selection: Selection, morph: Morph, word_tag: str) -> str:
+def make_analysis(selection: Selection, morph: Morph) -> str:
     if selection.gramm_form is None:
         morph_tag = morph.single_morph_tag
     else:
@@ -33,7 +33,6 @@ def enclose_with_xml_tag(string: str, tag: str) -> str:
 
 @dataclass(frozen=True)
 class Word:
-  tag: str
   transliteration: str
   lang: str
   transcription: str | None
@@ -46,13 +45,18 @@ class Word:
     transliteration = enclose_with_xml_tag(self.transliteration, 'w')
     if len(self.selections) > 0:
       selection = self.selections[0]
-      if selection is not None and selection.lexeme in self.analyses:
-        morph = self[selection.lexeme]
-        analysis = make_analysis(selection, morph, self.tag)
-        return make_corpus_word(transliteration, morph.segmentation, analysis)
+      if selection is not None:
+        if selection.lexeme in self.analyses:
+          morph = self[selection.lexeme]
+          analysis = make_analysis(selection, morph)
+          return make_corpus_word(transliteration, morph.segmentation, analysis)
+        else:
+          self.logger.error('The selected morphological analysis number %i is not available.',
+                            selection.lexeme)
+          analysis = ''
       else:
-        self.logger.error('Wrong number: %s', self.tag)
-        analysis = ''
+          self.logger.error('No morphological analysis is selected.')
+          analysis = ''
     return make_corpus_word(transliteration)
 
   @classmethod
@@ -78,7 +82,7 @@ class Word:
       if (match := cls.MRP.fullmatch(attr)) is not None:
         number = int(match.group(1))
         analyses[number] = value
-    return Word(str(tag), transliteration, lang, transcription, selections, analyses)
+    return Word(transliteration, lang, transcription, selections, analyses)
 
   def __getitem__(self, number: int) -> Morph:
     return parseMorph(self.analyses[number])
