@@ -1,4 +1,4 @@
 {
   "inputDirectory": "/usr/data/input",
-  "outfile": "/usr/data/output/Dictionary.json"
+  "outputDirectory": "/usr/data/output"
 }
