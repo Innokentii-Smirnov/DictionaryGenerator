@@ -53,6 +53,10 @@ input_directory = config['inputDirectory']
 if not path.exists(input_directory):
     print('Input directory not found: ' + input_directory)
     exit()
+if 'outfile' in config:
+  outfile = config['outfile']
+else:
+  outfile = OUTFILE
 
 def to_be_procecced(triple: tuple[str, list[str], list[str]]) -> bool:
   dirpath, dirnames, filenames = triple
@@ -104,7 +108,7 @@ with open(PROCESSED_FILES_LOG, 'w', encoding='utf-8') as modified_files:
                 log_file_skipping(fullname)
                 log_error(fullname)
                 log_error(traceback.format_exc())
-with open(OUTFILE, 'w', encoding='utf-8') as fout:
+with open(outfile, 'w', encoding='utf-8') as fout:
   dump(lexdb.to_dict(), fout, ensure_ascii=False, indent='\t', sort_keys=True)
 
 
