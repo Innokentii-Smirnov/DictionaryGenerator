@@ -22,7 +22,7 @@ def make_analysis(selection: Selection, morph: Morph, word_tag: str) -> str:
     if morph_tag is None:
       morph_tag = ERROR_SYMBOL
     if morph_tag == '':
-      return join('.', morph.translation, morph.pos)
+      return morph.translation
     elif morph_tag.startswith('.') or morph_tag.startswith('='):
       return '{0}{1}'.format(morph.translation, morph_tag)
     else:
