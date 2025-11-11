@@ -10,13 +10,6 @@ to the corpus files from which the dictionary will be constructed.
 The configuration file of the CorpusEditor program can be used as well.
 Remember that backslashes should be escaped (prefixed with another backslash) in JSON.
 
-# Input and output files
-If the output directory contains files whose names are the same as the
-names of some files in the input directory, the files in the output directory
-will be used as input, since they are assumed to be the up-to-date version.
-The input files with such names are ignored.
-Here, the names including subdirectories are meant.
-
 # Usage
 Run the script "DictionaryGenerator.bat" to run the application.
 The output file "Dictionary.json" will be located in the directory
