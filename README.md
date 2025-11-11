@@ -17,11 +17,12 @@ directory from which you ran it.
 First, install the Python interpreter.
 Do not forget to tick "Add Python to PATH" in the installer!
 https://www.python.org/downloads/
+
 Run the script "install.bat" to install the required Python libraries
 which are specified in the file "requirements.txt".
 
 # Configuring
-The configuration file should be called "config.json" and stored in the working directory.
+The configuration file should be called "config.json" and located in the working directory.
 It should contain a JSON object with a field "inputDirectory" pointing
 to the corpus files from which the dictionary will be constructed.
 The configuration file of the CorpusEditor program can be used as well.
