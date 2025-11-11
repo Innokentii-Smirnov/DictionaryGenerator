@@ -10,7 +10,8 @@ WORKDIR /usr/src/app
 COPY requirements.txt ./
 RUN pip install --no-cache-dir -r requirements.txt
 
-COPY docker_config.json ./config.json
 COPY src/ ./
 
-CMD [ "python", "./generate_dictionary.py" ]
+WORKDIR /usr/data/output
+
+CMD [ "python", "/usr/src/app/generate_dictionary.py" ]
