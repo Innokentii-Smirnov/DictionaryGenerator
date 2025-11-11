@@ -1,12 +1,22 @@
 # A note on running command-line scripts
 .bat scripts are sequences of command line commands.
-They can usually be executed by clicking on the .bat file in the file explorer.
-In this case, the working directory is the directory where the .bat file is located.
+On Windows, they can usually be executed by clicking on the .bat file in the file explorer.
 If clicking does not work, start the command line,
 navigate to the containing directory of the .bat file
-and type the name of the file (e. g. install.bat), then click "Enter".
+and type the name of the file (e. g. "install.bat"), then click "Enter".
+It is also possible to type the full name (with the directory) of
+the .bat file instead of navigating to its directory.
+
+# Working directory
+If the .bat file has been started by clicking on it, the working directory is the directory
+where the .bat file is located, i. e. the topmost directory of the DictionaryGenerator.
+If the .bat file has been executed on the command line, the working directory is the
+directory from which you ran it.
 
 # Installation
+First, install the Python interpreter.
+Do not forget to tick "Add Python to PATH" in the installer!
+https://www.python.org/downloads/
 Run the script "install.bat" to install the required Python libraries
 which are specified in the file "requirements.txt".
 
