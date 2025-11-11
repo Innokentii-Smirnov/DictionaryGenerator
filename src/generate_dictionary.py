@@ -78,7 +78,7 @@ with open(PROCESSED_FILES_LOG, 'w', encoding='utf-8') as modified_files:
                 text_tag = body_tag.find('text')
                 assert text_tag is not None, 'The XML tag "text" could not be found.'
                 assert isinstance(text_tag, Tag), 'A string was provided instead of the XML tag "text".'
-                if 'xml:lang' in text_tag.attrs:
+                if 'xml:lang' in text_tag.attrs and text_tag['xml:lang'] != 'XXXlang':
                   text_lang = text_tag['xml:lang']
                   logger.info('The text language is set to %s for %s', text_lang, rel_name)
                 else:
