@@ -40,7 +40,7 @@ If no "Dictionary.json" has appeared in the directory after the program
 has been executed, this is likely to mean an unexpected error has occurred.
 
 # Logging
-The program will create a directory "logs" in its topmost directory.
+The program will create a directory "logs" in the working directory.
 It will document inconsistencies in the XML files which sometimes
 need to be corrected manually (if marked as ERROR - not as WARNING or INFO).
 Correcting them involves editing XML manually and is not required to run
