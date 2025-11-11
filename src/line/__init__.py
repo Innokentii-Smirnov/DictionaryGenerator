@@ -23,7 +23,7 @@ class Line:
     return self.word_elements.__len__()
 
   @classmethod
-  def parse_line(cls, text_path: str, text_id: str, elements: list[Tag]) -> Line:
+  def parse_line(cls, text_path: str, text_id: str, elements: list[Tag], text_lang: str) -> Line:
     full_path = join(text_path, text_id)
     if (lb := elements[0]).name == 'lb':
       if 'lnr' in lb.attrs:
@@ -36,7 +36,7 @@ class Line:
         language = lb.attrs['lg']
       else:
         cls.logger.error('Line %s in %s is not marked for language.', line_id, full_path)
-        language = cls.UNKNOWN_LANGUAGE
+        language = text_lang
       word_elements = elements[1:]
     else:
       match lb.name:
