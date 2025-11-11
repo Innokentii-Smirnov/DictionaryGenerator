@@ -1,6 +1,7 @@
 # A note on running command-line scripts
 .bat scripts are sequences of command line commands.
 On Windows, they can usually be executed by clicking on the .bat file in the file explorer.
+
 If clicking does not work, start the command line,
 navigate to the containing directory of the .bat file
 and type the name of the file (e. g. "install.bat"), then click "Enter".
@@ -10,6 +11,7 @@ the .bat file instead of navigating to its directory.
 # Working directory
 If the .bat file has been started by clicking on it, the working directory is the directory
 where the .bat file is located, i. e. the topmost directory of the DictionaryGenerator.
+
 If the .bat file has been executed on the command line, the working directory is the
 directory from which you ran it.
 
