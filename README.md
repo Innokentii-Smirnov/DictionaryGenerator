@@ -52,5 +52,7 @@ the morphological tag of the problematic word
 will be ingored and the following words in the text
 will be processed in the normal way.
 
-Two logs, "processed_files.log" and "skipped_files.log", will be placed in the working directory. The latter lists the files which could not have been processed due to errors
-and will not be created if all files were processed successfully.
+Two logs, "processed_files.log" and "skipped_files.log", will be placed in the working directory. The latter lists the files which could not have been processed due to
+more serious, unexpected errors (perhaps in the program itself and not in the XML files)
+and will not be created if all files were processed successfully,
+which should the normal case.
