@@ -14,37 +14,22 @@ from line import Line
 from itertools import filterfalse
 from bs4 import Tag, NavigableString, PageElement
 from lexical_database import LexicalDatabase
+from logging import getLogger
+logger = getLogger(__name__)
 
 PROCESSED_FILES_LOG = 'processed_files.log'
 SKIPPED_FILES_LOG = 'skipped_files.log'
-MAIN_LOG = 'main.log'
-ERROR_LOG = 'error.log'
 OUTFILE = 'Dictionary.json'
 
 def log_file_skipping(fullname: str) -> None:
   with open(SKIPPED_FILES_LOG, 'a', encoding='utf-8') as skipped_files:
     print(fullname, file=skipped_files)
 
-def log_error(message: str) -> None:
-  with open(ERROR_LOG, 'a', encoding='utf-8') as error_log:
-    print(message, file=error_log)
-
-def log_handled_error(fullname: str) -> Callable[[str], None]:
-  def inner(message: str) -> None:
-    with open(MAIN_LOG, 'a', encoding='utf-8') as main_log:
-      print(fullname, file=main_log)
-      print(message, file=main_log)
-  return inner
+if exists(PROCESSED_FILES_LOG):
+  remove(PROCESSED_FILES_LOG)
 
 if exists(SKIPPED_FILES_LOG):
   remove(SKIPPED_FILES_LOG)
-
-if exists(ERROR_LOG):
-  remove(ERROR_LOG)
-
-if exists(MAIN_LOG):
-  remove(MAIN_LOG)
-
 
 if exists(OUTFILE):
   remove(OUTFILE)
@@ -106,11 +91,10 @@ with open(PROCESSED_FILES_LOG, 'w', encoding='utf-8') as modified_files:
                   lexdb.add(line)
               except (KeyError, ValueError) as exc:
                 log_file_skipping(fullname)
-                log_error(fullname)
-                log_error(traceback.format_exc())
+                logger.exception('The file %s could not be proccessed because of the following exception:', fullname)
 with open(OUTFILE, 'w', encoding='utf-8') as fout:
   dump(lexdb.to_dict(), fout, ensure_ascii=False, indent='\t', sort_keys=True)
-
+logger.info('The run was completed successfully.')
 
 
 
