@@ -13,6 +13,7 @@ from typing import Callable
 from line import Line
 from itertools import filterfalse
 from bs4 import Tag, NavigableString, PageElement
+from lexical_database import LexicalDatabase
 
 PROCESSED_FILES_LOG = 'processed_files.log'
 SKIPPED_FILES_LOG = 'skipped_files.log'
@@ -52,13 +53,6 @@ input_directory = config['inputDirectory']
 if not path.exists(input_directory):
     print('Input directory not found: ' + input_directory)
     exit()
-if 'outputDirectory' in config:
-  output_directory = config['outputDirectory']
-  if path.exists(output_directory):
-    chdir(output_directory)
-  else:
-    print('Output directory not found: ' + output_directory)
-    exit()
 
 def to_be_procecced(triple: tuple[str, list[str], list[str]]) -> bool:
   dirpath, dirnames, filenames = triple
@@ -71,7 +65,6 @@ def is_ao_manuscripts(tag: Tag) -> bool:
 walk = list(filter(to_be_procecced, os.walk(input_directory)))
 progress_bar = tqdm(walk)
 
-from lexical_database import LexicalDatabase
 lexdb = LexicalDatabase()
 
 with open(PROCESSED_FILES_LOG, 'w', encoding='utf-8') as modified_files:
