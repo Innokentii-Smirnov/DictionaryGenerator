@@ -80,6 +80,7 @@ with open(PROCESSED_FILES_LOG, 'w', encoding='utf-8') as modified_files:
                 assert isinstance(text_tag, Tag), 'A string was provided instead of the XML tag "text".'
                 if 'xml:lang' in text_tag.attrs and text_tag['xml:lang'] != 'XXXlang':
                   text_lang = text_tag['xml:lang']
+                  assert isinstance(text_lang, str)
                   logger.info('The text language is set to %s for %s', text_lang, rel_name)
                 else:
                   text_lang = 'Hit'
