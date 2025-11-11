@@ -40,14 +40,17 @@ If no "Dictionary.json" has appeared in the directory after the program
 has been executed, this is likely to mean an unexpected error has occurred.
 
 # Logging
-The program will create a directory "logs" in the working directory.
-It will document issues in the XML files which sometimes
-need to be corrected manually (if marked as ERROR - not as WARNING or INFO).
-Correcting them involves editing XML manually and is not required to run
-the program successfully.
-
-The log "\_\_main\_\_.log" will have an appropriate message if
-the run was successfully completed.
+The program will create a subdirectory "logs" in the working directory.
+The logs document the processing of the XML files
+with informational messages (INFO) and
+specify issues detected in the XML files which sometimes
+need to be corrected manually (if marked as ERROR, not just as WARNING).
+Correcting them involves editing XML manually and
+is only recommended for experiences users.
+It is not required to run the program successfully;
+the morphological tag of the problematic word
+will be ingored and the following words in the text
+will be processed in the normal way.
 
 Two logs, "processed_files.log" and "skipped_files.log", will be placed in the working directory. The latter lists the files which could not have been processed due to errors
 and will not be created if all files were processed successfully.
