@@ -45,6 +45,10 @@ if exists(ERROR_LOG):
 if exists(MAIN_LOG):
   remove(MAIN_LOG)
 
+
+if exists(OUTFILE):
+  remove(OUTFILE)
+
 with open('config.json', 'r', encoding='utf-8') as fin:
     config = json.load(fin)
 for key, value in config.items():
