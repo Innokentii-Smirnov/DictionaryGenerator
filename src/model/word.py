@@ -7,6 +7,7 @@ from bs4 import Tag
 from os.path import exists
 from os import remove
 from logging import getLogger
+logger = getLogger(__name__)
 
 @dataclass(frozen=True)
 class Word:
@@ -15,7 +16,6 @@ class Word:
   transcription: str | None
   selections: list[Selection | None]
   analyses: dict[int, str]
-  logger = getLogger(__name__)
   MRP = compile(r'mrp(\d+)')
 
   @classmethod
@@ -27,14 +27,14 @@ class Word:
       transcription = tag['trans']
       assert isinstance(transcription, str)
     else:
-      cls.logger.warning('A word has no transcription attribute: %s.', tag)
+      logger.warning('A word has no transcription attribute: %s.', tag)
       transcription = None
     if 'mrp0sel' in tag.attrs:
       mrp0sel = tag['mrp0sel']
       assert isinstance(mrp0sel, str)
       selections = list(map(Selection.parse, mrp0sel.split()))
     else:
-      cls.logger.warning('A word has no selection attribute: %s.', tag)
+      logger.warning('A word has no selection attribute: %s.', tag)
       selections = []
     analyses = dict[int, str]()
     for attr, value in tag.attrs.items():
