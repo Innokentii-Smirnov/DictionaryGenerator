@@ -1,13 +1,13 @@
 from __future__ import annotations
 from dataclasses import dataclass
-from selection import Selection
+from .selection import Selection
 from morph import Morph, parseMorph, SingleMorph, MultiMorph
 from re import compile
 from bs4 import Tag
 from os.path import exists
 from os import remove
 from logging import getLogger
-from .corpus_word import make_corpus_word
+from lexical_database.corpus_word import make_corpus_word
 
 ERROR_SYMBOL = 'ERROR'
 

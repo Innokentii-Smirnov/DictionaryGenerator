@@ -10,7 +10,7 @@ from os.path import exists
 from os import remove, chdir
 from json import dump
 from typing import Callable
-from line import Line
+from model.line import Line
 from itertools import filterfalse
 from bs4 import Tag, NavigableString, PageElement
 from lexical_database import LexicalDatabase
