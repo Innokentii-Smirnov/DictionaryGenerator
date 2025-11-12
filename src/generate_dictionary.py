@@ -96,7 +96,7 @@ with open(PROCESSED_FILES_LOG, 'w', encoding='utf-8') as modified_files:
                   print('\t{0} ({1})'.format(line.line_id, len(line.word_elements)),
                         file=modified_files)
                   lexdb.add(line)
-              except (KeyError, ValueError) as exc:
+              except (KeyError, ValueError, AssertionError) as exc:
                 log_file_skipping(fullname)
                 logger.exception('The file %s could not be proccessed because of the following exception:', fullname)
 with open(OUTFILE, 'w', encoding='utf-8') as fout:
