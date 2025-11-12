@@ -92,7 +92,7 @@ with open(PROCESSED_FILES_LOG, 'w', encoding='utf-8') as modified_files:
                   tokens = tokens[1:]
                 for line_elements in split_before(tokens,
                                                   lambda tag: tag.name == 'lb'):
-                  line = Line.parse_line(rel_path, text_id, line_elements, text_lang)
+                  line = Line.parse(rel_path, text_id, line_elements, text_lang)
                   print('\t{0} ({1})'.format(line.line_id, len(line.word_elements)),
                         file=modified_files)
                   lexdb.add(line)

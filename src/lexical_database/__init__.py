@@ -102,7 +102,7 @@ class LexicalDatabase:
         ctx_word_tag.set(str(tag))
         if tag.name == 'w':
           try:
-            word = Word.make_word(tag, line.language)
+            word = Word.parse(tag, line.language)
             if word.lang == 'Hur' and word.transcription is not None:
               for selection in word.selections:
                 if selection is not None:

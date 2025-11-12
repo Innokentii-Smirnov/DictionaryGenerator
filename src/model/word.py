@@ -19,7 +19,7 @@ class Word:
   MRP = compile(r'mrp(\d+)')
 
   @classmethod
-  def make_word(cls, tag: Tag, default_lang: str) -> Word:
+  def parse(cls, tag: Tag, default_lang: str) -> Word:
     assert tag.name == 'w'
     transliteration = tag.decode_contents()
     lang = tag.attrs.get('lg', default_lang)
@@ -32,7 +32,7 @@ class Word:
     if 'mrp0sel' in tag.attrs:
       mrp0sel = tag['mrp0sel']
       assert isinstance(mrp0sel, str)
-      selections = list(map(Selection.parse_string, mrp0sel.split()))
+      selections = list(map(Selection.parse, mrp0sel.split()))
     else:
       cls.logger.warning('A word has no selection attribute: %s.', tag)
       selections = []

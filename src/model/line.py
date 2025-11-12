@@ -23,7 +23,7 @@ class Line:
     return self.word_elements.__len__()
 
   @classmethod
-  def parse_line(cls, text_path: str, text_id: str, elements: list[Tag], text_lang: str) -> Line:
+  def parse(cls, text_path: str, text_id: str, elements: list[Tag], text_lang: str) -> Line:
     full_path = join(text_path, text_id)
     if (lb := elements[0]).name == 'lb':
       if 'lnr' in lb.attrs:

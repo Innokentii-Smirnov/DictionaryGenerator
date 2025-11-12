@@ -20,7 +20,7 @@ class Selection:
         self.encl_chain = encl_chain
 
     @classmethod
-    def parse_string(cls, selection: str) -> Selection | None:
+    def parse(cls, selection: str) -> Selection | None:
         matched = cls.selection_pattern.fullmatch(selection)
         if selection == 'DEL' or selection == 'HURR':
           cls.logger.info('Uninformative selection: %s.', selection)
