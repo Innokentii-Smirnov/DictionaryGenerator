@@ -7,29 +7,6 @@ from bs4 import Tag
 from os.path import exists
 from os import remove
 from logging import getLogger
-from lexical_database.corpus_word import make_corpus_word
-
-ERROR_SYMBOL = 'ERROR'
-
-def join(sep: str, translation: str, grammatical_info: str) -> str:
-  return sep.join(filter(lambda x: x != '', (translation, grammatical_info)))
-
-def make_analysis(selection: Selection, morph: Morph) -> str:
-    if selection.gramm_form is None:
-        morph_tag = morph.single_morph_tag
-    else:
-        morph_tag = morph[selection.gramm_form]
-    if morph_tag is None:
-      morph_tag = ERROR_SYMBOL
-    if morph_tag == '':
-      return morph.translation
-    elif morph_tag.startswith('.') or morph_tag.startswith('='):
-      return '{0}{1}'.format(morph.translation, morph_tag)
-    else:
-      return join('-', morph.translation, morph_tag)
-
-def enclose_with_xml_tag(string: str, tag: str) -> str:
-  return '<{0}>{1}</{0}>'.format(tag, string)
 
 @dataclass(frozen=True)
 class Word:
@@ -40,24 +17,6 @@ class Word:
   analyses: dict[int, str]
   logger = getLogger(__name__)
   MRP = compile(r'mrp(\d+)')
-
-  def to_corpus_word(self) -> dict[str, str]:
-    transliteration = enclose_with_xml_tag(self.transliteration, 'w')
-    if len(self.selections) > 0:
-      selection = self.selections[0]
-      if selection is not None:
-        if selection.lexeme in self.analyses:
-          morph = self[selection.lexeme]
-          analysis = make_analysis(selection, morph)
-          return make_corpus_word(transliteration, morph.segmentation, analysis)
-        else:
-          self.logger.error('The selected morphological analysis number %i is not available.',
-                            selection.lexeme)
-          analysis = ''
-      else:
-          self.logger.warning('No morphological analysis is selected.')
-          analysis = ''
-    return make_corpus_word(transliteration)
 
   @classmethod
   def make_word(cls, tag: Tag, default_lang: str) -> Word:

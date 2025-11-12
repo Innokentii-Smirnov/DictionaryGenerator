@@ -1,7 +1,7 @@
 from collections import defaultdict
 from model.line import Line
 from model.word import Word
-from .corpus_word import make_corpus_word
+from .corpus_word import make_corpus_word, word_to_corpus_word
 from morph import Morph, MultiMorph
 from re import compile
 from os import makedirs
@@ -29,7 +29,8 @@ def log_filter(record: LogRecord) -> LogRecord:
   return record
 
 makedirs('logs', exist_ok=True)
-for package in ['model.line', 'model.word', 'model.selection', 'morph', 'lexical_database', '__main__']:
+for package in ['model.line', 'model.word', 'model.selection', 'morph',
+                'lexical_database', 'lexical_database.corpus_word', '__main__']:
   handler = FileHandler(join('logs', f'{package}.log'), 'w', encoding='utf-8')
   handler.setLevel(DEBUG)
   formatter = Formatter('%(text_path)s\n%(text_id)s\n%(line_id)s\n%(word_tag)s\n%(levelname)s: %(message)s\n')
@@ -118,7 +119,7 @@ class LexicalDatabase:
                       self.concordance[analysis_str].add(attestation)
                   else:
                     self.logger.error('The selected morphological analysis number %i is not available.', number)
-            corpus_line.append(word.to_corpus_word())
+            corpus_line.append(word_to_corpus_word(word))
           except (KeyError, ValueError):
             msg = 'Cannot parse word:\n{0}\non line {1} in {2}'.format(
               str(tag), line.line_id, line.text_path
