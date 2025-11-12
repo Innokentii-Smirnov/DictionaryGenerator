@@ -1,7 +1,7 @@
 from __future__ import annotations
 from dataclasses import dataclass
 from .selection import Selection
-from morph import Morph, parseMorph, SingleMorph, MultiMorph
+from morph import Morph, SingleMorph, MultiMorph
 from re import compile
 from bs4 import Tag
 from os.path import exists
@@ -44,4 +44,4 @@ class Word:
     return Word(transliteration, lang, transcription, selections, analyses)
 
   def __getitem__(self, number: int) -> Morph:
-    return parseMorph(self.analyses[number])
+    return Morph.parse(self.analyses[number])
