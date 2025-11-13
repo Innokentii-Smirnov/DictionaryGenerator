@@ -41,9 +41,11 @@ has been executed, this is likely to mean an unexpected error has occurred.
 
 # Logging
 The program will create a subdirectory "logs" in the working directory.
+
 The log "\_\_main\_\_.log" will contain an appropriate message
 if the run has been completed successfully.
-The logs document the processing of the XML files
+
+The other logs document the processing of the XML files
 with informational messages (INFO) and
 specify issues detected in the XML files which sometimes
 need to be corrected manually (if marked as ERROR, not just as WARNING).
@@ -56,4 +58,4 @@ will be processed in the normal way.
 
 The log "skipped_files.log" lists the files which could not have been
 processed due to more serious, unexpected errors (perhaps in the program itself
-and not in the XML files) and will not be created if all files were processed successfully, which should be the normal case.
+and not in the XML files) and will be empty if all files were processed successfully, which should be the normal case.
