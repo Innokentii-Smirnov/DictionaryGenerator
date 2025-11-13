@@ -2,7 +2,7 @@ from collections import defaultdict
 from model.line import Line
 from model.word import Word
 from .corpus_word import make_corpus_word, word_to_corpus_word
-from morph import Morph, MultiMorph
+from model.morph import Morph, MultiMorph
 from re import compile
 from .loggers import ctx_text_path, ctx_text_id, ctx_line_id, ctx_word_tag
 from logging import getLogger

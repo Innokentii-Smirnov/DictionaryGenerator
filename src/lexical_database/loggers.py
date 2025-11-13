@@ -23,7 +23,7 @@ def log_filter(record: LogRecord) -> LogRecord:
   return record
 
 makedirs('logs', exist_ok=True)
-for package in ['model.line', 'model.word', 'model.selection', 'morph',
+for package in ['model.line', 'model.word', 'model.selection', 'model.morph',
                 'lexical_database', 'lexical_database.corpus_word']:
   handler = FileHandler(join('logs', f'{package}.log'), 'w', encoding='utf-8')
   handler.setLevel(DEBUG)

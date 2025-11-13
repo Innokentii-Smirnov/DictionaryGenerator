@@ -1,5 +1,5 @@
 from model.selection import Selection
-from morph import Morph
+from model.morph import Morph
 
 ERROR_SYMBOL = 'ERROR'
 

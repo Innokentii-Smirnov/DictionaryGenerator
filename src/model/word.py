@@ -1,7 +1,7 @@
 from __future__ import annotations
 from dataclasses import dataclass
 from .selection import Selection
-from morph import Morph, SingleMorph, MultiMorph
+from .morph import Morph, SingleMorph, MultiMorph
 from re import compile
 from bs4 import Tag
 from os.path import exists
