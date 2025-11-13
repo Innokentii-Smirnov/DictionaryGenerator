@@ -49,10 +49,10 @@ The other logs document the processing of the XML files
 with informational messages (INFO) and
 specify issues detected in the XML files which sometimes
 need to be corrected manually (if marked as ERROR, not just as WARNING).
-Correcting them involves editing XML manually and
-is only recommended for experiences users.
+Correcting them involves editing XML files manually and
+is only recommended for experienced users.
 It is not required to run the program successfully;
-the morphological tag of the problematic word
+the morphological tag of a problematic word
 will be ingored and the following words in the text
 will be processed in the normal way.
 
