@@ -41,6 +41,8 @@ has been executed, this is likely to mean an unexpected error has occurred.
 
 # Logging
 The program will create a subdirectory "logs" in the working directory.
+The log "\_\_main\_\_.log" will contain an appropriate message
+if the run has been completed successfully.
 The logs document the processing of the XML files
 with informational messages (INFO) and
 specify issues detected in the XML files which sometimes
@@ -52,7 +54,6 @@ the morphological tag of the problematic word
 will be ingored and the following words in the text
 will be processed in the normal way.
 
-Two logs, "processed_files.log" and "skipped_files.log", will be placed in the working directory. The latter lists the files which could not have been processed due to
-more serious, unexpected errors (perhaps in the program itself and not in the XML files)
-and will not be created if all files were processed successfully,
-which should be the normal case.
+The log "skipped_files.log" lists the files which could not have been
+processed due to more serious, unexpected errors (perhaps in the program itself
+and not in the XML files) and will not be created if all files were processed successfully, which should be the normal case.
