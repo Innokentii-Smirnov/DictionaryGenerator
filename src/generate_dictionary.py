@@ -1,10 +1,13 @@
+import loggers
 from os import path
 import os
 import json
-from model.corpus import Corpus
+from model.corpus import Corpus, processed_file_logger, skipped_file_logger
 from lexical_database import LexicalDatabase
 from logging import getLogger
 logger = getLogger(__name__)
+
+extension = '.xml'
 
 OUTFILE = 'Dictionary.json'
 if path.exists(OUTFILE):
@@ -25,8 +28,15 @@ if not path.exists(input_directory):
 
 lexdb = LexicalDatabase()
 corpus = Corpus(input_directory)
-for line in corpus.lines:
-  lexdb.add(line)
+for text in corpus.texts:
+  try:
+    for line in text.lines:
+      lexdb.add(line)
+    processed_file_logger.info('\t' + text.text_id)
+  except (KeyError, ValueError, AssertionError):
+    rel_name = path.join(text.rel_path, text.text_id + extension)
+    skipped_file_logger.info(rel_name)
+    logger.exception('The file %s could not be proccessed because of the following exception:', rel_name)
 
 with open(OUTFILE, 'w', encoding='utf-8') as fout:
   json.dump(lexdb.to_dict(), fout, ensure_ascii=False, indent='\t', sort_keys=True)

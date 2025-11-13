@@ -30,7 +30,7 @@ def log_filter(record: LogRecord) -> LogRecord:
 
 makedirs('logs', exist_ok=True)
 for package in ['model.line', 'model.word', 'model.selection', 'morph',
-                'lexical_database', 'lexical_database.corpus_word', '__main__']:
+                'lexical_database', 'lexical_database.corpus_word']:
   handler = FileHandler(join('logs', f'{package}.log'), 'w', encoding='utf-8')
   handler.setLevel(DEBUG)
   formatter = Formatter('%(text_path)s\n%(text_id)s\n%(line_id)s\n%(word_tag)s\n%(levelname)s: %(message)s\n')
