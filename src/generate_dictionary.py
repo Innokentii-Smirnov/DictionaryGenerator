@@ -10,8 +10,6 @@ logger = getLogger(__name__)
 extension = '.xml'
 
 OUTFILE = 'Dictionary.json'
-if path.exists(OUTFILE):
-  os.remove(OUTFILE)
 
 CONFIG_FILENAME = 'config.json'
 if not path.exists(CONFIG_FILENAME):
@@ -21,10 +19,27 @@ with open(CONFIG_FILENAME, 'r', encoding='utf-8') as fin:
   config = json.load(fin)
 for key, value in config.items():
   config[key] = path.expanduser(value)
-input_directory = config['inputDirectory']
-if not path.exists(input_directory):
-  logger.error('Input directory not found: ' + input_directory)
+
+if 'inputDirectory' in config:
+  input_directory = config['inputDirectory']
+  if not path.exists(input_directory):
+    logger.error('Input directory not found: ' + input_directory)
+    exit()
+else:
+  logger.error('No input directory specified in the configuration file.')
   exit()
+
+if 'outputDirectory' in config:
+  output_directory = config['outputDirectory']
+  if not path.exists(output_directory):
+    logger.error('Output directory not found: ' + output_directory)
+    exit()
+  outfile = path.join(output_directory, OUTFILE)
+else:
+  outfile = OUTFILE
+
+if path.exists(outfile):
+  os.remove(outfile)
 
 lexdb = LexicalDatabase()
 corpus = Corpus(input_directory)
@@ -38,6 +53,6 @@ for text in corpus.texts:
     skipped_file_logger.info(rel_name)
     logger.exception('The file %s could not be proccessed because of the following exception:', rel_name)
 
-with open(OUTFILE, 'w', encoding='utf-8') as fout:
+with open(outfile, 'w', encoding='utf-8') as fout:
   json.dump(lexdb.to_dict(), fout, ensure_ascii=False, indent='\t', sort_keys=True)
 logger.info('The run was completed successfully.')
