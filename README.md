@@ -24,18 +24,32 @@ Run the script "install.bat" to install the required Python libraries
 which are specified in the file "requirements.txt".
 
 # Configuring
-The configuration file should be called "config.json" and located in the working directory.
+The configuration file should be called "config.json"
+and located in the working directory.
 It should contain a JSON object with a field "inputDirectory" pointing
 to the corpus files from which the dictionary will be constructed.
-The configuration file of the CorpusEditor program can be used as well.
 Remember that backslashes should be escaped (prefixed with another backslash) in JSON.
+
+The field "outputDirectory" is optional. If it is not given,
+the file "Dictionary.json" will be created in the working directory.
+The same effect can be achieved by giving a dot ("outputDirectory": ".") as a value
+for the output directory field.
+
+The configuration file of the CorpusEditor program can be used as well.
+In this case, the file "Dictionary.json" will be saved in the output directory
+of the CorpusEditor.
 
 # Usage
 Run the script "DictionaryGenerator.bat" to run the application.
 
 # Output
-The output file "Dictionary.json" will be placed in the working directory.
-An existing "Dictionary.json" file in this directory will be deleted.
+The output file "Dictionary.json" will be placed in the output directory
+specified in the configuration file or in the working directory if no
+output directory has been specified.
+
+# Warning
+An existing "Dictionary.json" file in the output directory
+(or the working directory if an output directory is not given) will be deleted.
 If no "Dictionary.json" has appeared in the directory after the program
 has been executed, this is likely to mean an unexpected error has occurred.
 
