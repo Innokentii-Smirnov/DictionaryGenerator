@@ -22,8 +22,12 @@ def word_to_corpus_word(word: Word) -> dict[str, str]:
     if selection is not None:
       if selection.lexeme in word.analyses:
         morph = word[selection.lexeme]
-        analysis = make_analysis(selection, morph)
-        return make_corpus_word(transliteration, morph.segmentation, analysis)
+        if morph is None:
+          logger.error('The selected morphological analysis number %i could not be parsed.',
+                     selection.lexeme)
+        else:
+          analysis = make_analysis(selection, morph)
+          return make_corpus_word(transliteration, morph.segmentation, analysis)
       else:
         logger.error('The selected morphological analysis number %i is not available.',
                      selection.lexeme)

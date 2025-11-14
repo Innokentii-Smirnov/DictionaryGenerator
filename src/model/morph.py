@@ -62,16 +62,17 @@ class Morph:
       raise NotImplementedError
 
     @classmethod
-    def parse(cls, string: str) -> Morph:
-      try:
-          translation, segmentation, morph_info, pos, det = list(map(str.strip, string.split('@')))
-      except ValueError:
-          raise ValueError(string)
-      if in_braces(morph_info):
-          morph_tags = parseMorphTags(morph_info)
-          return MultiMorph(translation, segmentation, morph_tags, pos, det)
+    def parse(cls, string: str) -> Morph | None:
+      fields = list(map(str.strip, string.split('@')))
+      if len(fields) == 5:
+        translation, segmentation, morph_info, pos, det = fields
+        if in_braces(morph_info):
+            morph_tags = parseMorphTags(morph_info)
+            return MultiMorph(translation, segmentation, morph_tags, pos, det)
+        else:
+            return SingleMorph(translation, segmentation, morph_info, pos, det)
       else:
-          return SingleMorph(translation, segmentation, morph_info, pos, det)
+        return None
         
 class SingleMorph(Morph):
     

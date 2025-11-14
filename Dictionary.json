@@ -25678,6 +25678,11 @@
 				"transliteration": "<clb id=\"CLB\" nr=\"5\"/>"
 			},
 			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w><del_in/><d>GIŠ</d><sGr>ERE<del_fin/>N</sGr>-az</w>"
+			},
+			{
 				"gloss": "Honig-ACC.SG(UNM)",
 				"segmentation": "LÀL",
 				"transliteration": "<w><sGr>LÀL</sGr></w>"
@@ -25686,6 +25691,11 @@
 				"gloss": "Öl-ACC.SG(UNM)",
 				"segmentation": "Ì.GIŠ",
 				"transliteration": "<w><sGr>Ì.GIŠ</sGr></w>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w><sGr>Ì.DU₁₀.G<del_in/>A</sGr>-ia</w>"
 			},
 			{
 				"gloss": "nehmen-3SG.PRS",
@@ -26998,6 +27008,11 @@
 				"gloss": "Tag-…:D/L.SG",
 				"segmentation": "UD",
 				"transliteration": "<w><aGr>I-N<del_fin/>A</aGr> <sGr>UD</sGr></w>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w><num>1</num><corr c=\"?\"/><del_in/><d>KAM</d>-ma<del_fin/></w>"
 			},
 			{
 				"gloss": "sieben",
@@ -28559,6 +28574,11 @@
 				"gloss": "Opfer-…:GEN.SG",
 				"segmentation": "SÍSKUR",
 				"transliteration": "<w><aGr>ŠA</aGr> <sGr>SÍS<del_fin/>K<del_in/>UR</sGr></w>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w>it-kal-zi-ia-aš</w>"
 			}
 		],
 		"KBo 21.43,Rs. IV 2′": [
@@ -28566,6 +28586,11 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "<clb id=\"CLB\" nr=\"3\"/>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w><aGr>A-NA</aGr> <d>D</d><sGr>UTU</sGr><aGr>-ŠI</aGr>-at-kán</w>"
 			},
 			{
 				"gloss": "Mund-ABL",
@@ -28852,6 +28877,11 @@
 				"gloss": "Zeder-GEN.SG(UNM)",
 				"segmentation": "EREN",
 				"transliteration": "<w><d>GIŠ</d><sGr><ras_in/>EREN<ras_fin/></sGr></w>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w><d>GIŠ</d>pa-a-i-in-na-aš-ša</w>"
 			},
 			{
 				"gloss": "",
@@ -29164,6 +29194,11 @@
 				"gloss": "Opfer-…:GEN.SG",
 				"segmentation": "SÍSKUR",
 				"transliteration": "<w><aGr>ŠA</aGr> <sGr>SÍSKUR</sGr></w>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w>it-〈kal〉-zi-i<del_in/>a-aš<del_fin/></w>"
 			}
 		],
 		"KBo 21.44+, {€1} Rs. 8′": [
@@ -29171,6 +29206,11 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "<clb id=\"CLB\" nr=\"6\"/>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w><aGr><del_in/>A-NA<del_fin/></aGr> <d>D</d><sGr>UTU</sGr><aGr>-ŠI</aGr>-ia-at-kán</w>"
 			},
 			{
 				"gloss": "Mund-ABL",
@@ -41337,6 +41377,11 @@
 				"transliteration": "<w><space c=\"11\"/></w>"
 			},
 			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w>a-p<del_fin/>é-e-pát</w>"
+			},
+			{
 				"gloss": "sprechen-3SG.PRS",
 				"segmentation": "mem=a-",
 				"transliteration": "<w>me-ma-i</w>"
@@ -41404,6 +41449,11 @@
 				"gloss": "wie",
 				"segmentation": "mân",
 				"transliteration": "<w>ma-a-an</w>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w><laes_in/><d>É</d>ḫi-lam-mar<laes_fin/>-ma</w>"
 			}
 		],
 		"KBo 27.92+, {€1} Vs. I 2": [
@@ -41489,6 +41539,11 @@
 				"gloss": "Tag (vergöttlicht)-DN.D/L.SG(UNM)",
 				"segmentation": "UD",
 				"transliteration": "<w><sGr>U<del_fin/>D</sGr></w>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w><num>2</num><d>KAM</d>-ia</w>"
 			},
 			{
 				"gloss": "vier",
@@ -41888,6 +41943,11 @@
 				"gloss": "wie",
 				"segmentation": "mân",
 				"transliteration": "<w>ma-a-an</w>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w><d>D</d><aGr>IŠTAR</aGr>-aš-m<del_in/>a</w>"
 			}
 		],
 		"KBo 27.92+, {€2} lk. Kol.": [
@@ -43307,6 +43367,11 @@
 			{
 				"gloss": "",
 				"segmentation": "",
+				"transliteration": "<w><aGr>ŠA</aGr> <d>M</d>pur-ra-ma-kán</w>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
 				"transliteration": "<w><del_in/></w>"
 			},
 			{
@@ -43372,6 +43437,11 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "<clb id=\"CLB\" nr=\"7\"/>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w><aGr>ŠA</aGr> <d>M</d>pur-ra-aš-š<del_in/>a-an<del_fin/></w>"
 			}
 		],
 		"KBo 32.10,Rs. 6b′": [
@@ -44194,6 +44264,11 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "<w><space c=\"10\"/></w>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w>k<del_fin/>u-i-ša</w>"
 			},
 			{
 				"gloss": "",
@@ -46345,6 +46420,11 @@
 				"gloss": "Rind-FNL(u).ACC.SG.C",
 				"segmentation": "GU₄",
 				"transliteration": "<w><sGr>GU₄</sGr>-un</w>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w><sGr>LÚ</sGr>-an</w>"
 			},
 			{
 				"gloss": "",
@@ -48682,6 +48762,11 @@
 				"transliteration": "<w><sGr>SIG₇</sGr></w>"
 			},
 			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w><d>UDU</d><sGr>GUKKAL+KUN</sGr><d>ḪI.A</d>-na</w>"
+			},
+			{
 				"gloss": "stechen-3SG.PST",
 				"segmentation": "ḫatt=a-",
 				"transliteration": "<w>ḫa-at-te-eš</w>"
@@ -48716,6 +48801,11 @@
 				"transliteration": "<clb id=\"CLB\" nr=\"14\"/>"
 			},
 			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w>kap-pu-wa-u-wa-ar-ma</w>"
+			},
+			{
 				"gloss": "welcher-REL.D/L.SG",
 				"segmentation": "kui-",
 				"transliteration": "<w>ku-e-da-ni</w>"
@@ -48743,6 +48833,11 @@
 				"gloss": "Lamm-D/L.SG",
 				"segmentation": "SILA₄",
 				"transliteration": "<w><sGr>SILA₄</sGr>-i</w>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w><sGr>MÁŠ.GAL</sGr>-ia</w>"
 			},
 			{
 				"gloss": "",
@@ -48868,6 +48963,11 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "<clb id=\"CLB\" nr=\"17\"/>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w><d>LÚ.MEŠ</d><sGr>SAGI</sGr>-ia</w>"
 			}
 		],
 		"KBo 32.13+, {€1} Vs. 22a": [
@@ -48902,6 +49002,11 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "<clb id=\"CLB\" nr=\"18\"/>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w><d>LÚ.MEŠ</d><sGr>MUḪALDIM</sGr>-ma-kán</w>"
 			},
 			{
 				"gloss": "Brust-ACC.PL(UNM)",
@@ -49090,6 +49195,11 @@
 				"transliteration": "<clb id=\"CLB\" nr=\"22\"/>"
 			},
 			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w>ka-ru-ú-li-uš-ma-za</w>"
+			},
+			{
 				"gloss": "Gottheit-ACC.PL.C",
 				"segmentation": "DINGIR",
 				"transliteration": "<w><sGr>DINGIR</sGr><d>MEŠ</d>-uš</w>"
@@ -49139,6 +49249,11 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "<clb id=\"CLB\" nr=\"23\"/>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w>ták-na-aš-ma</w>"
 			},
 			{
 				"gloss": "Sonne(ngottheit)-DN.FNL(u).HITT.NOM.SG.C",
@@ -49258,6 +49373,16 @@
 				"transliteration": "<clb id=\"CLB\" nr=\"24\"/>"
 			},
 			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w>ki-iš-ra-aš-ma-aš-ši</w>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w>ga-lu-lu-pé-e-eš-še-eš</w>"
+			},
+			{
 				"gloss": "lang-NOM.PL.C",
 				"segmentation": "daluk=i-",
 				"transliteration": "<w>ta-lu-ga-e-<del_in/>eš<del_fin/></w>"
@@ -49297,6 +49422,11 @@
 				"transliteration": "<w>na-at-kán</w>"
 			},
 			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w>mi-ia-u-e-eš-pát</w>"
+			},
+			{
 				"gloss": "Finger-NOM.PL.C",
 				"segmentation": "kalulup=a-",
 				"transliteration": "<w>ga-lu-lu-pé-e-eš</w>"
@@ -49326,6 +49456,11 @@
 				"transliteration": "<clb id=\"CLB\" nr=\"26\"/>"
 			},
 			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w><aGr><del_in/>IŠ-TU</aGr> ḫal-wa-n<del_fin/>i-it-ma</w>"
+			},
+			{
 				"gloss": "welcher-REL.ABL",
 				"segmentation": "kui-",
 				"transliteration": "<w>ku-e-ez</w>"
@@ -49346,6 +49481,11 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "<clb id=\"CLB\" nr=\"27\"/>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w>a-pé-e-d<del_fin/>a-<laes_in/>ša<laes_fin/></w>"
 			},
 			{
 				"gloss": "in",
@@ -49493,6 +49633,11 @@
 				"transliteration": "<clb id=\"CLB\" nr=\"4\"/>"
 			},
 			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w><d>D</d><sGr>IŠKUR</sGr>-<ras_in/>aš-kán</w>"
+			},
+			{
 				"gloss": "König-FNL(u).NOM.SG.C",
 				"segmentation": "LUGAL",
 				"transliteration": "<w><sGr>LUGAL</sGr>-uš<ras_fin/></w>"
@@ -49603,6 +49748,11 @@
 				"transliteration": "<w><num>7</num></w>"
 			},
 			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w>ta-wa-al-la-aš-ma-aš-ša-an</w>"
+			},
+			{
 				"gloss": "Fußschemel-…:D/L.SG",
 				"segmentation": "GÌR.GUB",
 				"transliteration": "<w><aGr>A-NA</aGr> <d>GIŠ</d><sGr>GÌR.GUB</sGr></w>"
@@ -49647,6 +49797,16 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "<clb id=\"CLB\" nr=\"7\"/>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w><d>D</d><sGr>IŠKUR</sGr>-aš-kán</w>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w><d>D</d>šu-wa-li-ia-az-za-aš-ša</w>"
 			}
 		],
 		"KBo 32.13+, {€2} 10b′": [
@@ -49794,6 +49954,11 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "<clb id=\"CLB\" nr=\"34\"/>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w><d>D<del_fin/>UG</d><laes_in/>ti<laes_fin/>-šu-mi-ša-aš-ma-kán</w>"
 			}
 		],
 		"KBo 32.13+, {€2} 6b′": [
@@ -49918,6 +50083,11 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "<clb id=\"CLB\" nr=\"39\"/>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w><num>5</num>-<laes_in/>uš<corr c=\"?\"/></w>"
 			},
 			{
 				"gloss": "",
@@ -50110,6 +50280,11 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "<clb id=\"CLB\" nr=\"81\"/>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w>ša-ak-ni-ia-an-kán</w>"
 			},
 			{
 				"gloss": "in",
@@ -50754,6 +50929,11 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "<clb id=\"CLB\" nr=\"96\"/>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w>ḫa-at-ta-a-tar-ma-aš-ma-aš</w>"
 			}
 		],
 		"KBo 32.14,Rs. 22b": [
@@ -50980,6 +51160,11 @@
 				"transliteration": "<clb id=\"CLB\" nr=\"97\"/>"
 			},
 			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w><del_in/>g<del_fin/>i-i-lu-ši-iš-kán</w>"
+			},
+			{
 				"gloss": "Donut-ACC.SG.N",
 				"segmentation": "kukull=a-",
 				"transliteration": "<w><d>NINDA</d>ku-gul-la-an</w>"
@@ -51050,6 +51235,11 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "<clb id=\"CLB\" nr=\"100\"/>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w>ša-ak-ni-ia-an-kán</w>"
 			},
 			{
 				"gloss": "in",
@@ -51501,6 +51691,11 @@
 				"transliteration": "<clb id=\"CLB\" nr=\"114\"/>"
 			},
 			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w>ḫa-at-ta-a-tar-ma-a<del_in/>š-m<del_fin/>a-aš</w>"
+			},
+			{
 				"gloss": "sprechen-1SG.PRS.IMPF",
 				"segmentation": "mem=išk-",
 				"transliteration": "<w>me-mi-iš-ke-mi</w>"
@@ -51772,6 +51967,11 @@
 			{
 				"gloss": "",
 				"segmentation": "",
+				"transliteration": "<w>šal-le-eš-ta-aš</w>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
 				"transliteration": "<clb id=\"CLB\" nr=\"71\"/>"
 			},
 			{
@@ -51971,6 +52171,11 @@
 				"transliteration": "<clb id=\"CLB\" nr=\"118\"/>"
 			},
 			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w>ú-e-te-et-ma-an</w>"
+			},
+			{
 				"gloss": "welcher-REL.NOM.SG.C",
 				"segmentation": "kui-",
 				"transliteration": "<w>ku-iš</w>"
@@ -52018,6 +52223,11 @@
 				"transliteration": "<clb id=\"CLB\" nr=\"120\"/>"
 			},
 			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w>ú-e-te-et-wa-mu</w>"
+			},
+			{
 				"gloss": "welcher-REL.NOM.SG.C",
 				"segmentation": "kui-",
 				"transliteration": "<w>ku-iš</w>"
@@ -52053,6 +52263,11 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "<clb id=\"CLB\" nr=\"122\"/>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w><del_in/>ku-un-na-aš-m<del_fin/>a-<laes_in/>an<laes_fin/>-ši-kán</w>"
 			},
 			{
 				"gloss": "Oberarm-NOM.SG.C",
@@ -52167,6 +52382,11 @@
 				"transliteration": "<clb id=\"CLB\" nr=\"127\"/>"
 			},
 			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w>nu-mu</w>"
+			},
+			{
 				"gloss": "verfluchen-3SG.PRS.IMPF",
 				"segmentation": "ḫurza=ke-",
 				"transliteration": "<w>ḫu-u-ur-za-ke-zi</w>"
@@ -52207,6 +52427,11 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "<clb id=\"CLB\" nr=\"129\"/>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w>wa-al-aḫ-du-ia-an</w>"
 			},
 			{
 				"gloss": "Wettergott-DN.FNL(a).HITT.NOM.SG.C",
@@ -52284,6 +52509,11 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "<clb id=\"CLB\" nr=\"132\"/>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w><sGr>SIG₄</sGr>-ma-kán</w>"
 			},
 			{
 				"gloss": "hinab zu",
@@ -52429,6 +52659,11 @@
 				"transliteration": "<w>nam-ma</w>"
 			},
 			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w>at-ta-aš-ša-an</w>"
+			},
+			{
 				"gloss": "hinein-",
 				"segmentation": "anda",
 				"transliteration": "<w>an-da</w>"
@@ -52489,6 +52724,11 @@
 				"gloss": "Kind-FNL(a).NOM.SG.C",
 				"segmentation": "DUMU",
 				"transliteration": "<w><sGr>DUMU</sGr>-aš</w>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w>at-ti-iš-ši</w>"
 			},
 			{
 				"gloss": "welcher-REL.NOM.SG.C",
@@ -52558,6 +52798,11 @@
 				"transliteration": "<w>nam-ma</w>"
 			},
 			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w>at-ta-aš-ša-an</w>"
+			},
+			{
 				"gloss": "hinein-",
 				"segmentation": "anda",
 				"transliteration": "<w>an-da</w>"
@@ -52576,6 +52821,11 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "<clb id=\"CLB\" nr=\"139\"/>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w><aGr>ŠA</aGr> <aGr>A-BI-ŠU</aGr>-ma-an</w>"
 			},
 			{
 				"gloss": "Göttlichkeit-NOM.PL(UNM)",
@@ -52727,6 +52977,11 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "<clb id=\"CLB\" nr=\"143\"/>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w>ḫa-at-ta-a-tar-ma-aš-ma-aš</w>"
 			},
 			{
 				"gloss": "sprechen-1SG.PRS.IMPF",
@@ -53251,6 +53506,11 @@
 				"transliteration": "<clb id=\"CLB\" nr=\"77\"/>"
 			},
 			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w>ḫa-at-ta-a-tar-ma-aš-ma-aš</w>"
+			},
+			{
 				"gloss": "sprechen-1SG.PRS.IMPF",
 				"segmentation": "mem=išk-",
 				"transliteration": "<w>me-mi-iš-ke-mi</w>"
@@ -53486,6 +53746,11 @@
 				"transliteration": "<clb id=\"CLB\" nr=\"14\"/>"
 			},
 			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w>ki-nu-na-mu</w>"
+			},
+			{
 				"gloss": "zurück-",
 				"segmentation": "appa",
 				"transliteration": "<w>a-ap-pa</w>"
@@ -53499,6 +53764,11 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "<clb id=\"CLB\" nr=\"15\"/>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w>pé-eš-ši-an-du-ia-an</w>"
 			}
 		],
 		"KBo 32.14,Vs. 14a": [
@@ -53528,6 +53798,11 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "<clb id=\"CLB\" nr=\"16\"/>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w>da-a-an-du-ma-an</w>"
 			}
 		],
 		"KBo 32.14,Vs. 15a": [
@@ -53569,6 +53844,11 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "<clb id=\"CLB\" nr=\"18\"/>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w><sGr>KUŠ</sGr>-ma</w>"
 			},
 			{
 				"gloss": "Vogelfänger-NOM.PL(UNM)",
@@ -53613,6 +53893,11 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "<clb id=\"CLB\" nr=\"19\"/>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w><aGr>Ú-UL</aGr>-ma</w>"
 			},
 			{
 				"gloss": "Rehbock-NOM.SG.C",
@@ -53672,6 +53957,11 @@
 				"gloss": "Mann-FNL(a).NOM.SG.C",
 				"segmentation": "LÚ",
 				"transliteration": "<w><sGr>LÚ</sGr>-aš</w>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w>a-pé-el-kán</w>"
 			},
 			{
 				"gloss": "Stadt-ABL",
@@ -53748,6 +54038,11 @@
 				"transliteration": "<clb id=\"CLB\" nr=\"23\"/>"
 			},
 			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w>ma-na-aš</w>"
+			},
+			{
 				"gloss": "aggressiv sein-3SG.PST",
 				"segmentation": "šull=iye/a-",
 				"transliteration": "<w>šu-u-ul-li-et</w>"
@@ -53777,9 +54072,19 @@
 				"transliteration": "<clb id=\"CLB\" nr=\"1\"/>"
 			},
 			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w>a-li-<laes_in/>ia<laes_fin/>-n<del_in/>a-an<del_fin/>-za</w>"
+			},
+			{
 				"gloss": "er-DEM2/3.GEN.SG",
 				"segmentation": "apa-",
 				"transliteration": "<w>a-pé-el</w>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w>tu-e-eg-ga-a<del_in/>z-še-et<del_fin/></w>"
 			}
 		],
 		"KBo 32.14,Vs. 20a": [
@@ -53858,6 +54163,11 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "<clb id=\"CLB\" nr=\"25\"/>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w><sGr>URU</sGr>-ia-ša-an</w>"
 			},
 			{
 				"gloss": "Göttlichkeit-NOM.PL(UNM)",
@@ -54026,6 +54336,11 @@
 				"transliteration": "<clb id=\"CLB\" nr=\"29\"/>"
 			},
 			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w>ḫa-at-ta-a-tar-ma-aš-ma-aš</w>"
+			},
+			{
 				"gloss": "sprechen-1SG.PRS.IMPF",
 				"segmentation": "mem=išk-",
 				"transliteration": "<w>me-mi-iš-ke-mi</w>"
@@ -54068,6 +54383,11 @@
 				"gloss": "CONNn=OBPst",
 				"segmentation": "n=ašta",
 				"transliteration": "<w>na-aš-ta</w>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w><sGr>ÍD</sGr>-an</w>"
 			},
 			{
 				"gloss": "neben",
@@ -54148,6 +54468,11 @@
 				"transliteration": "<clb id=\"CLB\" nr=\"32\"/>"
 			},
 			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w>ke-e-zi-<laes_in/>ia<laes_fin/>-ká<del_in/>n<del_fin/></w>"
+			},
+			{
 				"gloss": "welcher-REL.NOM.PL.C",
 				"segmentation": "kui-",
 				"transliteration": "<w><laes_in/>ku-i<laes_fin/>-e-eš</w>"
@@ -54166,6 +54491,11 @@
 				"gloss": "CONNn=OBPs",
 				"segmentation": "nu=ššan",
 				"transliteration": "<w>nu-uš-ša-an</w>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w>a-pé-e-da-aš-ša</w>"
 			}
 		],
 		"KBo 32.14,Vs. 29a": [
@@ -54288,6 +54618,11 @@
 				"transliteration": "<clb id=\"CLB\" nr=\"35\"/>"
 			},
 			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w>ki-ma</w>"
+			},
+			{
 				"gloss": "finden-3SG.PST",
 				"segmentation": "wem=iye/a-",
 				"transliteration": "<w>ú-e-mi-et</w>"
@@ -54330,6 +54665,11 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "<clb id=\"CLB\" nr=\"36\"/>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w><aGr>Ú-UL</aGr>-ma</w>"
 			},
 			{
 				"gloss": "Rehbock-NOM.SG.C",
@@ -54499,6 +54839,11 @@
 				"transliteration": "<clb id=\"CLB\" nr=\"40\"/>"
 			},
 			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w>ta-a-an-ma-aš-ša-an</w>"
+			},
+			{
 				"gloss": "Bezirk-D/L.SG",
 				"segmentation": "telipur=i-",
 				"transliteration": "<w>te-li-pu-u-ri-ia</w>"
@@ -54659,6 +55004,11 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "<clb id=\"CLB\" nr=\"43\"/>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w>ta-a-an-ma</w>"
 			},
 			{
 				"gloss": "Bezirk-STF",
@@ -54866,6 +55216,11 @@
 				"transliteration": "<clb id=\"CLB\" nr=\"47\"/>"
 			},
 			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w>ḫa-at-ta-a-tar-ma-aš-ma-aš</w>"
+			},
+			{
 				"gloss": "sprechen-1SG.PRS.IMPF",
 				"segmentation": "mem=išk-",
 				"transliteration": "<w>me-mi-iš-ke-mi</w>"
@@ -54949,6 +55304,11 @@
 				"transliteration": "<clb id=\"CLB\" nr=\"49\"/>"
 			},
 			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w>la-a-ḫu-ša-an</w>"
+			},
+			{
 				"gloss": "modellieren-3SG.PST",
 				"segmentation": "tišš=ā(e)-",
 				"transliteration": "<w>ti-iš-ša-a-et</w>"
@@ -55018,6 +55378,11 @@
 				"transliteration": "<clb id=\"CLB\" nr=\"52\"/>"
 			},
 			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w>nu-uš-ši-eš-ta</w>"
+			},
+			{
 				"gloss": "Faser(?)-D/L.SG",
 				"segmentation": "maešt=a-",
 				"transliteration": "<w>ma-iš-ti</w>"
@@ -55055,6 +55420,11 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "<clb id=\"CLB\" nr=\"53\"/>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w>la-a-ḫu-uš-ma-an</w>"
 			},
 			{
 				"gloss": "welcher-REL.NOM.SG.C",
@@ -55202,6 +55572,11 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "<clb id=\"CLB\" nr=\"57\"/>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w>ku-un-na-aš-ma-an-wa-aš-ši-kán</w>"
 			}
 		],
 		"KBo 32.14,Vs. 49a": [
@@ -55340,6 +55715,11 @@
 				"transliteration": "<clb id=\"CLB\" nr=\"59\"/>"
 			},
 			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w>nu-uš-ši-eš-ta</w>"
+			},
+			{
 				"gloss": "Herz-NOM.SG(UNM)_DEM2/3.GEN.SG",
 				"segmentation": "ŠÀ-ŠU",
 				"transliteration": "<w><sGr>ŠÀ</sGr><aGr>-ŠU</aGr></w>"
@@ -55431,6 +55811,11 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "<clb id=\"CLB\" nr=\"61\"/>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w>ku-wa-at-wa</w>"
 			},
 			{
 				"gloss": "Kupfer-ACC.SG.C",
@@ -55544,6 +55929,11 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "<clb id=\"CLB\" nr=\"64\"/>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w>wa-al-aḫ-du-ia-an</w>"
 			}
 		],
 		"KBo 32.14,Vs. 56a": [
@@ -55627,6 +56017,11 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "<clb id=\"CLB\" nr=\"66\"/>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w>te-eš-šum-mi-iš-kán</w>"
 			}
 		],
 		"KBo 32.14,Vs. 58a": [
@@ -55675,6 +56070,11 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "<clb id=\"CLB\" nr=\"67\"/>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w>šu-up-pí-iš-du-wa-ri-i-e-eš-ma-kán</w>"
 			},
 			{
 				"gloss": "hinein-",
@@ -55800,6 +56200,11 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "<clb id=\"CLB\" nr=\"7\"/>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w>ma-a-na-an</w>"
 			}
 		],
 		"KBo 32.14,Vs. 7a": [
@@ -55839,6 +56244,11 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "<clb id=\"CLB\" nr=\"8\"/>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w><d>D</d><sGr>IŠKUR</sGr>-aš-ma-na-an</w>"
 			}
 		],
 		"KBo 32.14,Vs. 8a": [
@@ -55880,6 +56290,11 @@
 				"transliteration": "<clb id=\"CLB\" nr=\"9\"/>"
 			},
 			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w>pa-aḫ-ḫu-e-na-an-za-ma-na-an</w>"
+			},
+			{
 				"gloss": "weg-",
 				"segmentation": "arḫa",
 				"transliteration": "<w>ar-ḫa</w>"
@@ -55919,6 +56334,11 @@
 				"transliteration": "<clb id=\"CLB\" nr=\"10\"/>"
 			},
 			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w><sGr>ḪUR.SAG</sGr>-aš-ša</w>"
+			},
+			{
 				"gloss": "wie",
 				"segmentation": "maḫḫan",
 				"transliteration": "<w>ma-aḫ-ḫa-an</w>"
@@ -55934,6 +56354,11 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "<clb id=\"CLB\" nr=\"150\"/>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w>ku-un-na-aš-ma-an-ši-kán</w>"
 			},
 			{
 				"gloss": "Oberarm-NOM.SG.C",
@@ -56055,6 +56480,11 @@
 				"transliteration": "<clb id=\"CLB\" nr=\"155\"/>"
 			},
 			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w>wa-al-aḫ-du-ia-a<del_in/>t</w>"
+			},
+			{
 				"gloss": "Wettergott-DN.FNL(a).HITT.NOM.SG.C",
 				"segmentation": "IŠKUR",
 				"transliteration": "<w><d>D</d><sGr>IŠKUR</sGr>-aš</w>"
@@ -56100,6 +56530,11 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "<clb id=\"CLB\" nr=\"157\"/>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w><d>GIŠ</d>pár-aš-tu-e-eš-ma-kán</w>"
 			},
 			{
 				"gloss": "hinein-",
@@ -56239,6 +56674,11 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "<clb id=\"CLB\" nr=\"162\"/>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w><sGr>UR.GI₇</sGr>-ša-aš-kán</w>"
 			},
 			{
 				"gloss": "wie",
@@ -56396,6 +56836,11 @@
 				"transliteration": "<clb id=\"CLB\" nr=\"144\"/>"
 			},
 			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w>ḫar-ra-an-kán</w>"
+			},
+			{
 				"gloss": "Holz-NOM.SG.N",
 				"segmentation": "GIŠ",
 				"transliteration": "<w><sGr>GIŠ</sGr>-ru</w>"
@@ -56426,6 +56871,11 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "<clb id=\"CLB\" nr=\"145\"/>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w><sGr>ANŠE</sGr>-ma-at-kán</w>"
 			},
 			{
 				"gloss": "",
@@ -56522,6 +56972,11 @@
 				"transliteration": "<clb id=\"CLB\" nr=\"146\"/>"
 			},
 			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w>ti-it-nu-ut-ma-a<del_fin/>n</w>"
+			},
+			{
 				"gloss": "welcher-REL.NOM.SG.C",
 				"segmentation": "kui-",
 				"transliteration": "<w>k<del_in/>u-i<del_fin/>š</w>"
@@ -56567,6 +57022,11 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "<clb id=\"CLB\" nr=\"148\"/>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w>ti-<laes_in/>it<laes_fin/>-nu-ut-mu</w>"
 			},
 			{
 				"gloss": "welcher-REL.NOM.SG.C",
@@ -56745,6 +57205,11 @@
 				"transliteration": "<clb id=\"CLB\" nr=\"43\"/>"
 			},
 			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w><del_in/>i<del_fin/>š-ta-ma-aš-mu</w>"
+			},
+			{
 				"gloss": "Wettergott-DN.FNL(a).HITT.VOC.SG.C",
 				"segmentation": "IŠKUR",
 				"transliteration": "<w><d>D</d><sGr>IŠKUR</sGr>-aš</w>"
@@ -56818,6 +57283,11 @@
 				"transliteration": "<clb id=\"CLB\" nr=\"44\"/>"
 			},
 			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w>ú-ga-an</w>"
+			},
+			{
 				"gloss": "geben-1SG.PRS.IMPF",
 				"segmentation": "p=išk-",
 				"transliteration": "<w>pé-<laes_in/>e<laes_fin/>-<del_in/>eš-k<del_fin/>e-mi</w>"
@@ -56852,6 +57322,11 @@
 				"transliteration": "<clb id=\"CLB\" nr=\"45\"/>"
 			},
 			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w>am-me-el-ma-a<del_in/>n</w>"
+			},
+			{
 				"gloss": "Stadt-FNL(a).NOM.SG.C",
 				"segmentation": "URU",
 				"transliteration": "<w><sGr>U<del_fin/>RU</sGr>-aš</w>"
@@ -56884,6 +57359,11 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "<clb id=\"CLB\" nr=\"46\"/>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w><aGr>ŠA</aGr> <d>M</d>pa-az-z<del_in/>a-ni-k<del_fin/>ar-ri-ma</w>"
 			},
 			{
 				"gloss": "Kind-NOM.SG(UNM)_DEM2/3.GEN.SG",
@@ -57018,6 +57498,11 @@
 				"transliteration": "<clb id=\"CLB\" nr=\"31\"/>"
 			},
 			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w>ma-al-ki-an-zi-ma</w>"
+			},
+			{
 				"gloss": "welcher-REL.ACC.SG.N",
 				"segmentation": "kui-",
 				"transliteration": "<w>ku-it</w>"
@@ -57050,6 +57535,11 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "<clb id=\"CLB\" nr=\"48\"/>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w><d>URU</d>e-ep-<del_in/>la-i-š<del_fin/>a-an</w>"
 			},
 			{
 				"gloss": "Stadt-FNL(r).D/L.SG",
@@ -57342,9 +57832,19 @@
 				"transliteration": "<clb id=\"CLB\" nr=\"33\"/>"
 			},
 			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w>ma-a-an-ták-kán</w>"
+			},
+			{
 				"gloss": "aus-",
 				"segmentation": "parā",
 				"transliteration": "<w>pa-ra-a</w>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w>tar-nu-mar-ma</w>"
 			},
 			{
 				"gloss": "gut-NOM.SG.N",
@@ -57421,6 +57921,11 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "<clb id=\"CLB\" nr=\"35\"/>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w><sGr>DUMU</sGr><aGr>-KA</aGr>-za</w>"
 			},
 			{
 				"gloss": "weg-",
@@ -57691,6 +58196,11 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "<clb id=\"CLB\" nr=\"10\"/>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w><sGr>Š<del_in/>E</sGr>-m<del_fin/>a-aš-ši</w>"
 			}
 		],
 		"KBo 32.15,Vs. 11a′": [
@@ -57750,6 +58260,11 @@
 				"gloss": "wie",
 				"segmentation": "mân",
 				"transliteration": "<w>ma-a-an</w>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w><laes_in/><d>D<laes_fin/></d><sGr><del_in/>IŠKUR<del_fin/></sGr>-aš-ma</w>"
 			}
 		],
 		"KBo 32.15,Vs. 12a′": [
@@ -57855,6 +58370,16 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "<clb id=\"CLB\" nr=\"14\"/>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w><del_in/>m<del_fin/>a-a-na-aš</w>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w>ḫur-ta-an-za-ma</w>"
 			},
 			{
 				"gloss": "Wettergott-DN.FNL(a).HITT.NOM.SG.C",
@@ -58070,6 +58595,11 @@
 				"transliteration": "<clb id=\"CLB\" nr=\"20\"/>"
 			},
 			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w>dam-mi-iš-ḫi-iš-<laes_in/>ke<laes_fin/>-ez-zi-an</w>"
+			},
+			{
 				"gloss": "welcher-REL.NOM.SG.C",
 				"segmentation": "kui-",
 				"transliteration": "<w>ku-iš</w>"
@@ -58078,6 +58608,11 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "<clb id=\"CLB\" nr=\"21\"/>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w><aGr>Ú-UL</aGr>-ma-an</w>"
 			}
 		],
 		"KBo 32.15,Vs. 1a′": [
@@ -58224,6 +58759,11 @@
 				"transliteration": "<clb id=\"CLB\" nr=\"23\"/>"
 			},
 			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w><num>1</num><aGr>-ŠU</aGr>-kán</w>"
+			},
+			{
 				"gloss": "du-PPROa.2SG.DAT/ACC",
 				"segmentation": "zik",
 				"transliteration": "<w>tu-uk</w>"
@@ -58281,6 +58821,11 @@
 				"gloss": "zum zweiten Mal",
 				"segmentation": "dan",
 				"transliteration": "<w>ta-a-an</w>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w>pé-e-di-ma-kán</w>"
 			}
 		],
 		"KBo 32.15,Vs. 24a′": [
@@ -58388,6 +58933,11 @@
 				"transliteration": "<clb id=\"CLB\" nr=\"26\"/>"
 			},
 			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w>an-za-a-ša</w>"
+			},
+			{
 				"gloss": "essen-INF",
 				"segmentation": "ēd-/ad-",
 				"transliteration": "<w>a-da-an-<del_in/>na<del_fin/></w>"
@@ -58435,6 +58985,11 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "<clb id=\"CLB\" nr=\"27\"/>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w><d>LÚ.MEŠ</d><sGr>SAGI</sGr>-ia-at-na-aš</w>"
 			}
 		],
 		"KBo 32.15,Vs. 28a′": [
@@ -58456,6 +59011,11 @@
 				"transliteration": "<clb id=\"CLB\" nr=\"28\"/>"
 			},
 			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w>pa-ra-a-ia-aš-na-aš</w>"
+			},
+			{
 				"gloss": "geben-1PL.PRS.IMPF",
 				"segmentation": "p=išk-",
 				"transliteration": "<w>pí-iš-ke-u-wa-ni</w>"
@@ -58464,6 +59024,11 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "<clb id=\"CLB\" nr=\"29\"/>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w><d>LÚ.MEŠ</d><sGr>MUḪALDIM</sGr>-ša-at-na-aš</w>"
 			}
 		],
 		"KBo 32.15,Vs. 29b′": [
@@ -58471,6 +59036,11 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "<clb id=\"CLB\" nr=\"30\"/>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w>ar-ra-aš-kán-zi-ia-<ras_in/>aš-na<ras_fin/>-aš</w>"
 			},
 			{
 				"gloss": "",
@@ -58772,6 +59342,11 @@
 			{
 				"gloss": "",
 				"segmentation": "",
+				"transliteration": "<w>ši-i<del_fin/>š-ši-ia-u-an-za</w>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
 				"transliteration": "<clb id=\"CLB\" nr=\"4\"/>"
 			},
 			{
@@ -58847,6 +59422,11 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "<clb id=\"CLB\" nr=\"6\"/>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w><sGr>KÙ.BABBAR</sGr>-ma-aš-š<del_in/>i<del_fin/></w>"
 			}
 		],
 		"KBo 32.15,Vs. 8a′": [
@@ -58896,6 +59476,16 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "<clb id=\"CLB\" nr=\"7\"/>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w>ma-a-na-aš</w>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w>ki-iš-du-wa-an-za-<laes_in/>ma</w>"
 			},
 			{
 				"gloss": "Wettergott-DN.FNL(a).HITT.NOM.SG.C",
@@ -59298,6 +59888,11 @@
 				"transliteration": "<w><del_fin/>x</w>"
 			},
 			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w>ḫa-a-aš-še-ša</w>"
+			},
+			{
 				"gloss": "welcher-REL.NOM.PL.C",
 				"segmentation": "kui-",
 				"transliteration": "<w>ku-i-<laes_in/>e<laes_fin/>-e<del_in/>š</w>"
@@ -59414,6 +60009,11 @@
 				"transliteration": "<clb id=\"CLB\" nr=\"32\"/>"
 			},
 			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w><d>NA₄</d><sGr>ARA₅</sGr>-ia-wa</w>"
+			},
+			{
 				"gloss": "welcher-REL.NOM.SG.C",
 				"segmentation": "kui-",
 				"transliteration": "<w>ku-iš</w>"
@@ -59439,6 +60039,11 @@
 				"gloss": "CONNn",
 				"segmentation": "nu",
 				"transliteration": "<w>nu</w>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w>a-pé-e-da-ni-ia</w>"
 			}
 		],
 		"KBo 32.16,Rs. 7b′": [
@@ -59699,6 +60304,11 @@
 			{
 				"gloss": "",
 				"segmentation": "",
+				"transliteration": "<w>ku-iš-kán</w>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
 				"transliteration": "<w><del_in/></w>"
 			},
 			{
@@ -59883,6 +60493,16 @@
 				"transliteration": "<clb id=\"CLB\" nr=\"1\"/>"
 			},
 			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w><sGr><del_in/>NU.GÁL</sGr>-m<del_fin/>a-aš</w>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w>me-ma-iš-ši</w>"
+			},
+			{
 				"gloss": "welcher-REL.NOM.SG.C",
 				"segmentation": "kui-",
 				"transliteration": "<w>ku-iš</w>"
@@ -59975,6 +60595,11 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "<clb id=\"CLB\" nr=\"17\"/>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w><sGr>KÙ.BABBAR</sGr>-ma-aš-<ras_in/>ši<ras_fin/></w>"
 			}
 		],
 		"KBo 32.16,Vs. 22b": [
@@ -59997,6 +60622,16 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "<clb id=\"CLB\" nr=\"18\"/>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w>ma-a-na-aš</w>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w>ki-iš-du-wa-an-za-ma</w>"
 			},
 			{
 				"gloss": "Wettergott-DN.FNL(a).HITT.NOM.SG.C",
@@ -60278,6 +60913,11 @@
 				"gloss": "Greis-D/L.PL",
 				"segmentation": "ŠU.GI",
 				"transliteration": "<w><d>LÚ.MEŠ</d><sGr>ŠU.GI</sGr>-aš</w>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w><sGr>NU.GÁL</sGr>-ma-aš</w>"
 			}
 		],
 		"KBo 32.16,Vs. 30b": [
@@ -60314,6 +60954,11 @@
 		],
 		"KBo 32.16,Vs. 3b": [
 			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w><del_in/>me-ma-i<del_fin/>š<corr c=\"?\"/>-ši</w>"
+			},
+			{
 				"gloss": "welcher-REL.NOM.SG.C",
 				"segmentation": "kui-",
 				"transliteration": "<w>ku-iš</w>"
@@ -60344,6 +60989,11 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "<w><del_fin/></w>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w>ar-ku-<laes_in/>ar<laes_fin/>-ši</w>"
 			},
 			{
 				"gloss": "welcher-REL.NOM.SG.C",
@@ -60400,6 +61050,11 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "<clb id=\"CLB\" nr=\"5\"/>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w><del_in/><d>M</d>pa-az<del_fin/>-za-a-an-<del_in/>ni-k<del_fin/>ar-ri-ma</w>"
 			},
 			{
 				"gloss": "viel-ADV",
@@ -60485,6 +61140,11 @@
 				"transliteration": "<clb id=\"CLB\" nr=\"7\"/>"
 			},
 			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w><d>M</d><del_fin/>za-a-za-al-la-aš-ma</w>"
+			},
+			{
 				"gloss": "viel-ADV",
 				"segmentation": "mekk=i-",
 				"transliteration": "<w>me-ek-ki</w>"
@@ -60527,6 +61187,11 @@
 				"gloss": "Platz-D/L.SG",
 				"segmentation": "ped=a-",
 				"transliteration": "<w>pé-e-di</w>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w>ud-da-a-ar-še-et</w>"
 			}
 		],
 		"KBo 32.17,Rs. 10a′": [
@@ -60925,6 +61590,11 @@
 				"transliteration": "<clb id=\"CLB\" nr=\"2\"/>"
 			},
 			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w><del_in/>zi-i<del_fin/>g-ga</w>"
+			},
+			{
 				"gloss": "Ebläer-VOC.SG",
 				"segmentation": "eplum=ina-",
 				"transliteration": "<w><d>URU</d>e-ep-lu-mi-n<del_in/>a-aš</w>"
@@ -60989,6 +61659,11 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "<clb id=\"CLB\" nr=\"4\"/>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w><laes_in/><d>D<laes_fin/></d><sGr>IŠKUR</sGr>-aš-mu-kán</w>"
 			},
 			{
 				"gloss": "aus-",
@@ -61480,6 +62155,11 @@
 				"transliteration": "<w><sGr><del_in/>DUMU</sGr><d>MEŠ</d></w>"
 			},
 			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w><d>URU</d>i<del_fin/>-<laes_in/>ki-kal-wa<laes_fin/></w>"
+			},
+			{
 				"gloss": "weg-",
 				"segmentation": "arḫa",
 				"transliteration": "<w>ar-ḫ<del_in/>a</w>"
@@ -61519,9 +62199,19 @@
 				"transliteration": "<clb id=\"CLB\" nr=\"44\"/>"
 			},
 			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w><del_in/>ar-ḫa-ma-wa-ra-a<del_fin/>n</w>"
+			},
+			{
 				"gloss": "lassen-2SG.IMP",
 				"segmentation": "tarn=a-",
 				"transliteration": "<w>tar-na</w>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w><d>M</d>pur-ra-<laes_in/>an<laes_fin/>-<del_in/>pát<del_fin/></w>"
 			}
 		],
 		"KBo 32.19,Rs. 28a′": [
@@ -61551,6 +62241,11 @@
 				"gloss": "neun-ERROR",
 				"segmentation": "9",
 				"transliteration": "<w><aGr>A-NA</aGr> <num>9</num></w>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w><sGr>LUGAL</sGr><d>MEŠ</d>-wa</w>"
 			},
 			{
 				"gloss": "welcher-REL.NOM.SG.C",
@@ -61623,6 +62318,11 @@
 				"transliteration": "<clb id=\"CLB\" nr=\"46\"/>"
 			},
 			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w><del_in/><d>URU</d>i-ki-in-ka-li-i<del_fin/>š-ša-wa</w>"
+			},
+			{
 				"gloss": "Stuhl-GEN.SG",
 				"segmentation": "ŠÚ.A",
 				"transliteration": "<w><d>GIŠ</d><sGr>ŠÚ.A</sGr>-aš</w>"
@@ -61669,6 +62369,11 @@
 				"transliteration": "<clb id=\"CLB\" nr=\"47\"/>"
 			},
 			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w><del_in/><d>URU</d>e-ep-la-m<del_fin/>a-wa</w>"
+			},
+			{
 				"gloss": "Stuhl-GEN.SG",
 				"segmentation": "ŠÚ.A",
 				"transliteration": "<w><d>GIŠ</d><sGr>ŠÚ.A</sGr>-aš</w>"
@@ -61704,6 +62409,11 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "<clb id=\"CLB\" nr=\"48\"/>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w>ki-nu-un-ma-wa-ra-aš</w>"
 			}
 		],
 		"KBo 32.19,Rs. 34b′": [
@@ -61899,6 +62609,11 @@
 				"transliteration": "<clb id=\"CLB\" nr=\"51\"/>"
 			},
 			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w>nu-wa-aš-ma-aš</w>"
+			},
+			{
 				"gloss": "Werkzeug-ACC.PL(UNM)_PPRO.2PL.GEN",
 				"segmentation": "TUKUL°ḪI.A°-KU-NU",
 				"transliteration": "<w><d>GIŠ</d><sGr>TUKUL</sGr><d>ḪI.A</d><aGr>-KU-NU</aGr></w>"
@@ -62082,6 +62797,11 @@
 				"transliteration": "<clb id=\"CLB\" nr=\"53\"/>"
 			},
 			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w><del_in/><d>A<del_fin/>.ŠÀ</d>ḫar-ša-a-u-ar-ma-wa-aš-ma-aš</w>"
+			},
+			{
 				"gloss": "kommen-3SG.PRS",
 				"segmentation": "wē-/uwa-",
 				"transliteration": "<w>ú-ez-zi</w>"
@@ -62148,6 +62868,16 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "<clb id=\"CLB\" nr=\"54\"/>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w><del_in/>m<del_fin/>a-a-an-wa-ra-at</w>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w><aGr>Ú-UL</aGr>-ma</w>"
 			},
 			{
 				"gloss": "machen-2PL.PRS",
@@ -62248,6 +62978,11 @@
 				"transliteration": "<clb id=\"CLB\" nr=\"56\"/>"
 			},
 			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w>nu-wa-aš-ša-an</w>"
+			},
+			{
 				"gloss": "ich-PPROa.1SG.NOM",
 				"segmentation": "uk",
 				"transliteration": "<w>am-mu-uk</w>"
@@ -62270,6 +63005,11 @@
 				"gloss": "ihr-PPROa.2PL.DAT/ACC",
 				"segmentation": "šumeš",
 				"transliteration": "<w>šu-ma-a-aš</w>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w>tu-e-eg-ga-ša-<laes_in/>ma<laes_fin/>-aš</w>"
 			},
 			{
 				"gloss": "kommen-1SG.PRS",
@@ -62650,6 +63390,11 @@
 		],
 		"KBo 32.19,Vs. 12b": [
 			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w><d>URU</d>e-ep-la-m<del_in/>a</w>"
+			},
+			{
 				"gloss": "Stuhl-GEN.SG",
 				"segmentation": "ŠÚ.A",
 				"transliteration": "<w><d>GIŠ</d><sGr>ŠÚ.A</sGr>-aš</w>"
@@ -62796,6 +63541,11 @@
 				"transliteration": "<w>nu</w>"
 			},
 			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w>šu-me-en-za-an-<del_in/>pát</w>"
+			},
+			{
 				"gloss": "Werkzeug-NOM.PL(UNM)_PPRO.2PL.GEN",
 				"segmentation": "TUKUL°ḪI.A°-KU-NU",
 				"transliteration": "<w><d>GIŠ</d><sGr>TUKUL</sGr><d>ḪI.A</d><aGr>-KU-NU</aGr></w>"
@@ -62845,6 +63595,11 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "<clb id=\"CLB\" nr=\"11\"/>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w><d>A.ŠÀ</d>ḫar-ša-a-u-<del_in/>ar-ma-aš-ma-aš</w>"
 			},
 			{
 				"gloss": "kommen-3SG.PRS",
@@ -62935,6 +63690,11 @@
 				"gloss": "wie",
 				"segmentation": "mân",
 				"transliteration": "<w>ma-a-an</w>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w><aGr>Ú-UL</aGr>-m<del_in/>a</w>"
 			},
 			{
 				"gloss": "machen-2PL.PRS",
@@ -63057,6 +63817,11 @@
 				"gloss": "ihr-PPROa.2PL.DAT/ACC",
 				"segmentation": "šumeš",
 				"transliteration": "<w>šu-ma-a-aš</w>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w>tu-e-<del_in/>eg-ga-ša-m<del_fin/>a-aš</w>"
 			},
 			{
 				"gloss": "kommen-1SG.PRS",
@@ -63291,6 +64056,11 @@
 				"transliteration": "<clb id=\"CLB\" nr=\"19\"/>"
 			},
 			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w>ša-ra-a-az-zi-<del_in/>ia</w>"
+			},
+			{
 				"gloss": "Umdrehung-ACC.SG.N",
 				"segmentation": "waḫnu=eššar",
 				"transliteration": "<w>wa-aḫ-nu-e-eš-ša<del_fin/>r</w>"
@@ -63315,9 +64085,19 @@
 				"transliteration": "<clb id=\"CLB\" nr=\"2\"/>"
 			},
 			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w>ar-ḫa-ma-an</w>"
+			},
+			{
 				"gloss": "lassen-2SG.IMP",
 				"segmentation": "tarn=a-",
 				"transliteration": "<w>tar-n<del_in/>a</w>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w><d>M</d>pur-ra-an-pá<del_fin/>t</w>"
 			}
 		],
 		"KBo 32.19,Vs. 30a": [
@@ -63383,6 +64163,11 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "<clb id=\"CLB\" nr=\"20\"/>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w><sGr>KI.LAM</sGr>-ni-ma-ká<del_in/>n</w>"
 			},
 			{
 				"gloss": "inmitten",
@@ -63457,6 +64242,11 @@
 			{
 				"gloss": "",
 				"segmentation": "",
+				"transliteration": "<w>am-me-ta-az-ma-an</w>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
 				"transliteration": "<w><del_in/></w>"
 			},
 			{
@@ -63492,6 +64282,11 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "<clb id=\"CLB\" nr=\"22\"/>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w>ša-ra-a-az-zi-i<del_in/>a-ša</w>"
 			},
 			{
 				"gloss": "Umdrehung-GEN.SG",
@@ -63558,6 +64353,11 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "<clb id=\"CLB\" nr=\"23\"/>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w>kat-te-e-ra-aš-kán</w>"
 			},
 			{
 				"gloss": "Umdrehung-GEN.SG",
@@ -63648,6 +64448,11 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "<clb id=\"CLB\" nr=\"24\"/>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w><laes_in/>ša<laes_fin/>-ra-a-az-zi-ia-aš-<laes_in/>ma<laes_fin/>-<del_in/>kán</w>"
 			},
 			{
 				"gloss": "Umdrehung-GEN.SG",
@@ -64141,6 +64946,11 @@
 				"transliteration": "<clb id=\"CLB\" nr=\"4\"/>"
 			},
 			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w><d>URU</d>i-ki-in-<del_in/>ka-li-iš-ša<note c=\"This Hittite form does not make sense in context and is probably influenced by its Hurrian counterpart.\"/></w>"
+			},
+			{
 				"gloss": "Stuhl-GEN.SG",
 				"segmentation": "ŠÚ.A",
 				"transliteration": "<w><d>GIŠ</d><sGr>ŠÚ.A</sGr>-aš</w>"
@@ -64214,6 +65024,11 @@
 				"transliteration": "<clb id=\"CLB\" nr=\"5\"/>"
 			},
 			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w><d>URU</d>e-ep-la-m<del_in/>a<corr c=\"?\"/></w>"
+			},
+			{
 				"gloss": "Stuhl-GEN.SG",
 				"segmentation": "ŠÚ.A",
 				"transliteration": "<w><d>GIŠ</d><sGr>ŠÚ.A</sGr>-aš</w>"
@@ -64275,6 +65090,11 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "<clb id=\"CLB\" nr=\"6\"/>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w>ki-nu-un-ma-aš</w>"
 			},
 			{
 				"gloss": "",
@@ -66597,6 +67417,11 @@
 				"gloss": "tausend-QUANcar",
 				"segmentation": "LĪM",
 				"transliteration": "<w><aGr>L<del_fin/>I-IM</aGr></w>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w><sGr>ARAD</sGr><d>MEŠ</d>-ma-<laes_in/>az<laes_fin/></w>"
 			}
 		],
 		"KBo 32.215,13′": [
@@ -67063,6 +67888,11 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "<clb id=\"CLB\" nr=\"2\"/>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w>ar-ḫa-m<del_in/>a-an</w>"
 			}
 		],
 		"KBo 32.22,Vs. II 3′": [
@@ -67111,6 +67941,11 @@
 				"transliteration": "<clb id=\"CLB\" nr=\"4\"/>"
 			},
 			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w><del_in/><d>URU</d>i-k<del_fin/>i-ga-le-eš-ša</w>"
+			},
+			{
 				"gloss": "Stuhl-GEN.SG",
 				"segmentation": "ŠÚ.A",
 				"transliteration": "<w><d>G<del_in/>IŠ</d><sGr>ŠÚ.A</sGr>-aš</w>"
@@ -67138,6 +67973,11 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "<clb id=\"CLB\" nr=\"5\"/>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w><del_in/><d>URU</d>e-e<del_fin/>p-la-ma</w>"
 			},
 			{
 				"gloss": "Stuhl-GEN.SG",
@@ -68207,6 +69047,11 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "<clb id=\"CLB\" nr=\"10\"/>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w>ša-ra-a-az-zi-ia-ša</w>"
 			}
 		],
 		"KBo 32.24+, {€1} Vs. II 16′": [
@@ -68243,6 +69088,11 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "<clb id=\"CLB\" nr=\"11\"/>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w><sGr><del_in/>KI.LA<del_fin/>M</sGr>-ni-ma-kán</w>"
 			},
 			{
 				"gloss": "inmitten",
@@ -68351,6 +69201,11 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "<w><space c=\"48\"/></w>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w>šu-me-en<del_fin/>-za-an-pát</w>"
 			}
 		],
 		"KBo 32.24+, {€1} Vs. II 4′": [
@@ -68629,6 +69484,11 @@
 			{
 				"gloss": "",
 				"segmentation": "",
+				"transliteration": "<w>ku-i-ša</w>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
 				"transliteration": "<w><sGr>GÉ<del_in/>ME</sGr>-</w>"
 			}
 		],
@@ -68794,6 +69654,11 @@
 				"gloss": "Meki-PNm.VOC.SG",
 				"segmentation": "mek=i-",
 				"transliteration": "<w><del_in/><d>M</d>me<del_fin/>-<laes_in/>e<laes_fin/>-ki</w>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w><laes_in/>i<laes_fin/>-ia-wa-ra-at</w>"
 			},
 			{
 				"gloss": "",
@@ -69128,6 +69993,11 @@
 		],
 		"KBo 32.27,3′": [
 			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w><del_in/>tu-e-eg-ga-ša-ma<del_fin/>-aš<corr c=\"!\"/><note c=\"Text: &lt;SP_f_AO_3a_SIGN&gt;U&lt;/SP_f_AO_3a_SIGN&gt;.\" n=\"1\"/></w>"
+			},
+			{
 				"gloss": "kommen-1SG.PRS",
 				"segmentation": "wē-/uwa-",
 				"transliteration": "<w>ú-wa-mi</w>"
@@ -69316,6 +70186,11 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "<clb id=\"CLB\" nr=\"2\"/>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w>nu-w<del_fin/>a-aš-ša-a<del_in/>n</w>"
 			}
 		],
 		"KBo 32.29,3′": [
@@ -69323,6 +70198,11 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "<w><space c=\"17\"/></w>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w>tu-e-e<del_fin/>g-ga-aš-ma-aš</w>"
 			},
 			{
 				"gloss": "kommen-1SG.PRS",
@@ -69443,6 +70323,11 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "<clb id=\"CLB\" nr=\"5\"/>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w><laes_in/>ša<laes_fin/>-ra-a<del_in/>z-zi-ya</w>"
 			}
 		],
 		"KBo 32.29,9′": [
@@ -69533,6 +70418,11 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "<w><space c=\"44\"/></w>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w>tu-e-e<del_fin/>g-ga-aš-ma-aš</w>"
 			},
 			{
 				"gloss": "",
@@ -70653,6 +71543,11 @@
 				"transliteration": "<clb id=\"CLB\" nr=\"7\"/>"
 			},
 			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w>ḫa-at-ta-<laes_in/>a<laes_fin/>-<del_in/>tar-ma-aš-ma-aš</w>"
+			},
+			{
 				"gloss": "sprechen-1SG.PRS.IMPF",
 				"segmentation": "mem=išk-",
 				"transliteration": "<w>me-mi-iš-ke-mi</w>"
@@ -70840,6 +71735,11 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "<clb id=\"CLB\" nr=\"11\"/>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w><d>D</d>iš-ḫa-ra-aš-ma-k<del_in/>án</w>"
 			}
 		],
 		"KBo 32.37,15′": [
@@ -71161,6 +72061,11 @@
 			{
 				"gloss": "",
 				"segmentation": "",
+				"transliteration": "<w>ka<del_fin/>-ru-ú-a-ri-wa-ar-kán</w>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
 				"transliteration": "<w><del_in/></w>"
 			}
 		],
@@ -71411,6 +72316,11 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "<w>x</w>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w><sGr>KÙ.SI₂₂</sGr>-ma</w>"
 			},
 			{
 				"gloss": "wie",
@@ -72147,6 +73057,11 @@
 			{
 				"gloss": "",
 				"segmentation": "",
+				"transliteration": "<w>k<del_fin/>a-ni-ru-wa-an-ti-ma</w>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
 				"transliteration": "<w><del_in/></w>"
 			}
 		],
@@ -72343,6 +73258,11 @@
 				"transliteration": "<clb id=\"CLB\" nr=\"3\"/>"
 			},
 			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w>ḫa-at-ta-a-tar-ma-aš-m<del_fin/>a-aš</w>"
+			},
+			{
 				"gloss": "sprechen-1SG.PRS.IMPF",
 				"segmentation": "mem=išk-",
 				"transliteration": "<w>me-mi-i<del_in/>š-ke-mi<del_fin/></w>"
@@ -72466,6 +73386,11 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "<w><space c=\"26\"/></w>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w><sGr>SA<del_fin/>G.DU</sGr>-mu</w>"
 			},
 			{
 				"gloss": "sprechen-3PL.PRS.IMPF",
@@ -72812,6 +73737,11 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "<clb id=\"CLB\" nr=\"21\"/>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w>na-aš-mu-za</w>"
 			}
 		],
 		"KBo 32.47a+, {€1} Rs. III 13": [
@@ -73080,6 +74010,11 @@
 				"transliteration": "<clb id=\"CLB\" nr=\"14\"/>"
 			},
 			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w>ḫa-at-re-eš-š<del_fin/>ar-mi-it</w>"
+			},
+			{
 				"gloss": "hören-2PL.PST.IMPF",
 				"segmentation": "ištamaš=ke/a-",
 				"transliteration": "<w>iš-ta-ma-aš-ke-tén</w>"
@@ -73146,6 +74081,11 @@
 				"transliteration": "<w><del_fin/>x</w>"
 			},
 			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w>a-ar-šu-u-na</w>"
+			},
+			{
 				"gloss": "demnach",
 				"segmentation": "ḫanda",
 				"transliteration": "<w>ḫa-an-ta</w>"
@@ -73191,6 +74131,11 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "<clb id=\"CLB\" nr=\"19\"/>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w>a-pa-a-ša-mu</w>"
 			},
 			{
 				"gloss": "Hand-ACC.SG.C",
@@ -74159,6 +75104,11 @@
 				"transliteration": "<clb id=\"CLB\" nr=\"6\"/>"
 			},
 			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w>ḫa-at-<del_in/>ta-a-tar-ma-aš-ma-aš</w>"
+			},
+			{
 				"gloss": "sprechen-1SG.PRS.IMPF",
 				"segmentation": "mem=išk-",
 				"transliteration": "<w>me-mi-iš-ke-mi</w>"
@@ -74248,6 +75198,11 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "<clb id=\"CLB\" nr=\"5\"/>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w>ḫa-at-ta-a-tar-ma-aš-<del_in/>ma-aš</w>"
 			},
 			{
 				"gloss": "sprechen-1SG.PRS.IMPF",
@@ -74675,6 +75630,16 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "<clb id=\"CLB\" nr=\"2\"/>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w><del_in/>ma-a-na-aš</w>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w>ḫur-t<del_fin/>a-an-za-ma</w>"
 			},
 			{
 				"gloss": "Wettergott-DN.FNL(a).HITT.NOM.SG.C",
@@ -75486,7 +76451,17 @@
 			{
 				"gloss": "",
 				"segmentation": "",
+				"transliteration": "<w><sGr>NU.G<del_fin/>ÁL</sGr>-<laes_in/>ma<laes_fin/>-aš</w>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
 				"transliteration": "<clb id=\"CLB\" nr=\"4\"/>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w>me-ma-<del_in/>iš-ši</w>"
 			}
 		],
 		"KBo 32.59,3′": [
@@ -75499,6 +76474,11 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "<clb id=\"CLB\" nr=\"5\"/>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w>ar-ku-ar-š<del_fin/>i</w>"
 			},
 			{
 				"gloss": "welcher-REL.NOM.SG.C",
@@ -76649,6 +77629,11 @@
 				"gloss": "Meki-PNm.VOC.SG",
 				"segmentation": "mek=i-",
 				"transliteration": "<w><d>M</d>me-e-ke-e<del_fin/>š</w>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w>i-ia-wa-ra-a<del_in/>t<corr c=\"?\"/></w>"
 			}
 		],
 		"KBo 32.69,3′": [
@@ -77023,6 +78008,11 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "<w><space c=\"15\"/></w>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w><d>D</d>šu-wa-l<del_fin/>i-ia-az-ša</w>"
 			},
 			{
 				"gloss": "hinunter",
@@ -87522,6 +88512,11 @@
 			{
 				"gloss": "",
 				"segmentation": "",
+				"transliteration": "<w><sGr>EGI<del_in/>R</sGr>-a<del_fin/>n-da-ma-za</w>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
 				"transliteration": "<w>x<del_in/></w>"
 			},
 			{
@@ -88628,6 +89623,11 @@
 				"transliteration": "<clb id=\"CLB\" nr=\"97\"/>"
 			},
 			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w><sGr>EGIR</sGr><aGr>-ŠU</aGr>-ma-kán</w>"
+			},
+			{
 				"gloss": "Silber-NOM.SG(UNM)",
 				"segmentation": "KÙ.BABBAR",
 				"transliteration": "<w><sGr>KÙ.BABBAR</sGr></w>"
@@ -89656,6 +90656,11 @@
 				"gloss": "Opfer-…:GEN.SG",
 				"segmentation": "SÍSKUR",
 				"transliteration": "<w><aGr>ŠA</aGr> <sGr>SÍSKUR</sGr></w>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w>it-kal-zi-aš</w>"
 			}
 		],
 		"KBo 33.43+, {€1} Rs. IV 37": [
@@ -89675,6 +90680,11 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "<clb id=\"CLB\" nr=\"113\"/>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w><aGr>A-NA</aGr> <d>D</d><sGr>UTU</sGr><aGr>-ŠI</aGr>-ia-at-kán</w>"
 			},
 			{
 				"gloss": "Zitḫara-…:D/L.SG",
@@ -89971,6 +90981,11 @@
 				"transliteration": "<clb id=\"CLB\" nr=\"13\"/>"
 			},
 			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w>me-na-aḫ-ḫa-an-da-ma-kán</w>"
+			},
+			{
 				"gloss": "Ḫepat-…:GEN.SG",
 				"segmentation": "ḫep=a(t)(u)-",
 				"transliteration": "<w><aGr><laes_in/>IŠ-TU<laes_fin/></aGr> <aGr>ŠA</aGr> <d>D</d>ḫé-pát</w>"
@@ -89998,6 +91013,11 @@
 				"transliteration": "<w><d>D</d><sGr>UTU</sGr></w>"
 			},
 			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w><d>URU</d>a-ri-in-na-ia</w>"
+			},
+			{
 				"gloss": "dito-ADV",
 				"segmentation": "KI.MIN",
 				"transliteration": "<w><sGr>KI.MIN</sGr></w>"
@@ -90020,6 +91040,11 @@
 				"transliteration": "<w><num>1</num></w>"
 			},
 			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w>ku-up-ti-in-ma</w>"
+			},
+			{
 				"gloss": "Šuwaliyat-…:D/L.SG",
 				"segmentation": "šualia=t-",
 				"transliteration": "<w><aGr>A-NA</aGr> <d>D</d>šu-wa-li-ia-ti</w>"
@@ -90035,6 +91060,11 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "<clb id=\"CLB\" nr=\"15\"/>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w>me-na-aḫ-ḫa-an-da-ma-kán</w>"
 			},
 			{
 				"gloss": "Nabarb/wi-…:D/L.SG",
@@ -90077,6 +91107,11 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "<clb id=\"CLB\" nr=\"17\"/>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w>me-na-aḫ-ḫa-an-da-ma-kán</w>"
 			}
 		],
 		"KBo 33.43+, {€1} Vs. I 18": [
@@ -90141,6 +91176,11 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "<clb id=\"CLB\" nr=\"19\"/>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w>me-na-aḫ-ḫa-an-da-ma-kán</w>"
 			}
 		],
 		"KBo 33.43+, {€1} Vs. I 2": [
@@ -90217,6 +91257,11 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "<clb id=\"CLB\" nr=\"21\"/>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w>me-na-aḫ-ḫa-an-da-ma-kán</w>"
 			}
 		],
 		"KBo 33.43+, {€1} Vs. I 22": [
@@ -90285,6 +91330,11 @@
 				"transliteration": "<clb id=\"CLB\" nr=\"23\"/>"
 			},
 			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w>me-na-aḫ-ḫa-an-da-ma-kán</w>"
+			},
+			{
 				"gloss": "Aiu-ERROR",
 				"segmentation": "aiu=(n)",
 				"transliteration": "<w><aGr>A-NA</aGr> <d>D</d>a-i-ú</w>"
@@ -90347,6 +91397,11 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "<clb id=\"CLB\" nr=\"25\"/>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w>me-<laes_in/>na-aḫ-ḫa-an-da-ma-kán<laes_fin/></w>"
 			}
 		],
 		"KBo 33.43+, {€1} Vs. I 27": [
@@ -90494,6 +91549,11 @@
 				"transliteration": "<clb id=\"CLB\" nr=\"28\"/>"
 			},
 			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w><aGr>A-NA</aGr> <sGr>DINGIR</sGr><d>MEŠ</d>˽<sGr>MUNUS</sGr><d>MEŠ</d>-ma</w>"
+			},
+			{
 				"gloss": "ein",
 				"segmentation": "1",
 				"transliteration": "<w><del_in/><num>1</num></w>"
@@ -90524,6 +91584,11 @@
 				"gloss": "Herr-…:D/L.SG",
 				"segmentation": "EN",
 				"transliteration": "<w><aGr>A-NA</aGr> <sGr>EN</sGr></w>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w><sGr>SÍSKUR</sGr>-ma</w>"
 			},
 			{
 				"gloss": "ein",
@@ -90559,6 +91624,11 @@
 				"gloss": "ein",
 				"segmentation": "1",
 				"transliteration": "<w><num>1</num></w>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w><sGr>UZ₆</sGr>-ia</w>"
 			},
 			{
 				"gloss": "lassen-3PL.PRS",
@@ -90738,6 +91808,11 @@
 				"transliteration": "<clb id=\"CLB\" nr=\"33\"/>"
 			},
 			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w>an-da-ma-kán</w>"
+			},
+			{
 				"gloss": "in dieser Weise",
 				"segmentation": "kiššan",
 				"transliteration": "<w>ki-iš-ša<corr c=\"!\"/>-an<note c=\"Text: &lt;SP_f_AO_3a_SIGN&gt;TA&lt;/SP_f_AO_3a_SIGN&gt;.\" n=\"1\"/></w>"
@@ -90751,6 +91826,11 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "<clb id=\"CLB\" nr=\"34\"/>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w>ma-a-an-wa</w>"
 			},
 			{
 				"gloss": "Gott-…:GEN.PL",
@@ -90906,6 +91986,11 @@
 				"gloss": "Entweihung-LUW||HITT.NOM.SG.C",
 				"segmentation": "maršaštarr=(i)-",
 				"transliteration": "<w>mar-ša-aš-tar-ri-iš</w>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w>pa-ap-ra-a-tar-ra</w>"
 			}
 		],
 		"KBo 33.43+, {€1} Vs. I 42": [
@@ -90923,6 +92008,11 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "<clb id=\"CLB\" nr=\"36\"/>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w><aGr>ŠA</aGr> <sGr>DINGIR</sGr><d>MEŠ</d>-ma-wa</w>"
 			},
 			{
 				"gloss": "Silber-NOM.SG(UNM)",
@@ -90945,6 +92035,11 @@
 				"gloss": "Gerät(e)-NOM.SG(UNM)",
 				"segmentation": "UNŪTU",
 				"transliteration": "<w><aGr>Ú-NU-UT</aGr></w>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w><sGr>TÚG</sGr><d>ḪI.A</d>-ia</w>"
 			},
 			{
 				"gloss": "rein-NOM.PL.N",
@@ -91006,6 +92101,11 @@
 		],
 		"KBo 33.43+, {€1} Vs. I 45": [
 			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w><sGr>GIŠ</sGr><d>ḪI.A</d>-ia</w>"
+			},
+			{
 				"gloss": "jeder; ganz-QUANall.ACC.SG.N",
 				"segmentation": "ḫumant-",
 				"transliteration": "<w>ḫu-u-ma-an</w>"
@@ -91026,6 +92126,11 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "<clb id=\"CLB\" nr=\"39\"/>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w>nam-ma-aš-ša-an</w>"
 			},
 			{
 				"gloss": "Tor-…:D/L.SG",
@@ -91063,6 +92168,11 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "<clb id=\"CLB\" nr=\"40\"/>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w>ke-e-ez-zi-ia-aš-ša-an</w>"
 			},
 			{
 				"gloss": "ein",
@@ -91147,6 +92257,11 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "<clb id=\"CLB\" nr=\"42\"/>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w><sGr>GÙB</sGr>-la-az-zi-ia</w>"
 			},
 			{
 				"gloss": "ein",
@@ -91303,6 +92418,16 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "<clb id=\"CLB\" nr=\"46\"/>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w>ma-a-na-aš</w>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w><sGr>MUNUS</sGr>-ma</w>"
 			}
 		],
 		"KBo 33.43+, {€1} Vs. I 52": [
@@ -91340,6 +92465,11 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "<clb id=\"CLB\" nr=\"48\"/>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w><sGr>GÙB</sGr>-la-az-ma</w>"
 			}
 		],
 		"KBo 33.43+, {€1} Vs. I 53": [
@@ -91445,6 +92575,11 @@
 				"transliteration": "<clb id=\"CLB\" nr=\"52\"/>"
 			},
 			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w><sGr>GÙB</sGr>-la-az-ma</w>"
+			},
+			{
 				"gloss": "welcher-REL.NOM.SG.C",
 				"segmentation": "kui-",
 				"transliteration": "<w>ku-iš</w>"
@@ -91539,6 +92674,11 @@
 				"transliteration": "<clb id=\"CLB\" nr=\"56\"/>"
 			},
 			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w>na-aš-za-an</w>"
+			},
+			{
 				"gloss": "Wettergott-…:GEN.SG",
 				"segmentation": "IŠKUR",
 				"transliteration": "<w><aGr>ŠA</aGr> <d>D</d><sGr>IŠKUR</sGr></w>"
@@ -91563,7 +92703,22 @@
 			{
 				"gloss": "",
 				"segmentation": "",
+				"transliteration": "<w><del_in/>m<del_fin/>a-a-na-aš</w>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w><sGr>MUNUS</sGr>-ma</w>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
 				"transliteration": "<clb id=\"CLB\" nr=\"58\"/>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w>na-aš-za-an</w>"
 			},
 			{
 				"gloss": "Ḫepat-…:GEN.SG",
@@ -91596,6 +92751,11 @@
 				"gloss": "Opfer-GEN.SG(UNM)",
 				"segmentation": "SÍSKUR",
 				"transliteration": "<w><sGr>SÍSKUR</sGr></w>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w><sGr>MUNUS</sGr>-ma</w>"
 			},
 			{
 				"gloss": "",
@@ -91652,6 +92812,11 @@
 				"transliteration": "<w>na-aš</w>"
 			},
 			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w><sGr>EGIR</sGr>-an</w>"
+			},
+			{
 				"gloss": "nicht-NEG",
 				"segmentation": "UL",
 				"transliteration": "<w><aGr>Ú-UL</aGr></w>"
@@ -91692,6 +92857,11 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "<clb id=\"CLB\" nr=\"9\"/>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w><aGr>ŠA</aGr> <d>D</d>ḫé-pát-ma</w>"
 			},
 			{
 				"gloss": "welcher-REL.NOM.PL.C",
@@ -91738,6 +92908,11 @@
 				"transliteration": "<clb id=\"CLB\" nr=\"59\"/>"
 			},
 			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w><laes_in/>nam<laes_fin/>-ma-kán</w>"
+			},
+			{
 				"gloss": "Herr-NOM.SG(UNM)",
 				"segmentation": "EN",
 				"transliteration": "<w><sGr>EN</sGr></w>"
@@ -91778,6 +92953,11 @@
 				"gloss": "setzen-3SG.PRS",
 				"segmentation": "dai-/te-/ti(ya)-",
 				"transliteration": "<w>da-a-i</w>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w><d>LÚ</d><sGr>AZU</sGr>-ma</w>"
 			}
 		],
 		"KBo 33.43+, {€1} Vs. II 11": [
@@ -91864,6 +93044,11 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "<clb id=\"CLB\" nr=\"71\"/>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w>ma-aḫ-ḫa-an-ma-za-kán</w>"
 			}
 		],
 		"KBo 33.43+, {€1} Vs. II 14": [
@@ -92110,6 +93295,11 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "<clb id=\"CLB\" nr=\"77\"/>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w><ras_in/>nam<ras_fin/>-ma-aš</w>"
 			}
 		],
 		"KBo 33.43+, {€1} Vs. II 21": [
@@ -92141,6 +93331,11 @@
 				"transliteration": "<clb id=\"CLB\" nr=\"78\"/>"
 			},
 			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w><aGr>Ú-UL</aGr>-aš</w>"
+			},
+			{
 				"gloss": "irgendwie",
 				"segmentation": "kuwatka",
 				"transliteration": "<w>ku-wa-at-ka₄</w>"
@@ -92154,6 +93349,11 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "<clb id=\"CLB\" nr=\"79\"/>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w><aGr>Ú-UL</aGr>-ma-aš</w>"
 			}
 		],
 		"KBo 33.43+, {€1} Vs. II 23": [
@@ -92198,6 +93398,11 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "<clb id=\"CLB\" nr=\"81\"/>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w>nam-ma-aš-za-an</w>"
 			}
 		],
 		"KBo 33.43+, {€1} Vs. II 25": [
@@ -92234,6 +93439,11 @@
 				"transliteration": "<clb id=\"CLB\" nr=\"82\"/>"
 			},
 			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w><del_in/>k<del_fin/>at-ta-pát-za</w>"
+			},
+			{
 				"gloss": "setzen-3SG.PRS",
 				"segmentation": "dai-/te-/ti(ya)-",
 				"transliteration": "<w>da-a-i</w>"
@@ -92242,6 +93452,11 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "<clb id=\"CLB\" nr=\"83\"/>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w>ma-aḫ-ḫa-an-ma-za-kán</w>"
 			},
 			{
 				"gloss": "Gewand-ACC.SG(UNM)",
@@ -92339,6 +93554,11 @@
 			{
 				"gloss": "",
 				"segmentation": "",
+				"transliteration": "<w><del_in/><d>L<del_fin/>Ú.MEŠ</d>dam-na-aš-ša-ri-e-eš-ma</w>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
 				"transliteration": "<w>x<del_in/></w>"
 			}
 		],
@@ -92423,6 +93643,16 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "<clb id=\"CLB\" nr=\"87\"/>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w><aGr><del_in/>Š<del_fin/>A</aGr> <d>D</d><aGr><laes_in/>IŠTAR<laes_fin/></aGr>-ma</w>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w><d>D</d>na-pár-pí-ia-aš-ša</w>"
 			},
 			{
 				"gloss": "Wasser-GEN.SG",
@@ -92609,6 +93839,11 @@
 				"transliteration": "<w>ḫa-pu-pí-it</w>"
 			},
 			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w>ḫu-uš-ti-it-<laes_in/>ta</w>"
+			},
+			{
 				"gloss": "Zicklein-INS(UNM)",
 				"segmentation": "MÁŠ.TUR",
 				"transliteration": "<w><sGr>MÁŠ.TUR<laes_fin/></sGr></w>"
@@ -92681,6 +93916,16 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "<clb id=\"CLB\" nr=\"66\"/>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w>ma-a-na-aš</w>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w><sGr>MUNUS</sGr>-ma</w>"
 			},
 			{
 				"gloss": "",
@@ -92972,6 +94217,16 @@
 				"gloss": "wie",
 				"segmentation": "mân",
 				"transliteration": "<w>ma-a-an</w>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w><d>D</d><aGr>IŠTAR</aGr>-ma</w>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w><d>D</d>na-pár-pí-ia</w>"
 			},
 			{
 				"gloss": "",
@@ -101838,6 +103093,11 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "<clb id=\"CLB\" nr=\"43\"/>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w>nam-ma-at-ša-a<del_in/>n<del_fin/></w>"
 			}
 		],
 		"KBo 40.123+, {€1+2+3} Vs. I 37/10′/Vs. 5′": [
@@ -101884,6 +103144,16 @@
 				"transliteration": "<clb id=\"CLB\" nr=\"44\"/>"
 			},
 			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w><d>GIŠ</d><sGr>EREN</sGr>-ma-kán</w>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w><d>GIŠ</d>pa-i-ni-ia</w>"
+			},
+			{
 				"gloss": "so (wie erwähnt)",
 				"segmentation": "apeniššan",
 				"transliteration": "<w>a-pé-ni-iš-ša-an</w>"
@@ -101904,6 +103174,11 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "<clb id=\"CLB\" nr=\"45\"/>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w><aGr>Ú-UL</aGr>-<del_in/>m<del_fin/>a</w>"
 			},
 			{
 				"gloss": "zerstoßen-3PL.PRS",
@@ -102724,6 +103999,11 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "<w><aGr>ŠA</aGr> <d>D</d>ša-wu<subscr c=\"u\"/>-uš<del_fin/>-ga-aš-ma</w>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w><d>D</d>na-pár-pí-ia-aš-ša</w>"
 			}
 		],
 		"KBo 40.123+, {€12+7} Rs. 5′/Rs. IV 10′": [
@@ -102782,7 +104062,17 @@
 			{
 				"gloss": "",
 				"segmentation": "",
+				"transliteration": "<w><num>1</num><aGr>-<laes_in/>EN<laes_fin/></aGr>-pát</w>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
 				"transliteration": "<gap c=\"(Rasur)\"/>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w><ras_in/>ke<ras_fin/>-e-da-ni-pát</w>"
 			}
 		],
 		"KBo 40.123+, {€12+7} Rs. 7′/Rs. IV 12′": [
@@ -102932,6 +104222,11 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "<clb id=\"CLB\" nr=\"57\"/>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w><aGr>ŠA</aGr> it-kal-zi-ia-a<del_in/>š-m<del_fin/>a-aš</w>"
 			}
 		],
 		"KBo 40.123+, {€12+8} Rs. 9′/Rs. IV 2′": [
@@ -102939,6 +104234,11 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "<clb id=\"CLB\" nr=\"58\"/>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w><aGr><del_in/>A-NA</aGr> <d>D</d><sGr>UTU</sGr><aGr>-ŠI</aGr>-i<del_fin/>a-at-kán</w>"
 			},
 			{
 				"gloss": "Mund-ABL",
@@ -103553,6 +104853,11 @@
 				"transliteration": "<w><aGr>ŠA</aGr> <d>D</d><aGr>IŠTAR</aGr></w>"
 			},
 			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w><d>D</d>na-pár-pí-ia-aš-ša</w>"
+			},
+			{
 				"gloss": "Reinheit-HITT.GEN.SG",
 				"segmentation": "itkalz=i-",
 				"transliteration": "<w>it-kal-zi-<laes_in/>ia<laes_fin/>-aš</w>"
@@ -103620,6 +104925,11 @@
 				"gloss": "entlang",
 				"segmentation": "awan",
 				"transliteration": "<w>a-wa-an</w>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w>kat-ta-ma</w>"
 			}
 		],
 		"KBo 40.123+, {€1} Vs. I 12": [
@@ -103669,6 +104979,11 @@
 				"gloss": "CONNn=OBPs",
 				"segmentation": "nu=ššan",
 				"transliteration": "<w>nu-uš-ša-an</w>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w>a-pé-e-da-ni-ia</w>"
 			},
 			{
 				"gloss": "Tisch-…:D/L.SG",
@@ -103845,6 +105160,11 @@
 				"gloss": "Herr-D/L.SG(UNM)",
 				"segmentation": "EN",
 				"transliteration": "<w><sGr>EN</sGr></w>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w><sGr>SÍSKUR</sGr>-ia</w>"
 			}
 		],
 		"KBo 40.123+, {€1} Vs. I 17": [
@@ -103857,6 +105177,11 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "<clb id=\"CLB\" nr=\"22\"/>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w><del_in/>na<del_fin/>m-ma-za-kán</w>"
 			},
 			{
 				"gloss": "Herr-NOM.SG(UNM)",
@@ -104136,6 +105461,11 @@
 				"transliteration": "<w><num>1</num></w>"
 			},
 			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w><sGr>SILA₄</sGr>-ia</w>"
+			},
+			{
 				"gloss": "zu-…:D/L.SG",
 				"segmentation": "ANA",
 				"transliteration": "<w><aGr><laes_in/>A-NA<laes_fin/></aGr></w>"
@@ -104196,6 +105526,11 @@
 				"gloss": "ein",
 				"segmentation": "1",
 				"transliteration": "<w><num>1</num></w>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w><sGr><laes_in/>SILA₄<laes_fin/></sGr>-ia</w>"
 			}
 		],
 		"KBo 40.123+, {€1} Vs. I 24": [
@@ -104380,6 +105715,11 @@
 				"transliteration": "<clb id=\"CLB\" nr=\"6\"/>"
 			},
 			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w>še-ra-aš-ša-an</w>"
+			},
+			{
 				"gloss": "Frucht-ACC.PL(UNM)",
 				"segmentation": "INBU",
 				"transliteration": "<w><d>GIŠ</d><aGr>IN-BI</aGr><d>ḪI.A</d></w>"
@@ -104462,6 +105802,11 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "<clb id=\"CLB\" nr=\"9\"/>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w>še-ra-aš-ša-an</w>"
 			}
 		],
 		"KBo 40.123+, {€1} Vs. I 67′!": [
@@ -104538,6 +105883,11 @@
 				"gloss": "CONNn=OBPk",
 				"segmentation": "nu=kan",
 				"transliteration": "<w>nu-kán</w>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w>ta-pu-ša-ia</w>"
 			}
 		],
 		"KBo 40.123+, {€1} Vs. I 9": [
@@ -115119,6 +116469,11 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "<clb id=\"CLB\" nr=\"4\"/>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w><laes_in/>še<laes_fin/>-e-nu-uš-ma</w>"
 			}
 		],
 		"KUB 27.38,Vs. I 1′": [
@@ -115178,6 +116533,11 @@
 				"gloss": "Wolle-ACC.SG(UNM)",
 				"segmentation": "SÍG",
 				"transliteration": "<w><sGr>SÍG</sGr></w>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w><sGr>BABBAR</sGr>-ia</w>"
 			}
 		],
 		"KUB 27.38,Vs. I 21′": [
@@ -115195,6 +116555,11 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "<clb id=\"CLB\" nr=\"6\"/>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w><laes_in/>še-er-uš<corr c=\"?\"/><laes_fin/></w>"
 			},
 			{
 				"gloss": "Kopf-…:D/L.SG",
@@ -115249,6 +116614,11 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "<clb id=\"CLB\" nr=\"8\"/>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w>nu-uš-za</w>"
 			},
 			{
 				"gloss": "Gottkönig-RELAT.PL.ABS",
@@ -119276,6 +120646,11 @@
 				"gloss": "Opfer-…:GEN.SG",
 				"segmentation": "SÍSKUR",
 				"transliteration": "<w><aGr><laes_in/>ŠA<laes_fin/></aGr> <sGr>SÍSKUR</sGr></w>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w>it-kal-zi-i<del_in/>a<del_fin/>-aš</w>"
 			}
 		],
 		"KUB 32.25+, {€1+2} Rs. IV 35′": [
@@ -119293,6 +120668,11 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "<clb id=\"CLB\" nr=\"5\"/>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w><aGr>A-NA</aGr> <d>D</d><sGr>UTU</sGr><aGr>-ŠI</aGr>-at-kán</w>"
 			}
 		],
 		"KUB 32.25+, {€1+2} Rs. IV 36′": [
@@ -124304,6 +125684,11 @@
 				"transliteration": "<w><space c=\"32\"/></w>"
 			},
 			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w>ma-aḫ<del_fin/>-<laes_in/>ḫa<laes_fin/>-<del_in/>a<del_fin/>n-ma-za-kán</w>"
+			},
+			{
 				"gloss": "Gewand-ACC.SG(UNM)",
 				"segmentation": "GÚ.È.A",
 				"transliteration": "<w><d>TÚG</d><sGr>GÚ.È.A</sGr></w>"
@@ -124476,6 +125861,16 @@
 				"gloss": "",
 				"segmentation": "",
 				"transliteration": "<clb id=\"CLB\" nr=\"8\"/>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w><aGr><del_in/>Š<del_fin/>A</aGr> <d>D</d><aGr>IŠTAR</aGr>-ma</w>"
+			},
+			{
+				"gloss": "",
+				"segmentation": "",
+				"transliteration": "<w><d>D</d><del_in/>n<del_fin/>a-pár-wi<subscr c=\"i\"/>-ia-aš-ša</w>"
 			},
 			{
 				"gloss": "Wasser-GEN.SG",

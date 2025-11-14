@@ -76,14 +76,19 @@ class LexicalDatabase:
                   number = selection.lexeme
                   if number in word.analyses:
                     analysis = word[number]
-                    if not is_fragmentary(analysis.segmentation):
-                      if isinstance(analysis, MultiMorph) and analysis.is_singletone:
-                        analysis_str = str(analysis.to_single())
-                      else:
-                        analysis_str = str(analysis)
-                      self.dictionary[word.transcription].add(analysis_str)
-                      self.update_glosses(analysis)
-                      self.concordance[analysis_str].add(attestation)
+                    if analysis is None:
+                      logger.error(
+                        'The selected morphological analysis %i could not be parsed', number
+                      )
+                    else:
+                      if not is_fragmentary(analysis.segmentation):
+                        if isinstance(analysis, MultiMorph) and analysis.is_singletone:
+                          analysis_str = str(analysis.to_single())
+                        else:
+                          analysis_str = str(analysis)
+                        self.dictionary[word.transcription].add(analysis_str)
+                        self.update_glosses(analysis)
+                        self.concordance[analysis_str].add(attestation)
                   else:
                     logger.error(
                       'The selected morphological analysis number %i is not available.', number
