@@ -2,6 +2,19 @@ from __future__ import annotations
 from logging import getLogger
 logger = getLogger(__name__)
 
+sep = '@'
+
+def split_at_single(value: str, split_string: str,
+                    split_at_last: bool=False) -> tuple[str, str | None]:
+  if split_at_last:
+    split_index = value.rfind(split_string)
+  else:
+    split_index = value.find(split_string)
+  if split_index >= 0:
+    return (value[:split_index].strip(), value[split_index + len(split_string):].strip())
+  else:
+    return value, None
+
 class Morph:
 
     def __init__(self,
@@ -62,27 +75,43 @@ class Morph:
       raise NotImplementedError
 
     @classmethod
-    def parse(cls, string: str) -> Morph | None:
-      fields = list(map(str.strip, string.split('@')))
-      if len(fields) == 5:
-        translation, segmentation, morph_info, pos, det = fields
-        if in_braces(morph_info):
-            morph_tags = parseMorphTags(morph_info)
-            return MultiMorph(translation, segmentation, morph_tags, pos, det)
-        else:
-            return SingleMorph(translation, segmentation, morph_info, pos, det)
-      else:
+    def parse(cls, content: str) -> Morph | None:
+      segmentation, rest_without_segmentation = split_at_single(content, sep)
+      if rest_without_segmentation is None:
         return None
+      translation, rest_without_translation = split_at_single(
+        rest_without_segmentation, sep
+      )
+      if rest_without_translation is None:
+        return None
+      morph_info, rest_without_morph_info = split_at_single(
+        rest_without_translation, sep
+      )
+      if rest_without_morph_info is None:
+        return None
+      other_string, determinative_string = split_at_single(
+        rest_without_morph_info, sep, True
+      )
+      if determinative_string is not None:
+        det = determinative_string
+      else:
+        det = ''
+      pos, encl = split_at_single(other_string, '+=')
+      if in_braces(morph_info):
+        morph_tags = parseMorphTags(morph_info)
+        return MultiMorph(segmentation, translation, morph_tags, pos, det)
+      else:
+        return SingleMorph(segmentation, translation, morph_info, pos, det)
         
 class SingleMorph(Morph):
     
     def __init__(self,
-                 translation: str,
                  segmentation: str,
+                 translation: str,
                  morph_tag: str,
                  pos: str,
                  det: str):
-        super().__init__(translation, segmentation, pos, det)
+        super().__init__(segmentation, translation, pos, det)
         self.morph_tag = morph_tag
     
     def __eq__(self, other: object) -> bool:
@@ -124,12 +153,12 @@ class SingleMorph(Morph):
 class MultiMorph(Morph):
     
     def __init__(self,
-                 translation: str,
                  segmentation: str,
+                 translation: str,
                  morph_tags: dict[str, str],
                  pos: str,
                  det: str):
-        super().__init__(translation, segmentation, pos, det)
+        super().__init__(segmentation, translation, pos, det)
         self.morph_tags = morph_tags
     
     def __eq__(self, other: object) -> bool:

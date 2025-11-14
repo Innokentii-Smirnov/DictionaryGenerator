@@ -43,5 +43,5 @@ class Word:
         analyses[number] = value
     return Word(transliteration, lang, transcription, selections, analyses)
 
-  def __getitem__(self, number: int) -> Morph:
+  def __getitem__(self, number: int) -> Morph | None:
     return Morph.parse(self.analyses[number])
