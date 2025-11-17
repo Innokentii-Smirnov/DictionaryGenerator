@@ -27,7 +27,10 @@ def word_to_corpus_word(word: Word) -> dict[str, str]:
                      selection.lexeme)
         else:
           analysis = make_analysis(selection, morph)
-          return make_corpus_word(transliteration, morph.segmentation, analysis)
+          segmentation = morph.segmentation
+          if morph.enclitics_analysis is not None:
+            segmentation = segmentation + '=' + morph.enclitics_analysis.segmentation
+          return make_corpus_word(transliteration, segmentation, analysis)
       else:
         logger.error('The selected morphological analysis number %i is not available.',
                      selection.lexeme)

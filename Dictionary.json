@@ -25679,7 +25679,7 @@
 			},
 			{
 				"gloss": "Zeder-ACC.SG(UNM)=REFL",
-				"segmentation": "EREN",
+				"segmentation": "EREN=za",
 				"transliteration": "<w><del_in/><d>GIŠ</d><sGr>ERE<del_fin/>N</sGr>-az</w>"
 			},
 			{
@@ -25694,7 +25694,7 @@
 			},
 			{
 				"gloss": "Feinöl-ACC.SG(UNM)=CNJadd",
-				"segmentation": "Ì.DU₁₀.GA",
+				"segmentation": "Ì.DU₁₀.GA=ya",
 				"transliteration": "<w><sGr>Ì.DU₁₀.G<del_in/>A</sGr>-ia</w>"
 			},
 			{
@@ -27011,7 +27011,7 @@
 			},
 			{
 				"gloss": "ein=CNJctr",
-				"segmentation": "1",
+				"segmentation": "1=ma",
 				"transliteration": "<w><num>1</num><corr c=\"?\"/><del_in/><d>KAM</d>-ma<del_fin/></w>"
 			},
 			{
@@ -28577,7 +28577,7 @@
 			},
 			{
 				"gloss": "Reinheit-STF=PPRO.3SG.C.NOM",
-				"segmentation": "itkalz=i-",
+				"segmentation": "itkalz=i-=aš",
 				"transliteration": "<w>it-kal-zi-ia-aš</w>"
 			}
 		],
@@ -28589,7 +28589,7 @@
 			},
 			{
 				"gloss": "‘Meine Sonne’-…:D/L.SG=PPRO.3SG.N.ACC=OBPk",
-				"segmentation": "UTU-ŠI",
+				"segmentation": "UTU-ŠI=at=kkan",
 				"transliteration": "<w><aGr>A-NA</aGr> <d>D</d><sGr>UTU</sGr><aGr>-ŠI</aGr>-at-kán</w>"
 			},
 			{
@@ -28880,7 +28880,7 @@
 			},
 			{
 				"gloss": "Zeder(?)-HITT.GEN.SG=CNJadd",
-				"segmentation": "painn=i(t)-",
+				"segmentation": "painn=i(t)-=ya",
 				"transliteration": "<w><d>GIŠ</d>pa-a-i-in-na-aš-ša</w>"
 			},
 			{
@@ -29197,7 +29197,7 @@
 			},
 			{
 				"gloss": "Reinheit-STF=PPRO.3SG.C.NOM",
-				"segmentation": "itkalz=i-",
+				"segmentation": "itkalz=i-=aš",
 				"transliteration": "<w>it-〈kal〉-zi-i<del_in/>a-aš<del_fin/></w>"
 			}
 		],
@@ -29209,7 +29209,7 @@
 			},
 			{
 				"gloss": "‘Meine Sonne’-…:D/L.SG=CNJadd=PPRO.3SG.N.ACC=OBPk",
-				"segmentation": "UTU-ŠI",
+				"segmentation": "UTU-ŠI=ya=at=kkan",
 				"transliteration": "<w><aGr><del_in/>A-NA<del_fin/></aGr> <d>D</d><sGr>UTU</sGr><aGr>-ŠI</aGr>-ia-at-kán</w>"
 			},
 			{
@@ -41378,7 +41378,7 @@
 			},
 			{
 				"gloss": "er-DEM2/3.ACC.PL.N=FOC",
-				"segmentation": "apa-",
+				"segmentation": "apa-=pat",
 				"transliteration": "<w>a-p<del_fin/>é-e-pát</w>"
 			},
 			{
@@ -41452,7 +41452,7 @@
 			},
 			{
 				"gloss": "Torbau-NOM.SG.N=CNJctr",
-				"segmentation": "ḫila=mmar",
+				"segmentation": "ḫila=mmar=ma",
 				"transliteration": "<w><laes_in/><d>É</d>ḫi-lam-mar<laes_fin/>-ma</w>"
 			}
 		],
@@ -41542,7 +41542,7 @@
 			},
 			{
 				"gloss": "zwei=CNJadd",
-				"segmentation": "2",
+				"segmentation": "2=ya",
 				"transliteration": "<w><num>2</num><d>KAM</d>-ia</w>"
 			},
 			{
@@ -41946,7 +41946,7 @@
 			},
 			{
 				"gloss": "Ištar-DN.HURR.FNL(a).ERG.SG=CNJctr",
-				"segmentation": "IŠTAR",
+				"segmentation": "IŠTAR=ma",
 				"transliteration": "<w><d>D</d><aGr>IŠTAR</aGr>-aš-m<del_in/>a</w>"
 			}
 		],
@@ -43366,7 +43366,7 @@
 			},
 			{
 				"gloss": "Purra-…:GEN.SG=CNJctr=OBPk",
-				"segmentation": "purr=a-",
+				"segmentation": "purr=a-=ma=kkan",
 				"transliteration": "<w><aGr>ŠA</aGr> <d>M</d>pur-ra-ma-kán</w>"
 			},
 			{
@@ -43440,7 +43440,7 @@
 			},
 			{
 				"gloss": "Purra-…:GEN.SG=OBPs",
-				"segmentation": "purr=a-",
+				"segmentation": "purr=a-=ššan",
 				"transliteration": "<w><aGr>ŠA</aGr> <d>M</d>pur-ra-aš-š<del_in/>a-an<del_fin/></w>"
 			}
 		],
@@ -44267,7 +44267,7 @@
 			},
 			{
 				"gloss": "welcher-REL.NOM.SG.C=CNJctr",
-				"segmentation": "kui-",
+				"segmentation": "kui-=ma",
 				"transliteration": "<w>k<del_fin/>u-i-ša</w>"
 			},
 			{
@@ -46423,7 +46423,7 @@
 			},
 			{
 				"gloss": "Mann-ACC.SG(UNM)=PPRO.3SG.C.ACC",
-				"segmentation": "LÚ",
+				"segmentation": "LÚ=an",
 				"transliteration": "<w><sGr>LÚ</sGr>-an</w>"
 			},
 			{
@@ -48763,7 +48763,7 @@
 			},
 			{
 				"gloss": "Fettschwanzschaf-ACC.SG=CNJctr",
-				"segmentation": "GUKKAL+KUN",
+				"segmentation": "GUKKAL+KUN=ma",
 				"transliteration": "<w><d>UDU</d><sGr>GUKKAL+KUN</sGr><d>ḪI.A</d>-na</w>"
 			},
 			{
@@ -48802,7 +48802,7 @@
 			},
 			{
 				"gloss": "abzählen-VBN.NOM.SG.N=CNJctr",
-				"segmentation": "kappuw=ā(e)-",
+				"segmentation": "kappuw=ā(e)-=ma",
 				"transliteration": "<w>kap-pu-wa-u-wa-ar-ma</w>"
 			},
 			{
@@ -48836,7 +48836,7 @@
 			},
 			{
 				"gloss": "Ziegenbock-D/L.SG(UNM)=CNJadd",
-				"segmentation": "MÁŠ.GAL",
+				"segmentation": "MÁŠ.GAL=ya",
 				"transliteration": "<w><sGr>MÁŠ.GAL</sGr>-ia</w>"
 			},
 			{
@@ -48966,7 +48966,7 @@
 			},
 			{
 				"gloss": "Mundschenk-NOM.PL(UNM)=CNJadd",
-				"segmentation": "SAGI",
+				"segmentation": "SAGI=ya",
 				"transliteration": "<w><d>LÚ.MEŠ</d><sGr>SAGI</sGr>-ia</w>"
 			}
 		],
@@ -49005,7 +49005,7 @@
 			},
 			{
 				"gloss": "Koch-NOM.PL(UNM)=CNJctr=OBPk",
-				"segmentation": "MUḪALDIM",
+				"segmentation": "MUḪALDIM=ma=kkan",
 				"transliteration": "<w><d>LÚ.MEŠ</d><sGr>MUḪALDIM</sGr>-ma-kán</w>"
 			},
 			{
@@ -49196,7 +49196,7 @@
 			},
 			{
 				"gloss": "früherer-ACC.PL.C=CNJctr=REFL",
-				"segmentation": "karul=i-",
+				"segmentation": "karul=i-=ma=za",
 				"transliteration": "<w>ka-ru-ú-li-uš-ma-za</w>"
 			},
 			{
@@ -49252,7 +49252,7 @@
 			},
 			{
 				"gloss": "Erde-GEN.SG=CNJctr",
-				"segmentation": "tek=an-/tag=n-",
+				"segmentation": "tek=an-/tag=n-=ma",
 				"transliteration": "<w>ták-na-aš-ma</w>"
 			},
 			{
@@ -49374,12 +49374,12 @@
 			},
 			{
 				"gloss": "Hand-GEN.SG=CNJctr=PPRO.3SG.D/L",
-				"segmentation": "keššar",
+				"segmentation": "keššar=ma=šši",
 				"transliteration": "<w>ki-iš-ra-aš-ma-aš-ši</w>"
 			},
 			{
 				"gloss": "Finger-NOM.PL.C=POSS.3SG.NOM.PL.C",
-				"segmentation": "kalulup=a-",
+				"segmentation": "kalulup=a-=ššeš",
 				"transliteration": "<w>ga-lu-lu-pé-e-eš-še-eš</w>"
 			},
 			{
@@ -49423,7 +49423,7 @@
 			},
 			{
 				"gloss": "vier-QUANcar.NOM.C=FOC",
-				"segmentation": "mieu-",
+				"segmentation": "mieu-=pat",
 				"transliteration": "<w>mi-ia-u-e-eš-pát</w>"
 			},
 			{
@@ -49457,7 +49457,7 @@
 			},
 			{
 				"gloss": "Rhyton-…:ABL=CNJctr",
-				"segmentation": "ḫaluwan=a-",
+				"segmentation": "ḫaluwan=a-=ma",
 				"transliteration": "<w><aGr><del_in/>IŠ-TU</aGr> ḫal-wa-n<del_fin/>i-it-ma</w>"
 			},
 			{
@@ -49484,7 +49484,7 @@
 			},
 			{
 				"gloss": "er-DEM2/3.D/L.PL=CNJctr",
-				"segmentation": "apa-",
+				"segmentation": "apa-=ma",
 				"transliteration": "<w>a-pé-e-d<del_fin/>a-<laes_in/>ša<laes_fin/></w>"
 			},
 			{
@@ -49634,7 +49634,7 @@
 			},
 			{
 				"gloss": "Wettergott-DN.FNL(a).HITT.NOM.SG.C=OBPk",
-				"segmentation": "IŠKUR",
+				"segmentation": "IŠKUR=kkan",
 				"transliteration": "<w><d>D</d><sGr>IŠKUR</sGr>-<ras_in/>aš-kán</w>"
 			},
 			{
@@ -49749,7 +49749,7 @@
 			},
 			{
 				"gloss": "(Flächenmaß)-GEN.SG=CNJctr=OBPs",
-				"segmentation": "tawall=a-",
+				"segmentation": "tawall=a-=ma=ššan",
 				"transliteration": "<w>ta-wa-al-la-aš-ma-aš-ša-an</w>"
 			},
 			{
@@ -49800,12 +49800,12 @@
 			},
 			{
 				"gloss": "Wettergott-DN.FNL(a).HITT.NOM.SG.C=OBPk",
-				"segmentation": "IŠKUR",
+				"segmentation": "IŠKUR=kkan",
 				"transliteration": "<w><d>D</d><sGr>IŠKUR</sGr>-aš-kán</w>"
 			},
 			{
 				"gloss": "Šuwaliyat-DN.NOM.SG.C=CNJadd",
-				"segmentation": "šualia=t-",
+				"segmentation": "šualia=t-=ya",
 				"transliteration": "<w><d>D</d>šu-wa-li-ia-az-za-aš-ša</w>"
 			}
 		],
@@ -49957,7 +49957,7 @@
 			},
 			{
 				"gloss": "Tonbecher-GEN.SG=POSS.3SG.GEN.SG=CNJctr=OBPk",
-				"segmentation": "tišum=i-",
+				"segmentation": "tišum=i-=ššaš=ma=kkan",
 				"transliteration": "<w><d>D<del_fin/>UG</d><laes_in/>ti<laes_fin/>-šu-mi-ša-aš-ma-kán</w>"
 			}
 		],
@@ -50086,7 +50086,7 @@
 			},
 			{
 				"gloss": "fünf=PPRO.3PL.C.ACC",
-				"segmentation": "5",
+				"segmentation": "5=uš",
 				"transliteration": "<w><num>5</num>-<laes_in/>uš<corr c=\"?\"/></w>"
 			},
 			{
@@ -50283,7 +50283,7 @@
 			},
 			{
 				"gloss": "Fett-D/L.SG=PPRO.3SG.C.ACC=OBPk",
-				"segmentation": "šak=an-",
+				"segmentation": "šak=an-=an=kkan",
 				"transliteration": "<w>ša-ak-ni-ia-an-kán</w>"
 			},
 			{
@@ -50932,7 +50932,7 @@
 			},
 			{
 				"gloss": "Weisheit-ACC.SG.N=CNJctr=PPRO.2PL.DAT",
-				"segmentation": "ḫatt=atar",
+				"segmentation": "ḫatt=atar=ma=šmaš",
 				"transliteration": "<w>ḫa-at-ta-a-tar-ma-aš-ma-aš</w>"
 			}
 		],
@@ -51161,7 +51161,7 @@
 			},
 			{
 				"gloss": "Hund(?)-NOM.SG.C=OBPk",
-				"segmentation": "giluš=i-",
+				"segmentation": "giluš=i-=kkan",
 				"transliteration": "<w><del_in/>g<del_fin/>i-i-lu-ši-iš-kán</w>"
 			},
 			{
@@ -51238,7 +51238,7 @@
 			},
 			{
 				"gloss": "Fett-D/L.SG=PPRO.3SG.C.ACC=OBPk",
-				"segmentation": "šak=an-",
+				"segmentation": "šak=an-=an=kkan",
 				"transliteration": "<w>ša-ak-ni-ia-an-kán</w>"
 			},
 			{
@@ -51692,7 +51692,7 @@
 			},
 			{
 				"gloss": "Weisheit-ACC.SG.N=CNJctr=PPRO.2PL.DAT",
-				"segmentation": "ḫatt=atar",
+				"segmentation": "ḫatt=atar=ma=šmaš",
 				"transliteration": "<w>ḫa-at-ta-a-tar-ma-a<del_in/>š-m<del_fin/>a-aš</w>"
 			},
 			{
@@ -51966,7 +51966,7 @@
 			},
 			{
 				"gloss": "groß werden-3SG.PST=PPRO.3SG.C.NOM",
-				"segmentation": "šall=eš-",
+				"segmentation": "šall=eš-=aš",
 				"transliteration": "<w>šal-le-eš-ta-aš</w>"
 			},
 			{
@@ -52172,7 +52172,7 @@
 			},
 			{
 				"gloss": "bauen-3SG.PST=CNJctr=PPRO.3SG.C.ACC",
-				"segmentation": "we=te-",
+				"segmentation": "we=te-=ma=an",
 				"transliteration": "<w>ú-e-te-et-ma-an</w>"
 			},
 			{
@@ -52224,7 +52224,7 @@
 			},
 			{
 				"gloss": "(her)bringen-3SG.PST=QUOT=PPRO.1SG.ACC",
-				"segmentation": "wed=a-",
+				"segmentation": "wed=a-=wa=mu",
 				"transliteration": "<w>ú-e-te-et-wa-mu</w>"
 			},
 			{
@@ -52266,7 +52266,7 @@
 			},
 			{
 				"gloss": "recht-NOM.SG.C=IRR=PPRO.3SG.D/L=OBPk",
-				"segmentation": "kunna-",
+				"segmentation": "kunna-=man=šši=kkan",
 				"transliteration": "<w><del_in/>ku-un-na-aš-m<del_fin/>a-<laes_in/>an<laes_fin/>-ši-kán</w>"
 			},
 			{
@@ -52383,7 +52383,7 @@
 			},
 			{
 				"gloss": "CONNn=PPRO.1SG.ACC",
-				"segmentation": "nu",
+				"segmentation": "nu=mu",
 				"transliteration": "<w>nu-mu</w>"
 			},
 			{
@@ -52430,7 +52430,7 @@
 			},
 			{
 				"gloss": "schlagen-3SG.IMP=PPRO.3SG.C.ACC",
-				"segmentation": "walḫ=",
+				"segmentation": "walḫ==an",
 				"transliteration": "<w>wa-al-aḫ-du-ia-an</w>"
 			},
 			{
@@ -52512,7 +52512,7 @@
 			},
 			{
 				"gloss": "Lehmziegel-NOM.SG(UNM)=CNJctr=OBPk",
-				"segmentation": "SIG₄",
+				"segmentation": "SIG₄=ma=kkan",
 				"transliteration": "<w><sGr>SIG₄</sGr>-ma-kán</w>"
 			},
 			{
@@ -52660,7 +52660,7 @@
 			},
 			{
 				"gloss": "Vater-ACC.SG.C=POSS.3SG.ACC.SG",
-				"segmentation": "att=a/i-",
+				"segmentation": "att=a/i-=ššan",
 				"transliteration": "<w>at-ta-aš-ša-an</w>"
 			},
 			{
@@ -52727,7 +52727,7 @@
 			},
 			{
 				"gloss": "Vater-D/L.SG=PPRO.3SG.D/L",
-				"segmentation": "att=a/i-",
+				"segmentation": "att=a/i-=šši",
 				"transliteration": "<w>at-ti-iš-ši</w>"
 			},
 			{
@@ -52799,7 +52799,7 @@
 			},
 			{
 				"gloss": "Vater-ACC.SG.C=POSS.3SG.ACC.SG",
-				"segmentation": "att=a/i-",
+				"segmentation": "att=a/i-=ššan",
 				"transliteration": "<w>at-ta-aš-ša-an</w>"
 			},
 			{
@@ -52824,7 +52824,7 @@
 			},
 			{
 				"gloss": "Vater-…:GEN.SG=CNJctr=PPRO.3SG.C.ACC",
-				"segmentation": "ABU",
+				"segmentation": "ABU=ma=an",
 				"transliteration": "<w><aGr>ŠA</aGr> <aGr>A-BI-ŠU</aGr>-ma-an</w>"
 			},
 			{
@@ -52980,7 +52980,7 @@
 			},
 			{
 				"gloss": "Weisheit-ACC.SG.N=CNJctr=PPRO.2PL.DAT",
-				"segmentation": "ḫatt=atar",
+				"segmentation": "ḫatt=atar=ma=šmaš",
 				"transliteration": "<w>ḫa-at-ta-a-tar-ma-aš-ma-aš</w>"
 			},
 			{
@@ -53507,7 +53507,7 @@
 			},
 			{
 				"gloss": "Weisheit-ACC.SG.N=CNJctr=PPRO.2PL.DAT",
-				"segmentation": "ḫatt=atar",
+				"segmentation": "ḫatt=atar=ma=šmaš",
 				"transliteration": "<w>ḫa-at-ta-a-tar-ma-aš-ma-aš</w>"
 			},
 			{
@@ -53747,7 +53747,7 @@
 			},
 			{
 				"gloss": "jetzt=CNJctr=PPRO.1SG.ACC",
-				"segmentation": "kinun",
+				"segmentation": "kinun=ma=mu",
 				"transliteration": "<w>ki-nu-na-mu</w>"
 			},
 			{
@@ -53767,7 +53767,7 @@
 			},
 			{
 				"gloss": "werfen-3PL.IMP=CNJadd=PPRO.3SG.C.ACC",
-				"segmentation": "pešš=iye/a-",
+				"segmentation": "pešš=iye/a-=ya=an",
 				"transliteration": "<w>pé-eš-ši-an-du-ia-an</w>"
 			}
 		],
@@ -53801,7 +53801,7 @@
 			},
 			{
 				"gloss": "nehmen-3PL.IMP=CNJctr=PPRO.3SG.C.ACC",
-				"segmentation": "dā-/d-",
+				"segmentation": "dā-/d-=ma=an",
 				"transliteration": "<w>da-a-an-du-ma-an</w>"
 			}
 		],
@@ -53847,7 +53847,7 @@
 			},
 			{
 				"gloss": "Leder-ACC.SG(UNM)=CNJctr",
-				"segmentation": "KUŠ",
+				"segmentation": "KUŠ=ma",
 				"transliteration": "<w><sGr>KUŠ</sGr>-ma</w>"
 			},
 			{
@@ -53896,7 +53896,7 @@
 			},
 			{
 				"gloss": "nicht-NEG=CNJctr",
-				"segmentation": "UL",
+				"segmentation": "UL=ma",
 				"transliteration": "<w><aGr>Ú-UL</aGr>-ma</w>"
 			},
 			{
@@ -53960,7 +53960,7 @@
 			},
 			{
 				"gloss": "er-DEM2/3.GEN.SG=OBPk",
-				"segmentation": "apa-",
+				"segmentation": "apa-=kkan",
 				"transliteration": "<w>a-pé-el-kán</w>"
 			},
 			{
@@ -54039,7 +54039,7 @@
 			},
 			{
 				"gloss": "IRR=PPRO.3SG.C.NOM",
-				"segmentation": "man",
+				"segmentation": "man=aš",
 				"transliteration": "<w>ma-na-aš</w>"
 			},
 			{
@@ -54073,7 +54073,7 @@
 			},
 			{
 				"gloss": "Rehbock-ACC.SG.C=REFL",
-				"segmentation": "aliy=an-",
+				"segmentation": "aliy=an-=za",
 				"transliteration": "<w>a-li-<laes_in/>ia<laes_fin/>-n<del_in/>a-an<del_fin/>-za</w>"
 			},
 			{
@@ -54083,7 +54083,7 @@
 			},
 			{
 				"gloss": "Person-ABL=POSS.3SG.ABL",
-				"segmentation": "tuekk=a-",
+				"segmentation": "tuekk=a-=ššet",
 				"transliteration": "<w>tu-e-eg-ga-a<del_in/>z-še-et<del_fin/></w>"
 			}
 		],
@@ -54166,7 +54166,7 @@
 			},
 			{
 				"gloss": "Stadt-GEN.SG(UNM)=PPRO.3SG.C.ACC",
-				"segmentation": "URUiaš",
+				"segmentation": "URUiaš=an",
 				"transliteration": "<w><sGr>URU</sGr>-ia-ša-an</w>"
 			},
 			{
@@ -54337,7 +54337,7 @@
 			},
 			{
 				"gloss": "Weisheit-ACC.SG.N=CNJctr=PPRO.2PL.DAT",
-				"segmentation": "ḫatt=atar",
+				"segmentation": "ḫatt=atar=ma=šmaš",
 				"transliteration": "<w>ḫa-at-ta-a-tar-ma-aš-ma-aš</w>"
 			},
 			{
@@ -54386,7 +54386,7 @@
 			},
 			{
 				"gloss": "Fluss-GEN.PL=PPRO.3SG.C.ACC",
-				"segmentation": "ÍD",
+				"segmentation": "ÍD=an",
 				"transliteration": "<w><sGr>ÍD</sGr>-an</w>"
 			},
 			{
@@ -54469,7 +54469,7 @@
 			},
 			{
 				"gloss": "hier=CNJadd=OBPk",
-				"segmentation": "kez",
+				"segmentation": "kez=ya=kkan",
 				"transliteration": "<w>ke-e-zi-<laes_in/>ia<laes_fin/>-ká<del_in/>n<del_fin/></w>"
 			},
 			{
@@ -54494,7 +54494,7 @@
 			},
 			{
 				"gloss": "er-DEM2/3.D/L.PL=CNJadd",
-				"segmentation": "apa-",
+				"segmentation": "apa-=ya",
 				"transliteration": "<w>a-pé-e-da-aš-ša</w>"
 			}
 		],
@@ -54619,7 +54619,7 @@
 			},
 			{
 				"gloss": "dieser-DEM1.ACC.SG.N=CNJctr",
-				"segmentation": "ka-",
+				"segmentation": "ka-=ma",
 				"transliteration": "<w>ki-ma</w>"
 			},
 			{
@@ -54668,7 +54668,7 @@
 			},
 			{
 				"gloss": "nicht-NEG=CNJctr",
-				"segmentation": "UL",
+				"segmentation": "UL=ma",
 				"transliteration": "<w><aGr>Ú-UL</aGr>-ma</w>"
 			},
 			{
@@ -54840,7 +54840,7 @@
 			},
 			{
 				"gloss": "zum zweiten Mal=CNJctr=OBPs",
-				"segmentation": "dan",
+				"segmentation": "dan=ma=ššan",
 				"transliteration": "<w>ta-a-an-ma-aš-ša-an</w>"
 			},
 			{
@@ -55007,7 +55007,7 @@
 			},
 			{
 				"gloss": "zum zweiten Mal=CNJctr",
-				"segmentation": "dan",
+				"segmentation": "dan=ma",
 				"transliteration": "<w>ta-a-an-ma</w>"
 			},
 			{
@@ -55217,7 +55217,7 @@
 			},
 			{
 				"gloss": "Weisheit-ACC.SG.N=CNJctr=PPRO.2PL.DAT",
-				"segmentation": "ḫatt=atar",
+				"segmentation": "ḫatt=atar=ma=šmaš",
 				"transliteration": "<w>ḫa-at-ta-a-tar-ma-aš-ma-aš</w>"
 			},
 			{
@@ -55305,7 +55305,7 @@
 			},
 			{
 				"gloss": "gießen-3SG.PST=PPRO.3SG.C.ACC",
-				"segmentation": "laḫ=u-",
+				"segmentation": "laḫ=u-=an",
 				"transliteration": "<w>la-a-ḫu-ša-an</w>"
 			},
 			{
@@ -55379,7 +55379,7 @@
 			},
 			{
 				"gloss": "CONNn=PPRO.3SG.D/L=OBPst",
-				"segmentation": "nu=šši",
+				"segmentation": "nu=šši=(a)šta",
 				"transliteration": "<w>nu-uš-ši-eš-ta</w>"
 			},
 			{
@@ -55423,7 +55423,7 @@
 			},
 			{
 				"gloss": "gießen-3SG.PST=CNJctr=PPRO.3SG.C.ACC",
-				"segmentation": "laḫ=u-",
+				"segmentation": "laḫ=u-=ma=an",
 				"transliteration": "<w>la-a-ḫu-uš-ma-an</w>"
 			},
 			{
@@ -55575,7 +55575,7 @@
 			},
 			{
 				"gloss": "recht-NOM.SG.C=CNJctr=PPRO.3SG.C.ACC=QUOT=PPRO.3SG.D/L=OBPk",
-				"segmentation": "kunna-",
+				"segmentation": "kunna-=man",
 				"transliteration": "<w>ku-un-na-aš-ma-an-wa-aš-ši-kán</w>"
 			}
 		],
@@ -55716,7 +55716,7 @@
 			},
 			{
 				"gloss": "CONNn=PPRO.3SG.D/L=OBPst",
-				"segmentation": "nu=šši",
+				"segmentation": "nu=šši=(a)šta",
 				"transliteration": "<w>nu-uš-ši-eš-ta</w>"
 			},
 			{
@@ -55814,7 +55814,7 @@
 			},
 			{
 				"gloss": "warum?=QUOT",
-				"segmentation": "kuwat",
+				"segmentation": "kuwat=wa",
 				"transliteration": "<w>ku-wa-at-wa</w>"
 			},
 			{
@@ -55932,7 +55932,7 @@
 			},
 			{
 				"gloss": "schlagen-3SG.IMP=PPRO.3SG.C.ACC",
-				"segmentation": "walḫ=",
+				"segmentation": "walḫ==an",
 				"transliteration": "<w>wa-al-aḫ-du-ia-an</w>"
 			}
 		],
@@ -56020,7 +56020,7 @@
 			},
 			{
 				"gloss": "Tonbecher-NOM.SG.C=OBPk",
-				"segmentation": "teššumm=i-",
+				"segmentation": "teššumm=i-=kkan",
 				"transliteration": "<w>te-eš-šum-mi-iš-kán</w>"
 			}
 		],
@@ -56073,7 +56073,7 @@
 			},
 			{
 				"gloss": "geschmückt-NOM.PL.C=CNJctr=OBPk",
-				"segmentation": "šuppištuwar=a-",
+				"segmentation": "šuppištuwar=a-=ma=kkan",
 				"transliteration": "<w>šu-up-pí-iš-du-wa-ri-i-e-eš-ma-kán</w>"
 			},
 			{
@@ -56203,7 +56203,7 @@
 			},
 			{
 				"gloss": "IRR=PPRO.3SG.C.ACC",
-				"segmentation": "man",
+				"segmentation": "man=an",
 				"transliteration": "<w>ma-a-na-an</w>"
 			}
 		],
@@ -56335,7 +56335,7 @@
 			},
 			{
 				"gloss": "Berg-NOM.SG.C=CNJadd",
-				"segmentation": "ḪUR.SAG",
+				"segmentation": "ḪUR.SAG=ya",
 				"transliteration": "<w><sGr>ḪUR.SAG</sGr>-aš-ša</w>"
 			},
 			{
@@ -56357,7 +56357,7 @@
 			},
 			{
 				"gloss": "recht-NOM.SG.C=IRR=PPRO.3SG.D/L=OBPk",
-				"segmentation": "kunna-",
+				"segmentation": "kunna-=man=šši=kkan",
 				"transliteration": "<w>ku-un-na-aš-ma-an-ši-kán</w>"
 			},
 			{
@@ -56481,7 +56481,7 @@
 			},
 			{
 				"gloss": "schlagen-3SG.IMP=PPRO.3SG.N.NOM",
-				"segmentation": "walḫ=",
+				"segmentation": "walḫ==at",
 				"transliteration": "<w>wa-al-aḫ-du-ia-a<del_in/>t</w>"
 			},
 			{
@@ -56533,7 +56533,7 @@
 			},
 			{
 				"gloss": "Spross-NOM.PL.C=CNJctr=OBPk",
-				"segmentation": "parašd=u-",
+				"segmentation": "parašd=u-=ma=kkan",
 				"transliteration": "<w><d>GIŠ</d>pár-aš-tu-e-eš-ma-kán</w>"
 			},
 			{
@@ -56677,7 +56677,7 @@
 			},
 			{
 				"gloss": "Hund-GEN.SG=PPRO.3SG.C.NOM=OBPk",
-				"segmentation": "UR.GI₇",
+				"segmentation": "UR.GI₇=aš=kkan",
 				"transliteration": "<w><sGr>UR.GI₇</sGr>-ša-aš-kán</w>"
 			},
 			{
@@ -56837,7 +56837,7 @@
 			},
 			{
 				"gloss": "zerstoßen-PTCP.NOM.SG.N=OBPk",
-				"segmentation": "ḫarr=a-",
+				"segmentation": "ḫarr=a-=kkan",
 				"transliteration": "<w>ḫar-ra-an-kán</w>"
 			},
 			{
@@ -56874,7 +56874,7 @@
 			},
 			{
 				"gloss": "Esel-NOM.SG(UNM)=CNJctr=PPRO.3SG.N.ACC=OBPk",
-				"segmentation": "ANŠE",
+				"segmentation": "ANŠE=ma=at=kkan",
 				"transliteration": "<w><sGr>ANŠE</sGr>-ma-at-kán</w>"
 			},
 			{
@@ -56973,7 +56973,7 @@
 			},
 			{
 				"gloss": "hinstellen-3SG.PST=CNJctr=PPRO.3SG.C.ACC",
-				"segmentation": "tit=nu-",
+				"segmentation": "tit=nu-=ma=an",
 				"transliteration": "<w>ti-it-nu-ut-ma-a<del_fin/>n</w>"
 			},
 			{
@@ -57025,7 +57025,7 @@
 			},
 			{
 				"gloss": "hinstellen-3SG.PST=PPRO.1SG.ACC",
-				"segmentation": "tit=nu-",
+				"segmentation": "tit=nu-=mu",
 				"transliteration": "<w>ti-<laes_in/>it<laes_fin/>-nu-ut-mu</w>"
 			},
 			{
@@ -57206,7 +57206,7 @@
 			},
 			{
 				"gloss": "hören-2SG.IMP=PPRO.1SG.ACC",
-				"segmentation": "ištamaš=",
+				"segmentation": "ištamaš==mu",
 				"transliteration": "<w><del_in/>i<del_fin/>š-ta-ma-aš-mu</w>"
 			},
 			{
@@ -57284,7 +57284,7 @@
 			},
 			{
 				"gloss": "ich-PPROa.1SG.NOM=PPRO.3SG.C.ACC",
-				"segmentation": "uk",
+				"segmentation": "uk=an",
 				"transliteration": "<w>ú-ga-an</w>"
 			},
 			{
@@ -57323,7 +57323,7 @@
 			},
 			{
 				"gloss": "ich-PPROa.1SG.GEN=CNJctr=PPRO.3SG.C.ACC",
-				"segmentation": "uk",
+				"segmentation": "uk=ma=an",
 				"transliteration": "<w>am-me-el-ma-a<del_in/>n</w>"
 			},
 			{
@@ -57362,7 +57362,7 @@
 			},
 			{
 				"gloss": "Pazzanikarri-…:GEN.SG=CNJctr",
-				"segmentation": "pazzanikarr=i-",
+				"segmentation": "pazzanikarr=i-=ma",
 				"transliteration": "<w><aGr>ŠA</aGr> <d>M</d>pa-az-z<del_in/>a-ni-k<del_fin/>ar-ri-ma</w>"
 			},
 			{
@@ -57499,7 +57499,7 @@
 			},
 			{
 				"gloss": "verwickeln-3PL.PRS=CNJctr",
-				"segmentation": "malk=iye/a-",
+				"segmentation": "malk=iye/a-=ma",
 				"transliteration": "<w>ma-al-ki-an-zi-ma</w>"
 			},
 			{
@@ -57538,7 +57538,7 @@
 			},
 			{
 				"gloss": "Epla-GN.D/L.SG=OBPs",
-				"segmentation": "epl=a-",
+				"segmentation": "epl=a-=ššan",
 				"transliteration": "<w><d>URU</d>e-ep-<del_in/>la-i-š<del_fin/>a-an</w>"
 			},
 			{
@@ -57833,7 +57833,7 @@
 			},
 			{
 				"gloss": "wie=PPRO.2SG.DAT=OBPk",
-				"segmentation": "mân",
+				"segmentation": "mân=tta=kkan",
 				"transliteration": "<w>ma-a-an-ták-kán</w>"
 			},
 			{
@@ -57843,7 +57843,7 @@
 			},
 			{
 				"gloss": "lassen-VBN.NOM.SG.N=CNJctr",
-				"segmentation": "tarn=a-",
+				"segmentation": "tarn=a-=ma",
 				"transliteration": "<w>tar-nu-mar-ma</w>"
 			},
 			{
@@ -57924,7 +57924,7 @@
 			},
 			{
 				"gloss": "Kind-ACC.SG(UNM)_PPRO.2SG.GEN=REFL",
-				"segmentation": "DUMU°MEŠ°-KA",
+				"segmentation": "DUMU°MEŠ°-KA=za",
 				"transliteration": "<w><sGr>DUMU</sGr><aGr>-KA</aGr>-za</w>"
 			},
 			{
@@ -58199,7 +58199,7 @@
 			},
 			{
 				"gloss": "Gerste-ACC.SG(UNM)=CNJctr=PPRO.3SG.D/L",
-				"segmentation": "ŠE",
+				"segmentation": "ŠE=ma=šši",
 				"transliteration": "<w><sGr>Š<del_in/>E</sGr>-m<del_fin/>a-aš-ši</w>"
 			}
 		],
@@ -58263,7 +58263,7 @@
 			},
 			{
 				"gloss": "Wettergott-DN.FNL(a).HITT.NOM.SG.C=CNJctr",
-				"segmentation": "IŠKUR",
+				"segmentation": "IŠKUR=ma",
 				"transliteration": "<w><laes_in/><d>D<laes_fin/></d><sGr><del_in/>IŠKUR<del_fin/></sGr>-aš-ma</w>"
 			}
 		],
@@ -58373,12 +58373,12 @@
 			},
 			{
 				"gloss": "wie=PPRO.3SG.C.NOM",
-				"segmentation": "man",
+				"segmentation": "man=aš",
 				"transliteration": "<w><del_in/>m<del_fin/>a-a-na-aš</w>"
 			},
 			{
 				"gloss": "verfluchen-PTCP.NOM.SG.C=CNJctr",
-				"segmentation": "ḫurt=",
+				"segmentation": "ḫurt==ma",
 				"transliteration": "<w>ḫur-ta-an-za-ma</w>"
 			},
 			{
@@ -58596,7 +58596,7 @@
 			},
 			{
 				"gloss": "schädigen-3SG.PRS.IMPF=PPRO.3SG.C.ACC",
-				"segmentation": "dammišḫ=išk-",
+				"segmentation": "dammišḫ=išk-=an",
 				"transliteration": "<w>dam-mi-iš-ḫi-iš-<laes_in/>ke<laes_fin/>-ez-zi-an</w>"
 			},
 			{
@@ -58611,7 +58611,7 @@
 			},
 			{
 				"gloss": "nicht-NEG=IRR",
-				"segmentation": "UL",
+				"segmentation": "UL=man",
 				"transliteration": "<w><aGr>Ú-UL</aGr>-ma-an</w>"
 			}
 		],
@@ -58760,7 +58760,7 @@
 			},
 			{
 				"gloss": "einmal=OBPk",
-				"segmentation": "1-ŠU",
+				"segmentation": "1-ŠU=kkan",
 				"transliteration": "<w><num>1</num><aGr>-ŠU</aGr>-kán</w>"
 			},
 			{
@@ -58824,7 +58824,7 @@
 			},
 			{
 				"gloss": "Platz-D/L.SG=CNJctr=OBPk",
-				"segmentation": "ped=a-",
+				"segmentation": "ped=a-=ma=kkan",
 				"transliteration": "<w>pé-e-di-ma-kán</w>"
 			}
 		],
@@ -58934,7 +58934,7 @@
 			},
 			{
 				"gloss": "wir-PPROa.1PL.DAT/ACC=CNJctr",
-				"segmentation": "weš",
+				"segmentation": "weš=ma",
 				"transliteration": "<w>an-za-a-ša</w>"
 			},
 			{
@@ -58988,7 +58988,7 @@
 			},
 			{
 				"gloss": "Mundschenk-NOM.PL(UNM)=CNJadd=PPRO.3PL.C.NOM=PPRO.1PL.D/L",
-				"segmentation": "SAGI",
+				"segmentation": "SAGI=ya=at=naš",
 				"transliteration": "<w><d>LÚ.MEŠ</d><sGr>SAGI</sGr>-ia-at-na-aš</w>"
 			}
 		],
@@ -59012,7 +59012,7 @@
 			},
 			{
 				"gloss": "aus-=CNJadd=PPRO.3PL.C.ACC=PPRO.1PL.D/L",
-				"segmentation": "parā",
+				"segmentation": "parā=ya=aš=naš",
 				"transliteration": "<w>pa-ra-a-ia-aš-na-aš</w>"
 			},
 			{
@@ -59027,7 +59027,7 @@
 			},
 			{
 				"gloss": "Koch-NOM.PL.C=PPRO.3PL.C.NOM=PPRO.1PL.D/L",
-				"segmentation": "MUḪALDIM",
+				"segmentation": "MUḪALDIM=at=naš",
 				"transliteration": "<w><d>LÚ.MEŠ</d><sGr>MUḪALDIM</sGr>-ša-at-na-aš</w>"
 			}
 		],
@@ -59039,7 +59039,7 @@
 			},
 			{
 				"gloss": "waschen-3PL.PRS.IMPF=CNJadd=PPRO.3PL.C.ACC=PPRO.1PL.D/L",
-				"segmentation": "arraš=k-",
+				"segmentation": "arraš=k-=ya=aš=naš",
 				"transliteration": "<w>ar-ra-aš-kán-zi-ia-<ras_in/>aš-na<ras_fin/>-aš</w>"
 			},
 			{
@@ -59341,7 +59341,7 @@
 			},
 			{
 				"gloss": "(ein)drücken-SUP=REFL",
-				"segmentation": "šišš=iye/a-",
+				"segmentation": "šišš=iye/a-=za",
 				"transliteration": "<w>ši-i<del_fin/>š-ši-ia-u-an-za</w>"
 			},
 			{
@@ -59425,7 +59425,7 @@
 			},
 			{
 				"gloss": "Silber-ACC.SG(UNM)=CNJctr=PPRO.3SG.D/L",
-				"segmentation": "KÙ.BABBAR",
+				"segmentation": "KÙ.BABBAR=ma=šši",
 				"transliteration": "<w><sGr>KÙ.BABBAR</sGr>-ma-aš-š<del_in/>i<del_fin/></w>"
 			}
 		],
@@ -59479,12 +59479,12 @@
 			},
 			{
 				"gloss": "wie=PPRO.3SG.C.NOM",
-				"segmentation": "man",
+				"segmentation": "man=aš",
 				"transliteration": "<w>ma-a-na-aš</w>"
 			},
 			{
 				"gloss": "hungrig-PTCP.NOM.SG.C=CNJctr",
-				"segmentation": "kišduw=ant-",
+				"segmentation": "kišduw=ant-=ma",
 				"transliteration": "<w>ki-iš-du-wa-an-za-<laes_in/>ma</w>"
 			},
 			{
@@ -59889,7 +59889,7 @@
 			},
 			{
 				"gloss": "Herd-NOM.PL.C=CNJctr",
-				"segmentation": "ḫašš=a-",
+				"segmentation": "ḫašš=a-=ma",
 				"transliteration": "<w>ḫa-a-aš-še-ša</w>"
 			},
 			{
@@ -60010,7 +60010,7 @@
 			},
 			{
 				"gloss": "Mühlstein-ACC.SG(UNM)=CNJadd=QUOT",
-				"segmentation": "ARA₅",
+				"segmentation": "ARA₅=ya=wa",
 				"transliteration": "<w><d>NA₄</d><sGr>ARA₅</sGr>-ia-wa</w>"
 			},
 			{
@@ -60042,7 +60042,7 @@
 			},
 			{
 				"gloss": "er-DEM2/3.D/L.SG=CNJadd",
-				"segmentation": "apa-",
+				"segmentation": "apa-=ya",
 				"transliteration": "<w>a-pé-e-da-ni-ia</w>"
 			}
 		],
@@ -60303,7 +60303,7 @@
 			},
 			{
 				"gloss": "welcher-REL.NOM.SG.C=OBPk",
-				"segmentation": "kui-",
+				"segmentation": "kui-=kkan",
 				"transliteration": "<w>ku-iš-kán</w>"
 			},
 			{
@@ -60494,12 +60494,12 @@
 			},
 			{
 				"gloss": "(ist) nicht (vorhanden)-NEG=CNJctr=PPRO.3SG.C.NOM",
-				"segmentation": "NU.GÁL",
+				"segmentation": "NU.GÁL=ma=aš",
 				"transliteration": "<w><sGr><del_in/>NU.GÁL</sGr>-m<del_fin/>a-aš</w>"
 			},
 			{
 				"gloss": "sprechen-3SG.PRS=PPRO.3SG.D/L",
-				"segmentation": "mem=a-",
+				"segmentation": "mem=a-=šši",
 				"transliteration": "<w>me-ma-iš-ši</w>"
 			},
 			{
@@ -60598,7 +60598,7 @@
 			},
 			{
 				"gloss": "Silber-ACC.SG(UNM)=CNJctr=PPRO.3SG.D/L",
-				"segmentation": "KÙ.BABBAR",
+				"segmentation": "KÙ.BABBAR=ma=šši",
 				"transliteration": "<w><sGr>KÙ.BABBAR</sGr>-ma-aš-<ras_in/>ši<ras_fin/></w>"
 			}
 		],
@@ -60625,12 +60625,12 @@
 			},
 			{
 				"gloss": "wie=PPRO.3SG.C.NOM",
-				"segmentation": "man",
+				"segmentation": "man=aš",
 				"transliteration": "<w>ma-a-na-aš</w>"
 			},
 			{
 				"gloss": "hungrig-PTCP.NOM.SG.C=CNJctr",
-				"segmentation": "kišduw=ant-",
+				"segmentation": "kišduw=ant-=ma",
 				"transliteration": "<w>ki-iš-du-wa-an-za-ma</w>"
 			},
 			{
@@ -60916,7 +60916,7 @@
 			},
 			{
 				"gloss": "(ist) nicht (vorhanden)-NEG=CNJctr=PPRO.3SG.C.NOM",
-				"segmentation": "NU.GÁL",
+				"segmentation": "NU.GÁL=ma=aš",
 				"transliteration": "<w><sGr>NU.GÁL</sGr>-ma-aš</w>"
 			}
 		],
@@ -60955,7 +60955,7 @@
 		"KBo 32.16,Vs. 3b": [
 			{
 				"gloss": "sprechen-3SG.PRS=PPRO.3SG.D/L",
-				"segmentation": "mem=a-",
+				"segmentation": "mem=a-=šši",
 				"transliteration": "<w><del_in/>me-ma-i<del_fin/>š<corr c=\"?\"/>-ši</w>"
 			},
 			{
@@ -60992,7 +60992,7 @@
 			},
 			{
 				"gloss": "bitten-VBN.ACC.SG.N=PPRO.3SG.D/L",
-				"segmentation": "arku=",
+				"segmentation": "arku==šši",
 				"transliteration": "<w>ar-ku-<laes_in/>ar<laes_fin/>-ši</w>"
 			},
 			{
@@ -61053,7 +61053,7 @@
 			},
 			{
 				"gloss": "Pazzanikarri-PNm.NOM.SG(UNM)=CNJctr",
-				"segmentation": "pazzanikarr=i-",
+				"segmentation": "pazzanikarr=i-=ma",
 				"transliteration": "<w><del_in/><d>M</d>pa-az<del_fin/>-za-a-an-<del_in/>ni-k<del_fin/>ar-ri-ma</w>"
 			},
 			{
@@ -61141,7 +61141,7 @@
 			},
 			{
 				"gloss": "Zazalla-PNm.NOM.SG.C=CNJctr",
-				"segmentation": "zazall=a-",
+				"segmentation": "zazall=a-=ma",
 				"transliteration": "<w><d>M</d><del_fin/>za-a-za-al-la-aš-ma</w>"
 			},
 			{
@@ -61190,7 +61190,7 @@
 			},
 			{
 				"gloss": "Wort; Sache-ACC.PL.N=POSS.3SG.ACC.PL.N",
-				"segmentation": "udd=ar",
+				"segmentation": "udd=ar=ššet",
 				"transliteration": "<w>ud-da-a-ar-še-et</w>"
 			}
 		],
@@ -61591,7 +61591,7 @@
 			},
 			{
 				"gloss": "du-PPROa.2SG.NOM.SG=CNJadd",
-				"segmentation": "zik",
+				"segmentation": "zik=ya",
 				"transliteration": "<w><del_in/>zi-i<del_fin/>g-ga</w>"
 			},
 			{
@@ -61662,7 +61662,7 @@
 			},
 			{
 				"gloss": "Wettergott-DN.FNL(a).HITT.NOM.SG.C=PPRO.1SG.ACC=OBPk",
-				"segmentation": "IŠKUR",
+				"segmentation": "IŠKUR=mu=kkan",
 				"transliteration": "<w><laes_in/><d>D<laes_fin/></d><sGr>IŠKUR</sGr>-aš-mu-kán</w>"
 			},
 			{
@@ -62156,7 +62156,7 @@
 			},
 			{
 				"gloss": "Ikingali-GN.GEN.SG(UNM)=QUOT",
-				"segmentation": "ikikal=e-",
+				"segmentation": "ikikal=e-=wa",
 				"transliteration": "<w><d>URU</d>i<del_fin/>-<laes_in/>ki-kal-wa<laes_fin/></w>"
 			},
 			{
@@ -62200,7 +62200,7 @@
 			},
 			{
 				"gloss": "weg-=CNJctr=QUOT=PPRO.3SG.C.ACC",
-				"segmentation": "arḫa",
+				"segmentation": "arḫa=ma=war=an",
 				"transliteration": "<w><del_in/>ar-ḫa-ma-wa-ra-a<del_fin/>n</w>"
 			},
 			{
@@ -62210,7 +62210,7 @@
 			},
 			{
 				"gloss": "Purra-PNm.ACC.SG.C=FOC",
-				"segmentation": "purr=a-",
+				"segmentation": "purr=a-=pat",
 				"transliteration": "<w><d>M</d>pur-ra-<laes_in/>an<laes_fin/>-<del_in/>pát<del_fin/></w>"
 			}
 		],
@@ -62244,7 +62244,7 @@
 			},
 			{
 				"gloss": "Šarrumma-DN.D/L.SG(UNM)=QUOT",
-				"segmentation": "LUGAL",
+				"segmentation": "LUGAL=wa",
 				"transliteration": "<w><sGr>LUGAL</sGr><d>MEŠ</d>-wa</w>"
 			},
 			{
@@ -62319,7 +62319,7 @@
 			},
 			{
 				"gloss": "Ikingali-GN.NOM.SG.C=CNJadd=QUOT",
-				"segmentation": "ikinkal=i-",
+				"segmentation": "ikinkal=i-=ya=wa",
 				"transliteration": "<w><del_in/><d>URU</d>i-ki-in-ka-li-i<del_fin/>š-ša-wa</w>"
 			},
 			{
@@ -62370,7 +62370,7 @@
 			},
 			{
 				"gloss": "Epla-GN.D/L.SG(UNM)=CNJctr=QUOT",
-				"segmentation": "epl=a-",
+				"segmentation": "epl=a-=ma=wa",
 				"transliteration": "<w><del_in/><d>URU</d>e-ep-la-m<del_fin/>a-wa</w>"
 			},
 			{
@@ -62412,7 +62412,7 @@
 			},
 			{
 				"gloss": "jetzt=CNJctr=QUOT=PPRO.3SG.C.NOM",
-				"segmentation": "kinun",
+				"segmentation": "kinun=ma=war=aš",
 				"transliteration": "<w>ki-nu-un-ma-wa-ra-aš</w>"
 			}
 		],
@@ -62610,7 +62610,7 @@
 			},
 			{
 				"gloss": "CONNn=QUOT=PPRO.2PL.DAT",
-				"segmentation": "nu=wa",
+				"segmentation": "nu=wa=šmaš",
 				"transliteration": "<w>nu-wa-aš-ma-aš</w>"
 			},
 			{
@@ -62798,7 +62798,7 @@
 			},
 			{
 				"gloss": "gepflügtes Feld-NOM.SG.N=CNJctr=QUOT=PPRO.2PL.DAT",
-				"segmentation": "ḫarša=uwar",
+				"segmentation": "ḫarša=uwar=ma=wa=šmaš",
 				"transliteration": "<w><del_in/><d>A<del_fin/>.ŠÀ</d>ḫar-ša-a-u-ar-ma-wa-aš-ma-aš</w>"
 			},
 			{
@@ -62871,12 +62871,12 @@
 			},
 			{
 				"gloss": "wie=QUOT=PPRO.3SG.N.ACC",
-				"segmentation": "mân",
+				"segmentation": "mân=war=at",
 				"transliteration": "<w><del_in/>m<del_fin/>a-a-an-wa-ra-at</w>"
 			},
 			{
 				"gloss": "nicht-NEG=CNJctr",
-				"segmentation": "UL",
+				"segmentation": "UL=ma",
 				"transliteration": "<w><aGr>Ú-UL</aGr>-ma</w>"
 			},
 			{
@@ -62979,7 +62979,7 @@
 			},
 			{
 				"gloss": "CONNn=QUOT=OBPs",
-				"segmentation": "nu=wa",
+				"segmentation": "nu=wa=ššan",
 				"transliteration": "<w>nu-wa-aš-ša-an</w>"
 			},
 			{
@@ -63008,7 +63008,7 @@
 			},
 			{
 				"gloss": "Person-D/L.PL=POSS.2PL.D/L.PL",
-				"segmentation": "tuekk=a-",
+				"segmentation": "tuekk=a-=šamaš",
 				"transliteration": "<w>tu-e-eg-ga-ša-<laes_in/>ma<laes_fin/>-aš</w>"
 			},
 			{
@@ -63391,7 +63391,7 @@
 		"KBo 32.19,Vs. 12b": [
 			{
 				"gloss": "Epla-GN.D/L.SG(UNM)=CNJctr",
-				"segmentation": "epl=a-",
+				"segmentation": "epl=a-=ma",
 				"transliteration": "<w><d>URU</d>e-ep-la-m<del_in/>a</w>"
 			},
 			{
@@ -63542,7 +63542,7 @@
 			},
 			{
 				"gloss": "ihr-PPROa.2PL.GEN=FOC",
-				"segmentation": "šumeš",
+				"segmentation": "šumeš=pat",
 				"transliteration": "<w>šu-me-en-za-an-<del_in/>pát</w>"
 			},
 			{
@@ -63598,7 +63598,7 @@
 			},
 			{
 				"gloss": "gepflügtes Feld-NOM.SG.N=CNJctr=PPRO.2PL.DAT",
-				"segmentation": "ḫarša=uwar",
+				"segmentation": "ḫarša=uwar=ma=šmaš",
 				"transliteration": "<w><d>A.ŠÀ</d>ḫar-ša-a-u-<del_in/>ar-ma-aš-ma-aš</w>"
 			},
 			{
@@ -63693,7 +63693,7 @@
 			},
 			{
 				"gloss": "nicht-NEG=CNJctr",
-				"segmentation": "UL",
+				"segmentation": "UL=ma",
 				"transliteration": "<w><aGr>Ú-UL</aGr>-m<del_in/>a</w>"
 			},
 			{
@@ -63820,7 +63820,7 @@
 			},
 			{
 				"gloss": "Person-D/L.PL=POSS.2PL.D/L.PL",
-				"segmentation": "tuekk=a-",
+				"segmentation": "tuekk=a-=šamaš",
 				"transliteration": "<w>tu-e-<del_in/>eg-ga-ša-m<del_fin/>a-aš</w>"
 			},
 			{
@@ -64057,7 +64057,7 @@
 			},
 			{
 				"gloss": "oberer-ACC.SG.N=CNJadd",
-				"segmentation": "šara=zzi(ya)-",
+				"segmentation": "šara=zzi(ya)-=ya",
 				"transliteration": "<w>ša-ra-a-az-zi-<del_in/>ia</w>"
 			},
 			{
@@ -64086,7 +64086,7 @@
 			},
 			{
 				"gloss": "weg-=CNJctr=PPRO.3SG.C.ACC",
-				"segmentation": "arḫa",
+				"segmentation": "arḫa=ma=an",
 				"transliteration": "<w>ar-ḫa-ma-an</w>"
 			},
 			{
@@ -64096,7 +64096,7 @@
 			},
 			{
 				"gloss": "Purra-PNm.ACC.SG.C=FOC",
-				"segmentation": "purr=a-",
+				"segmentation": "purr=a-=pat",
 				"transliteration": "<w><d>M</d>pur-ra-an-pá<del_fin/>t</w>"
 			}
 		],
@@ -64166,7 +64166,7 @@
 			},
 			{
 				"gloss": "Markt-FNL(n).D/L.SG=CNJctr=OBPk",
-				"segmentation": "KI.LAM",
+				"segmentation": "KI.LAM=ma=kkan",
 				"transliteration": "<w><sGr>KI.LAM</sGr>-ni-ma-ká<del_in/>n</w>"
 			},
 			{
@@ -64241,7 +64241,7 @@
 			},
 			{
 				"gloss": "ich-PPROa.1SG.ABL=CNJctr=PPRO.3SG.C.ACC",
-				"segmentation": "uk",
+				"segmentation": "uk=ma=an",
 				"transliteration": "<w>am-me-ta-az-ma-an</w>"
 			},
 			{
@@ -64285,7 +64285,7 @@
 			},
 			{
 				"gloss": "oberer-GEN.SG=CNJctr",
-				"segmentation": "šara=zzi(ya)-",
+				"segmentation": "šara=zzi(ya)-=ma",
 				"transliteration": "<w>ša-ra-a-az-zi-i<del_in/>a-ša</w>"
 			},
 			{
@@ -64356,7 +64356,7 @@
 			},
 			{
 				"gloss": "unterer-GEN.SG=OBPk",
-				"segmentation": "katter=a-",
+				"segmentation": "katter=a-=kkan",
 				"transliteration": "<w>kat-te-e-ra-aš-kán</w>"
 			},
 			{
@@ -64451,7 +64451,7 @@
 			},
 			{
 				"gloss": "oberer-GEN.SG=CNJctr=OBPk",
-				"segmentation": "šara=zzi(ya)-",
+				"segmentation": "šara=zzi(ya)-=ma=kkan",
 				"transliteration": "<w><laes_in/>ša<laes_fin/>-ra-a-az-zi-ia-aš-<laes_in/>ma<laes_fin/>-<del_in/>kán</w>"
 			},
 			{
@@ -64947,7 +64947,7 @@
 			},
 			{
 				"gloss": "Ikingali-GN.NOM.SG.C=CNJadd",
-				"segmentation": "ikinkal=i-",
+				"segmentation": "ikinkal=i-=ya",
 				"transliteration": "<w><d>URU</d>i-ki-in-<del_in/>ka-li-iš-ša<note c=\"This Hittite form does not make sense in context and is probably influenced by its Hurrian counterpart.\"/></w>"
 			},
 			{
@@ -65025,7 +65025,7 @@
 			},
 			{
 				"gloss": "Epla-GN.D/L.SG(UNM)=CNJctr",
-				"segmentation": "epl=a-",
+				"segmentation": "epl=a-=ma",
 				"transliteration": "<w><d>URU</d>e-ep-la-m<del_in/>a<corr c=\"?\"/></w>"
 			},
 			{
@@ -65093,7 +65093,7 @@
 			},
 			{
 				"gloss": "jetzt=CNJctr=PPRO.3SG.C.NOM",
-				"segmentation": "kinun",
+				"segmentation": "kinun=ma=aš",
 				"transliteration": "<w>ki-nu-un-ma-aš</w>"
 			},
 			{
@@ -67420,7 +67420,7 @@
 			},
 			{
 				"gloss": "Diener-NOM.SG(UNM)=CNJctr=REFL",
-				"segmentation": "ARAD",
+				"segmentation": "ARAD=ma=za",
 				"transliteration": "<w><sGr>ARAD</sGr><d>MEŠ</d>-ma-<laes_in/>az<laes_fin/></w>"
 			}
 		],
@@ -67891,7 +67891,7 @@
 			},
 			{
 				"gloss": "weg-=CNJctr=PPRO.3SG.C.ACC",
-				"segmentation": "arḫa",
+				"segmentation": "arḫa=ma=an",
 				"transliteration": "<w>ar-ḫa-m<del_in/>a-an</w>"
 			}
 		],
@@ -67942,7 +67942,7 @@
 			},
 			{
 				"gloss": "Iki(n)gali-GN.NOM.SG.C=CNJadd",
-				"segmentation": "ikikal=e-",
+				"segmentation": "ikikal=e-=ya",
 				"transliteration": "<w><del_in/><d>URU</d>i-k<del_fin/>i-ga-le-eš-ša</w>"
 			},
 			{
@@ -67976,7 +67976,7 @@
 			},
 			{
 				"gloss": "Epla-GN.D/L.SG(UNM)=CNJctr",
-				"segmentation": "epl=a-",
+				"segmentation": "epl=a-=ma",
 				"transliteration": "<w><del_in/><d>URU</d>e-e<del_fin/>p-la-ma</w>"
 			},
 			{
@@ -69050,7 +69050,7 @@
 			},
 			{
 				"gloss": "oberer-GEN.SG=CNJctr",
-				"segmentation": "šara=zzi(ya)-",
+				"segmentation": "šara=zzi(ya)-=ma",
 				"transliteration": "<w>ša-ra-a-az-zi-ia-ša</w>"
 			}
 		],
@@ -69091,7 +69091,7 @@
 			},
 			{
 				"gloss": "Markt-FNL(n).D/L.SG=CNJctr=OBPk",
-				"segmentation": "KI.LAM",
+				"segmentation": "KI.LAM=ma=kkan",
 				"transliteration": "<w><sGr><del_in/>KI.LA<del_fin/>M</sGr>-ni-ma-kán</w>"
 			},
 			{
@@ -69204,7 +69204,7 @@
 			},
 			{
 				"gloss": "ihr-PPROa.2PL.GEN=FOC",
-				"segmentation": "šumeš",
+				"segmentation": "šumeš=pat",
 				"transliteration": "<w>šu-me-en<del_fin/>-za-an-pát</w>"
 			}
 		],
@@ -69483,7 +69483,7 @@
 			},
 			{
 				"gloss": "welcher-REL.NOM.SG.C=CNJctr",
-				"segmentation": "kui-",
+				"segmentation": "kui-=ma",
 				"transliteration": "<w>ku-i-ša</w>"
 			},
 			{
@@ -69657,7 +69657,7 @@
 			},
 			{
 				"gloss": "machen-2SG.IMP=QUOT=PPRO.3SG.N.ACC",
-				"segmentation": "iye/a-",
+				"segmentation": "iye/a-=war=at",
 				"transliteration": "<w><laes_in/>i<laes_fin/>-ia-wa-ra-at</w>"
 			},
 			{
@@ -69994,7 +69994,7 @@
 		"KBo 32.27,3′": [
 			{
 				"gloss": "Person-D/L.PL=POSS.2PL.D/L.PL",
-				"segmentation": "tuekk=a-",
+				"segmentation": "tuekk=a-=šamaš",
 				"transliteration": "<w><del_in/>tu-e-eg-ga-ša-ma<del_fin/>-aš<corr c=\"!\"/><note c=\"Text: &lt;SP_f_AO_3a_SIGN&gt;U&lt;/SP_f_AO_3a_SIGN&gt;.\" n=\"1\"/></w>"
 			},
 			{
@@ -70189,7 +70189,7 @@
 			},
 			{
 				"gloss": "CONNn=QUOT=OBPs",
-				"segmentation": "nu=wa",
+				"segmentation": "nu=wa=ššan",
 				"transliteration": "<w>nu-w<del_fin/>a-aš-ša-a<del_in/>n</w>"
 			}
 		],
@@ -70201,7 +70201,7 @@
 			},
 			{
 				"gloss": "Person-D/L.PL=POSS.2PL.D/L.PL",
-				"segmentation": "tuekk=a-",
+				"segmentation": "tuekk=a-=šamaš",
 				"transliteration": "<w>tu-e-e<del_fin/>g-ga-aš-ma-aš</w>"
 			},
 			{
@@ -70326,7 +70326,7 @@
 			},
 			{
 				"gloss": "oberer-ACC.SG.N=CNJadd",
-				"segmentation": "šara=zzi(ya)-",
+				"segmentation": "šara=zzi(ya)-=ya",
 				"transliteration": "<w><laes_in/>ša<laes_fin/>-ra-a<del_in/>z-zi-ya</w>"
 			}
 		],
@@ -70421,7 +70421,7 @@
 			},
 			{
 				"gloss": "Person-D/L.PL=POSS.2PL.D/L.PL",
-				"segmentation": "tuekk=a-",
+				"segmentation": "tuekk=a-=šamaš",
 				"transliteration": "<w>tu-e-e<del_fin/>g-ga-aš-ma-aš</w>"
 			},
 			{
@@ -71544,7 +71544,7 @@
 			},
 			{
 				"gloss": "Weisheit-ACC.SG.N=CNJctr=PPRO.2PL.DAT",
-				"segmentation": "ḫatt=atar",
+				"segmentation": "ḫatt=atar=ma=šmaš",
 				"transliteration": "<w>ḫa-at-ta-<laes_in/>a<laes_fin/>-<del_in/>tar-ma-aš-ma-aš</w>"
 			},
 			{
@@ -71738,7 +71738,7 @@
 			},
 			{
 				"gloss": "Išḫara-DN.VOC.SG=CNJctr=OBPk",
-				"segmentation": "išḫar=a-",
+				"segmentation": "išḫar=a-=ma=kkan",
 				"transliteration": "<w><d>D</d>iš-ḫa-ra-aš-ma-k<del_in/>án</w>"
 			}
 		],
@@ -72060,7 +72060,7 @@
 			},
 			{
 				"gloss": "morgens=OBPk",
-				"segmentation": "karuwariwar",
+				"segmentation": "karuwariwar=kkan",
 				"transliteration": "<w>ka<del_fin/>-ru-ú-a-ri-wa-ar-kán</w>"
 			},
 			{
@@ -72319,7 +72319,7 @@
 			},
 			{
 				"gloss": "Gold-NOM.SG(UNM)=CNJctr",
-				"segmentation": "KÙ.SI₂₂",
+				"segmentation": "KÙ.SI₂₂=ma",
 				"transliteration": "<w><sGr>KÙ.SI₂₂</sGr>-ma</w>"
 			},
 			{
@@ -73056,7 +73056,7 @@
 			},
 			{
 				"gloss": "durstig-D/L.SG=CNJctr",
-				"segmentation": "kaniru=ant-",
+				"segmentation": "kaniru=ant-=ma",
 				"transliteration": "<w>k<del_fin/>a-ni-ru-wa-an-ti-ma</w>"
 			},
 			{
@@ -73259,7 +73259,7 @@
 			},
 			{
 				"gloss": "Weisheit-ACC.SG.N=CNJctr=PPRO.2PL.DAT",
-				"segmentation": "ḫatt=atar",
+				"segmentation": "ḫatt=atar=ma=šmaš",
 				"transliteration": "<w>ḫa-at-ta-a-tar-ma-aš-m<del_fin/>a-aš</w>"
 			},
 			{
@@ -73389,7 +73389,7 @@
 			},
 			{
 				"gloss": "Oberhaupt-D/L.SG(UNM)=PPRO.1SG.DAT",
-				"segmentation": "SAG.DU",
+				"segmentation": "SAG.DU=mu",
 				"transliteration": "<w><sGr>SA<del_fin/>G.DU</sGr>-mu</w>"
 			},
 			{
@@ -73740,7 +73740,7 @@
 			},
 			{
 				"gloss": "CONNn=PPRO.3SG.C.NOM=PPRO.1SG.ACC=REFL",
-				"segmentation": "n=aš",
+				"segmentation": "n=aš=mu=za",
 				"transliteration": "<w>na-aš-mu-za</w>"
 			}
 		],
@@ -74011,7 +74011,7 @@
 			},
 			{
 				"gloss": "Botschaft-ACC.SG.N=POSS.1SG.ACC.SG.N",
-				"segmentation": "ḫatr=eššar",
+				"segmentation": "ḫatr=eššar=met",
 				"transliteration": "<w>ḫa-at-re-eš-š<del_fin/>ar-mi-it</w>"
 			},
 			{
@@ -74082,7 +74082,7 @@
 			},
 			{
 				"gloss": "fließen-1SG.PST=CNJctr",
-				"segmentation": "arš=",
+				"segmentation": "arš==ma",
 				"transliteration": "<w>a-ar-šu-u-na</w>"
 			},
 			{
@@ -74134,7 +74134,7 @@
 			},
 			{
 				"gloss": "er-DEM2/3.NOM.SG.C=CNJctr=PPRO.1SG.DAT",
-				"segmentation": "apa-",
+				"segmentation": "apa-=ma=mu",
 				"transliteration": "<w>a-pa-a-ša-mu</w>"
 			},
 			{
@@ -75105,7 +75105,7 @@
 			},
 			{
 				"gloss": "Weisheit-ACC.SG.N=CNJctr=PPRO.2PL.DAT",
-				"segmentation": "ḫatt=atar",
+				"segmentation": "ḫatt=atar=ma=šmaš",
 				"transliteration": "<w>ḫa-at-<del_in/>ta-a-tar-ma-aš-ma-aš</w>"
 			},
 			{
@@ -75201,7 +75201,7 @@
 			},
 			{
 				"gloss": "Weisheit-ACC.SG.N=CNJctr=PPRO.2PL.DAT",
-				"segmentation": "ḫatt=atar",
+				"segmentation": "ḫatt=atar=ma=šmaš",
 				"transliteration": "<w>ḫa-at-ta-a-tar-ma-aš-<del_in/>ma-aš</w>"
 			},
 			{
@@ -75633,12 +75633,12 @@
 			},
 			{
 				"gloss": "wie=PPRO.3SG.C.NOM",
-				"segmentation": "man",
+				"segmentation": "man=aš",
 				"transliteration": "<w><del_in/>ma-a-na-aš</w>"
 			},
 			{
 				"gloss": "verfluchen-PTCP.NOM.SG.C=CNJctr",
-				"segmentation": "ḫurt=",
+				"segmentation": "ḫurt==ma",
 				"transliteration": "<w>ḫur-t<del_fin/>a-an-za-ma</w>"
 			},
 			{
@@ -76450,7 +76450,7 @@
 			},
 			{
 				"gloss": "(ist) nicht (vorhanden)-NEG=CNJctr=PPRO.3SG.C.NOM",
-				"segmentation": "NU.GÁL",
+				"segmentation": "NU.GÁL=ma=aš",
 				"transliteration": "<w><sGr>NU.G<del_fin/>ÁL</sGr>-<laes_in/>ma<laes_fin/>-aš</w>"
 			},
 			{
@@ -76460,7 +76460,7 @@
 			},
 			{
 				"gloss": "sprechen-3SG.PRS=PPRO.3SG.D/L",
-				"segmentation": "mem=a-",
+				"segmentation": "mem=a-=šši",
 				"transliteration": "<w>me-ma-<del_in/>iš-ši</w>"
 			}
 		],
@@ -76477,7 +76477,7 @@
 			},
 			{
 				"gloss": "Falldarlegung-ACC.SG.N=POSS.3SG.D/L.SG",
-				"segmentation": "arkuw=ar",
+				"segmentation": "arkuw=ar=šši",
 				"transliteration": "<w>ar-ku-ar-š<del_fin/>i</w>"
 			},
 			{
@@ -77632,7 +77632,7 @@
 			},
 			{
 				"gloss": "machen-2SG.IMP=QUOT=PPRO.3SG.N.ACC",
-				"segmentation": "iye/a-",
+				"segmentation": "iye/a-=war=at",
 				"transliteration": "<w>i-ia-wa-ra-a<del_in/>t<corr c=\"?\"/></w>"
 			}
 		],
@@ -88511,7 +88511,7 @@
 			},
 			{
 				"gloss": "danach-ADV=CNJctr=REFL",
-				"segmentation": "EGIR-anda",
+				"segmentation": "EGIR-anda=ma=za",
 				"transliteration": "<w><sGr>EGI<del_in/>R</sGr>-a<del_fin/>n-da-ma-za</w>"
 			},
 			{
@@ -89624,7 +89624,7 @@
 			},
 			{
 				"gloss": "danach-ADV=CNJctr=OBPk",
-				"segmentation": "EGIR-ŠU",
+				"segmentation": "EGIR-ŠU=ma=kkan",
 				"transliteration": "<w><sGr>EGIR</sGr><aGr>-ŠU</aGr>-ma-kán</w>"
 			},
 			{
@@ -90659,7 +90659,7 @@
 			},
 			{
 				"gloss": "Reinheit-STF=PPRO.3SG.C.NOM",
-				"segmentation": "itkalz=i-",
+				"segmentation": "itkalz=i-=aš",
 				"transliteration": "<w>it-kal-zi-aš</w>"
 			}
 		],
@@ -90683,7 +90683,7 @@
 			},
 			{
 				"gloss": "‘Meine Sonne’-…:D/L.SG=CNJadd=PPRO.3SG.N.ACC=OBPk",
-				"segmentation": "UTU-ŠI",
+				"segmentation": "UTU-ŠI=ya=at=kkan",
 				"transliteration": "<w><aGr>A-NA</aGr> <d>D</d><sGr>UTU</sGr><aGr>-ŠI</aGr>-ia-at-kán</w>"
 			},
 			{
@@ -90982,7 +90982,7 @@
 			},
 			{
 				"gloss": "gegenüber=CNJctr=OBPk",
-				"segmentation": "menaḫḫanda",
+				"segmentation": "menaḫḫanda=ma=kkan",
 				"transliteration": "<w>me-na-aḫ-ḫa-an-da-ma-kán</w>"
 			},
 			{
@@ -91014,7 +91014,7 @@
 			},
 			{
 				"gloss": "Arinna-GN.GEN.SG(UNM)=CNJadd",
-				"segmentation": "arinn=a-",
+				"segmentation": "arinn=a-=ya",
 				"transliteration": "<w><d>URU</d>a-ri-in-na-ia</w>"
 			},
 			{
@@ -91041,7 +91041,7 @@
 			},
 			{
 				"gloss": "Pfahl am Eingang eines Heiligtums-ACC.SG.C=CNJctr",
-				"segmentation": "kupt=i-",
+				"segmentation": "kupt=i-=ma",
 				"transliteration": "<w>ku-up-ti-in-ma</w>"
 			},
 			{
@@ -91063,7 +91063,7 @@
 			},
 			{
 				"gloss": "gegenüber=CNJctr=OBPk",
-				"segmentation": "menaḫḫanda",
+				"segmentation": "menaḫḫanda=ma=kkan",
 				"transliteration": "<w>me-na-aḫ-ḫa-an-da-ma-kán</w>"
 			},
 			{
@@ -91110,7 +91110,7 @@
 			},
 			{
 				"gloss": "gegenüber=CNJctr=OBPk",
-				"segmentation": "menaḫḫanda",
+				"segmentation": "menaḫḫanda=ma=kkan",
 				"transliteration": "<w>me-na-aḫ-ḫa-an-da-ma-kán</w>"
 			}
 		],
@@ -91179,7 +91179,7 @@
 			},
 			{
 				"gloss": "gegenüber=CNJctr=OBPk",
-				"segmentation": "menaḫḫanda",
+				"segmentation": "menaḫḫanda=ma=kkan",
 				"transliteration": "<w>me-na-aḫ-ḫa-an-da-ma-kán</w>"
 			}
 		],
@@ -91260,7 +91260,7 @@
 			},
 			{
 				"gloss": "gegenüber=CNJctr=OBPk",
-				"segmentation": "menaḫḫanda",
+				"segmentation": "menaḫḫanda=ma=kkan",
 				"transliteration": "<w>me-na-aḫ-ḫa-an-da-ma-kán</w>"
 			}
 		],
@@ -91331,7 +91331,7 @@
 			},
 			{
 				"gloss": "gegenüber=CNJctr=OBPk",
-				"segmentation": "menaḫḫanda",
+				"segmentation": "menaḫḫanda=ma=kkan",
 				"transliteration": "<w>me-na-aḫ-ḫa-an-da-ma-kán</w>"
 			},
 			{
@@ -91400,7 +91400,7 @@
 			},
 			{
 				"gloss": "gegenüber=CNJctr=OBPk",
-				"segmentation": "menaḫḫanda",
+				"segmentation": "menaḫḫanda=ma=kkan",
 				"transliteration": "<w>me-<laes_in/>na-aḫ-ḫa-an-da-ma-kán<laes_fin/></w>"
 			}
 		],
@@ -91550,7 +91550,7 @@
 			},
 			{
 				"gloss": "weibliche Götter-…:D/L.PL=CNJctr",
-				"segmentation": "DINGIR˽MUNUS",
+				"segmentation": "DINGIR˽MUNUS=ma",
 				"transliteration": "<w><aGr>A-NA</aGr> <sGr>DINGIR</sGr><d>MEŠ</d>˽<sGr>MUNUS</sGr><d>MEŠ</d>-ma</w>"
 			},
 			{
@@ -91587,7 +91587,7 @@
 			},
 			{
 				"gloss": "Opfer-GEN.SG(UNM)=CNJctr",
-				"segmentation": "SÍSKUR",
+				"segmentation": "SÍSKUR=ma",
 				"transliteration": "<w><sGr>SÍSKUR</sGr>-ma</w>"
 			},
 			{
@@ -91627,7 +91627,7 @@
 			},
 			{
 				"gloss": "Ziege-ACC.SG(UNM)=CNJadd",
-				"segmentation": "UZ₆",
+				"segmentation": "UZ₆=ya",
 				"transliteration": "<w><sGr>UZ₆</sGr>-ia</w>"
 			},
 			{
@@ -91809,7 +91809,7 @@
 			},
 			{
 				"gloss": "darin=CNJctr=OBPk",
-				"segmentation": "anda",
+				"segmentation": "anda=ma=kkan",
 				"transliteration": "<w>an-da-ma-kán</w>"
 			},
 			{
@@ -91829,7 +91829,7 @@
 			},
 			{
 				"gloss": "wie=QUOT",
-				"segmentation": "mân",
+				"segmentation": "mân=wa",
 				"transliteration": "<w>ma-a-an-wa</w>"
 			},
 			{
@@ -91989,7 +91989,7 @@
 			},
 			{
 				"gloss": "Unsauberkeit-NOM.SG.N=CNJadd",
-				"segmentation": "papr=atar",
+				"segmentation": "papr=atar=ya",
 				"transliteration": "<w>pa-ap-ra-a-tar-ra</w>"
 			}
 		],
@@ -92011,7 +92011,7 @@
 			},
 			{
 				"gloss": "Gott-…:GEN.PL=CNJctr=QUOT",
-				"segmentation": "DINGIR",
+				"segmentation": "DINGIR=ma=wa",
 				"transliteration": "<w><aGr>ŠA</aGr> <sGr>DINGIR</sGr><d>MEŠ</d>-ma-wa</w>"
 			},
 			{
@@ -92038,7 +92038,7 @@
 			},
 			{
 				"gloss": "Gewand-NOM.PL(UNM)=CNJadd",
-				"segmentation": "TÚG",
+				"segmentation": "TÚG=ya",
 				"transliteration": "<w><sGr>TÚG</sGr><d>ḪI.A</d>-ia</w>"
 			},
 			{
@@ -92102,7 +92102,7 @@
 		"KBo 33.43+, {€1} Vs. I 45": [
 			{
 				"gloss": "Holz-ACC.PL(UNM)=CNJadd",
-				"segmentation": "GIŠ",
+				"segmentation": "GIŠ=ya",
 				"transliteration": "<w><sGr>GIŠ</sGr><d>ḪI.A</d>-ia</w>"
 			},
 			{
@@ -92129,7 +92129,7 @@
 			},
 			{
 				"gloss": "dann=OBPs",
-				"segmentation": "namma",
+				"segmentation": "namma=ššan",
 				"transliteration": "<w>nam-ma-aš-ša-an</w>"
 			},
 			{
@@ -92171,7 +92171,7 @@
 			},
 			{
 				"gloss": "hier=CNJctr=OBPs",
-				"segmentation": "kez",
+				"segmentation": "kez=ya=ššan",
 				"transliteration": "<w>ke-e-ez-zi-ia-aš-ša-an</w>"
 			},
 			{
@@ -92260,7 +92260,7 @@
 			},
 			{
 				"gloss": "links-ADV=CNJadd",
-				"segmentation": "GÙB-laz",
+				"segmentation": "GÙB-laz=ya",
 				"transliteration": "<w><sGr>GÙB</sGr>-la-az-zi-ia</w>"
 			},
 			{
@@ -92421,12 +92421,12 @@
 			},
 			{
 				"gloss": "wie=PPRO.3SG.C.NOM",
-				"segmentation": "man",
+				"segmentation": "man=aš",
 				"transliteration": "<w>ma-a-na-aš</w>"
 			},
 			{
 				"gloss": "Frau-NOM.SG(UNM)=CNJctr",
-				"segmentation": "MUNUS",
+				"segmentation": "MUNUS=ma",
 				"transliteration": "<w><sGr>MUNUS</sGr>-ma</w>"
 			}
 		],
@@ -92468,7 +92468,7 @@
 			},
 			{
 				"gloss": "links-ADV=CNJctr",
-				"segmentation": "GÙB-laz",
+				"segmentation": "GÙB-laz=ma",
 				"transliteration": "<w><sGr>GÙB</sGr>-la-az-ma</w>"
 			}
 		],
@@ -92576,7 +92576,7 @@
 			},
 			{
 				"gloss": "links-ADV=CNJctr",
-				"segmentation": "GÙB-laz",
+				"segmentation": "GÙB-laz=ma",
 				"transliteration": "<w><sGr>GÙB</sGr>-la-az-ma</w>"
 			},
 			{
@@ -92675,7 +92675,7 @@
 			},
 			{
 				"gloss": "CONNn=PPRO.3SG.C.NOM=REFL=PPRO.3SG.C.ACC",
-				"segmentation": "n=aš=z",
+				"segmentation": "n=aš=z=an",
 				"transliteration": "<w>na-aš-za-an</w>"
 			},
 			{
@@ -92702,12 +92702,12 @@
 			},
 			{
 				"gloss": "wie=PPRO.3SG.C.NOM",
-				"segmentation": "man",
+				"segmentation": "man=aš",
 				"transliteration": "<w><del_in/>m<del_fin/>a-a-na-aš</w>"
 			},
 			{
 				"gloss": "Frau-NOM.SG(UNM)=CNJctr",
-				"segmentation": "MUNUS",
+				"segmentation": "MUNUS=ma",
 				"transliteration": "<w><sGr>MUNUS</sGr>-ma</w>"
 			},
 			{
@@ -92717,7 +92717,7 @@
 			},
 			{
 				"gloss": "CONNn=PPRO.3SG.C.NOM=REFL=PPRO.3SG.C.ACC",
-				"segmentation": "n=aš=z",
+				"segmentation": "n=aš=z=an",
 				"transliteration": "<w>na-aš-za-an</w>"
 			},
 			{
@@ -92754,7 +92754,7 @@
 			},
 			{
 				"gloss": "Frau-NOM.SG(UNM)=CNJctr",
-				"segmentation": "MUNUS",
+				"segmentation": "MUNUS=ma",
 				"transliteration": "<w><sGr>MUNUS</sGr>-ma</w>"
 			},
 			{
@@ -92813,7 +92813,7 @@
 			},
 			{
 				"gloss": "hinter-POSP=PPRO.3SG.C.ACC",
-				"segmentation": "EGIR",
+				"segmentation": "EGIR=an",
 				"transliteration": "<w><sGr>EGIR</sGr>-an</w>"
 			},
 			{
@@ -92860,7 +92860,7 @@
 			},
 			{
 				"gloss": "Ḫepat-…:GEN.SG=CNJctr",
-				"segmentation": "ḫep=a(t)(u)-",
+				"segmentation": "ḫep=a(t)(u)-=ma",
 				"transliteration": "<w><aGr>ŠA</aGr> <d>D</d>ḫé-pát-ma</w>"
 			},
 			{
@@ -92909,7 +92909,7 @@
 			},
 			{
 				"gloss": "dann=OBPk",
-				"segmentation": "namma",
+				"segmentation": "namma=kkan",
 				"transliteration": "<w><laes_in/>nam<laes_fin/>-ma-kán</w>"
 			},
 			{
@@ -92956,7 +92956,7 @@
 			},
 			{
 				"gloss": "Opferschauer-NOM.SG(UNM)=CNJctr",
-				"segmentation": "AZU",
+				"segmentation": "AZU=ma",
 				"transliteration": "<w><d>LÚ</d><sGr>AZU</sGr>-ma</w>"
 			}
 		],
@@ -93047,7 +93047,7 @@
 			},
 			{
 				"gloss": "wie=CNJctr=REFL=OBPk",
-				"segmentation": "maḫḫan",
+				"segmentation": "maḫḫan=ma=za=kkan",
 				"transliteration": "<w>ma-aḫ-ḫa-an-ma-za-kán</w>"
 			}
 		],
@@ -93298,7 +93298,7 @@
 			},
 			{
 				"gloss": "dann=PPRO.3SG.C.NOM",
-				"segmentation": "namma",
+				"segmentation": "namma=aš",
 				"transliteration": "<w><ras_in/>nam<ras_fin/>-ma-aš</w>"
 			}
 		],
@@ -93332,7 +93332,7 @@
 			},
 			{
 				"gloss": "nicht-NEG=PPRO.3PL.C.ACC",
-				"segmentation": "UL",
+				"segmentation": "UL=aš",
 				"transliteration": "<w><aGr>Ú-UL</aGr>-aš</w>"
 			},
 			{
@@ -93352,7 +93352,7 @@
 			},
 			{
 				"gloss": "nicht-NEG=CNJctr=PPRO.3PL.C.ACC",
-				"segmentation": "UL",
+				"segmentation": "UL=ma=aš",
 				"transliteration": "<w><aGr>Ú-UL</aGr>-ma-aš</w>"
 			}
 		],
@@ -93401,7 +93401,7 @@
 			},
 			{
 				"gloss": "dann=PPRO.3SG.C.NOM=REFL=OBPs",
-				"segmentation": "namma",
+				"segmentation": "namma=aš=za=ššan",
 				"transliteration": "<w>nam-ma-aš-za-an</w>"
 			}
 		],
@@ -93440,7 +93440,7 @@
 			},
 			{
 				"gloss": "unter-=FOC=REFL",
-				"segmentation": "katta",
+				"segmentation": "katta=pat=za",
 				"transliteration": "<w><del_in/>k<del_fin/>at-ta-pát-za</w>"
 			},
 			{
@@ -93455,7 +93455,7 @@
 			},
 			{
 				"gloss": "wie=CNJctr=REFL=OBPk",
-				"segmentation": "maḫḫan",
+				"segmentation": "maḫḫan=ma=za=kkan",
 				"transliteration": "<w>ma-aḫ-ḫa-an-ma-za-kán</w>"
 			},
 			{
@@ -93553,7 +93553,7 @@
 			},
 			{
 				"gloss": "Haushaltsmitglied-NOM.PL.C=CNJctr",
-				"segmentation": "damnaššar=a-",
+				"segmentation": "damnaššar=a-=ma",
 				"transliteration": "<w><del_in/><d>L<del_fin/>Ú.MEŠ</d>dam-na-aš-ša-ri-e-eš-ma</w>"
 			},
 			{
@@ -93646,12 +93646,12 @@
 			},
 			{
 				"gloss": "Ištar-…:GEN.SG=CNJctr",
-				"segmentation": "IŠTAR",
+				"segmentation": "IŠTAR=ma",
 				"transliteration": "<w><aGr><del_in/>Š<del_fin/>A</aGr> <d>D</d><aGr><laes_in/>IŠTAR<laes_fin/></aGr>-ma</w>"
 			},
 			{
 				"gloss": "Nabarb/wi-DN.GEN.SG=CNJadd",
-				"segmentation": "naparp=i-",
+				"segmentation": "naparp=i-=ya",
 				"transliteration": "<w><d>D</d>na-pár-pí-ia-aš-ša</w>"
 			},
 			{
@@ -93840,7 +93840,7 @@
 			},
 			{
 				"gloss": "Bernstein(?)-INS=CNJadd",
-				"segmentation": "ḫuš=t-",
+				"segmentation": "ḫuš=t-=ya",
 				"transliteration": "<w>ḫu-uš-ti-it-<laes_in/>ta</w>"
 			},
 			{
@@ -93919,12 +93919,12 @@
 			},
 			{
 				"gloss": "wie=PPRO.3SG.C.NOM",
-				"segmentation": "man",
+				"segmentation": "man=aš",
 				"transliteration": "<w>ma-a-na-aš</w>"
 			},
 			{
 				"gloss": "Frau-NOM.SG(UNM)=CNJctr",
-				"segmentation": "MUNUS",
+				"segmentation": "MUNUS=ma",
 				"transliteration": "<w><sGr>MUNUS</sGr>-ma</w>"
 			},
 			{
@@ -94220,12 +94220,12 @@
 			},
 			{
 				"gloss": "Ištar-DN.ACC.SG(UNM)=CNJctr",
-				"segmentation": "IŠTAR",
+				"segmentation": "IŠTAR=ma",
 				"transliteration": "<w><d>D</d><aGr>IŠTAR</aGr>-ma</w>"
 			},
 			{
 				"gloss": "Nabarb/wi-DN.ACC.SG(UNM)=CNJadd",
-				"segmentation": "naparp=i-",
+				"segmentation": "naparp=i-=ya",
 				"transliteration": "<w><d>D</d>na-pár-pí-ia</w>"
 			},
 			{
@@ -103096,7 +103096,7 @@
 			},
 			{
 				"gloss": "dann=PPRO.3SG.N.ACC=OBPs",
-				"segmentation": "namma",
+				"segmentation": "namma=at=ššan",
 				"transliteration": "<w>nam-ma-at-ša-a<del_in/>n<del_fin/></w>"
 			}
 		],
@@ -103145,12 +103145,12 @@
 			},
 			{
 				"gloss": "Zeder-ACC.SG(UNM)=CNJctr=OBPk",
-				"segmentation": "EREN",
+				"segmentation": "EREN=ma=kkan",
 				"transliteration": "<w><d>GIŠ</d><sGr>EREN</sGr>-ma-kán</w>"
 			},
 			{
 				"gloss": "Zeder(?)-LUW.ACC.SG.N=CNJadd",
-				"segmentation": "paen=i(t)-",
+				"segmentation": "paen=i(t)-=ya",
 				"transliteration": "<w><d>GIŠ</d>pa-i-ni-ia</w>"
 			},
 			{
@@ -103177,7 +103177,7 @@
 			},
 			{
 				"gloss": "nicht-NEG=CNJctr",
-				"segmentation": "UL",
+				"segmentation": "UL=ma",
 				"transliteration": "<w><aGr>Ú-UL</aGr>-<del_in/>m<del_fin/>a</w>"
 			},
 			{
@@ -104002,7 +104002,7 @@
 			},
 			{
 				"gloss": "Nabarb/wi-DN.GEN.SG=CNJadd",
-				"segmentation": "naparp=i-",
+				"segmentation": "naparp=i-=ya",
 				"transliteration": "<w><d>D</d>na-pár-pí-ia-aš-ša</w>"
 			}
 		],
@@ -104061,7 +104061,7 @@
 			},
 			{
 				"gloss": "ein=FOC",
-				"segmentation": "1-EN",
+				"segmentation": "1-EN=pat",
 				"transliteration": "<w><num>1</num><aGr>-<laes_in/>EN<laes_fin/></aGr>-pát</w>"
 			},
 			{
@@ -104071,7 +104071,7 @@
 			},
 			{
 				"gloss": "dieser-DEM1.D/L.SG=FOC",
-				"segmentation": "ka-",
+				"segmentation": "ka-=pat",
 				"transliteration": "<w><ras_in/>ke<ras_fin/>-e-da-ni-pát</w>"
 			}
 		],
@@ -104225,7 +104225,7 @@
 			},
 			{
 				"gloss": "Reinheit-…:GEN.SG=CNJctr=PPRO.3SG.C.NOM",
-				"segmentation": "itkalz=i-",
+				"segmentation": "itkalz=i-=ma=aš",
 				"transliteration": "<w><aGr>ŠA</aGr> it-kal-zi-ia-a<del_in/>š-m<del_fin/>a-aš</w>"
 			}
 		],
@@ -104237,7 +104237,7 @@
 			},
 			{
 				"gloss": "‘Meine Sonne’-…:D/L.SG=CNJadd=PPRO.3SG.N.ACC=OBPk",
-				"segmentation": "UTU-ŠI",
+				"segmentation": "UTU-ŠI=ya=at=kkan",
 				"transliteration": "<w><aGr><del_in/>A-NA</aGr> <d>D</d><sGr>UTU</sGr><aGr>-ŠI</aGr>-i<del_fin/>a-at-kán</w>"
 			},
 			{
@@ -104854,7 +104854,7 @@
 			},
 			{
 				"gloss": "Nabarb/wi-DN.GEN.SG=CNJadd",
-				"segmentation": "naparp=i-",
+				"segmentation": "naparp=i-=ya",
 				"transliteration": "<w><d>D</d>na-pár-pí-ia-aš-ša</w>"
 			},
 			{
@@ -104928,7 +104928,7 @@
 			},
 			{
 				"gloss": "unten=CNJctr",
-				"segmentation": "katta",
+				"segmentation": "katta=ma",
 				"transliteration": "<w>kat-ta-ma</w>"
 			}
 		],
@@ -104982,7 +104982,7 @@
 			},
 			{
 				"gloss": "er-DEM2/3.D/L.SG=CNJadd",
-				"segmentation": "apa-",
+				"segmentation": "apa-=ya",
 				"transliteration": "<w>a-pé-e-da-ni-ia</w>"
 			},
 			{
@@ -105163,7 +105163,7 @@
 			},
 			{
 				"gloss": "Opfer-GEN.SG(UNM)=CNJadd",
-				"segmentation": "SÍSKUR",
+				"segmentation": "SÍSKUR=ya",
 				"transliteration": "<w><sGr>SÍSKUR</sGr>-ia</w>"
 			}
 		],
@@ -105180,7 +105180,7 @@
 			},
 			{
 				"gloss": "dann=REFL=OBPk",
-				"segmentation": "namma",
+				"segmentation": "namma=za=kkan",
 				"transliteration": "<w><del_in/>na<del_fin/>m-ma-za-kán</w>"
 			},
 			{
@@ -105462,7 +105462,7 @@
 			},
 			{
 				"gloss": "Lamm-ACC.SG(UNM)=CNJadd",
-				"segmentation": "SILA₄",
+				"segmentation": "SILA₄=ya",
 				"transliteration": "<w><sGr>SILA₄</sGr>-ia</w>"
 			},
 			{
@@ -105529,7 +105529,7 @@
 			},
 			{
 				"gloss": "Lamm-ACC.SG(UNM)=CNJadd",
-				"segmentation": "SILA₄",
+				"segmentation": "SILA₄=ya",
 				"transliteration": "<w><sGr><laes_in/>SILA₄<laes_fin/></sGr>-ia</w>"
 			}
 		],
@@ -105886,7 +105886,7 @@
 			},
 			{
 				"gloss": "seitlich=CNJadd",
-				"segmentation": "tapuša",
+				"segmentation": "tapuša=ya",
 				"transliteration": "<w>ta-pu-ša-ia</w>"
 			}
 		],
@@ -116472,7 +116472,7 @@
 			},
 			{
 				"gloss": "Figur-ACC.PL.C=CNJctr",
-				"segmentation": "šen=a-",
+				"segmentation": "šen=a-=ma",
 				"transliteration": "<w><laes_in/>še<laes_fin/>-e-nu-uš-ma</w>"
 			}
 		],
@@ -116536,7 +116536,7 @@
 			},
 			{
 				"gloss": "weiß-ACC.SG(UNM)=CNJadd",
-				"segmentation": "BABBAR",
+				"segmentation": "BABBAR=ya",
 				"transliteration": "<w><sGr>BABBAR</sGr>-ia</w>"
 			}
 		],
@@ -116558,7 +116558,7 @@
 			},
 			{
 				"gloss": "oben=PPRO.3PL.C.ACC",
-				"segmentation": "šer",
+				"segmentation": "šer=uš",
 				"transliteration": "<w><laes_in/>še-er-uš<corr c=\"?\"/><laes_fin/></w>"
 			},
 			{
@@ -116617,7 +116617,7 @@
 			},
 			{
 				"gloss": "CONNn=PPRO.3PL.C.ACC=REFL",
-				"segmentation": "nu=uš",
+				"segmentation": "nu=uš=za",
 				"transliteration": "<w>nu-uš-za</w>"
 			},
 			{
@@ -120649,7 +120649,7 @@
 			},
 			{
 				"gloss": "Reinheit-STF=PPRO.3SG.C.NOM",
-				"segmentation": "itkalz=i-",
+				"segmentation": "itkalz=i-=aš",
 				"transliteration": "<w>it-kal-zi-i<del_in/>a<del_fin/>-aš</w>"
 			}
 		],
@@ -120671,7 +120671,7 @@
 			},
 			{
 				"gloss": "‘Meine Sonne’-…:D/L.SG=PPRO.3SG.N.ACC=OBPk",
-				"segmentation": "UTU-ŠI",
+				"segmentation": "UTU-ŠI=at=kkan",
 				"transliteration": "<w><aGr>A-NA</aGr> <d>D</d><sGr>UTU</sGr><aGr>-ŠI</aGr>-at-kán</w>"
 			}
 		],
@@ -125685,7 +125685,7 @@
 			},
 			{
 				"gloss": "wie=CNJctr=REFL=OBPk",
-				"segmentation": "maḫḫan",
+				"segmentation": "maḫḫan=ma=za=kkan",
 				"transliteration": "<w>ma-aḫ<del_fin/>-<laes_in/>ḫa<laes_fin/>-<del_in/>a<del_fin/>n-ma-za-kán</w>"
 			},
 			{
@@ -125864,12 +125864,12 @@
 			},
 			{
 				"gloss": "Ištar-…:GEN.SG=CNJctr",
-				"segmentation": "IŠTAR",
+				"segmentation": "IŠTAR=ma",
 				"transliteration": "<w><aGr><del_in/>Š<del_fin/>A</aGr> <d>D</d><aGr>IŠTAR</aGr>-ma</w>"
 			},
 			{
 				"gloss": "Nabarb/wi-DN.GEN.SG=CNJadd",
-				"segmentation": "naparu=i-",
+				"segmentation": "naparu=i-=ya",
 				"transliteration": "<w><d>D</d><del_in/>n<del_fin/>a-pár-wi<subscr c=\"i\"/>-ia-aš-ša</w>"
 			},
 			{
