@@ -15,17 +15,30 @@ def split_at_single(value: str, split_string: str,
   else:
     return value, None
 
+def read_enclitics_chain(enclitics_chain: str) -> Morph | None:
+  split_enclitics_chain = list(map(str.strip, enclitics_chain.split(sep)))
+  if len(split_enclitics_chain) < 2:
+    return None
+  enclitics, analyses_string = split_enclitics_chain[:2]
+  if in_braces(analyses_string):
+    enclitics_tags = parseMorphTags(analyses_string)
+    return MultiMorph(enclitics, '', enclitics_tags, '', '', None)
+  else:
+    return SingleMorph(enclitics, '', analyses_string, '', '', None)
+
 class Morph:
 
     def __init__(self,
                  segmentation: str,
                  translation: str,
                  pos: str,
-                 det: str):
+                 det: str,
+                 enclitics_analysis: Morph | None):
         self.segmentation = segmentation
         self.translation = translation
         self.pos = pos
         self.det = det
+        self.enclitics_analysis = enclitics_analysis
     
     def __eq__(self, other: object) -> bool:
         if not isinstance(other, Morph):
@@ -96,12 +109,16 @@ class Morph:
         det = determinative_string
       else:
         det = ''
-      pos, encl = split_at_single(other_string, '+=')
+      pos, enclitics_chain = split_at_single(other_string, '+=')
+      if enclitics_chain is None or enclitics_chain == '':
+        enclitics_analysis = None
+      else:
+        enclitics_analysis = read_enclitics_chain(enclitics_chain)
       if in_braces(morph_info):
         morph_tags = parseMorphTags(morph_info)
-        return MultiMorph(segmentation, translation, morph_tags, pos, det)
+        return MultiMorph(segmentation, translation, morph_tags, pos, det, enclitics_analysis)
       else:
-        return SingleMorph(segmentation, translation, morph_info, pos, det)
+        return SingleMorph(segmentation, translation, morph_info, pos, det, enclitics_analysis)
         
 class SingleMorph(Morph):
     
@@ -110,8 +127,9 @@ class SingleMorph(Morph):
                  translation: str,
                  morph_tag: str,
                  pos: str,
-                 det: str):
-        super().__init__(segmentation, translation, pos, det)
+                 det: str,
+                 enclitics_analysis: Morph | None):
+        super().__init__(segmentation, translation, pos, det, enclitics_analysis)
         self.morph_tag = morph_tag
     
     def __eq__(self, other: object) -> bool:
@@ -139,7 +157,7 @@ class SingleMorph(Morph):
         
     def to_multi(self) -> MultiMorph:
         return MultiMorph(self.segmentation, self.translation,
-            {'a': self.morph_tag}, self.pos, self.det)
+            {'a': self.morph_tag}, self.pos, self.det, self.enclitics_analysis)
 
     @property
     def single_morph_tag(self) -> str:
@@ -157,8 +175,9 @@ class MultiMorph(Morph):
                  translation: str,
                  morph_tags: dict[str, str],
                  pos: str,
-                 det: str):
-        super().__init__(segmentation, translation, pos, det)
+                 det: str,
+                 enclitics_analysis: Morph | None):
+        super().__init__(segmentation, translation, pos, det, enclitics_analysis)
         self.morph_tags = morph_tags
     
     def __eq__(self, other: object) -> bool:
@@ -188,7 +207,7 @@ class MultiMorph(Morph):
     
     def to_single(self) -> SingleMorph:
         return SingleMorph(self.segmentation, self.translation,
-            next(iter(self.morph_tags.values())), self.pos, self.det)
+            next(iter(self.morph_tags.values())), self.pos, self.det, self.enclitics_analysis)
     
     def __hash__(self) -> int:
         if (self.is_singletone):
