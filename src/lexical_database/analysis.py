@@ -7,10 +7,7 @@ def join(sep: str, translation: str, grammatical_info: str) -> str:
   return sep.join(filter(lambda x: x != '', (translation, grammatical_info)))
 
 def make_analysis(selection: Selection, morph: Morph) -> str:
-    if selection.gramm_form is None:
-        morph_tag = morph.single_morph_tag
-    else:
-        morph_tag = morph[selection.gramm_form]
+    morph_tag = morph.get_morph_tag(selection.gramm_form)
     if morph_tag is None:
       morph_tag = ERROR_SYMBOL
     if morph_tag == '':

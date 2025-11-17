@@ -87,6 +87,19 @@ class Morph:
     def __getitem__(self, index: str) -> str | None:
       raise NotImplementedError
 
+    def get_morph_tag(self, index: str | None) -> str | None:
+      """Return the morphological tag with the specified index.
+      :param index: A letter indicating the required morphological tag, or None
+      if the analysis does not support multiple morphological tag options.
+      :return: The morphological tag with the specified index or the only morphological tag,
+      if it is possible to retrieve it; None otherwise.
+      """
+      if index is None:
+        morph_tag = self.single_morph_tag
+      else:
+        morph_tag = self.__getitem__(index)
+      return morph_tag
+
     @classmethod
     def parse(cls, content: str) -> Morph | None:
       segmentation, rest_without_segmentation = split_at_single(content, sep)
