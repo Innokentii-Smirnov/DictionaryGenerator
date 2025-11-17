@@ -31,9 +31,7 @@ else:
 
 if 'outputDirectory' in config:
   output_directory = config['outputDirectory']
-  if not path.exists(output_directory):
-    logger.error('Output directory not found: ' + output_directory)
-    exit()
+  os.makedirs(output_directory, exist_ok=True)
   outfile = path.join(output_directory, OUTFILE)
 else:
   outfile = OUTFILE
