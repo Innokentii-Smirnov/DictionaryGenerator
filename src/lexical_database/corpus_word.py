@@ -19,6 +19,10 @@ def word_to_corpus_word(word: Word) -> dict[str, str]:
   transliteration = enclose_with_xml_tag(word.transliteration, 'w')
   if len(word.selections) > 0:
     selection = word.selections[0]
+    i = 1
+    while selection is None and i < len(word.selections):
+      selection = word.selections[i]
+      i += 1
     if selection is not None:
       if selection.lexeme in word.analyses:
         morph = word[selection.lexeme]
