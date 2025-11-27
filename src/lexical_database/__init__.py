@@ -9,10 +9,22 @@ from logging import getLogger
 logger = getLogger(__name__)
 
 fragmentary_form_indicators = {'[', ']', 'x'}
+ENCLITIC_BOUNDARY = '='
 
-def is_fragmentary(form: str) -> bool:
+def get_segmentation_without_enclitics(segmentation: str) -> str:
+  index = segmentation.find(ENCLITIC_BOUNDARY)
+  if index == -1:
+    return segmentation
+  else:
+    return segmentation[:index].rstrip('[')
+
+def form_is_fragmentary(form: str) -> bool:
   return (any(indicator in form for indicator in fragmentary_form_indicators)
           or form.strip() == '')
+
+def segmentation_is_fragmentary(segmentation: str) -> bool:
+  segmentation_without_enclitics = get_segmentation_without_enclitics(segmentation)
+  return form_is_fragmentary(segmentation_without_enclitics)
 
 stem_split_pattern = compile('[-=]')
 def get_stem(word: str) -> str:
@@ -81,7 +93,7 @@ class LexicalDatabase:
                         'The selected morphological analysis %i could not be parsed', number
                       )
                     else:
-                      if not is_fragmentary(analysis.segmentation):
+                      if not segmentation_is_fragmentary(analysis.segmentation):
                         if isinstance(analysis, MultiMorph) and analysis.is_singletone:
                           analysis_str = str(analysis.to_single())
                         else:
