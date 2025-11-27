@@ -19,8 +19,7 @@ def get_segmentation_without_enclitics(segmentation: str) -> str:
     return segmentation[:index].rstrip('[')
 
 def form_is_fragmentary(form: str) -> bool:
-  return (any(indicator in form for indicator in fragmentary_form_indicators)
-          or form.strip() == '')
+  return (any(indicator in form for indicator in fragmentary_form_indicators))
 
 def segmentation_is_fragmentary(segmentation: str) -> bool:
   segmentation_without_enclitics = get_segmentation_without_enclitics(segmentation)
