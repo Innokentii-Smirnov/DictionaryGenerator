@@ -42,13 +42,6 @@ TRANSLATION_WORD_SEPARATOR = '; '
 def split_translation_into_words(translation: str) -> list[str]:
   return translation.split(TRANSLATION_WORD_SEPARATOR)
 
-def preprocess_transcription(transcription: str, analysis: Morph) -> str:
-  if (contains_brackets(transcription) and
-      not contains_brackets(analysis.segmentation)):
-    return remove_brackets(transcription)
-  else:
-    return transcription
-
 class LexicalDatabase:
 
   def __init__(self) -> None:
@@ -105,7 +98,7 @@ class LexicalDatabase:
                           analysis_str = str(analysis.to_single())
                         else:
                           analysis_str = str(analysis)
-                        transcription = preprocess_transcription(word.transcription, analysis)
+                        transcription = word.transcription
                         self.dictionary[transcription].add(analysis_str)
                         self.update_glosses(analysis)
                         self.concordance[analysis_str].add(attestation)
