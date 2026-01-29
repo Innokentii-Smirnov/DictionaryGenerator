@@ -93,7 +93,6 @@ class LexicalDatabase:
                         'The selected morphological analysis %i could not be parsed', number
                       )
                     else:
-                      if not segmentation_is_fragmentary(analysis.segmentation):
                         if isinstance(analysis, MultiMorph) and analysis.is_singletone:
                           analysis_str = str(analysis.to_single())
                         else:
