@@ -6,6 +6,7 @@ from model.morph import Morph, MultiMorph
 from re import compile
 from .brackets import contains_brackets, remove_brackets
 from .loggers import ctx_text_path, ctx_text_id, ctx_line_id, ctx_word_tag
+from brackets import remove_bracket_pairs
 from logging import getLogger
 logger = getLogger(__name__)
 
@@ -41,6 +42,9 @@ TRANSLATION_WORD_SEPARATOR = '; '
 """
 def split_translation_into_words(translation: str) -> list[str]:
   return translation.split(TRANSLATION_WORD_SEPARATOR)
+
+def preprocess_transcription(transcription: str) -> str:
+  return remove_bracket_pairs(transcription)
 
 class LexicalDatabase:
 
@@ -97,7 +101,7 @@ class LexicalDatabase:
                           analysis_str = str(analysis.to_single())
                         else:
                           analysis_str = str(analysis)
-                        transcription = word.transcription
+                        transcription = preprocess_transcription(word.transcription)
                         self.dictionary[transcription].add(analysis_str)
                         self.update_glosses(analysis)
                         self.concordance[analysis_str].add(attestation)
