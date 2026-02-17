@@ -53,6 +53,7 @@ class LexicalDatabase:
     self.glosses = defaultdict[str, set[str]](set)
     self.concordance = defaultdict[str, set[str]](set)
     self.corpus = dict[str, list[dict[str, str]]]()
+    self.transcription_concordance = defaultdict[str, set[str]](set)
 
   """Add the words occuring in a translation to the
   list possible tranlsations for a particular stem
@@ -71,7 +72,8 @@ class LexicalDatabase:
       'dictionary': sort_values(self.dictionary),
       'glosses': sort_values(self.glosses),
       'concordance': sort_values(self.concordance),
-      'corpus': self.corpus
+      'corpus': self.corpus,
+      'transcriptionConcordance': sort_values(self.transcription_concordance)
     }
 
   def add(self, line: Line) -> None:
@@ -105,6 +107,7 @@ class LexicalDatabase:
                         self.dictionary[transcription].add(analysis_str)
                         self.update_glosses(analysis)
                         self.concordance[analysis_str].add(attestation)
+                        self.transcription_concordance[transcription].add(attestation)
                   else:
                     logger.error(
                       'The selected morphological analysis number %i is not available.', number
