@@ -76,6 +76,13 @@ class LexicalDatabase:
       'transcriptionConcordance': sort_values(self.transcription_concordance)
     }
 
+  def add_word_attestation(self, transcription: str, analysis: Morph, attestation: str) -> None:
+    analysis_str = str(analysis)
+    self.dictionary[transcription].add(analysis_str)
+    self.update_glosses(analysis)
+    self.concordance[analysis_str].add(attestation)
+    self.transcription_concordance[transcription].add(attestation)
+
   def add(self, line: Line) -> None:
     ctx_text_path.set(line.text_path)
     ctx_line_id.set(line.line_id.strip())
@@ -99,15 +106,12 @@ class LexicalDatabase:
                         'The selected morphological analysis %i could not be parsed', number
                       )
                     else:
-                        if isinstance(analysis, MultiMorph) and analysis.is_singletone:
-                          analysis_str = str(analysis.to_single())
-                        else:
-                          analysis_str = str(analysis)
-                        transcription = preprocess_transcription(word.transcription)
-                        self.dictionary[transcription].add(analysis_str)
-                        self.update_glosses(analysis)
-                        self.concordance[analysis_str].add(attestation)
-                        self.transcription_concordance[transcription].add(attestation)
+                      transcription = preprocess_transcription(word.transcription)
+                      if isinstance(analysis, MultiMorph) and analysis.is_singletone:
+                        morph: Morph = analysis.to_single()
+                      else:
+                        morph = analysis
+                      self.add_word_attestation(transcription, morph, attestation)
                   else:
                     logger.error(
                       'The selected morphological analysis number %i is not available.', number
