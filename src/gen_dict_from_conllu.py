@@ -6,6 +6,7 @@ import json
 from itertools import chain
 from model.corpus import Corpus, processed_file_logger, skipped_file_logger
 from lexical_database import LexicalDatabase
+from lexical_database.corpus_word import make_corpus_word, enclose_with_xml_tag
 from logging import getLogger
 from udapi.block.read.conllu import Conllu
 from model.morph import SingleMorph
@@ -46,6 +47,8 @@ document = reader.read_documents()[0]
 #             del node.feats['Case']
 
 for tree in document.trees:
+  attestation = '?,' + tree.sent_id
+  corpus_words = list()
   for node in tree.descendants:
     if len(node.feats) > 0:
       try:
@@ -56,9 +59,17 @@ for tree in document.trees:
         print(exc)
     else:
       morph_tag = ''
-    morph = SingleMorph(node.lemma if node.lemma != '_' else node.form, node.gloss, morph_tag, node.upos, '', None)
-    lexdb.dictionary[node.form].add(str(morph))
+    lemma = node.lemma if node.lemma != '_' else node.form
+    morph = SingleMorph(lemma, node.gloss, morph_tag, node.upos, '', None)
+    lexdb.add_word_attestation(node.form, morph, attestation)
     lexdb.parts_of_speech.add(node.upos)
+    if morph_tag != '':
+      gloss = node.gloss + ':' + morph_tag
+    else:
+      gloss = node.gloss
+    corpus_word = make_corpus_word(enclose_with_xml_tag(node.form, 'w'), lemma, gloss)
+    corpus_words.append(corpus_word)
+  lexdb.corpus[attestation] = corpus_words
 
 with open(args.outfile, 'w', encoding='utf-8') as fout:
   json.dump(lexdb.to_dict(), fout, ensure_ascii=False, indent='\t', sort_keys=True)
