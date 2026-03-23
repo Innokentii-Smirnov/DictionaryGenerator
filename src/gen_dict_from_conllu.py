@@ -59,15 +59,15 @@ for tree in document.trees:
         print(exc)
     else:
       morph_tag = ''
-    lemma = node.lemma if node.lemma != '_' else node.form
-    morph = SingleMorph(lemma, node.gloss, morph_tag, node.upos, '', None)
+    segmentation = node.misc['MSeg']
+    morph = SingleMorph(segmentation, node.gloss, morph_tag, node.upos, '', None)
     lexdb.add_word_attestation(node.form, morph, attestation)
     lexdb.parts_of_speech.add(node.upos)
     if morph_tag != '':
       gloss = node.gloss + ':' + morph_tag
     else:
       gloss = node.gloss
-    corpus_word = make_corpus_word(enclose_with_xml_tag(node.form, 'w'), lemma, gloss)
+    corpus_word = make_corpus_word(enclose_with_xml_tag(node.form, 'w'), segmentation, gloss)
     corpus_words.append(corpus_word)
   lexdb.corpus[attestation] = corpus_words
 
