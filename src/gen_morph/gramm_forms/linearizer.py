@@ -31,7 +31,7 @@ class Linearizer:
     def __call__(self, pos: str, gramm_form: dict[str, str]):
         orders = self.orders[pos]
         matching_orders = list(filter(partial(condition, gramm_form), orders))
-        assert len(matching_orders) == 1, gramm_form
+        assert len(matching_orders) == 1, (gramm_form, matching_orders)
         line = matching_orders[0]
         for category, value in gramm_form.items():
             if value is not None:
@@ -40,8 +40,10 @@ class Linearizer:
                 line = line.replace('<{0}>'.format(category), '')
         line = line.strip('.')
         line = line.strip(':')
+        line = line.strip('-')
         line = re.sub('\.+', '.', line)
         line = re.sub('\:+', ':', line)
+        line = re.sub('\-+', '-', line)
         return line
 
     @classmethod
