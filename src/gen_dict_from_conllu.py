@@ -40,11 +40,13 @@ lexdb = LexicalDatabase()
 reader = Conllu(files=[args.infile])
 document = reader.read_documents()[0]
 
-# for node in chain.from_iterable(root.descendants for root in document.trees):
-#     for child in node.children:
-#         if child.deprel == 'case' and child.gloss == '' and child.upos == 'ADP':
-#             child.feats['Case'] = node.feats['Case']
-#             del node.feats['Case']
+for node in chain.from_iterable(root.descendants for root in document.trees):
+    for child in node.children:
+        if child.deprel == 'case' and child.gloss == '' and child.upos == 'ADP':
+            child.feats['Case'] = node.feats['Case']
+            del node.feats['Case']
+    if (node.upos == 'NOUN' or node.feats['VerbForm'] == 'Part') and node.feats['Number'] == 'Sing' :
+      del node.feats['Number']
 
 for tree in document.trees:
   attestation = '?,' + tree.sent_id
@@ -56,6 +58,7 @@ for tree in document.trees:
       except (AssertionError, KeyError) as exc:
         morph_tag = ''
         print(tree.sent_id)
+        print(node.form)
         print(exc)
     else:
       morph_tag = ''
@@ -63,10 +66,7 @@ for tree in document.trees:
     morph = SingleMorph(segmentation, node.gloss, morph_tag, node.upos, '', None)
     lexdb.add_word_attestation(node.form, morph, attestation)
     lexdb.parts_of_speech.add(node.upos)
-    if morph_tag != '':
-      gloss = node.gloss + ':' + morph_tag
-    else:
-      gloss = node.gloss
+    gloss = '-'.join(filter(lambda elem: elem != '', [node.gloss, morph_tag]))
     corpus_word = make_corpus_word(enclose_with_xml_tag(node.form, 'w'), segmentation, gloss)
     corpus_words.append(corpus_word)
   lexdb.corpus[attestation] = corpus_words
