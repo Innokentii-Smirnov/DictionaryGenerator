@@ -58,7 +58,7 @@ class TagConverter:
     
     def convert(self, old_gf:  dict[str, str]) ->  dict[str, str]:
         gf = {mod_cat(cat) if cat in self.layered else remove_clarif(cat):
-              self.cats[cat][old] for cat, old in old_gf.items() if old is not None}
+              self.cats[cat][old] for cat, old in old_gf.items() if self.cats[cat][old] is not None}
         return gf
     
     def __call__(self, tag: str) -> dict[str, str]:
