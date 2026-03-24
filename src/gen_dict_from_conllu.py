@@ -45,7 +45,7 @@ for node in chain.from_iterable(root.descendants for root in document.trees):
         if child.deprel == 'case' and child.gloss == '' and child.upos == 'ADP':
             child.feats['Case'] = node.feats['Case']
             del node.feats['Case']
-    if (node.upos == 'NOUN' or node.feats['VerbForm'] == 'Part') and node.feats['Number'] == 'Sing' :
+    if (node.upos in {'NOUN', 'PROPN'} or node.feats['VerbForm'] == 'Part') and node.feats['Number'] == 'Sing' :
       del node.feats['Number']
 
 for tree in document.trees:
