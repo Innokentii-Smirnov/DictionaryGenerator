@@ -36,8 +36,11 @@ for tree in document.trees:
     match node.misc['MGloss'].split('-', maxsplit=1):
       case gloss, morph_tag:
         pass
-      case gloss,:
-        morph_tag = ''
+      case elem,:
+        if elem == node.gloss.replace('-', '_'):
+          morph_tag = ''
+        else:
+          morph_tag = elem
     segmentation = node.misc['MSeg']
     morph = SingleMorph(segmentation, node.gloss, morph_tag, node.upos, '', None)
     lexdb.add_word_attestation(node.form, morph, attestation)
