@@ -1,8 +1,11 @@
 from __future__ import annotations
 from logging import getLogger
+from more_itertools import first, first_true
 logger = getLogger(__name__)
 
 sep = '@'
+NUMBER_VALUES = {'sg', 'pl'}
+ALL_SELECTED = 'all'
 
 def split_at_single(value: str, split_string: str,
                     split_at_last: bool=False) -> tuple[str, str | None]:
@@ -241,6 +244,12 @@ class MultiMorph(Morph):
         return None
 
     def __getitem__(self, index: str) -> str | None:
+      if index == ALL_SELECTED:
+        return first(self.morph_tags.values(), '')
+      if index in NUMBER_VALUES:
+        number_value = index.upper()
+        return first_true(self.morph_tags.values(), '',
+                          lambda morph_tag: number_value in morph_tag)
       if index in self.morph_tags:
         return self.morph_tags[index]
       else:
