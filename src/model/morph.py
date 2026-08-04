@@ -1,4 +1,5 @@
 from __future__ import annotations
+from collections.abc import Iterable
 from logging import getLogger
 from more_itertools import first, first_true
 logger = getLogger(__name__)
@@ -243,12 +244,16 @@ class MultiMorph(Morph):
         logger.error('No morphological tag index is specified for a morphological analysis supporting multiple morphological tag options (%s). Because of ambiguity, no morphological tag option will be used.', self)
         return None
 
+    def sorted_morph_tags(self) -> Iterable[str]:
+      for letter, morph_tag in sorted(self.morph_tags.items(), key=lambda t: t[0]):
+        yield morph_tag
+
     def __getitem__(self, index: str) -> str | None:
       if index == ALL_SELECTED:
-        return first(self.morph_tags.values(), '')
+        return first(self.sorted_morph_tags(), '')
       if index in NUMBER_VALUES:
         number_value = index.upper()
-        return first_true(self.morph_tags.values(), '',
+        return first_true(self.sorted_morph_tags(), '',
                           lambda morph_tag: number_value in morph_tag)
       if index in self.morph_tags:
         return self.morph_tags[index]
