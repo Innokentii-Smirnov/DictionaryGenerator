@@ -54,6 +54,7 @@ class LexicalDatabase:
     self.concordance = defaultdict[str, set[str]](set)
     self.corpus = dict[str, list[dict[str, str]]]()
     self.transcription_concordance = defaultdict[str, set[str]](set)
+    self.line_numbers = defaultdict[str, list[str]](list)
 
   """Add the words occuring in a translation to the
   list possible tranlsations for a particular stem
@@ -73,7 +74,8 @@ class LexicalDatabase:
       'glosses': sort_values(self.glosses),
       'concordance': sort_values(self.concordance),
       'corpus': self.corpus,
-      'transcriptionConcordance': sort_values(self.transcription_concordance)
+      'transcriptionConcordance': sort_values(self.transcription_concordance),
+      'lineNumbers': self.line_numbers
     }
 
   def add_word_attestation(self, transcription: str, analysis: Morph, attestation: str) -> None:
@@ -124,5 +126,6 @@ class LexicalDatabase:
             logger.exception(msg)
         else:
           corpus_line.append(make_corpus_word(str(tag)))
+      self.line_numbers[line.text_id].append(line.line_id)
       if (len(corpus_line) > 0):
         self.corpus[attestation] = corpus_line
